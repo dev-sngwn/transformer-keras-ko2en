@@ -1,0 +1,2053 @@
+[1]
+#We are glad to advise that your tender dated October 30,1991,for the supply of cables has been accepted.
+#우리 회사는 귀사의 1992년 10월 30일 아래의 물자와 관련된 입찰서가 이미 낙찰되었음을 기쁘게 알립니다.
+
+[2]
+#This is to advise that we are going to hold a foot wear and head wear Fair in Tianjin from May lst to May 15th,1993.
+#우리 회사는 1993년 5월 1일부터 5월 15일까지 천진에서 신발과 모자상품 교역회를 거행할 것입니다.
+
+[3]
+#We enclose a completed form declaring a further consignment,valued U.S.$26,000.
+#문장부적합
+
+[4]
+#Frank Peters and I are to be married at my home on Tuesday,October the fourth,at eight o'clock in the evening.
+#나와 Frank Peters는 10월 4일(화요일) 저녁 8시에 이 집에서 결혼예식을 거행합니다.
+
+[5]
+#I am very sorry to intrude on your grief ,but this is a matter which requires your personal attention.
+#네가 슬플 때 와서 너를 귀찮게 하는 것은 무척 미안하지만, 이것은 네가 친히 관심을 가져야 하는 일이다.
+
+[6]
+#I shall be delighted to have luncheon with you on Wednesday at one o'clock to see Mary Holmes again.
+#나는 수요일 오후 1시에 당신과 점심을 먹고 또한 Mary Holmes를 다시 만나게 되어 기쁩니다.
+
+[7]
+#I should like very much to take you to the Army-Columbia game at West Point the twenty-eighth of this month.
+#나는 너를 데리고 이번 달 28일에 서점군인학교에서 거행하는 Army-Columbia경기를 보러 가고 싶다.
+
+[8]
+#I am happy to have our school/company/organization represented.See you in the City Hall of Cardiff.
+#나는 우리의 학교/회사/기구를 대표하여 이 회의에 참석하기를 원합니다. 이번에 Cardiff시청에서 다시 만납시다.
+
+[9]
+#I am happy to inform you that my wife gave birth to a son at 4:50 this morning.Both wife and son are healthy.
+#나는 나의 아내가 오늘 새벽 4시 50분에 아이를 낳았으며, 모자가 평안하다는 것을 기쁜 마음으로 당신에게 알립니다.
+
+[10]
+#My father wasn't there when I came in late,but he gave me hell in the morning.
+#나는 아주 늦게 돌아왔는데, 아버지께서는 그 곳에 계시지 않았다. 그러나 다음날 아침 그는 나를 호되게 야단치셨다.
+
+[11]
+#It's time I went on a refresher course --I'm getting out of touch with modern techniques.
+#나는 근래에 현대기술을 접해보지 않았는데, 지금은 확실히 내가 신기술동태학습반에가서 공부를 할 때이다.
+
+[12]
+#I find an ordinary "thank you" entirely inadequate to tell you how grateful I am for your wonderful present.
+#나는 당신이 나에게 보내준 아름다운 선물에 대해서 평범한 "고맙다"라는 말로는 고마운 마음을 다 표현할 수 없다고 생각한다.
+
+[13]
+#When we moved house,we asked the people who took our old house to forward all our mail.
+#우리는 이사할 때 우리의 옛집으로 이사를 들어 오는 사람에게 우리의 모든 우편물을 새주소로 다시 부쳐 달라고 부탁했다.
+
+[14]
+#We didn't need to worry about tickets or reservations.Comrade Liu jacked up the whole thing for us.
+#우리는 표를 사거나 호텔의 방을 예약하는데 마음을 쓸 필요가 없다, 유동지가 우리를 위해서 모든 것을 안배하였다.
+
+[15]
+#We are unable to make you a direct offer,as...acts as general agent for our products in your country.
+#우리가 당신에게 직접적으로 가격을 제시할 수 없는 것은 ...(인명)가 우리회사상품의 귀국의 총대리인이기 때문이다.
+
+[16]
+#We worked away for three months in all weathers,and the hard work at last paid off very well.
+#우리는 날씨가 좋든지 나쁘든지 3개월을 쉬지않고 일했는데, 결국에 우리의 힘든 노동이 아주 좋은 결과를 낳았다.
+
+[17]
+#Our train leaves at about half past ten,or to be precise,10:33.
+#우리가 탄 기차는 약 10시 30분에 출발할 것이다, 정확히 말해서, 10시 33분에 출발할 것이다.
+
+[18]
+#You may be interested to know that we have had several hundred inquiries as to the result of our exhibition.
+#우리의 상품은 전시를 통해서, 이미 수백통의 문의서를 받았는데, 이점은 당신도 아마 알고 싶어할 것이다.
+
+[19]
+#Our showrooms,situated in the business center,offer admirable facilities for display and demonstration.
+#우리의 진열실은 상업중심에 있어서, 상품진열과 시범조작을 하는데 아주 유리한 조건을 제공할 수 있다.
+
+[20]
+#Our order is subject to your acceptance of our usual terms of payment 60 days after sight of D/A .
+#우리의 주문서는 당신이 우리 회사의 일반적인 지불조건인, 인수인도60일지불을 받아들이는 것을 조건으로 한다.
+
+[21]
+#Almost all our work is done in our workshops ; only a small part is put out.
+#우리들의 일은 거의 모두 자신의 작업장 안에서 하는 것이다; 아주 적은 일부분만이 외부에 청부를 주어서 한다.
+
+[22]
+#We offer the best value in London,only four pounds for a meal with wine and coffee!
+#우리들의 가격은 런던에서 가장 타당해서, 단지 4파운드만 있으면, 한끼의 식사를 배불리 할 수 있고, 커피와 술을 마실수 있습니다.
+
+[23]
+#So we'll see you， won't we， Harriet ， Friday at eight at the Victory Hotel!
+#우리는 당신을 기다립니다, Harriet, 꼭 와야합니다, 금요일 저녁 8시, Victory 호텔!
+
+[24]
+#We all miss you very much; Zhang Ziao says he hasn't had a decent game of tennis since you went away.
+#우리는 모두 당신을 매우 그리워하는데, 장소가 말하기를, 당신이 떠난 이후로, 그는 한번도 그럴듯한 테니스를 쳐 본 적이 없다고 합니다.
+
+[25]
+#We're all ready to start the new building,as soon as we get the go-ahead from the council.
+#우리는 이미 모든 것이 다 준비가 되어서, 위원회의 허가만 얻어내면, 즉시 그 새건물을 건설하기 시작할 것이다.
+
+[26]
+#We are glad to note the inquiry about our service items in your letter dated June 8,1992.
+#우리는 귀사가 1992년 6월 8일 편지 중에 우리측이 제공하는 서비스 항목에 대해 문의한 것에 기꺼이 주의를 합니다.
+
+[27]
+#It is a pleasure to learn that you are quite satisfied with the quality of the sample of our ______ (article).
+#우리는 당신들이 우리 회사 상품의 견본의 질에 대해 매우 만족한다는 것을 알게 되어 기쁩니다.
+
+[28]
+#We are very happy to appoint you as our representative and look forward to a mutually beneficial association.
+#우리는 기쁘게 당신을 우리 회사의 업무대리로 임명하며, 아울러 피차 유리한 교제관계를 가질 수 있기를 기대합니다.
+
+[29]
+#Now that we have finished discussing the first problem ,we may pass on to the second.
+#우리는 이미 하나의 문제에 대해 토론을 끝냈는데, 그러면 두번째 문제를 진일보하여 토론할 수 있겠다.
+
+[30]
+#We're having a supper Sunday night,Sept.the sixth and of course we want you and John Come at five,if you can.
+#우리는 9월 6일(일요일) 저녁애 2차 저녁파티를 거행하고자 하는데, 당신과 John이 함께 올 수 있기를 바랍니다.
+
+[31]
+#The price which we are able to offer this material,including packing charges,is ...per metric ton CIFW...
+#우리는 이 재료를 포장비를 포함한 가격인CIFW가격으로 매톤...에 제공할 수 있습니다.
+
+[32]
+#We may trace the death of an entire order,and show that it takes place in accordance with the laws of geratology.
+#우리는 모든 사망에 대한 질서를 찾아낼 수 있으며, 동시에 사망의 발생은 노쇠법칙에 따른 것임을 나타낼 수 있다.
+
+[33]
+#We are always anxious to receive your orders,and determined to execute them in the most advantageous manner.
+#우리는 귀사의 주문을 받을 수 있기를 바라며, 아울러 가장 좋은 서비스로 주문을 완수하여, 고객을 만족시킬 것을 다짐합니다.
+
+[34]
+#We are pleased to inform you that your order is completed and await shipping at our plant.
+#우리는 주문하신 물건이 이미 준비가 되어, 우리 회사의 창고에서 선적을 기다리고 있음을 당신측에 기쁘게 통지합니다.
+
+[35]
+#We try to show our appreciation for the business we receive by providing your money's worth in service.
+#우리는 서비스상에서 당신이 제기하신 양질의 서비스로 우리의 경영에 대한 열정을 드러내 보이고자 힘쓰고 있습니다.
+
+[36]
+#As we two were talking,she would chop in with :" There is no doubt about it."
+#우리들 두 사람이 이야기를 하고 있을 때, 그녀는 늘 한쪽에서 끼어들며 말한다 : "그것은 의심의 여지가 없는 것이야."
+
+[37]
+#If we reckon up the numbers of visitors to the exhibition for the past week ,we shall see a surprising total.
+#지난 일주일동안에 전람회에 참가한 사람의 수를 더해 본다면, 우리는 정말 놀랄만한 총수를 얻게 될 것이다.
+
+[38]
+#We are comrades bound by a common goal and nothing can possibly come between us.
+#우리는 하나의 공통의 목표를 위해서 결합한 동지들로, 어떠한 것도 우리를 갈라놓지 못한다.
+
+[39]
+#We lost the football match,but we might well have won if one of our players hadn't been hurt.
+#우리는 이번 축구시합에서 졌는데, 만일 우리팀의 한 선수가 부상을 당하지 않았다면, 우리가 이길 수 있었을 것이다.
+
+[40]
+#The customer pays (remits) the installments direct to us,after delivery of the articles and we send him the receipts.
+#우리가 물건을 보낸 후, 고객은 직접 우리에게 분기로 지불을 하는데, 우리는 대금을 받고, 고객에게 영수증을 건네주어야 한다.
+
+[41]
+#We hope you will return the goods sent in error,carriage forward,at your own convenience.
+#우리가 잘못하여 귀사가 운송비를 지불하는 방식으로 당신에게 물건을 부쳤는데, 즉시 돌려 보내주십시오.
+
+[42]
+#We hope that the new year will bring you a full measure of happiness and success.We will call on Christmas Day.
+#우리는 새로운 한해가 너희들에게 가장 큰 기쁨과 성공을 가져다 주기를 바란다. 성탄절날에 우리가 전화를 할 것이다.
+
+[43]
+#We love the little carved Chinese figures,and they'll be just perfect on our mantel!.
+#우리는 정교하고 깜찍한 중국 조각품을 좋아하는데, 그것을 벽난로 선반위에 놓으면, 딱 좋겠다.
+
+[44]
+#We herewith appoint you as our agent at the terms mentioned in your letter of...
+#우리는 네가 ...월...일 편지에 제기한 조건에 동의하며, 너를 우리의 대리로 임명한다.
+
+[45]
+#We trust the safes will reach you in due course,and look forward to a continued and increasing business with you.
+#우리는 소형금고가 반드시 예정된 날짜에 도착할 것을 믿으며, 금후의 업무가 나날이 증대되기를 기대한다.
+
+[46]
+#We trust that these low prices will secure your valued orders,and assure you of our prompt attention.
+#우리는 이렇게 낮은 가격이라면, 반드시 귀사의 주문을 얻을 수 있으리라 믿으며, 동시에 우리가 신속하게 처리할 것을 보장합니다.
+
+[47]
+#I do not limit you as to price,being well assured that you will effect the best sales your market will allow.
+#우리는 귀사가 시장에서 높은 가격으로 팔 수 있다고 믿기 때문에, 이 상품에 대해서 가격을 제한하지 않을 것입니다.
+
+[48]
+#We are sure you will enjoy being here,and you are cordially invited to visit with us when you have the opportunity.
+#우리는 당신이 이곳에 머무르는 것을 좋아할 것이라고 믿으며, 기회가 있을 때 우리를 방문해 주시기를 진심으로 바랍니다.
+
+[49]
+#Our congratulations to you and to T and S also for having chosen the right man!
+#우리는 당신에게 축하를 표하며, 동시에 T와S회사가 적당한 사람을 선택한 것을 축하합니다.
+
+[50]
+#We are inviting all those individuals and trust that you will pay us the compliments of accepting.
+#우리는 우리 회사의 성공에 공헌을 한 모든 역량있는 사람들을 초청했는데, 당신도 꼭 참석해 주시리라 믿습니다.
+
+[51]
+#We may miss the next bus,but in any case we'll be there before midday.
+#우리는 아마도 다음 버스를 타지 못할 것 같은데, 어쨌든 우리는 정오 전에 그곳에 도착해야만 한다.
+
+[52]
+#We lunched and talked,and the conversation soon came round to his work and life in the countryside.
+#우리는 한편으로는 점심을 먹으며 한편으로는 한담을 나누었는데, 화제는 곧 그의 농촌에서의 일과 생활상황으로 옮겨갔다.
+
+[53]
+#We had all been enjoying ourselves,but the rude awakening came when our firm started to lose money.
+#우리는 줄곧 매우 즐겁게 지냈는데, 우리의 회사가 손해를 보기 시작하자, 우리는 일이 심상치 않다는 것을 깊이 깨달았다.
+
+[54]
+#I have disposed of seventy pieces of cambrics at auction,as per the enclosed account sales,net proceeds ＄150,000.
+#우리는 이미 70필의 마사를 경매해서, 150,000원을 벌었는데, 상세한 것은 동봉한 명세서를 보십시오.
+
+[55]
+#We have just accepted your draft for ＄5,000,000,with which we have debited your account.
+#우리는 이미 당신측의 환어음 5,000,000원을 받아서, 이 대금을 당신의 대변계좌에 넣었습니다.
+
+[56]
+#We inform you that we have opened an irrevocable credit with the London Bank in your favour.
+#우리는 당신측을 수익인으로 하는, 취소불능신용장을 런던은행을 통해 개설하였음을 알려드립니다.
+
+[57]
+#We must allow plenty of time to get to the railway station ----we can't gamble on the road being clear.
+#우리는 길에서 교통이 막힘 없이 잘 통한다고 보장을 할 수 없기 때문에 충분한 시간을 두고 기차역에 가야만 한다.
+
+[58]
+#Two of our customers will be in London at that time,and we would like to obtain good seats for them.
+#우리의 고객 두 분이 그날 런던에 오시기 때문에, 우리는 그들을 위해서 몇 개의 좋은 자리를 예약하려고 한다.
+
+[59]
+#We hope to find a good market for these cotton prints and place further and larger orders with you in the near future.
+#우리는 이 날염지가 잘 팔릴 것으로 예상할 뿐만아니라, 머지않아 당신측에 더 많은 주문을 하게 되기를 바랍니다.
+
+[60]
+#We thought Mary would pass and John would fail,but contrary to expectationit was the other way round.
+#우리는 원래 Mary는 합격을 하고, John은 불합격을 할 것이라고 생각했는데, 결과는 예상과 반대로, 완전히 다르게 되었다.
+
+[61]
+#We are pleased to confirm your order for 200 sets of sewing machines amounting to US $15,000.
+#우리는 귀사의 주문을 확인하려고 하는데, 우리회사의 재봉틀 200대를 주문 구입하며, 총액은 15,000달러입니다.
+
+[62]
+#We wish to state that all our export goods sold on CIF terms are insured with the People's Insurance Company of China.
+#우리는 우리측이 CIF가격으로 판 모든 상품은 중국인민보험공사에 보험이 들어있음을 지적하고자 합니다.
+
+[63]
+#We met with opposition in the council but we fought it out,and won the majority to our view.
+#우리는 회의에서 반대에 부딪쳤지만, 끝까지 투쟁을 하여, 결국에는 많은 사람들이 우리의 의견에 찬성하도록 하였다.
+
+[64]
+#We got three estimates before having the roof repaired,and accepted the lowest.
+#우리는 지붕을 수리하기 전에, 세 가지의 견적가를 받아서, 그 중에 가장 낮은 하나를 선택했다.
+
+[65]
+#In carrying out the plan we are bound to come across difficulties,but we are determined to overcome them all.
+#우리가 이 계획을 실행할 때 반드시 어려움을 만나게 되겠지만, 우리는 그것을 하나하나 극복할 결심을 하였다.
+
+[66]
+#If we conclude the business on CIF basis,what cover will you take out for the goods?
+#우리가 이 물건을 CIF가격조건으로 교역을 성사시킨다면, 당신은 어떤 보험을 책임질 것입니까?
+
+[67]
+#We knew he was unlikely to win,but it's still unfair that he didn't get a higher mark.
+#우리는 그가 이길 가망이 그다지 크지 않다는 것을 알았다하더라도, 그가 비교적 높은 점수를 얻지 못한 것은 불공정한 것이다.
+
+[68]
+#We are writing to you this way because we have had no sales with you since 1983.
+#우리가 당신께 이 편지를 쓰는 것은, 귀사가 1983년부터,우리에게 물건을 주문하지 않았기 때문입니다.
+
+[69]
+#We are asking only a few of our best friends.David wants me to say he's as anxious to have you come as I am.
+#우리는 몇 명의 친한 친구만을 초대하는데, David가 나로 하여금, 그도 나와 같이 당신이 왕림해 주기를 간절히 바란다고 당신께 알리도록 했습니다.
+
+[70]
+#Whatever we do should administer to the needs of the many,not to those of the few.
+#우리는 무슨 일을 하든지 다수의 필요를 위해서 해야지, 소수의 바람을 위해서 해서는 안된다.
+
+[71]
+#While I was well aware that he was busily engaged,I had to pop in to tell him the encouraging news I had just heard.
+#나는 그가 매우 바쁘다는 것을 잘 알지만, 그러나 내가 방금 들은 사람의 마음을 격려하는 그 소식을 알려야만 한다.
+
+[72]
+#I think I can realize your loss because I know how empty my world seemed when I heard of the passing of your Mother.
+#당신의 어머님이 돌아가셨다는 소식을 들었을 때, 나는 마음이 너무나 공허함을 느꼈기 때문에 당신의 손실을 충분히 이해할 수 있습니다.
+
+[73]
+#I can't wait to see you and the baby,so please let me know when you able to have visitors.
+#나는 너의 아기를 너무 보고싶어서 기다릴 수가 없기 때문에, 언제 네가 손님을 맞을 수 있는지를 나에게 알려 주었으면 한다.
+
+[74]
+#I can't wait to see our baby-to-be bundled up in the darling "snowsack" you gave me at the baby shower.
+#나는 네가 그 귀엽고 눈처럼 흰 강보에 싸서 나에게 선사할 우리의 예쁜 아기를 보고 싶어서 기다릴 수가 없다.
+
+[75]
+#I know him to have been a promising student of intelligence and ability.I strongly recommend him in his application.
+#나는 지혜와 능력에 있어서 그가 아주 희망이 있는 학생이라고 확신하기 때문에, 강력히 그를 추천하고자 합니다.
+
+[76]
+#I think the annual sale of 300 pianos for a sole distributorship in Canada is rather conservative.
+#나는 캐나다의 모든 지역의 독점판매로 말하자면, 피아노의 연 판매량이 300대라는 것은 너무 신중한 것이라고 생각한다.
+
+[77]
+#I can't advise you in this matter,but I can put you onto a good lawyer.
+#나는 이 일에 있어서 너에게 의견을 제공할 수가 없지만, 그러나 어떻게 좋은 변호사를 찾는지는 가르쳐 줄 수 있다.
+
+[78]
+#I assure you it will be a very great pleasure indeed to meet Wang Hui's mother!.
+#나는, 왕휘의 어머니와 만나는 것을 사람들이 매우 즐거워 할 것이라고 믿습니다. 당신의 초대에 매우 감사합니다.
+
+[79]
+#I believe that in our new world there will be great opportunities for young people without prejudice.
+#나는 우리의 이 새로운 세계에서 편견이 없는 젊은이로 말하자면, 기회는 매우 많다고 생각합니다.
+
+[80]
+#What peaceful hours I once enjoyed ...but they have left an aching void.
+#나는 얼마나 평화로운 시절을 누렸는가..., 그러나 이 세월은 오히려 나에게 슬픈 공허를 남겨주었다.
+
+[81]
+#I want a job.Not any job with any company,but a particular job with your company.
+#나는 일이 필요합니다. 그러나 다른 회사의 그 어떤 일도 아니고, 귀사의 자리를 원합니다.
+
+[82]
+#I have asked some friends to come for tea of Tuesday,April the eighth,at four o'clock.will you join us?
+#나는 몇 명의 친구를 4월 8일 (화요일) 오후 4시의 티파티에 초대했는데, 당신도 참가하시겠습니까?
+
+[83]
+#As soon as I got home Father landed on me for using his bike without his permission.
+#내가 집에 도착하자 아버지는 심하게 꾸중을 하셨는데, 왜냐하면 내가 그의 동의를 얻지도 않고 그의 자전거를 탔기 때문이다.
+
+[84]
+#I asked Sue to bring you several pop music tapes,as she said you have a tape recorder at home.
+#나는 이미 Sue로 하여금 당신에게 몇 개의 가요테이프를 가져다 주라고 하였는데, 그것은 그녀가 당신의 집에 녹음기가 있다고 말했기 때문입니다.
+
+[85]
+#I have requested my school,Zhejiang University,to send my transcript to you.I am sure you will receive it soon.
+#내가 나의 모교인 절강대학에 나의 성적표를 당신에게 부치라고 부탁했습니다. 나는 머지않아 당신이 받을 수 있을 것이라고 믿습니다.
+
+[86]
+#I've done my part.Won't you do yours and send me your check in payment of the enclosed old account?
+#나는 이미 나의 의무를 다했습니다. 당신도 그대로 처리해야 합니다, 동봉한 구계좌에 따라 즉시 수표로 청산해 주시면 고맙겠습니다.
+
+[87]
+#I found her in the office at nine o'clock,and so she could not have checked out at ten minutes to nine.
+#나는 9시에 그녀가 사무실에 있는 것을 보았기 때문에, 그녀가 8시 50분에 이미 떠났다는 것은 불가능한 것입니다.
+
+[88]
+#I changed a pound note at the bank,because I needed some coins for the ticket machine.
+#나는 자판기에 넣을 동전이 필요했기 때문에, 은행에서 1파운드짜리 지폐를 동전으로 바꾸었다.
+
+[89]
+#I'm so sorry I forgot to turn up at the meeting.I fully intended to,but it went right out of my mind.
+#회의에 가지 못해서 정말 죄송합니다. 원래는 꼭 가려고 했는데, 후에 일을 까맣게 잊었습니다.
+
+[90]
+#I wish I could see them; but I guess it will be a long time before Qiao Li and I get to New York.
+#나는 그들을 만날 수 있기를 간절히 바라지만, 내 생각에 나와 교리가 뉴욕에 가려면 아직도 오랜 시간이 필요할 것 같다.
+
+[91]
+#I know you want a bigger car,but that's neither here nor there,we can't afford it.
+#나는 네가 좀 더 큰 차를 원한다는 것을 안다, 그러나 너는 말해봐야 소용없다, 왜냐하면 우리는 돈이 없어서 살 수 없기 때문이다.
+
+[92]
+#I know you have just returned from England but I hope you're not too busy to come.I'm looking forward to seeing you.
+#나는 당신이 곧 영국에서 돌아오리라는 것을 알고 있습니다. 당신은 매우 바쁜중에 왕림하는 것이리라 생각합니다. 당신이 오기를 기대합니다.
+
+[93]
+#The 500 miles that separate us seem like five million right now as you're going through this time of crisis.
+#500리가 마치 5백만리인 것 같다, 너에게 위험이 발생한 그 순간에, 나는 너와 너무나 멀리 떨어져있다고 느꼈을 뿐이다.
+
+[94]
+#We hope that our detailed discussions in Beijing will result in the signing of a provisional agreement during our visit.
+#우리가 북경을 방문하는 기간동안에, 쌍방의 충분한 교섭을 통해서, 잠정협의에 서명할 수 있을 것이다.
+
+[95]
+#I am sending you by m.s.“Suwa Maru”the under mentioned goods,and herewith I enclose a bill of lading for same.
+#아래의 물건을 지금 막 "Suwa Maru"호에 선적해서 보내며, 본 편지에 이 물건의 선하증권을 동봉합니다.
+
+[96]
+#In reply your letter of... we enclose a list of our export commodities,which may be of interest to you .
+#당신측의 ...월...일 편지에 답장을 하며 우리측 수출상품목록을 동봉하는데, 당신측은 관심이 있을 것입니다.
+
+[97]
+#And now for his impressions of the first round of the contest,I pass you over to Mr.James Hutt.Come in,Jimmy!
+#지금, 나는 James Hutt로 하여금 여러 사람들에게 첫번째 시합의 인상에 관해서 이야기를 하도록 했다. 이야기 해봐라, Jimmy!
+
+[98]
+#Mrs.Chen now intends to engage in further study of infrared spectroscopy,and laser spectroscopy in particular.
+#그녀는 지금 적외선분광학을 하려하고 있는데, 특히 야광스펙트럼학 방면에서 진일보한 연구를 하였다.
+
+[99]
+#Now that I'm settled in and feeling as if I belong,I love to hear the latest from back home.
+#지금 나는 안정이 되었고, 이미 환경에 적응을 했다고 생각한다, 나는 고향에 관한 최근의 소식을 들어서 매우 기쁘다.
+
+[100]
+#Here I am; I'm twenty-two,and I don't know what to be.Oh,well!
+#나는 이제 다 커서, 이미 22살이 되었지만, 아직도 내가 무엇을 해야 하는지를 모르겠다. 정말 방법이 없구나!
+
+[101]
+#I have completed 12 semester credits now and shall have completed 8 more by the end of June.
+#현재 나는 12학점을 다 마쳤는데, 6월말에는 다시 8학점의 과정을 마칠 것이다.
+
+[102]
+#Frank sends his best wishes,and he says to be sure and tell you how delighted he is to hear about your fine progress.
+#당신에게 축원을 표합니다. 그는 나로 하여금, 그가 당신의 병이 좋아졌다는 소식을 듣고 매우 기뻐했다는 것을 당신에게 꼭 전하라고 했습니다.
+
+[103]
+#The little girl is poking about at the litter because she thinks she has lost her doll there.
+#그녀는 그녀의 완구를 그곳에서 잃어 버렸다고 생각했기 때문에, 이 복잡한 물건들 속을 이리저리 찾았다.
+
+[104]
+#We are writing to inform you that we have been appointed agents for the famous Kodak cameras.
+#당신에게 이 편지를 쓰는 것은, 우리 회사가 이미 유명한 코닥카메라의 대리상으로 지정되었다는 것을 알리기 위해서 입니다.
+
+[105]
+#Thank you for your letter of March 10 and regret to learn that case NO.32 did not contain the goods you ordered.
+#당신의 3월10일 편지에 감사를 드립니다. 우리는 제 32호 상자 속의 물건이 당신측이 주문한 것이 아니라는 것을 알고 매우 죄송하게 생각합니다.
+
+[106]
+#We thank you for your inquiry of January 25 for our handbags and enclose our detailed quotation.
+#당신이 1월 25일에 편지로 우리가 생산한 손가방에 대해 문의를 한 것을 고맙게 생각하며, 상세한 제시가격표를 한 부 동봉합니다.
+
+[107]
+#L/C57571 PLSCANCEL INSURANCE TERMS BECAUSE ORDER FINALIZED FOB AWAITING AMENDMENT BYCABLE
+#문장불량
+
+[108]
+#the advantages accruing to the students from access to good libraries and other facilities for study
+#학생들은 좋은 도서관, 실험실 그리고 기타 설비를 사용할 수 있기 때문에 갖가지 이점을 얻는다.
+
+[109]
+#There I studied very hard and was admitted to the attached to Beijing University in 1972.
+#공부하는 동안에 나는 매우 열심히 해서, 1972년에 유명한 북경대학 부속 고등부에 합격을 하였다.
+
+[110]
+#I'm not ,properly speaking,a nurse,as I haven't been trained,but I've looked after many sick people.
+#엄밀히 말해서, 나는 훈련을 받은 적이 없기 때문에, 결코 간호사가 아니지만, 이미 많은 환자를 간호해 왔다.
+
+[111]
+#If the reactionaries think they can ever come round Marxists in this way,they're absolutely miscalculating.
+#만일 반대파가 그들이 이렇게 해서 강제로 마르크스주의자를 따르게 할 수 있다고 생각했다면, 그들은 완전히 잘못 생각한 것이다.
+
+[112]
+#You'll have to account to me if anything happens to the machine while it is in your care.
+#만일 네가 관리하고 있는 동안에 기계가 어떤 사고를 일으켰다면, 너는 나에게 확실하게 이야기해야만 한다.
+
+[113]
+#If you leave that child alone,he will soon stop crying and get back to normal.
+#만일 네가 그 아이를 아랑곳하지 않는다면, 그는 곧 아무 일도 없었다는 듯이 울음을 그칠 것이다.
+
+[114]
+#If Pitt didn't spend so much of his time chasing around after girls he might have done something useful.
+#만일 Pitt가 온종일 여자아이들 곁을 배회하지 않았다면, 그는 좀 더 유익한 일을 할 수 있었을 것이다.
+
+[115]
+#After a hard game,it is refreshing to soap oneself down and then stand under a shower.
+#한차례의 격렬한 시합 후에, 비누로 온몸을 닦고 샤워를 하면 매우 상쾌하게 느껴진다.
+
+[116]
+#Immediately upon receipt of shipping advice,we will send the shipping documents through The Bank of China,Tianjin.
+#일단 선적했다는 통지는 받으면, 우리는 즉시 중국은행천진분점을 통해 당신측에 선적증빙서류를 부칠 것입니다.
+
+[117]
+#At no point in his life should a revolutionary lie back and take life easy.
+#혁명가는 일생 동안에 어느 순간도, 전투를 멈추고 안일한 생활을 할 수가 없다.
+
+[118]
+#Never make two bites at a cherry.
+#한 번에 할 수 있는 일을 두 번에 나누어 하지 말아라. 일을 하는데 데면데면해서는 안 된다.
+
+[119]
+#At this time of year the sun comes up at five in the morning and goes down at about eight-thirty in the evening.
+#일년 중 이 때는, 해가 아침 5시에 떠서, 저녁 8시 30분쯤에 진다.
+
+[120]
+#On hearing the encouraging news,each of us picked up his pen and began to write a little poem on the subject.
+#사람을 진작시키는 이 소식을 듣자마자, 우리 모두는 연필을 들고, 이 제재로 시를 쓰기 시작했다.
+
+[121]
+#A good judge must consider all the facts of a case as well as the abstraction "justice".
+#훌륭한 법관은 추상적인 "정의"를 고려해야 할 뿐만 아니라, 안건의 모든 사실을 고려해야만 한다.
+
+[122]
+#Some Western journalists like to color their stories up with lurid details of people's private lives.
+#어떤 서방기자들은 사생활 속의 사람을 현혹하는 사실들을 가지고 자기의 보도를 과장하기를 좋아한다.
+
+[123]
+#As soon as the import license is obtained,you are requested to cable your order to us for our final confirmation.
+#당신측은 수입허가증을 얻자마자, 우리 회사가 최후의 확인을 할 수 있도록, 당신 회사의 주문서를 전보로 보내주십시오.
+
+[124]
+#Accodrding to Plato,wisdom meant a knowledge not of nature but of the supernature constituted by the ideas.
+#Plato의 관점에 따르면, 지혜는 자연과 관계된 지식이 아니라, 관념이 조성하는 초자연계의 지식이다.
+
+[125]
+#Your usual promptness in making payment according to terms makes it difficult to understand your present attitude.
+#귀사는 지불조건에 따라, 매번 신속하게 지불해야만 합니다. 이번과 같은 태도는 우리는 정말 이해하기 어렵습니다.
+
+[126]
+#As requested,we enclose our illustrated catalog and price-list and trust that you will find it of much interest.
+#당신의 요구에 따라, 우리는 도시목록 및 가격표를 한 부 동봉하는데, 당신이 깊은 관심을 가지리라 믿습니다.
+
+[127]
+#We hand you herewith a cheque,＄1,15,000,for the proceeds,less charges as usual.
+#이전의 예에 따라, 각종 비용을 빼고, 실제로 남은 금액인, 1,150,000원을 당신에게 부칩니다.
+
+[128]
+#It would give us great pleasure to be able to render you a similar service should opportunity occur.
+#이후에 기회가 있다면, 우리는 귀사를 위해 이같은 서비스를 제공해서, 이번의 협조에 대한 보답을 하고자 합니다.
+
+[129]
+#Therefore we must ask you to arrange to make payment at once,otherwise we shall be forced to take the legal actions.
+#때문에, 우리는 당신측에 즉시 지불할 것을 요구하는데, 그렇지 않으면 우리 회사는 강제로 법률행위를 취할 것입니다.
+
+[130]
+#For the time being,we regret our inability to accept D/A terms in all transactions with our buyers abroad.
+#때문에, 우리는 국외의 모든 고객과 교역을 하는데 있어서, D/A지불방식을 받아들일 수 없음을 매우 죄송하게 생각합니다.
+
+[131]
+#As I am having some unexpected guests for lunch,I have to clap up a meal before they arrive.
+#몇 명의 손님이 와서 점심을 먹어야 하기 때문에, 나는 그들이 도착하기 전에 급히 음식을 준비해야만 한다.
+
+[132]
+#The bank offered to lend us ↔1000 but it's chickenfeed compared to what we need.
+#은행은 우리에게 1000파운드의  돈을 대출해 주겠다고 제의했는데, 이 돈은 우리가 필요한 금액에 비하면 계란으로 바위치기와 같다.
+
+[133]
+#Nutrition and sleep are both necessary to health; this gives us rest,and that gives us energy.
+#영양과 수면은 건강에 모두 필요한 것이다; 후자는 우리에게 휴식을 주고, 전자는 우리에게 힘을 준다.
+
+[134]
+#The parts handed over to us by Mr.White have disposed of,and we now remit the proceeds in the bills noted at foot.
+#White선생으로부터 건네 받은 물건을, 이미 다 팔아서, 번 돈은 어음형식으로 부쳤는데, 상세한 상황은 아래와 같다.
+
+[135]
+#Manufactured by Sino-American Guangtong Food CO.LTD.,Guangzhou,under license from General Foods corporation,NY USA.
+#미국 뉴욕주제너럴식품회사가 비준하고, 중미합자 광주광통식품 주식회사가 생산한다.
+
+[136]
+#Unfortunately we operate as the agent of A Co.,Ltd.,and cannot make use of your proposal.
+#우리 회사는 현재 A주식회사의 대리상이기 때문에, 귀사의 건의를 채용할 수 없습니다.
+
+[137]
+#Her back was aching from having to get down in order to put things in and out of the bottom drawer.
+#반드시 허리를 굽혀서 가장 아래의 서랍으로부터 물건을 꺼내고 넣어야 하기 때문에, 그녀는 허리가 시큰거리고 등이 아팠다.
+
+[138]
+#The use of a new medicine has helped him to come through a disease previously regarded as incurable.
+#새로운 약을 써서, 그는 과거에 사람들이 고칠 수 없는 병이라고 여겼던 큰 병을 고쳤다.
+
+[139]
+#Owing to the rush of orders the stock of these goods has been exhausted and we would recommend an excellent substitute.
+#주문이 너무 많기 때문에, 지금은 이러한 종류의 상품이 현물이 없습니다. 우리는 당신에게 다른 좋은 대용품을 추천합니다.
+
+[140]
+#The leader of the Opposition gained significantly in stature as a result of his speech on environs,mental pollution.
+#환경오염 문제와 관련한 연설을 발표하였기 때문에, 야당 영수의 명성이 크게 높아졌다.
+
+[141]
+#Will you favour us with two references,as we have hitherto had no business transaction with you?
+#이전에 귀사와 교역이 없었기 때문에, 귀사의 신용보증인을 두 명 알려 주실 수 있겠습니까?
+
+[142]
+#As the information requested in our letter of ...is now urgently required,your early reply will be greatly appreciated.
+#우리측이 ...월...일 편지에 요구한 소식이 급히 필요하기 때문에, 당신측이 가능한한 빨리 회답해 주시면 감사하겠습니다.
+
+[143]
+#As neither of the two teams had gained any points,they decided to play the match out until a goal had been scored.
+#양팀이 모두 득점이 없기 때문에, 그들은 어느 한편이 슛을 넣어 점수를 얻을 때까지 시합을 계속하기로 결정했다.
+
+[144]
+#Our agreements with leading manufacturers enable us to supply you utmost attractive prices.
+#우리측은 주요 생산제조업자와 협의를 달성했기 때문에, 우리측은 가장 좋은 가격으로 당신측에 물건을 제공할 수 있습니다.
+
+[145]
+#Because of a previous engagement/full schedule/business trip,I can't make it at the time.
+#나는 그때 이미 약속이 있기 때문에/모든 시간이 이미 계획되어 있기 때문에/다른 사무적인 방문이 있기 때문에, 출석할 수 없습니다.
+
+[146]
+#The guerrilla leader sprang on the enemy patrol ,knocked his arm up and captured him all of a sudden.
+#유격대장은 적의 순찰병을 향해서 맹렬히 돌격하여, 그의 팔을 위로 꺾어, 바로 그를 붙잡았다.
+
+[147]
+#As the parades marched through the street in a column,some of them peeled off to distribute leaflets.
+#시위하는 사람들이 종대를 이루어 길을 걸어갈 때, 그들 중에서 몇 명이 대오에서 나와 전단을 뿌렸다.
+
+[148]
+#There was shouting,and loud music,and all sorts of goings-on I can't describe!
+#크고 시끄러운 소음 소리, 귀를 찌르는 음악소리가 있고, 게다가 내가 형용할 수 없는 갖가지 일이 있다.
+
+[149]
+#I wanted to ask you to think this over,too; John has a friend over in Janeston who needs a secretary in September.
+#당신도 한 번 고려할 일이 있습니다 : John은 Janeston에 친구가 있는데, 그는 9월에 비서가 한 명 필요하다고 합니다.
+
+[150]
+#There are three rooms.One is mine,one is my sister's andthe other is my parents'.
+#세칸의 방이 있다 : 하나는 나의 것이고, 다른 하나는 나의 여동생의 것이고, 남은 하나는 나의 부모님의 것이다.
+
+[151]
+#We trust you will excuse our troubling you,and always at your service in similar matters.
+#번거로움이 있어도 양해를 바랍니다. 만일 같은 상황을 만난다면, 언제라도, 우리는 반드시 귀사를 위해 서비스를 할 것입니다.
+
+[152]
+#There's enough corned beef to go round ,but you'll have to double up on the baked beans.
+#절인 소고기는 각 사람이 일인분씩 먹을 수 있는 충분한 양이 있지만, 구운 콩은 두 사람이 일인분을 먹어야 합니다.
+
+[153]
+#Rather than keep you waiting,we are quoting you below the nearest we have in stock for your consideration.
+#당신들을 기다리게 하느니, 차라리 우리에게 있는 현물의 유사 품종의 가격을 아래와 같이 제시하여 고려하도록 제공하는 것이 낫겠습니다.
+
+[154]
+#Forgive me for making this so short,I've been working overtime lately and trying to have a social life too.
+#내가 여기에서 붓을 놓는 것을 용서해 주십시오. 최근 나는 마음 속의 괴로움을 잊기 위해서 늘 초과근무를 하고, 또한 사교활동에 힘껏 참가하고 있습니다.
+
+[155]
+#John was assigned to stand in for the male lead,because he resembled the actor in appearance.
+#John은 그 배우와 외모가 매우 닮았기 때문에, 촬영을 하기 전에 남자 주인공의 대역을 충당하도록 파견되었다.
+
+[156]
+#We have received your letter of August 10 and regret to learn that you are unable to extend the L/C No.1680.
+#1월 10일의 편지를 잘 받았습니다. 당신측이 제 1680호 신용장을 연장해 줄 수 없다는 것을 들으니, 매우 유감입니다.
+
+[157]
+#Can you make us the same special offer here in ...as you did in...?
+#...에서 귀사가 ...처럼 우리측에 같은 특가혜택을 줄 수 있습니까?
+
+[158]
+#As your name and address were listed in The Chemicals,we are writing to you with a desire to open an account with you.
+#<화학>잡지에서 귀사의 명칭과 주소를 보았는데, 우리는 당신과 상무관계를 세우기를 매우 희망합니다.
+
+[159]
+#What's on following the news and weather? Do you have a TV guide.
+#뉴스와 일기예보가 끝나고 나면 다음은 어떤 프로그램입니까? 당신은 텔레비전프로그램 시간표가 있습니까?
+
+[160]
+#Meanwhile we are holding the above-mentioned case at your disposal,please let us know what you wish to do with it.
+#이 기간동안 우리는 상술한 상자를 보류하였다가, 당신측의 의견을 듣고 처리할 것입니다. 당신측은 이에 대해 어떻게 처리할 것인지를 알려 주시기 바랍니다.
+
+[161]
+#In present day English new linguistic facts abound which do not always square with the accepted rules of grammar.
+#당대 영어에는 많은 새로운 언어현상이 생겨나는데, 이러한 현상이 늘 공인된 어법규칙에 부합하는 것은 아니다.
+
+[162]
+#When fresh food and water are not available ,the camel can feed off its hump.
+#신선한 음식과 물을 얻을 수 없을 때, 낙타는 그의 등에 축적해둔 지방을 소비하여서 생명을 유지한다.
+
+[163]
+#We would make a further study of your proposal to act as our sole agent upon receipt of your report.
+#당신측의 보고를 받은 후에, 우리 회사는 당신측이 우리측의 독점대리를 맡는다는 건의를 진일보해서 연구할 것입니다.
+
+[164]
+#In reply we inform you that we have done business with Messrs.M.& Co.,for the past years,in amount up to ↔500.
+#과거 몇 년 동안, 우리 회사와 M회사 사이의 교역액은 단지 최고 500파운드였다는 것을, 이에 답장으로 알립니다.
+
+[165]
+#At the press conference,the press secretary ladled out some old trash about fighting inflation.
+#기자 간담회에서, 뉴스 발표관은 통화팽창을 억제하는 것에 관한 진부하고 상투적인 소리를 공표했다.
+
+[166]
+#It'll be easier for us to make the necessary arrangement if your L/C can reach us 15 to 30 days before delivery.
+#물건을 인도하기 전 15일에서 30일 내에 신용장을 개설하면, 우리측이 필요한 조치를 취할 것이다.
+
+[167]
+#In considering people for the job,we give preference to those with some experience.
+#이 일에 있어서의 인선을 고려할 때, 우리는 먼저 반드시 일의 경험이 있는 사람들을 고려할 것이다.
+
+[168]
+#He was not able to fulfill,fulfil himself in business,so he became a writer.
+#그는 상업방면으로는 자신의 자질을 충분히 발휘할 수가 없어서, 작가의 길을 선택했다.
+
+[169]
+#When they pulled down the old houses in the centre of the town,the whole character of the place was changed.
+#그들이 시 중심의 그 오래된 집을 철거하고 난 후, 그 곳의 특징 또한 따라서 변했다.
+
+[170]
+#While dealing with contemporary English usage I have sought not to encroach on the province of the ordinary dictionary.
+#현대영어관용법을 토론할 때, 나는 보통 사전이 포함하는 범위는 언급하지 않으려고 애썼다.
+
+[171]
+#After the heroic death of Comrade Wang ,the command of the assault detachment devolued on the young communist Wu Ming.
+#왕동지가 용감하게 희생한 후, 돌격분대를 지휘하는 임무는 청년 공산당원인 오명에게 떨어졌다.
+
+[172]
+#I doubt the propriety of making a public statement before we have studied the official reports.
+#우리는 정부측에 보고해서 연구를 진행하기 전에 공개적으로 성명을 발표하는데, 나는 이렇게 하는 것이 합당한 것인지 의심스럽다.
+
+[173]
+#Once in my school-days I had my composition pulled apart in front of other students.
+#내가 학생 때, 한번은 다른 학생들 앞에서 나의 작문이 호되게 비평을 당했다.
+
+[174]
+#The undersigned persons wish to be considered for election: John Smith,Joe Brown,Mary Jones.
+#아래에 서명한 사람이 입후보자로 고려되고자 하는 사람입니다 : John Smith,Joe Brown,Mary Jones.
+
+[175]
+#In some churches,they speak Latin,but in others they use the vernacular.
+#어떤 교회는 사람들이 라틴어로 말을 하는데, 기타 다른 교회들은 본지의 말을 사용한다.
+
+[176]
+#In the recent crisis no banks could manage to bail out the companies feeling financial pressure.
+#최근의 이러한 위기에서는, 어떤 은행도 곤궁에 빠진 그러한 기업들이 난관을 극복하도록 도와 줄 수가 없다.
+
+[177]
+#It is doubtful whether true linearism exists in any social process or evolution.
+#어떤 사회가 변천하거나 혹은 진화하는 중에 진정한 직선연속성이 존재할 수 있는지 없는지가 의문이다.
+
+[178]
+#The eleven maquettes on display were selected from 199 entries by a jury.
+#전시한 11개의 설계모형은 199개의 참가작품 중에서 심사위원들이 선출한 것이다.
+
+[179]
+#This visit has been full of interesting things and everything here left me a deep impression.
+#이번 관광에서 보고 들은 것들은 매우 재미있었는데, 이곳의 모든 것이 깊은 인상을 남겨주었다.
+
+[180]
+#The biggest spider out here couldn't kill a person--but it sure could lay you up for a while.
+#이 가장 큰 거미도 사람을 물어 죽이지는 못하지만 그러나 그것이 너를 몸져 눕게할 수는 있다.
+ 
+[181]
+#This company has spun off several assembly plants in Latin America to turn in super profits from cheaper labor.
+#이 회사는 저렴한 노동력으로 초과이윤을 착취하기 위해서, 라틴아메리카에 몇 개의 조립공장을 열었다.
+
+[182]
+#The poor boy had caught his coat up in the chain of his bicycle,and this caused the accident.
+#이 가엾은 아이는 자신의 옷이 자전거의 체인에 말려들어서, 사고가 났다.
+
+[183]
+#I should like to come in here,as I happen to know a good deal about how people live in those border regions .
+#공교롭게도 내가 변방지역 주민들의 생활에 대해서 비교적 잘 이해하고 있기 때문에, 나는 여기에서 상황을 좀 이야기 하고자 한다.
+
+[184]
+#The two hunters pulled down a tiger too powerful for one to master alone.
+#이 두 명의 사냥꾼이 호랑이 한 마리를 잡았는데, 이 호랑이는 매우 사나워서, 혼자서는 제압할 수가 없다.
+
+[185]
+#The white towel round the woman-miner's neck set off her brilliant black eyes and her dazzling cap-lamp.
+#이 여광부의 목에 있는 흰수건이, 그녀의 까맣게 반짝이는 눈과 눈부신 해드램프를 더욱 돋보이게 한다.
+
+[186]
+#The writer tells us that the war lasted from 939 to 1945!
+#이 작가는 우리에게, 그 전쟁은 1939년부터[원문은 이와같다] 1945년까지 계속 되었다고 말하고 있다.
+
+[187]
+#He had known about the scheme for some time,but only opted in at the last minute.
+#이 계획에 대해서 그는 이미 좀 알고 있었지만, 마지막 순간에 가서야 참가하기로 결정을 했다.
+
+[188]
+#The price quoted was for the small lot you named,5 metric tons; we can offer you 10% off for a 150-ton lot.
+#이 가격은 당신측이 5톤이라는 소량을 주문한 것에 맞춘 것입니다. 만일 150톤을 주문하신다면, 10% 깎아줄 수 있습니다.
+
+[189]
+#The new product sizes up with and even surpasses in certain respects the imported goods of the similar kind.
+#이 신상품은 같은 종류의 수입품과 우열을 가릴 수 없는데, 어떤 면에서는 심지어 그것보다 더 낫다.
+
+[190]
+#Would you consider increasing the discount to open the market,as this is a new product of yours?
+#이 상품은 당신들의 신상품인데, 시장을 열기 위해서, 당신들이 좀 더 할인을 해 줄 수 없습니까?
+
+[191]
+#This medicine will last for a time,but after six months you'll need a booster.
+#이러한 약의 효력은 어느 기간동안 유지가 되지만, 6개월 후에는 약효를 증강시키는 보조제를 사용해야만 한다.
+
+[192]
+#Man cook wanted.Must be thoroughly experienced and English-speaking.Apply to Box 425,China Mail,Hong Kong.
+#남자 요리사 한 명을 모집하는데, 반드시 경험이 있고, 영어를 말할 줄 알면 좋겠습니다. 홍콩 중국우편 사서함 425호로 편지해 주십시오.
+
+[193]
+#The whole thing is jumbled up in my memory and I can't give you exact details of it.
+#모든 사건이 이미 나의 기억속에서 뒤죽박죽이 되어서, 상세하고 확실한 상황을 얘기할 수가 없다.
+
+[194]
+#As spelled out in the communique,the two countries agreed to expand their trade relations in the coming year.
+#성명에서 말하는 것이 바로 양국이 미래의 일년동안 두 나라 사이의 무역관계를 확대하는데 동의한 것 같다.
+
+[195]
+#But as you know,for some time I have wanted to gain additional experience in other areas of marketing.
+#당신이 알고 있는 바와 같이, 예전부터 나는 시장무역의 다른 영역에서 새로운 경험을 얻고 싶어했습니다.
+
+[196]
+#A politician supporting an unpopular law is sticking his neck out; he may lose the next election.
+#인심을 얻지 못한 법령을 지지하는 정치가는 완전히 모험을 하는 것과 같아서, 그는 다음 대선에서 실패할 것이다.
+
+[197]
+#Just let me out of this third-degree sweatbox and I'll sign anything you like.
+#나로 하여금 이 3등 감방에서 나가게 해야지만, 나는 네가 원하는 어떤 것에 서명을 할 것이다.
+
+[198]
+#A positive diagnosis can be made only after ruling out gastric and duodenal ulcer.
+#위궤양과 십이지장궤양의 가능성을 제거한 후에야, 비로소 명확한 진단을 할 수가 있다.
+
+[199]
+#Helpful,warm,patient and considerate----People's Insurance Company of China,Tianjin Branch.
+#자발, 열정, 인내, 고객을 위한 세밀한 서비스---중국인민보험공사 천진지사.
+
+[200]
+#The chairman passed quickly over the first few items to leave more time for the main business of the meeting.
+#토론회의 주요 의정을 처리할 더 많은 시간을 남기기 위해서, 의장은 매우 빠르게 앞부분의 몇 가지 의제를 처리했다.
+
+[201]
+#Happy birthday to an attractive,intellectual,sophisticated and all-round splendid person.
+#아름답고 매혹적이고, 총명하고, 교양이 있으며 찬탄을 받아 마땅한 미인을 축복하며, 생일 축하합니다!
+
+[202]
+#Congratulations on a job well done,and good luck to you during the next four years of school.
+#네가 이미 뛰어난 성적을 거둔 것을 축하하며, 아울러 미래의 4년 동안의 대학기간이 순조롭기를 바란다.
+
+[203]
+#We hand you our account on the bar iron,amounting to ＄512,000,which kindly pass to our credit.
+#철막대의 총액 512,000달러의 명세서를 동봉하니, 우리회사 대부계좌에 넣어주시기 바랍니다.
+
+[204]
+#Enclosed please find the invoice for 500 bales cotton,delivered f.o.b.for your account.
+#귀사의 명의로, 기차로 물건을 인도한, 500포의 면화의 송장을 한 장 동봉하니, 사수하여 주십시오.
+
+[205]
+#We confirm your cable of 2nd inst.asking us to make you firm offers for both Groundnuts and Walnutmeat C&F Copenhagen.
+#당신측이 이번달 2일, 우리측에 땅콩과 호두알의 C&F코펜하겐 가격을 제시해줄 것을 요구한 전보를 받았음을 확인합니다.
+
+[206]
+#This is to acknowledge that we have received your cable offer dated February 10,1993 which we are just working on.
+#우리측은 당신측이 1993년 2월 10일에 가격을 제시해서 보낸 전보를 받았음을 확인하며, 현재 우리는 연구중에 있습니다.
+
+[207]
+#Enclosed please find our cheque,value ＄100,000 on the First Bank of this city.
+#이 시의 제1은행이 지불한 면액 100,000달러의 수표를 한 장 동봉하니, 사수하여 주십시오.
+
+[208]
+#I enclose a cheque on the Tokyo Ginko for ＄50,000,which includes the cost of collection.
+#면액 50,000달러의 동경은행수표를 한 장 동봉하는데, 이 대금에는 위탁징수비가 포함되어 있습니다.
+
+[209]
+#Taylor ,the capitalist,used to play down to most of his employees.
+#자본가는 그의 대부분의 고용원들에게 고의로 태도를 겸손한 척 꾸며서, 그들의 호감을 얻으려고 한다.
+
+[210]
+#Such promises of cleaning up on the part of the bourgeois politicians are all pre- election rhetoric.
+#자산계급 정객들의 개혁을 실행하겠다는 이러한 공약은, 완전히 당선을 얻어내기 위해 하는 헛소리일 뿐이다.
+
+[211]
+#I studied in your University majoring in American Literature from 1987 to 1990 and received a BA.degree in 1990.
+#1987년부터 1990년 사이에 나는 귀교에서 공부를 했는데, 주로 미국문학을 공부했고, 1990년에는 문학학사학위를 받았습니다.
+
+[212]
+#They have been glooming about for days,since they were told they couldn't go.
+#사람들로부터 그들이 갈 수 없다는 말을 들은 후로, 그들은 맥이 빠져서 왔다갔다하고 있다.
+
+[213]
+#Quitting is a bad way to embark on life,and that young person really ought to snap out of it.
+#생활의 길을 걷는데 투쟁을 포기하는 것은 매우 나쁜 것이다, 그 젊은이는 확실히 진작을 해야만 한다.
+
+[214]
+#Grandfather spends a lot of time in bed now; mind you,he is 93!
+#조부는 현재 매우 많은 시간을 침대에서 보내시는데, 너는 그가 이미 93세라는 것을 기억해야 한다.
+
+[215]
+#Finally Mr.Cohen took out a loupe ,a diamond man's magnifying glass,and studied the stone.
+#결국 Cohen선생은 루페-일종의 다이아몬드용의 확대경-를 꺼내서 그 보석을 자세히 살펴보았다.
+
+[216]
+#As requested,we have enclosed today our quotation of portable TV.
+#귀사의 요구에 따라, 우리는 오늘 우리 회사가 생산한 휴대용 텔레비전의 제시가격표를 동봉했습니다.
+
+[217]
+#As instructed,we are sending the samples,catalogs and price-list of our pocket cameras.
+#귀사의 지시에 따라, 본 회사의 포켓식 카메라의 견본과 목록 및 가격표 등을 부쳤습니다.
+
+[218]
+#I saw John yesterday,too.The poor man is like a lost sheep without you!
+#어제, 나는 John을 보았다. 이 가련한 아이는 네가 곁에 없으니 한 마리의 길을 잃은 새끼양과 같구나!
+
+[219]
+#I passed by your house yesterday evening,and might have dropped in if I had not been in a hurry.
+#어제 저녁에 내가 너의 집 앞을 지났는데, 바쁘지만 않았다면, 들어가서 너를 보고 갔을 것이다.
+
+[220]
+#I met Dr.Carleson at my sister's house yesterday (her little boy has the mumps).
+#어제 나는 언니의 집에서 Carleson의사를 우연히 만났다. (언니의 아이가 유행성 이하선염에 걸렸다.)
+
+[221]
+#As of last night we have a brand-new son! His name is Randy James,he weights 7 pounds 8 ounces and is 22 inches long.
+#어젯밤에 우리는 또 아들을 하나 얻었다! 그의 이름은 Randy James이고, 무게는 7파운드 8온스이며, 키는 22인치이다.
+
+[222]
+#As building contractors we erect about a hundred houses and two or three blocks of flats a year.
+#As building contractors we erect about a hundred houses and two or three blocks of flats a year.
+#건축 청부상으로서, 우리는 매년 거의 100채의 집과 2,3동의 아파트 건물을 짓는다.
+
+[223]
+#A typing pool is a group of typists,in one large office,who do all the typing for a company.
+# "A typing pool"은 회사내의 하나의 큰 사무실에서 집중적으로 모든 타자업무를 맡아하는 한 무리의 타자원들이다.
+
+[224]
+#"His fawning manner whenever the boss is around just makes me curl up.I tell you --it curls me up,"said John.
+# "사장이 오기만 하면, 그의 그 알랑거리는 모양이 정말 나를 화나게 한다. 너에게 말하는데, 그 꼴이 정말 나를 화나게 한다."고 John이 말했다.
+
+[225]
+#Building constructors in ......and Asia have found our products easy to install and very attractive in appearance.
+#아시아 지역의 건축상은, 대부분 우리 회사의 상품이 설치하기도 쉽고, 외관도 사람의 주위를 끈다고 여기고 있다.
+
+[226]
+#We wish to call your attention to our account rendered,$ 5,000,due 31st May,a settlement of which will oblige.
+#5월 31일이 기한인 대금 5,000달러의 명세서를 이미 부쳤으니, 깨끗이 청산해 주시면 고맙겠습니다.
+
+[227]
+#We are prepared to ship to your order a cargo of the best wheat on the conditions contained in yours of the 3rd June.
+#귀사가 6월 3일 편지로 제시한 조건에 따라, 우리는 이미 가장 좋은 밀을 언제고 선적할 수 있는 준비를 해놓고, 단지 귀사의 지시만을 기다리고 있습니다.
+
+[228]
+#As agreed,the terms of payment for the above orders are letter(s) of credit at 60 day's sight or D/P sight draft.
+#쌍방의 협상에 따라, 상술한 주문의 지불방식은 60일 선물신용장이나 혹은 일람출급환어음의 지불명세방식으로 지불한다.
+
+[229]
+#The newspaper was ordered to pay damages to the film star for printing an untrue story about him.
+#보도관은 그 영화배우에게 배상금을 지불하라는 강제 명령을 받았는데, 그것은 이 기사에 실린 그와 관련된 보도가 사실이 아니기 때문이다.
+
+[230]
+#We are checking our records of recent years to find out why many customers have slipped away from us.
+#우리 회사는 최근 많은 고객이 우리를 떠나는 원인을 찾기 위해서, 근래에 남겨진 기록들을 조사하고 있다.
+
+[231]
+#We are desirous to know if their standing in the community warrants us extending credits upon a large scale to them.
+#본 회사는 간절히 알고 싶습니다: 이 회사는 사회에서의 신용이 어떠합니까? 이미 거액을 신용 대출에 이르지는 않았습니까?
+
+[232]
+#We can assure you that these goods are very popular in Western markets,of which we have had much experience.
+#우리 회사가 당신께 보장하건대, 이 상품은 서방시장에서 매우 좋은 판매량을 가질 것입니다, 이 점에 우리는 이미 많은 경험이 있습니다.
+
+[233]
+#Yet,what we say here will not be long remembered.What we do here can change the world.
+#단지, 우리가 여기에서 하는 말은, 사람들이 오래 기억하지 못할 것입니다. 그러나 우리가 여기에서 한 일은 세계를 변화 시킬 수 있습니다.
+
+[234]
+#However,this is our personal opinion and we assume no responsibility for your proposed business with them.
+#어찌됐건, 이것은 단지 우리의 일방적인 의견이고, 우리 회사는 당신들 쌍방이 무역을 진행하자는 건의에 대해 어떠한 책임도 지지 않을 것입니다.
+
+[235]
+#Mrs.Black shopped around till she got what she wanted at a price she could afford.
+#Black부인은 한 상점에서 또 다른 상점을 다니며, 결국에는 적당한 가격으로 그녀가 필요로 하는 물건을 사들였다.
+
+[236]
+#Referring to my conversation with you today,I now enclose an order sheet for hosiery as specified.
+#오늘 당신측과의 담판 기록을 참고하여, 위생복을 주문 구입하는 주문서 두 부를 상세를 기록하여 동봉하였으니, 참조하여 받아주십시오.
+
+[237]
+#the employer's threat to lock out the workers only infuriated them and made them stand up more firmly for their rights.
+#공장 주인의 노동자들이 공장으로 들어가는 것을 허락하지 않는다는 위협이 오히려 노동자들을 격노시켜서, 그들로 하여금 자신의 권리를 보호하기 위해 투쟁을 더 고수하게 했다.
+
+[238]
+#The supermarket clerk rang up Mrs.Smith's purchases and told her she owed $33.
+#슈퍼마켓의 점원은 Smith부인이 산 물건의 금액을 현금기록기에 기록하고, 그녀에게 33달러를 지불해야 한다고 말했다.
+
+[239]
+#Directions: Use one teaspoonful of more per cup,add boiling water and stir Add sugar and milk to taste.
+#타는 방법 : 1티스푼 혹은 좀 더 많은 커피를 잔에 넣고, 뜨거운 물을 부어 섞는다, 설탕 및 우유를 가늠해 넣으면, 마실 수 있다.
+
+[240]
+#It was required to establish an ESCROW L/C in case of import from Japan ,and Back-to-Back from Sweden.
+#일본으로부터 수입할 때는 조건이 있는 양도가능신용장을 개설해야 하고, 스웨덴으로부터 수입을 할 때는 Back-to-Back신용장을 개설해야 한다.
+
+[241]
+#But if you can't make it,I'll get my brother to come in for an hour or -- he knows how to work the projector.
+#만일 네가 시간에 대서 돌아오지 못한다면, 나는 나의 남동생을 오라고 해서 한시간 정도 도와달라고 할 것이다. 그는 영사기를 사용할 줄 안다.
+
+[242]
+#I have of course read of the achievements and many visitors to your country have told me about them.
+#당연히 나는 서적과 신문을 통해서 이 성과와 관련된 보도를 읽어 본 적이 있을 뿐만아니라, 귀국을 많이 방문한 적이 있는 사람들도 나와 이야기를 해 보았다.
+
+[243]
+#From these introductions I began to appreciate the grandeur of art and have decided to become a devoted pilgrim of art.
+#나는 예술의 영역은 다채로울 뿐만 아니라, 광대하다고 믿었기 때문에, 당시 나는 예술의 순례자가 되겠다고 뜻을 세웠다.
+
+[244]
+#I cringed when I noticed the date on your last letter.I'm sorry I've been such a slowpoke in responding.
+#너의 지난번 편지의 날짜를 보고 나는 놀라움을 금치 못했다. 정말 미안하다, 내가 너무 게으름뱅이구나!
+
+[245]
+#When a hailstorm had badly affected the family,others chipped in and quietly sent money to help.
+#한 차례의 우박이 우리 가정으로 하여금 커다란 손실을 입게 했을 때, 다른 사람들이 모두 도움을 주었는데, 은밀하게 그들에게 돈을 보내 주었다.
+
+[246]
+#The engaged couple,Edward Evans and Gertrude Kennedy,put up the banns the other day.
+#약혼을 한 두 사람, Edward Evans와 Gertrude Kennedy는, 머지않아 그들의 결혼 예고를 발표하였다.
+
+[247]
+#With reference to our estimate of the 10th July,we shall be glad to know whether we can be of further service to you.
+#7월 10일에 제시가격에 대해 설명을 한 후, 우리는 우리가 귀사에 서비스할 기회가 있는지  없는지를 몹시 알고 싶습니다.
+
+[248]
+#We ourselves have no hesitation in giving them credit to an amount considerably beyond the sum you mention.
+#우리 회사로 말하자면, 심지어 금액이 귀사가 제시하는 금액을 초과한다 할찌라도, 우리는 이 회사에 주저없이 신용 대출을 해 줄 것입니다.
+ 
+[249]
+#Would you kindly let me know if you will take them back,or allow me to sell them at a discount of 50 per cent.
+#이 물건들에 대해서, 귀사는 물건을 물려주는 것에 동의하는지, 아니면 가격을 절반으로 깎아 줄 것인지, 회답을 주십시오.
+
+[250]
+#We thank you in anticipation of your kindness,and always at your disposal for similar service.
+#이번의 후의에 대해 감사의 뜻을 표합니다. 금후 어느 때라도, 당신측의 분부가 있으면, 우리는 귀사를 위해 같은 서비스를 할 것입니다.
+
+[251]
+#For an order of this large quantity we expect a wholesale discount off your price-list.
+#이와 같은 대량의 주문에 대해, 우리 회사는 가격표에 정해져 있는 가격보다 낮은 도매할인 가격으로 구입할 수 있기를 바랍니다.
+
+[252]
+#I should appreciate an extension of two weeks for the payment of my bill of $50,000 due June 1.
+#6월 1일이 기한인, 면액 50,000달러 수표에 대해, 2주일을 연장해 주시면, 감사하겠습니다.
+
+[253]
+#Dora said of her brother:"He's had no end of bad luck,but he just seems to have bounced back every time."
+#Dora는 그녀의 형제에 대해 이야기를 할 때 : "그는 늘 운이 나쁘다, 그러나 매번 일이 있은 후에도 그는 거의 아무 일도 없었다는 듯이 태연스럽다."라고 말한다.
+
+[254]
+#We regret we cannot avail ourselves of your offer of these goods because we are buying to better advantage elsewhere.
+#매우 유감이지만, 우리는 당신측의 이 화물의 오퍼를 받아들일 수 없습니다. 왜냐하면 우리는 다른 곳으로부터 물건을 사들였고 또한 혜택을 받았기 때문입니다.
+
+[255]
+#The goods were in perfect condition on leaving our warehouse and the damage has evidently occurred in transit.
+#이 물건은 우리 회사의 창고에서 운반되어 나올 때는 아무 흠이 없었는데, 지금 나타난 손상은 운송을 하는 과정에서 생긴 것으로 보입니다.
+
+[256]
+#Thank you for your L/C No.211 in our favor to cover your Contract of 10,000 gas lighters.
+#당신측이 우리측을 수익인으로 하는 10,000개의 가스라이타 계약과 관련한 제 211호 신용장을 개설 한 것에 감사합니다.
+
+[257]
+#Thank you for making my visit so worthwhile.I shall treasure your friendship and kind hospitality you have given me.
+#당신들이 나의 방문을 이렇게 가치있게 해준 것에 대해 감사를 드립니다. 나는 우리의 우정과 당신들이 나에게 베푼 성대한 대접을 소중히 여길 것입니다.
+
+[258]
+#Thank you very much for your invitation to join the Alta's organization at the Victory Hotel on May the first .
+#당신이 나를 5월 1일 승리호텔에서 열리는 Alta주식회사가 조직한 회의/경축활동/간담회에 참가하도록 초청해 주어서 감사합니다.
+
+[259]
+#According to the L/C No.157 we received,the payment was to be made at 90d/s .But we want it to be made at sight .
+#우리들이 받은 제 157호 신용장에 근거해서, 상면에는 일람 후 90일 출급으로 규정하였지만, 우리 회사는 일람출급을 바랍니다.
+
+[260]
+#The girls told John he was a hero because he made the winning touchdown ,and he ate up their praise.
+#John이 경기에서 결정적인 1점을 얻었기 때문에 소녀들은 그를 영웅이라고 말하는데, John은 이 말을 듣고 기뻐서 어쩔 줄을 몰랐다.
+
+[261]
+#We refer to our Contract No.BP1752 dated May 15,1992,for 30 sets of sewing machines shipped to us three months ago.
+#1992년 5월 15일 제BP1742호 계약인 재봉틀 30대에 대해서, 귀사는 이미 3개월 전에 우리측에 운송을 했습니다.
+
+[262]
+#With respect to our account,$5,000,now one month overdue,we shall be glad to received your cheque by return.
+#5,000달러의 청구와 관련해서, 이미 기한이 한달이 지났는데, 아직 청산을 하지 않은 것은, 회답으로 수표를 부쳐주시면, 고맙겠습니다.
+
+[263]
+#We have been expecting to hear from you with regard to the samples and price-lists we sent you on the 7th May.
+#5월 7일 귀사에 보낸 견본품과 가격표를 이미 받았으리라고 짐작됩니다; 우리는 가능한 한 빨리 회답을 받았으면 합니다.
+
+[264]
+#He played up to his theory of what a scholar ought to be.
+#학자는 마땅히 어떠해야 한다는 것에 관해, 그는 나름대로의 기준이 있는데, 그 자신도 이 기준에 따라 실천하려고 힘쓴다.
+
+[265]
+#You will send two specialist to manage the station and to select and check parts to meet the end-users' requirement.
+#우리측 고객의 수요를 만족 시키기 위해서, 당신측은 2명의 전문가를 파견하여 보급소를 관리하고, 부속품을 고르고 검사하는 일을 하게 해야한다.
+
+[266]
+#I used to dig the garden every week,but I lost heart when all the plants died.
+#예전에 나는 매주 정원에서 흙을 파고 꽃을 가꾸고 하였는데, 모든 꽃과 나무가 죽은 후에, 나 역시 매우 실망하고 의기소침해졌다.
+
+[267]
+#I have so trained myself in secretarial work that only exacting problems are interesting to me.
+#조금도 과장하지 않고 말하자면, 나는 비서방면에 엄격한 훈련을 받은 적이 있는데, 난이도가 큰 일일수록 더 나의 일에 대한 열정을 불러일으켰다.
+
+[268]
+#We regret being unable to execute your order for silk to the pattern enclosed,which we now return.
+#매우 유감스럽지만, 귀사가 편지에 동봉하여 보낸 견사견본의 주문서를, 우리는 집행할 수가 없습니다. 다시 돌려드리니 사수하여 주십시오.
+
+[269]
+#Hawkins' children went on everything at the Fair ,and then found they hadn't enough money to get the bus home.
+#Hawkins의 아이들은 놀이공원에서 이것저것을 탔는데, 노는 데만 정신이 팔려서, 나중에는 버스타고 집에 돌아갈 돈조차도 부족하다는 것을 알았다.
+
+[270]
+#The cargo was shipped from Liverpool on the Schooner “Yangtse Maru”,John Hopkins,Captain,as per documents attachedd.
+#화물은 이미 John Hopkins선장의 "양자"화물선에 선적을 하여, 리버풀로부터 출항을 하였는데, 상세한 것은 동봉한 서류를 보십시오.
+
+[271]
+#We hand you our account on the goods,amounting to ＄508,000,which kindly pass to our credit.
+#508,000달러의 상품 결산서를, 당신측에 건네주어 처리하였습니다. 상술한 금액을 우리회사의 대방계좌에 기록해 주십시오.
+
+[272]
+#A few pessimists think we will lose the election,but most of us are sure we will win.
+#몇 명의 비관주의자들은 우리가 이번 선거에서 실패할 것이라고 생각하지만, 우리대다수의 사람은 우리가 승리를 얻을 것이라고 생각한다.
+
+[273]
+#While pretending not to see him there,Comrade A spoke at Comrade B when he mentioned the damage done to the books.
+#갑동지는 을동지가 거기에 있는 것을 틀림없이 보지 못했다고 하였는데, 책이 손상된 일을 언급할 때는, 그는 실제적으로 을동지에게 들은 것이라고 말했다.
+
+[274]
+#Please send us by return mail your quotation and catalogs for your products No.PO-218,PO-332,PO-481.
+#이 편지를 받은 후, 귀사가 답장을 보낼 때 No.PO-218,PO-332,PO-481 상품의 제시가격 및 목록을 동봉해 주십시오.
+
+[275]
+#We are extremely sorry to learn that the goods we shipped you on July 7th have not yet reached you.
+#귀사의 편지를 받고, 매우 유감스럽게도 우리가 7월 7일에 운송한 화물이 아직 귀사에 도착하지 않았다는 것을 알았습니다.
+
+[276]
+#Please send us by return mail your quotation and catalogs of your products No.,PO-218,PO-332,PO-418.
+#이 편지를 받은 후, 귀사가 답장을 보낼 때 No.PO-218,PO-332,PO-418상품의 제시가격 및 목록을 동봉해 주십시오.
+
+[277]
+#More New Zealand wool was sold at auction in the seven months ended January 31,1989,than in the same period last year.
+#1989년 1월 31일이 마감기일인, 7개월간의 경매 중에, 성사된 New Zealand의 양모가 이미 작년 수준을 초과했다.
+
+[278]
+#We confirm our letter of the 2nd Oct.,and now enclose you duplicate K/L per m.s.“Alberta”,covering 20 c/s.
+#10월 2일의 우리 편지의 내용을 확인하고, “Alberta"화물선에 선적한 20상자의 물건의 선하증권을 부칩니다.
+
+[279]
+#We are prepared to allow you a special discount of 5% against cash,although the price has already been fixed very low.
+#이 가격이 이미 상당히 낮은 것임에도 불구하고, 현금으로 지불하는 고객에 대해서는, 5%의 특별할인을 해주려고 합니다.
+
+[280]
+#You will find on inspection thereof that there is a balance in your favour of ＄100,000 for which we enclose a draft.
+#명세서를 검사해서, 당신측이 받아야 할 거래차액대금 100,000달러를 발견하고, 이에 우리가 어음 한 장을 동봉합니다. 검사하여 받아주십시오.
+
+[281]
+#Present another paper on cholera enterotoxin at the IAMS on 3 September in Tokyo.
+#9월 3일 동경에서 거행하는 국제 미생물 첫번째 다각회의상에서 콜레라 바이러스와 관련된 다른 논문이 한편 낭독되었다.
+
+[282]
+#I grant you that the government isn't very popular at the moment,but I think it will win the next election.
+#가령 네 말이 옳다고 하더라도, 이번 정부는 현재 민심을 그다지 얻지 못했다. 그러나 나는 다음 선거에서도 이 정부가 승리할 것이라고 생각한다.
+
+[283]
+#As far as we know,they are sound enough,but we have no certain knowledge of their true financial position.
+#우리 회사가 알고있는 바에 의하면, 이 회사는 신용에 그다지 문제가 없다. 그러나 우리는 이 회사의 실제적인 재무상황을 알고 싶다.
+
+[284]
+#The murderer of the antique dealer was alleged to have said:"I filled in a chap and took his money."
+#그 골동품상을 죽인 흉악범이 했던 말에 의하면; "나는 한 녀석을 호되게 때리고, 그의 돈을 가져갔다."
+
+[285]
+#Sun-flower seed oil is also a popular edible oil and a high grade ingredient for making cakes,biscuits and cream etc.
+#해바라기씨기름은 사람들이 좋아하는 식용유이다. 해바라기씨기름은 빵, 과자, 크림 등을 만드는 상등의 원료이다.
+
+[286]
+#I have heard of many similar cases,and knowing you,I know how much you have to offer in work truly fitted to you.
+#같은 류의 상황을 나는 적지않게 들어와서, 너를 아주 잘 이해할 수 있다. 만일 일이 진정으로 너에게 흥미가 있는 것이라면, 너는 아주 잘 할 것이다.
+
+[287]
+#Mother and I will enjoy them at our table for several days,I know,Everything is so new and so exciting.
+#엄마와 나는 이 꽃들을 책상에 놓고 며칠을 감상할 것이다. 이곳의 모든 것은 아주 신선하여, 사람을 흥분시킨다.
+
+[288]
+#A horse is a useful animal.
+#말은 유용한 동물이다. 나는 스스로 다른 사람에게 도움이 되도록 노력한다.
+
+[289]
+#Lamed by a cramp,the young girl limped on gamely and won the match.
+#그 젊은 여자는 비록 발에 쥐가 나서 절뚝거리기는 했지만, 그래도 용감하게 계속하여, 결국에는 시합에서 승리를 거두었다.
+
+[290]
+#At the time all those years of schooling sounded like an eternity to speed in preparation for a career.
+#그때, 그렇게 오랫동안 공부를 하여 준비를 한 이후에야, 일을 시작할 수 있다는 것이, 마치 영원히 이날을 기대하지 못할 것처럼 들렸다.
+
+[291]
+#It is a very expensive camera.I labeled with my English initials in yellow on the back side of it.
+#그것은 아주 비싼 카메라이다. 카메라 가방의 뒷면에, 본인의 영어 이름의 첫째 자모가 황색으로 표시되어 있다.
+
+[292]
+#Known launchings accounted for only 220 of the 973 new objects that were sent up from earth into space that year.
+#그 해에 973개의 물체가 지구로부터 우주로 발사되었는데, 공개된 발사수는 단지 220번에 지나지 않는다.
+
+[293]
+#An attack of fever seems to have crocked him up,but he believes he will be able to come back to work in a few days.
+#그 발열이 거의 그를 무너지게 했는데, 그는 며칠이 안 가서 자신이 일자리로 돌아갈 수 있다고 믿었다.
+
+[294]
+#The offer to become your representative in ...is challenging.When can I introduce myself to you?
+#귀사의 ...지역의 업무대리가 될 수 있다는 것은 매우 매력적인 일입니다. 내가 언제 당신을 만나 제 소개를 할 수 있겠습니까?
+
+[295]
+#Your letter has caught up with me in Nanchang.
+#너의 편지를 남창에서 받았다. 남창에 도착한 후에야 내가 원래 머물렀던 지역으로부터 전해져 온 편지를 받았다.
+
+[296]
+#Without sufficient evidence to support,your claim is untenable,and we can see no point in pursuing it further.
+#당신측의 배상은 충분한 증거가 부족하기 때문에, 이루어질 수 없고, 우리측은 이 일에 대해서 더 발전된 연구를 하는 것은 의의가 없다고 생각한다.
+
+[297]
+#YC20/MAY REGRET D/A UNACCEPTABLE SUGGEST EXCEPTIONALLY D/P SIGHT PLSCABLE ACCEPTANCE
+#문장부적합
+
+[298]
+#It is very bad for you to cork your sorrow up like that; you'd feel much better if you could "let yourself go" .
+#너처럼 그렇게 슬프고 강압적인 것을 마음에 두는 것은, 몸에 아주 나쁘다; 그것을 발산해 내어야, 너는 좀 좋다고 느낄 것이다.
+
+[299]
+#You'd better get up and take a walk in the garden.It's better than lying mewed up all day in this stuffy sickroom.
+#너는 정원에 가서 산책을 하는 것이 좋겠다. 이것이 자신을 온종일 공기가 혼탁한 방에 누워있게 하는 것보다 낫다.
+
+[300]
+#You'll be working with many congenial people,and I'm sure you'll find them capable and cooperative.
+#당신은 의기가 투합하는 많은 동료들과 일하게 될 것이다. 나는 당신이 그들이 아주 능력이 있으며, 매우 잘 합작할 수 있다는 것을 발견하리라고 믿는다.
+
+[301]
+#"I'm fed up with being told what I can do and what I can't do; I'm clearing out.Good-bye!" said George.
+#George는 말했다 : "나는 내가 마땅히 무엇을 해야하고, 무엇을 하지 말아야 하는지를 충분히 들었다. 나는 이제 이 집을 떠나려고 한다. 안녕!"
+
+[302]
+#Tell him that I send congratulations and best wishes and that goes double for you,Marj !
+#내가 그를 축하하며, 가장 아름다운 축원을 보낸다는 것을 그에게 전해 주십시오. 당신에게 나는 당연히 몇배의 축하를 합니다, Marj !
+
+[303]
+#Please quote us for the supply of the items listed on enclosed query form,giving your prices C.I.F. ......
+#동봉한 표에 열거되어 있는 항목을, C.I.F가격으로 제시해 주십시오.
+
+[304]
+#For the amount of your invoice you may cover yourself by drawing upon me at three months' date from the date of invoice.
+#귀사는 송장금액에 따라 우리회사를 지불인으로 하는 환어음을 개설하고, 개설한 날로부터 3개월내에 지불해 주십시오.
+
+[305]
+#We regret we cannot avail ourselves of your offer of these goods because your prices are higher than we are now paying.
+#당신측의 가격이 지금 우리가 지불하는 가격보다 높기 때문에, 우리측은 당신측의 이 상품의 오퍼를 받아 들일 수 없습니다.
+
+[306]
+#Please study carefully our terms and conditions,especially the terms on secrecy,a pre-requisite for this transaction.
+#우리가 제시하는 규정과 조건을 자세히 연구해 주십시오. 특히 양도를 하는 것에 대한 선결조건은 바로 비밀을 지켜야 한다는 조항입니다.
+
+[307]
+#We shall ask the Fair to send an invitation to you,provided you will make a visit and inform us of your intention.
+#귀사가 무역박람회에 가는 것이 타당하다고 생각되어 의향을 알려주면, 우리측은 귀사를 교역회에 초청할 것입니다.
+
+[308]
+#In irrevocable letter of credit in your favour,payable in . .against shipping documents.
+#만일 우리측이 당신측의 오퍼를 받아들일 수 있다면, 당신측을 수익인으로하는 취소불능신용장을 개설하여 ...에 송장을 지불할 것입니다.
+
+[309]
+#Now you've experienced that joy that only a new mother knows as her baby is put into her arms for the first time.
+#지금 너는 처음 어머니가 되는 사람이 처음으로 자신의 아기를 품에 안았을 때 느낄 수 있는 그 즐거움을 몸소 체험하였다.
+
+[310]
+#I would appreciate receiving the Call for Papers,Circulars and other details of Conference.
+#대회의 논문모집공고를 부쳐주고, 이번 회의와 관련된 상세한 자료를 알려주시면, 매우 감사하겠습니다.
+
+[311]
+#Have you obtained option for two days at 5↓; if cannot accept wire firm offer at best.
+#
+
+[312]
+#If there is any further problem,technical or otherwise you wish us to clarify,please cable or write to us at once.
+#기타 기술방면이나 혹은 다른 방면에 우리의 설명이 필요한 곳이 있으면, 즉시 전보나 편지로 우리에게 알려주십시오.
+
+[313]
+#If your equipment is of good quality,and we receive a favourable offer,we may be able to place large orders with you.
+#당신측의 목욕설비의 질이 최상이고, 또한 우혜적인 제시가격을 얻을 수 있다면, 우리는 귀사에 대량의 주문을 하고자 합니다.
+
+[314]
+#Our quotation includes insurance W.A.to be effected with the People's Insurance Company of China.
+#상술한 제시가격에는 중국인민보험공사가 보증인이 되는 기본 보험이 포함되어 있는데, 만일 다른 보험을 더 늘이고자 한다면 당신측이 별도로 부담해야 합니다.
+
+[315]
+#The specifications are there.Could you dope them out and build the boat without blueprints?
+#설계명세서가 여기에 있습니다. 당신은 그것을 도대체 어떻게 한 것입니까, 설계도가 없이 이러한 배를 만들라는 것입니까?
+
+[316]
+#The notification of opening the L/C will reach you through your bankers ,The One Hundredth Band,Ltd.,in a few days.
+#수일 내에, 귀사는 귀사가 거래하는, 동경제일백은행 주식유한공사로부터 개정통지서를 받을 것입니다.
+
+[317]
+#Strangely,the best electrical conductors ,copper and silver,do not become superconductive.
+#말하기 이상하지만, 가장 좋은 전도체는 동이나 은같이 절대영도나 전기가 통할 수 있는 초전도체에 접근할 수 없다.
+
+[318]
+#Having gathered some information about the accident.they got down to its real causes.
+#이 사고와 관련한 모든 자료를 수집한 후에, 그들은 사고가 발생한 진정한 원인부터 진지하게 연구하기 시작했다.
+
+[319]
+#While this company is reliable and of good reputation here ,we are unable to make ourselves responsible for it.
+#비록 이 회사가 이 지역에서 지극히 신뢰를 할 수 있을 뿐만 아니라, 좋은 신용을 갖추고 있지만, 우리는 귀사에 어떠한 보증도 할 수가 없습니다.
+
+[320]
+#I take this opportunity of enclosing the insurance account of Messrs.James & Hills,amount to your debit $7,500.
+#금액이 7,500달러인 JH회사의 보험비 결산서를 동봉하여, 당신측 차방계좌에 기록했습니다.
+
+[321]
+#Much of his work has been discredited because we now know that he used false information.
+#그의 저작 중에서 많은 부분이 이미 사람들의 믿음을 얻지 못하는데, 그것은 우리가 이미 그가 진실하지 않은 자료를 사용했다는 것을 알기 때문이다.
+
+[322]
+#He came back a real hero even in the eyes of those who had not cared for him before.
+#그가 돌아올 때는 이미 진정한 영웅이 되어있었는데, 비록 과거에 그를 그다지 존경하지 않던 사람들의 눈에도 그러했다.
+
+[323]
+#They sailed into the large stack of mail and disposed of it before noon.
+#그들은 의욕적이고 자신감있게 그 많은 우편물을 처리하는데 착수하여, 정오가 되기 전에 모든 처리를 끝냈다.
+
+[324]
+#They're boycotting the shop because the people who work there are on strike to boycott a meeting.
+#그들은 그 상점의 물건을 사기를 거절했는데, 이 상점의 점원들이 한 회의를 연합배척하기 위해서 파업을 하려고 했기 때문이다.
+
+[325]
+#He played off Kane against Carlton until both were too angry with each other to attack him.
+#그는 그 두 사람이 서로 화가나서 그를 공격할 여지가 없을 때까지 Kane과 Carlton의 사이를 이간 시켰다.
+
+[326]
+#Why did he poke about for hours in the old furniture shop? He might have spent the time more usefully.
+#그는 왜 구가구점에서 몇 시간을 헤내는 것입니까? 그는 그 시간들을 의미있는 일을 하는데 이용할 수 있을 것입니다.
+
+[327]
+#It shows how we can avoid robotism and build a society in which the emphasis is on man and not on things.
+#그것은 우리가 어떻게 로버트와 같은 행동을 피할 수 있는지를 보여주었고, 동시에 사람이 결코 사물이 아니라는 것을 강조하는 사회를 건립하였다.
+
+[328]
+#She does fuss the children about so-making sure they're well wrapped up ,and worrying about minor illnesses.
+#그녀는 분명히 아이들을 따뜻하게 입힐 것이다, 그들의 작은 병에도 안절부절 못하는데, 그녀의 그들에 대한 관심은 정말 너무 지나치다.
+
+[329]
+#She kept saying that she was sorry for what she'd done,she'd never do it again,it was just a mistake,and so forth.
+#그는 자신이 한 일들이 유감스럽고, 그것은 단지 한 순간의 실수일 뿐이며, 다시는 그런 실수를 하지 않겠다는 등의 말을 계속해댔다.
+
+[330]
+#Tom has many mouths to feed.So his brother often helps out from his pay.
+#Tom은 많은 식구를 부양해야만 한다. 그래서 그의 형제들은 가끔 자신의 월급에서 일부분을 내어 그를 돕는다.
+
+[331]
+#This will introduce to you Mr.Yang Pei-lin,our new Export Manager,who is visiting our customers in San Francisco.
+#당신에게 편지로 우리 회사의 신임 수출부사장 양배림선생을 소개하는데, 그는 현재 우리회사의 샌프란시스코 고객을 방문하고 있습니다.
+
+[332]
+#Indeed,you've learnt to pronounce better than your brothers,but is it any reason for you to get puffed up?
+#학습을 통해서, 너의 발음이 확실히 너의 형제들 보다 낫긴하지만, 이것이 네가 교만한 이유가 되는 것입니까?
+
+[333]
+#Meanwhile,make more use of the library.it's quieter and provides a more conducive atmosphere for serious studying.
+#동시에, 너는 도서관에 더 자주 갈 수 있는데, 그곳은 조용하여, 너에게 열심히 공부할 수 있는 더 좋은 환경을 제공해 줄 것이다.
+
+[334]
+#This will give us an opportunity to talk about investment and exchange views.Do let me know if you can make it.
+#만찬은 우리가 투자문제를 토론하고 의견을 교환하는 더 좋은 기회를 제공하기 위한 것입니다. 당신이 참석할 수 있는지를 사전에 나에게 통지해 주십시오.
+
+[335]
+#We acknowledge with thanks the receipt of the cheque for ＄31,250,in settlement of your account to 15th May.
+#기한이 5월 15일인 당신측의 대금을 결제하기 위해서, 당신측이 부친 면액 31,250달러의 수표를 우리는 이미 받았습니다.
+
+[336]
+#In payment of your invoice of the 5th May,for cotton yarn amounting to ＄98,000,I enclosed a cheque in settlement.
+#당신측의 5월 5일의 송장금액, 면사가 98,000달러를 결제하기 위해서, 수표를 한 장 동봉합니다. 사수하여 주십시오.
+
+[337]
+#To better my preparation for future study,I need your advice as to what books in Food and Nutrition I should review.
+#앞으로의 학습을 더 잘 준비하기 위해서, 나는 어느 식품학과 영양학 방면의 책을 복습해야 하는지, 가르침을 청하고자 합니다.
+
+[338]
+#We can allow a 2% discount on all orders of $600 in value and over,orders exceeding $2,000 are subject to 3% discount.
+#우리는 600달러 이상의 주문에는 2%를 할인해 주고, 2000달러가 넘는 주문은, 3%를 할인해 줍니다.
+
+[339]
+#Our terms are cash within three months of date of delivery,or subject to 5 per cent.discount if paid within one month.
+#우리 회사의 조건은 : 화물을 인도한 날로부터 3개월 내에 반드시 현금으로 지불을 한다는 것입니다. 만일 1개월 내에 지불을 하면, 5%를 할인해 줍니다.
+
+[340]
+#It is of course a matter of serious concern with us always,when our goods are not promptly and properly delivered.
+#우리 회사는 부친 상품이 신속하고 안전하게 사는 측의 수중에 도착하지 못할까, 늘 신경이 쓰이고, 매우 불안합니다.
+
+[341]
+#I shall be delighted to accept your invitation to dinner on Saturday the nineteenth,and afterwards at the Auditorium.
+#나는 매우 기쁘게 당신의 초청을 받아들여서, 19일(토요일)에 거행하는 만찬회에 참석을 하고, 아울러 이후에 강당에 가서 공연을 볼 것입니다.
+
+[342]
+#In June of 1987,I will graduate from Beijing Normal University with a BA.in Library science.
+#나는 1987년 6월에 북경사범대학 도서과학과 본과를 졸업하고, 아울러 도서관학 학사학위를 받을 것입니다.
+
+[343]
+#I am having a small huncheon here on Wednesday,the fourteenth January,at one o'clock,and I do hope you can come.
+#나는 1월 14일(수요일) 1시에 집에서 작은 점심파티를 거행하고자 하는데, 당신도 참가해 주시기를 바랍니다.
+
+[344]
+#I am having a small huncheon here on Wednesdy,the fourteenth,at one o'clock,and I do hope you can come.
+#나는 1월 14일(수요일) 1시에 집에서 작은 점심파티를 거행하고자 하는데, 당신도 참가해 주시기를 바랍니다.
+
+[345]
+#Instead,I find friends who have cable TV and VCRS,and I watch movies at their houses.It's much cheaper that way.
+#나는 친구들을 사귀었는데, 그들은 유선 텔레비전과 비디오가 있어서, 나는 그들의 집에서 영화비디오를 보는데, 이렇게 하면 매우 싸다.
+
+[346]
+#We went to the party in fancy dress; John was dressed as Julius Caesar and I went as Queen Elizabeth I.
+#우리는 모두 무도회에 참가하기 위해서 화장을 했는데, John은 Julius Caesar분장을 하고, 나는 Elizabeth 1세여왕의 분장을 하였다.
+
+[347]
+#To meet you halfway,what do you say to 50% by L/C and the balance by D/P?
+#우리 모두 한발씩 양보를 합시다, 물건 가격의 50%는 신용장을 이용하고, 나머지는 지불송장을 이용했으면 하는데, 당신 생각은 어떻습니까?
+
+[348]
+#We could have a really relaxed time,go on a few little sprees hereabouts,dip in the lake,and have some picnics.
+#우리는 가볍고 즐겁게 놀고, 부근의 몇 곳을 돌아다니며, 호수에 가서 손도 담그고, 또 소풍도 갈 수 있다.
+
+[349]
+#We think it more advisable for you to handle our No.15,and we would like to discuss the prospect of sale with you.
+#우리는 당신측의 우리측의 제 15호 화물을 채용할 것을 건의하며, 당신측과 우리들 쌍방의 판매예측에 관해서 토론하기를 원합니다.
+
+[350]
+#We're having some friends in for cocktails on Friday,June the eighth,from four to six.Can you and Bill come?
+#우리는 6월 8일(금요일) 4시에서 6시에 칵테일파티에 몇 명의 친구를 초대하려고 합니다. 당신과 Bill도 올 수 있습니까?
+
+[351]
+#We have seen your advertisement in "The Still Life" and are interested in your metal boxes and knives of all kinds.
+#우리는 당신이 "The Still Life"의 광고에 실린 것을 보고, 귀사의 금속상자 및 여러가지 칼에 관심이 있습니다.
+
+[352]
+#We can supply most models from stock and are prepared to supply you with fine quality camera if you need it.
+#우리는 현물 중의 많은 기종을 공급할 수 있는데, 만일 당신이 필요한 것이 고품질의 카메라라면, 우리는 당신에게 공급할 수 있습니다.
+
+[353]
+#We understand that the unfortunate event is an exception,and are willing to grant you the extension asked for.
+#우리는 이번의 불행한 사건이 하나의 예외일 뿐이라고 이해하고, 당신측의 지불연기 요구에 동의하고자 합니다.
+
+[354]
+#We are sure that you will find a ready sale for this excellent quality and it will give you complete satisfaction.
+#우리는 당신이 이러한 종류의 완전한 품질의 상품은 이미 상당히 좋은 판매시장을 가지고 있다는 것을 알게 될 것이며, 그것이 당신을 아주 만족시킬 것이라고 확신합니다.
+
+[355]
+#We received your cheque,value ＄250,000 which we have passed to your credit on account.
+#우리는 당신측의 면액 250,000달러의 수표를 한 장 받았는데, 이 대금은 우리가 이미 당신측이 외상대출장부에 기록하였습니다.
+
+[356]
+#We were extremely busy,but that is no excuse.Will you please say what settlement would be most acceptable to you?
+#우리가 비록 매우 바쁘지만, 이것은 이유가 안됩니다. 우리는 귀사가  귀사에 가장 유리한 해결방법을 우리측에 알려주시기를 바랍니다.
+
+[357]
+#The help we need is simple that you tell us why you do not buy from us any more.
+#우리가 필요한 도움은 아주 간단한 것입니다. 당신이 우리에게, 당신이 우리 회사에 더 이상 물건을 주문하지 않는 이유를 알려주시기만 하면 됩니다.
+
+[358]
+#We want to make a settlement which will thoroughly satisfy you.What do you suggest would be fair?
+#우리는 귀사가 만족할 수 있는 해결방법을 채용하기를 원합니다. 그러나 어떻게 해야 귀사가 공평하다고 여길지 모르겠으니, 알려주십시오.
+
+[359]
+#We hope you will favour us with your orders,which shall have our best attention to give you entire satisfaction.
+#우리는 귀사의 주문을 받을 수 있기를 원합니다. 우리는 최선을 다해서 귀사를 위해 서비스할 수 있으며, 귀사로 하여금 만족하게 할 수 있습니다.
+
+[360]
+#We are inviting five of Ruth's friends to spend the week-end with us at The Willows,July 14-17.Will you join us?
+#우리는 지금 Ruth의 다섯 친구를 청해서 7월 14일부터 17일까지 Willows에서 우리와 함께 주말을 보내고자 합니다. 당신도 참가하시겠습니까?
+
+[361]
+#We always dislike refusing requests of any kind from regular customers,but regret we have no choice but to do so.
+#우리는 줄곧 오랜 고객들이 제시하는 어떠한 요구도 거절하기를 원하지 않습니다. 그러나 유감인 것은 우리가 다른 선택의 여지가 없이, 상술한 요구를 거절할 수밖에 없다는 것입니다.
+
+[362]
+#We are in receipt of your letter of the 5th June,enclosing a cheque for ＄88,000,for which we thank you.
+#우리는 당신측의 6월 5일 편지 및 편지에 동봉한 면액 88,000달러의 수표를 받았습니다. 매우 고맙습니다.
+
+[363]
+#We have this day drawn the following bill of exchange on your esteemed firm No.123,＄500,000,payable at sight.
+#우리는 오늘 귀사에 일람출급어음인 제123호 면액 500,000달러의 환어음을 한 장 개설합니다.
+
+[364]
+#We saw your ladies' suits at the Paris Fashion Show held in ......on October 18.
+#우리는 10월 18일에 거행한 파리패션쇼에서 귀사의 여성복을 보았습니다.
+
+[365]
+#We will have to sleep on your invitation until we know whether we will be free Monday night.
+#우리는 잠시 당신의 초대를 받아들일 수 없습니다. 우리가 월요일 저녁에 시간이 있는지 없는지를 알아야만 결정을 할 수 있습니다.
+
+[366]
+#After long years of satisfactory trading we feel that we are entitled to easier terms.
+#우리들이 장사를 한지도 이미 여러해가 되었는데, 상황은 아주 만족스럽습니다, 그러므로 우리측은 지불조건완화를 요구할 만한 자격이 있다고 생각합니다.
+
+[367]
+#Your name was given us by Messrs.Far East & Co.,Ltd., ... .who have been regular customers of yours for some years.
+#우리는 원동공사를 통해서 귀사의 명칭을 알게 되었습니다.---원동공사가 귀사의 고객이 된지도 이미 여러해가 되었습니다.
+
+[368]
+#Am I to understand that My expenses in Japan for these two meetings (IAMA and XXI) will be paid locally?
+#일본에서 열리는 제21기 연회와 다변회의, 이 두 가지 회의의 비용을 일본에 도착한 후에 다시 지불해야 하는지를 알 수 있겠습니까?
+
+[369]
+#My only regret is that Todd and I didn't meet ten years ago so Mom could've seen her dream come true.
+#나의 유일한 유감은, Todd와 내가 십년 전에 만나지 못했기 때문에, 어머니가 그녀의 바람이 현실로 이루어 지는 것을 보지 못했다는 것입니다.
+
+[370]
+#Thank your for you letter of May 25,in which you offer me a position of computer programmer.
+#나는 당신에게 반드시 최선을 다해서 일을 할 것을 보장합니다. 당신이 5월 25일 편지에 나를 컴퓨터프로그래머로 채용해 준 것에 매우 감사를 드립니다.
+
+[371]
+#I have asked two friends whom I think you will like; and perhaps we can Iisten to some music in the afternoon.
+#나는 이미 두 분의 친구를 초대했는데, 당신도 그들을 좋아할 것이라고 생각합니다. 오후에 우리는 아마도 음악을 감상할 수 있을 것입니다.
+
+[372]
+#My GPA in the university was 4,and I plan to take TOEFL and GRE in October and December,1990,respectively.
+#나의 대학에서의 각과목 총평균성적은 4점이고, 아울러 1990년 10월 12일에 TOEFL 과GRE시험을 각각 통과할 예정이다.
+
+[373]
+#The many meals you fed Al and the girls and the times you baby-sat while I was in the hospital were so appreciated!
+#내가 병원에 입원해 있을 때, 네가 Al과 나의 딸을 위해서 밥을 해주고, 우리를 대신해서 아이를 돌보아 주었는데, 이러한 모든 것에 대해, 나는 고마움을 금치 못한다.
+
+[374]
+#It contains the liquid of "Cordyceps",milk,high class fatty alcohol and special efficacious whitening agent.
+#그것은 "동중하초"액에, 신선한 우유, 그리고 고급지방산 및 특효 광택제 정제를 배합하여 만든 것이다.
+
+[375]
+#This will confirm reservation made by phone on Monday for two box seats for the afternoon of March 10 for "King Lear".
+#우리가 월요일에 전화로 예약한 3월 10일 오후 "리어왕" 연극의 특별석표 두 장을 확인해 주십시오.
+
+[376]
+#By now you must be well settled in Elmhurst and,being you,you must have made many friends already.
+#지금 너는 아마도 Elmhurst에 정착을 했을 것인데, 너의 성격으로 볼 때, 아마도 이미 적지않은 친구를 사귀었을 것이다.
+
+[377]
+#Thank you for coordinating a fun event,saving me from sad goodbyes and teary speeches.
+#우리들이 이별하는 자의 슬픔과 말하는 자의 눈물을 피할 수 있도록, 당신이 이렇게 재미있는 자리를 만들어 주어서 고맙습니다.
+
+[378]
+#Much thanks your favour of yesterday with a cheque,value ＄600,000,which we have passed to your credit.
+#당신이 어제 편지를 보내 주어서 고맙습니다. 편지에 동봉해서 부쳐주신 면액 600,000달러의 수표를 우리는 이미 당신측 대변계좌에 기록하였습니다.
+
+[379]
+#Many famous actors began their careers as stage hands in summerstock.
+#많은 유명한 남자 배우들은, 모두 summerstock에서 무대 관리를 맡으면서 그들의 무대 인생을 시작한다.
+
+[380]
+#Adam's boss had a good sales territory but was always afraid that someone might chisel in (on it).
+#Adam의 사장은 아주 좋은 판매지역을 가지고 있는데, 그는 늘 누군가가 그의 판매지역을 암암리에 침입할까 걱정한다.
+
+[381]
+#Had we received your request earlier,we should have been able,and would have been glad to help you.
+#만일 우리가 당신측의 요구를 좀 더 일찍 알았더라면, 우리는 아마도 당신들을 도울 수 있었을 것이고, 아울러 기꺼이 이렇게 했을 것입니다.
+
+[382]
+#Generally,shipment can be effected within 30 days after receipt of your official order.
+#일반적으로 말해서, 당신측의 신용장을 받은 후 30일 내에 물건을 선적하는데, 당신측의 정식주문을 받으면, 구체적인 시간을 확정할 수 있습니다.
+
+[383]
+#The goods are to be packed in tin-lined cases,and the contents of each case clearly marked on the outside.
+#모든 화물은 함석이나 납지를 이용한 나무 상자에 포장을 해야하며, 아울러 케이스에는 그 안에 싸여있는 물품을 확실하게 표시해야 합니다.
+
+[384]
+#After studying our prices you will understand why we are working to capacity to meet the demand.
+#당신측이 우리측의 가격을 연구해 보았다면, 우리가 왜 부담을 가지고 생산을 해서 시장수요를 만족시키는지를 이해할 수 있을 것입니다.
+
+[385]
+#With reference to your inquiry of May 13,we confirm that we can supply the cloth in question at US$30 per yard.
+#귀사의 5월 13일 문의서에 근거해서, 우리 회사는 우리가 1야드에 30달러의 가격으로 당신에게 옷감을 공급할 수 있다는 것을 확신합니다.
+
+[386]
+#As usual,we have drawn upon you for the amount at 30d/s through the Mitsuki Bank of Tokyo.
+#관례에 따라, 우리는 이미 동경삼목은행을 통해서, 상술한 금액에 따라, 당신에게 일람후 30일에 지불하는 환어음을 개설하였습니다.
+
+[387]
+#Enclosed we hand you P/N at one month for ＄1,000,000 in settlement of account as per agreement.
+#협의에 근거해서, 대금을 결제하기 위해, 일개월이 기한인, 면액 1,000,000달러 수표 한 장을 동봉하니, 사수하여 주십시오.
+
+[388]
+#We are having difficulties in obtaining the materials needed for your order of...and thus must reject same.
+#귀사의 ...월...일 주문서에서 필요로 한 원료에 문제가 발생했기 때문에, 부득불 이 주문을 거절할 수밖에 없습니다.
+
+[389]
+#The dosage was geared down to a level which would work on the infected cells but not upset their normal metabolism.
+#복용량을 이렇게 줄이는 것은, 감염된 세포에 작용을 일으키게는 할 수 있지만, 정상적인 신진대사에 영향을 미칠 정도에 이르지는 않는다.
+
+[390]
+#Your name was given to us by the Nan Xin Trading Co.,Ltd., .....in connection with the supply of Scotch Whisky.
+#남신무역주식유한공사로부터, 우리는 귀사가 스카치위스키를 공급할 수 있다는 것을 알았습니다.
+
+[391]
+#We state that your draft,No.2345,for ＄2,500,000,duly accepted by Mr.Yano,had been dishonored by non-payment.
+#Yano선생이 인수한 당신측의 환어음 제2345호, 면액 2,500,000달러가, 이미 지불이 거절되었으므로, 이에 알립니다.
+
+[392]
+#Judging by your fine record at college we are certain that you will be in whatever career you pursue.
+#너의 대학에서의 성적이 우수하기 때문에, 우리는 네가 어떠한 직업에 종사하든지, 모두 같은 성공을 거두리라고 믿는다.
+
+[393]
+#I/We regret that I/We can't make it because of a previous engagement/full schedule/business trip at that time.
+#우리는 이미 약속이 있어서/모든 스케줄이 꽉 차서/출장을 가야하기 때문에, 이번 만찬/오찬/에 참석할 수 없습니다. 매우 죄송합니다.
+
+[394]
+#The editorial work has always had a great appeal to me as I have some ability in writing and editorial work.
+#나는 습작과 편집방면에 어느정도 능력이 있기 때문에, 편집일은 줄곧 나에게 굉장한 매력이 있었다.
+
+[395]
+#Owing to the very large orders we have taken at the exhibition,we cannot promise delivery within four weeks.
+#전시 기간에 대량의 주문을 받았기 때문에, 우리 회사는 당신이 주문하신 물품을 4주내에 운송할 수 있다는 보장을 할 수가 없습니다.
+
+[396]
+#Cosmic rays and Geigertubes have been combined in a new altimeter to tell the pilots what their altitudes are.
+#우주선과 가이슬러관이 이미 연결이 되어 비행원에게 그들의 고도가 얼마인지를 알려주는 일종의 새로운 고도계가 되었다.
+
+[397]
+#More and more food companies used commodity futures to hedge against sudden changes in the value of their foodstuffs.
+#갈수록 많아지는 식품회사는 그들의 원료가격이 갑자기 변하는 것을 막기 위해서, 모두 선물거래를 진행하여 손실을 피하고 있다.
+
+[398]
+#In the sentence "If I were you I would complain to the director","were" and "would" are subjunctives.
+#"If I were you I would complain to the director" 이 문장에서, "were"과 "would"의 용법은 가정어기이다.
+
+[399]
+#There must be some lake or lodge halfway between South Dakota and Georgia where we could meet.
+#South Dakota와 Georgia주 사이의 반정도에, 우리가 만날 수 있는 호수나 혹은 산장이 반드시 있을 것이다.
+
+[400]
+#Best wishes from me on your engagement.I hope you will have nothing but joy and happiness in your life together.
+#당신들의 약혼에 즈음하여, 나의 가장 아름다운 축복을 받아주십시오. 나는 당신들이 함께 생활을 하는 중에 비할 데 없이 즐겁고 행복하기를 바랍니다.
+
+[401]
+#We are pleased that during our discussions last week we reached agreement of the proposed joint venture in Australia.
+#지난번 회담에서, 우리들 쌍방은 오스트리아에, 합자회사를 설립하는 일에 협의를 달성했다. 이에, 우리는 매우 만족한다.
+
+[402]
+#In the field of good sauces, .........sauce "Wei-Wei" has been considered the best for quite a long time.
+#장류식품에 있어서, "Wei-Wei"는 오랫동안 줄곧 가장 좋은 것으로 여겨져왔다.
+
+[403]
+#In group therapy,patients can act out their problems.
+#그룹치료요법을 하는 중에, 환자들은 자신도 모르는 사이에 그들의 문제를 표출해 내서 억압받는 정서를 드러낸다.
+
+[404]
+#In capitalist countries,a big firm often eliminates its competitors by buying them out.
+#자본주의 국가에서, 대상들은 종종 돈으로 경쟁자의 재산을 사들이는 방법으로 그의 적수를 소멸시킨다.
+
+[405]
+#We'd better put the meeting off until tomorrow so that I can ring around now to see if everybody is free to come.
+#내가 지금 사람들에게 전화를 해서 참가할 시간이 있는지 없는지를 물어보고, 이 회의를 내일로 미루어 개최하는 것이 좋겠다.
+
+[406]
+#We have no doubt you will approve of these sales; indeed,we are so pleased with the result.
+#이번 판매에, 귀사가 반드시 찬성을 표하리라 믿습니다. 사실 우리는 이번 교역의 결과에 만족을 하고 있습니다.
+
+[407]
+#On this Valentine's Day,instead of a card,I'm writing a letter to tell you how much I love you and appreciate you.
+#이 발렌타인데이에, 내가 너에게 카드를 보내지 않고, 이렇게 편지를 쓰는 것은, 내가 너를 얼마나 사랑하고, 고마워하는지를 알리고 싶어서이다.
+
+[408]
+#That is the problem on which we ask your help because your name propped up in our sales record this year.
+#이것은 우리가 당신에게 도움을 청해서 해결해야하는 문제인데, 귀사의 이름이 우리회사의 금년 판매자료에 나와있기 때문입니다.
+
+[409]
+#It enabled us to have a welcome bath,and generally ease off after our first taste of mountaineering.
+#이것은 우리들로 하여금 아주 편안하게 느끼게 하는 목욕이고, 아울러 처음으로 등산을 한 후에 보편적으로 느끼는 여유로움입니다.
+
+[410]
+#That's great news about you and Laura! She's a wonderful girl in every way,and I congratulate you on your good fortune.
+#이것은 당신과 Laura의 좋은 소식이군요! 여러 방면으로 볼 때, 그녀는 아주 좋은 아가씨입니다. 나는 당신들의 행복을 축하합니다.
+
+[411]
+#The birds are seeing all those films I've wanted to see but can't in Chaptow,and seeing you.
+#이렇게 하면 내가 보고 싶었던 모든 것, 그리고 Chaptow에서 보지 못했던 영화까지 모두 볼 수 있고, 게다가 너를 보러갈 수 있는 기회가 된다.
+
+[412]
+#Payment: 100% by irrevocable and confirmed letter of credit to be opened in our favour and to be drawn at sight.
+#지불조건 : 일람출급환어음지불의 확인 취소불능신용장으로 지불한다. 신용장은 우리측을 수익인으로 한다.
+
+[413]
+#Till then,keep plugging away.Your mom and I are proud of you and confident that everything will turn out just fine.
+#열심히 노력하기만 하면, 이날은 꼭 올 것이다, 나와 너의 어머니는 너에게 매우 만족하며, 모든 것이 좋아지리라고 굳게 믿는다.
+
+[414]
+#China Ginseng Wine is made of well aged choice grape wine and Ginseng produced in Northeast China by scientific method.
+#중국 인삼와인은 상등의 포도주를 사용하는데, 장기간 빚어서, 우리나라 동북인삼을 배합하고, 과학적인 방법을 채용하여 만들어진 것이다.
+
+[415]
+#We herewith hand you an order for 40 Hhds.of old wine not inferior to that received per m/s "Manila Maru".
+#여러해 묵은 포도주 40통의 주문서 한 부를 동봉하는데, 그 질은 지난번에 "Manila"호에 선적하여 운송해 온 것보다 떨어져서는 안됩니다.
+
+[416]
+#Michael keeps looking for Bob.He can't understand where he's gone.And I miss Bob's looking out for Michael.
+#도처에서 Bob을 계속 찾았는데, 그는 도대체 Bob이 어디로 갔는지 알 수가 없었다. 나도 또한 과거에 Bob이 Michael을 찾으로 오던 날들이 그립다.
+
+[417]
+#Finally,we want to take this opportunity to beg him to convey our profound friendship and best regards to his people.
+#마지막으로, 나는 이 기회를 빌어서 톰슨교수를 청하여 우리의 두터운 우의를 전달하고, 그의 동포에게 좋은 축원을 표하고 싶다.
+
+[418]
+#The tendon had been so skillfully grafted in that the boy was able to flex his finger quite normally after four weeks.
+#힘줄접합수술이 매우 잘 되어서, 그 소년은 4주 후에, 매우 정상적으로 그의 손가락을 펼 수 있었다.
+
+[419]
+#The quality and specifications are much improved at very little exclusive sale and so the selling number is very great.
+#우리 회사는 극소한 초과비용을 사용하여서, 이 기종의 기계의 품질과 규격을 많이 향상시켰고, 이 때문에 판매량이 매우 커졌다.
+
+[420]
+#The above-named is highly respectable and a partner in......We think that he or his firm is quite good for your figures.
+#이 사람은 매우 신망이 높고, 또한 동료가 될 만한 사람입니다. 우리는 귀사가 말한 금액에 대해서, 이 사람이나 혹은 그의 회사는, 문제를 삼지 않을 것이라고 생각합니다.
+
+[421]
+#Starting today I refuse to read the funnies till I hear from you.(I was going to hold my breath,but changed my mind.)
+#오늘부터 시작해서, 나는 너의 편지를 받을 때까지 어떠한 우스운 이야기도 읽지 않을 것입니다. 나는 본래 더 이상 숨을 쉬지 않으려고 했지만, 생각을 바꾸었습니다.
+
+[422]
+#It takes a lot of skill on his part to chop up hours of tape and give the programs continuity.
+#몇 시간의 녹음테이프 재료를 단번에 잘게 토막치고, 동시에 프로그램에 일관성이 있게 하려면, 이것은 그가 뛰어난 기술이 있어야 되는 것이다.
+
+[423]
+#But if we canfind common ground to work together,the chance for world peace is immeasurably increased.
+#그러나, 만약 우리가 합작을 진행하는 공통점을 찾을 수 있다면, 그렇다면 생각할 여지없이 세계평화를 실현하는 기회는 크게 증대되는 것이다.
+
+[424]
+#But while we cannot close the gulf between us,we can try to bridge it so that we may be able to talk across it.
+#그러나, 비록 우리가 우리들 사이의 격차를 메우지는 못하지만, 우리가 그것을 뛰어 넘어 회담을 진행할 수 있도록 다리를 건설할 수는 있을 것이다.
+
+[425]
+#S/C2637 ZINCSHEETS DELIVERIST NEXTMONTH OTHERWIUSE CANCEL ORDER RESERVING CLAIM RIGHTS
+#문장부적합
+
+[426]
+#Enclosed you will find a bill of lading,and an invoice of the same,the amount of the latter ＄500,000 to your debit.
+#우리가 선하증권과 송장을 각각 한 부씩 부쳤으니, 사수하여 주십시오. 면액 500,000달러의 어음을 발행하여, 이미 귀사의 차방계좌에 기록하였습니다.
+
+[427]
+#This communication is private and confidential and for your use only,and without responsibility on our party.
+#이것은 당신이 참고하도록 제공하는 것일 뿐이니, 이 편지의 내용에 대해서 반드시 비밀을 엄수하여 주시기 바랍니다. 이밖에, 우리는 상술한 내용에 관해서 법적인 책임을 지지 않으니, 양해해 주시기 바랍니다.
+
+[428]
+#For the amount of your invoice you may cover yourself by drawing upon me at three months from the date of the invoice.
+#당신측의 어음금액에 대해서, 당신측은 우리측을 지급인으로 하는, 어음을 발행한 날로부터 3개월후에 지불하는 환어음을 개설할 수 있습니다.
+
+[429]
+#PAYMENT:By a prime banker's irrevocable sight L/C in SELLERS' favor,for 100% value of goods.
+#지불 : 일류은행의 취소불능신용장에 의거해 지불하고, 신용장은 파는측을 수익인으로 하며, 물건금액의 100%를 지불한다.
+
+[430]
+#Terms,net cash 30 days,or,less 2% 10 days Interest charged at the rate of 6%　after maturity.
+#지불조건 : 30일 후에는 전액 현금으로 지불하고, 10일 후에 현금으로 지불하면 2%를 할인하고, 기한이 지난 후에 지불할 때는 이율이 6%인 이자를 더한다.
+
+[431]
+#The market will not stand a high-priced line; we have in mind your "Softweight" coat Women's and Men's designs.
+#고가의 상품은 이 시장에 적합하지 않은데, 이 점은 우리가 귀사의 "Softweight"코트, 남성복 및 여성복 디자인에 대해 아직도 기억에 생생합니다.
+
+[432]
+#Your draft under date of the 7th Oct.,at 30 days' date to your own order,will be duly honoured.
+#당신측이 10월 7일 발생한, 액면기한 30일 후 지불하는, 당신측이 지불인으로 지정되어 있는 환어음을, 제때에 현금으로 바꿀 것입니다.
+
+[433]
+#Please advise us if your customer will take the remaining 500 ibs.,at the same price,for June shipment.
+#가격은 이전과 같고, 6월에 화물을 인도하는데, 귀사의 고객이,남은 500파운드의 화물을 구입할 의향이 있는지를 편지로 알려주십시오.
+
+[434]
+#BUTTERFLY SEWINGMACHINE 1000SETS SHIPPED SSTSINAN VALUE STG25000 HAVE DRAWN ON YOU SIGHT THROUGH BANK CHINA
+#나비표 재봉틀 천대가 이미 "제남"호에 선적이 되었으며 총액은 25,000파운드이며, 중국은행을 통해서 당신에게서 찾는 일람출급환어음을 이미 개설했습니다.
+
+[435]
+#His wife gave Jim an alibi by saying that he was at home with her on the night of robbery.
+#Jim의 아내는 그의 남편이 현장에 없었다는 것을 해명하기 위해서, 강도사건이 발생한 그날 저녁에 그는 그녀와 함께 집에 있었다고 말했다.
+
+[436]
+#Enclosed is an invoice value ↔35.05d net for which we have drawn on you at 10d/s.
+#금액 35.05파운드의 송장 한 부를 동봉합니다. 이에 우리는 귀사를 지불인으로 하는 일람후 10일에 지불하는 환어음을 개설합니다.
+
+[437]
+#Coming into the stretch,the big horse was third ,but he began to pull up and won by a nose.
+#골인점 전의 직선코스에 진입했을 때, 3위를 달리던 이 큰 말이, 따라잡기 시작하여, 결국에는 근소한 차로 승리를 거두었다.
+
+[438]
+#I wish you to send me a $15 camera as advertised in the "Outlook".
+#"전망"잡지에 실린 광고에 나온 그 종류와 같은, 판매가가 15달러인 카메라를 한 대 부쳐주십시오.
+
+[439]
+#Please let us have the invoice,and draw upon us by a bill of exchange at two months after date for the amount of same.
+#송장을 즉시 우리 회사에 부쳐주십시오. 이 송장면액에 관해서는, 우리 회사를 지불인으로 하는 발행후 2개월에 지불하는 환어음이면 좋겠습니다.
+
+[440]
+#According to the newspapers the prime issue in the walkout is wages ,which were eaten away by inflation.
+#신문보도에 따르면, 이번 파업을 일으킨 주요 문제는 임금문제인데, 통화팽창으로, 노동자들의 임금이 침해를 받았기 때문입니다.
+
+[441]
+#Puffed up by wait is known as"success",Curtis behaved as if he had owned the universe.
+#Curtis는 소위 "성공"을 했다고 의기양양한데, 그의 행동거지로 볼 때, 그가 마치 온 우주를 차지한 것만 같다.
+
+[442]
+#The TVs supplied here covering the same brand were not of the quality we had expected for the price quoted.
+#게다가 이 시장에서 팔고 있는 귀사가 생산한 같은 상표의 텔레비전은, 가격에 있어서도 우리가 요구하는 품질에 미치지 못합니다.
+
+[443]
+#The setback in the Malaysian tin market was bigger than expected,triggering stop-loss selling in London.
+#말레이시아 주석시장의 반등이 예상보다 매우 커서, 런던에서는 손실을 제한하는 덤핑이 야기되었다.
+
+[444]
+#Mantle slammed his third round-tripper of the day 21st of the season.
+#Mantle은 하루 내에 세번째 홈런을 쳤는데, 그것은 올해 야구시즌이 개막된 이래 그가 쳐낸 21번째 홈런이다.
+
+[445]
+#He fumed at the casualness of the waiter who kept him waiting for half- an- hour and them served half-cold soup.
+#그 점원은 그를 30분이나 기다리게 한 후에야 비로소 다 식어서 차가운 음식을 가져다 주었는데, 그는 이렇게 소홀한 서비스에 매우 화가났다.
+
+[446]
+#Dying,the red Army man gasped out his last words to his comrades:" Fight to the end for the cause of communism."
+#그 홍군전사는 임종할 때에 숨을 헉헉거리며 동지들에게 최후의 한마디를 하였다 : "공산주의 사업을 위해 끝까지 투쟁하라."
+
+[447]
+#YC20TH OFFERFIRM UNTIL25TH 10000M/T SUGAR USD105 PERM/T FAS NET HAMBURG PLSREPLKY BYCABLE
+#
+
+[448]
+#You may say what you like in his defence ,but you can't get over the fact that he knew he was doing wrong.
+#네가 그를 위해서 기꺼이 변호를 하는 것은 어쩔 수 없다, 그러나 너는 이러한 사실을 부인할 수 없다 : 그는 자신이 한 행동이 옳지 않다는 것을 확실히 안다.
+
+[449]
+#L/CH20094 STIPUTATES 130PCT INVOICE VALUE BUT CONTRACTED 110PCT PLSAMEND
+#신용장 H20094호 규정에 송장금액의 130%를 보험에 든다고 되어있으나 계약규정에는 11%를 보험에 든다고 되어있으니 수정하여 주십시오.
+
+[450]
+#Will you please help route me from Beijing by airline to Tokyo,via the following cities,with stopovers as indicated:
+#당신은 나의 비행노선을 안배해 줄 수 있습니까? 나는 비행기를 타고 북경에서 동경으로 가려고 하며, 경유하는 도시와 머무는 시간은 아래와 같습니다.
+
+[451]
+#PLSOFFER BYCABLE CIFC3 LAGOS 300PCS FLYJNGFLOWER BICYCLES INDICATING TERMS PAYMENT TIMESHIP
+#비화표자전거 LAGOS 300대의 CIFC3를 지불방식과 화물인도 시기를 명시하여 전보로 보내주십시오.
+
+[452]
+#Words seem so useless at a time like this,but I had to let you know how much I care and how much I hurt with you.
+#어떠한 말도 이러한 때에는 소용이 없겠지만, 나는 당신들로 하여금 내가 얼마나 그를 사랑하며, 이러한 때에도 나도 또한 당신들과 같이 슬프다는 것을 알도록 하고 싶다.
+
+[453]
+#We confirm having made by cable the following offer in response to your telegraphic enquiry of ____,19_____:
+#아래의 전보오퍼를 확인하는데, 이 오퍼는 귀사가 19..년 ..월..일 전보로 문의한 것에 대한 회답입니다.
+
+[454]
+#We supply you with our prices at 15% below export list prices at 90 d/s on D/A.
+#만일 귀사가 일람후 90일의 장기 인수인도지불로 할 수 있다면, 우리는 수출가격보다 15% 낮은 가격으로 상품을 공급할 것입니다.
+
+[455]
+#"There is only one breakfast," Smith said."why don't you break down," Jones said,"and ask for another cup? "
+#Smith가 말하기를 : "단지 한끼의 아침식사밖에 없습니다." Jones가 말하기를 : "당신은 왜 그것을 둘로 나누지 않습니까? 컵만 하나 더 있으면 되지 않습니까?
+
+[456]
+#He told us he was an Englishman,but was soon caught out when he pronounced some words in an apparently un- English way.
+#그는 우리에게 그가 영국사람이라고 말했는데, 곧 들통이 났다, 왜냐하면 그의 몇 단어의 발음이 영국의 습관과는 전혀 맞지 않았기 때문이다.
+
+[457]
+#Trouser suits sizes 8-16 in white,yellow,red,turquoise,navy blue,black.Sizes12-14 also in pink Per 100 $2,650.
+#슈트의 사이즈는 8-16으로 색은 흰색, 노랑색, 빨강색, 청록색, 짙은 감색 및 검은색이고, 12-14호에는 분홍색도 있습니다. 100벌의 가격은 2,650달러입니다.
+
+[458]
+#Fred misses carpooling with Cliff each day,and I fight back tears each time I see your empty house next door.
+#매일 과거에 Cliff와 차를 함께 쓰던 날들을 그리워하며, 네가 살던 빈방을 볼때마다 나는 애써 눈물을 참는다.
+
+[459]
+#Herewith please find P.O.＄55,500,in settlement of your a/c of charges on thirty bales cotton per m.s,"Takata Maru.".
+#"고전호"에 선적한 면화 30포의 대금을 결제하기 위해서, 면액 55,500달러의 우편환어음을 동봉하니 사수하여 주십시오.
+
+[460]
+#Enclosed I hand you a cheque,value ＄25,000 in payment of my account from March 1st to April 15th.
+#우리측은 3월 1일부터 4월 15일까지의 대금을 결제하기 위해서, 면액 25,000달러 수표를 한 장 동봉합니다.
+
+[461]
+#Enclosed we hand you a draft,＄300,000,drawn on you by our London house.Kindly accept same and return.
+#우리 회사의 런던지사는 귀사에 면액 300,000달러의 환어음을 한 장 개설하여, 이렇게 동봉하니, 인수를 한 후에 다시 부쳐주시면 고맙겠습니다.
+
+[462]
+#The importance of an early delivery was emphasized when we sent you our enquiry and re-stressed in the Confirmation.
+#우리 회사는 이전에 가격문의서를 부칠 때, 이미 빠른시일내에 물건을 인도해야 한다는 것의 중요성을 강조한바 있습니다. 그 후 확인서에 재차 이점을 강조하는 바 입니다.
+
+[463]
+#What a lot of fine wishes you made for our very tiny new daughter! Thank you ever so much--for Mr.Bradley and myself.
+#우리의 딸이 태어난 것에 대해 당신의 이렇게 아름다운 축복을 받았으니, 나는 Bradley와 나 자신을 대표하여 당신에게 감사를 표합니다.
+
+[464]
+#We have read in the "Stereo Review" that you are the sole agents for Messrs.Solex of New York and London.
+#우리는 방금 "Stereo Review"잡지를 통해서, 귀사가 Solex회사의 뉴욕 및 런던 두 곳의 독점대리상이라는 것을 알았습니다.
+
+[465]
+#We gladly accept your order of ...,however,we must change item ...of your order slightly.
+#우리는 귀사가 ...월...일에 부친 주문서를 기쁘게 받았습니다. 그런데, 우리는 귀사의 주문서의 제...항을 조금 고쳐야 합니다.
+
+[466]
+#We are duly in receipt of your favour of the 5th May,enclosing a draft,value ＄51,250,to balance your account.
+#우리는 당신측의 5월 5일 편지 및 동봉해 부친 면액 51,250달러의 환어음 한장을 받았는데, 당신측 대금을 결제하는데 쓸 것입니다.
+
+[467]
+#Our check for $20 is enclosed.Kindly forward tickets in the attached stamped,self-addressed envelope.
+#우리가 편지에 20달러짜리 지폐를 한 장 부쳤으니, 당신은 우표가 붙어있고 발신인 이름 및 주소가 쓰여있는 이 편지봉투를 이용해서 표를 나에게 부쳐주십시오.
+
+[468]
+#I have consigned to you,per m/s “Asahimaru”,1/20 twenty bales cotton,value ＄1,000,000.
+#우리는 20포의 면화를 "Asahi호"에 선적해서 귀사로 운송했습니다. 120꾸러미에 가격은 1,000,000달러입니다.
+
+[469]
+#We have consigned to you,per m.s.“Yamato Maru,”50 valued at ＄5,000,000.
+#우리는 50포의 면화를 "대화호"에 선적하여, 귀사에 대리판매를 위해 보냈습니다. 150꾸러미로, 가격은 5,000,000달러입니다.
+
+[470]
+#We did not meet again for ten years.By then ,the rather puny boy had grown into a six-footer,weighing 200 pounds.
+#우리는 10년 동안 만나지를 못했다. 본래는 아주 어린 소년에 불과했는데, 지금은 이미 키가 6인치에 몸무게가 200파운드인 어른이 되었구나.
+
+[471]
+#I didn't think much of the lecture ; after a short introduction the speaker just piled on the details.
+#나는 이 강연이 그다지 일리가 없다고 생각한다 ; 연설자는 간단한 개막사를 하였고, 그 후에는 단지 자잘한 것들만 늘어놓았다.
+
+[472]
+#On Oct.16 I reserved four tables for 20 people for luncheon at 12 at noon on Oct.19 for our guests in the inner room.
+#나는 10월 16일 귀반점의 별실에 10월 19일 정오 12시 20인의 손님이 점심을 먹을 수 있는 4개의 책상을 예약하였다.
+
+[473]
+#This is the day for our two peoples to rise to the heights of greatness which can build a new and a better world.
+#지금은 우리들 양국의 국민들이 하나의 새롭고, 더 아름다운 세계를 창립할 수 있는 위대한 경계의 고봉에 오를 때이다.
+
+[474]
+#The little girl was unhappy when her doll was broken,but she snapped out of it when she got a new one.
+#소녀는 장난감 인형을 깨뜨려서, 기분이 매우 나빴다; 그러나 그녀는 새로운 장난감 인형을 다시 얻고는, 금방 기분이 좋아졌다.
+
+[475]
+#You can get a late train back Sunday night,or there's an early express that Bob usually takes on Monday morning.
+#일요일 저녁에 당신들은 저녁차를 타고 돌아갈 수 있습니다. 혹은, 월요일 아침에도 특급이 있는데, 바로 Bob이 늘 타는 그 차입니다.
+
+[476]
+#We shall be glad to receive your initial order at the prices on a draft at sight under your irrevocable L/C.
+#이러한 가격에 비추어, 만일 귀사가 취소불능신용장, 일람후 즉시 지불하는 환어음방식을 택한다면, 최초의 상품주문을 환영합니다.
+
+[477]
+#I can't think of anything Fred and I would enjoy more right now than a weekend at Far Acres .
+#원장원에서 주말을 즐겁게 보내서, Fred와 나는 매우 기쁩니다. 나는 지금 정말로 어떤 다른 일이 이것과 비길 수 있는지 모르겠습니다.
+
+[478]
+#Discount: $20 may be deducted from this invoice if paid on or before March 10 and not otherwise.
+#할인 : 3월 10일 혹은 오늘 이전에 지불할 때에, 우리는 이 환어음에 대해서, 20달러를 할인해주려고 하지만, 다른 경우에는, 할인을 해주지 않는다.
+
+[479]
+#Enclosed is a sight draft for ↔26.10.5 on Messrs.Robert & Sons,which clears off our indebtedness to you.
+#빚진 당신측의 채무를 배상하기위한, Robert & Sons회사를 지불인으로 하는, 면액 26.15파운드의 일람 출급 환어음 한 장을 동봉합니다.
+
+[480]
+#Elizabeth.
+#엘리자베스2세는 조지의 뒤를 이어 영국의 최고통치자가 되었다.
+
+[481]
+#When selfserving lies parade as truth,democracy is doomed.
+#사리사욕의 황당한 말들이 진실의 기준이 되는 때에는, 민주주의는 반드시 망한다.
+
+[482]
+#Girl typist,Chinese,seeks position in Chinese or foreign firm.Experienced.Apply to Box 116,China Mail,Hong Kong.
+#경험이 풍부한 타자원, 중국 국적의 여성, 미혼. 타자원 자리를 구하는데, 외국상사이든 혹은 중국상사든 구애받지 않음. 뜻이 있으면 홍콩 중국 우편사서함 116호로 편지해 주십시오.
+
+[483]
+#Thanks for asking us,Mary.We certainly hate to miss any of your parties.They're always such fun!
+#당신의 초청에 매우 감사합니다, Mary. 우리는 정말 당신들의 어떠한 모임에 참가하는 기회도 놓치고 싶지 않은데, 그러한 파티는 늘 매우 즐겁기 때문입니다.
+
+[484]
+#The terms you quote for an open policy of $800,000 covering all risks will apply to our consignment on the routes named.
+#
+
+[485]
+#Your letter of 10 July,with indent and sight draft for ＄680,000 on Messrs.Yano ＆ Co.,is to hand.
+#귀사의 7월 10일 편지를 이미 받았고, 동봉한 주문서 및 Yano회사를 지불인으로 하는, 면액 680,000달러의 일람 출급 환어음도 이미 받았습니다.
+
+[486]
+#We enclose an invoice,amounting to ＄200,000,for which we shall draw upon you in the usual course.
+#총액 200,000달러의 송장을 동봉합니다. 이 비용에 대해서, 우리를 관례에 따라, 당신측을 지불인으로 하는 환어음을 개설할 것입니다.
+
+[487]
+#Enclosed please find a cheque for ＄100,500 in settlement of the call loan granted to us on the lst May.
+#당신측이 5월 1일 우리측에 제공한 통지대부를 반환하기 위하여, 면액 100,500달러의 수표를 한 장 동봉하니, 검사하여 받아주시기 바랍니다.
+
+[488]
+#Supporting the 11 man management and related activities ate up nearly 20 per cent of that U.S.firm's 1972 outlays.
+#11인의 메니저그룹 및 그와 관련된 활동을 유지하기 위해서, 그 미국상사는 1972년 지출의 20%를 썼다.
+
+[489]
+#We regret to have to inform you that the tins of lobster which you sold me on 29 June have caused numerous complaints.
+#우리는 어쩔 수 없이 귀사에 보고를 합니다 : 귀사가 6월 29일 우리 회사에 판 새우통조림의 질이 너무 나빠서, 우리는 많은 항의를 받았습니다.
+
+[490]
+#We have the honour to inform you that we have furnished Mr.L.Smith with a letter of credit for $15,000 on your house.
+#우리는 귀사를 신용장 개설인으로 L.Smith선생에게 면액 15,000달러의 신용장을 개설했음을, 영광스럽게 당신에게 보고합니다.
+
+[491]
+#In case No.165 you will find the samples of Rubber Sheet,varying from 42s to 48s f.o.b.Singapore.
+#외람되지만 지금 몇 종류의 고무 견본품을, 제165호 상자에 넣어서 부치는데, 가격은 f.o.b.Singapore가격으로 각각 42실링에서 48실링입니다.
+
+[492]
+#We must therefore debit you with ＄850,000 in respect of this deterioration,being 10 percent off the full value.
+#우리는 귀사 상품의 품질면에 있어서의 결점으로 850,000달러로 할인해 줄 것을 청하는데, 이것은 전체가격의 10%이며, 귀사의 차방계좌에 기록합니다.
+
+[493]
+#As we think you are very capable,we would like to offer you the sole agent if you are really interested.
+#본 회사는 당신이 상당히 높은 능력을 갖추고 있다고 생각하기 때문에, 만일 귀사가 확실히 관심이 있다면, 우리는 당신에게 우리 회사의 독점대리상을 부탁하고자 합니다.
+
+[494]
+#We regret exceedingly the inconvenience caused you and your students by the non-arrival of the copies you ordered.
+#귀사가 주문하신 책이 아직 도착하지 않았으니, 학생들의 사용을 좀 연기해 주십시오, 이로인해 야기되는 불편에 대해, 우리는 매우 유감스럽게 생각하며, 아울러 많은 양해를 부탁드립니다.
+
+[495]
+#As we think you are very capable,we would like to offer you the sole agency if you are at all interested.
+#본 회사는 당신이 상당히 높은 능력을 갖추고 있다고 생각하기 때문에, 만일 귀사가 확실히 관심이 있다면, 우리는 당신에게 우리 회사의 독점대리상을 부탁하고자 합니다.
+
+[496]
+#As much of this consignment will be practically useless,kindly allow me a liberal discount upon the price agreed upon.
+#부쳐온 이 물건들 중에 사용할 수 없는 것이 아주 많으니, 원래 협상하여 정한 가격에 대해 대폭적인 할인우대를 해 주시기 바랍니다.
+
+[497]
+#In a matter of weeks,the automobile plant laid off 8,400 workers -- one fifth of its hourly work force.
+#몇 주일 동안에, 그 자동차회사는 8,400명의 노동자를 해고하였는데, 일하는 시간으로 계산하면, 이 회사의 모든 노동력의 5분의 1이다.
+
+[498]
+#What wonderful news! I know you wanted a baby girl and I can just imagine how thrilled and happy you must be.
+#이것은 얼마나 좋은 소식인가! 나는 당신이 여자아이를 원한다는 것을 알았는데, 지금 뜻대로 되었습니다. 나는 당신이 얼마나 즐겁고, 얼마나 행복할지를 상상하기 어렵습니다.
+
+[499]
+#Storage: To be kept in a cool place.Quality guarantee for one year and storage period one and a half years.
+#보관지침 : 본 상품은 서늘한 곳에 두고, 용액에 약간의 침전이 생기면, 고루 흔든 후에 마시면 됩니다, 효능에는 영향을 미치지 않으며, 보증기간은 1년, 보존기간은 1년 6개월입니다.
+
+[500]
+#We learned that though they had not been long established,stood pretty well,but were not supposed to be rich.
+#이 회사는 창립해서 지금까지 비록 시간은 매우 짧지만, 실업계에서 상당한 신용이 있다, 그러나 아직 그리 부유한 회사라고는 할 수 없다.
+
+[501]
+#YC10TH REGRET D/A UNACCEPTABLE SUGGEST D/PSIGHT PLSCABLE ACCEPTANCE THANKS COOPERATION
+#문장부적합
+
+[502]
+#I've decided that either you don't love me any more or your post office went out of business.
+#나의 결론은, 네가 더 이상 나를 사랑하지 않든지, 아니면 너희들의 우체국이 이미 영업을 중지했든지 둘 중의 하나이다.
+
+[503]
+#We advise you that we have drawn on you today for ＄400,000,at 3 months' date,which amount has been credited to you.
+#우리는 오늘, 당신측을 지불인으로 하는 3개월 기한의 400,000원짜리 환어음을 한 장 개설했으며, 이 대금은 이미 당신측 대출계좌에 기록해 넣었음을 알립니다.
+
+[504]
+#"H2O" is the symbol for water.
+#"H2O"는 물의 화학기호이다.
+
+[505]
+#"House" rhymes with "mouse".
+#"House"와 "mouse"는 동운이다.
+
+[506]
+#"Too" was a slip of the pen; I meant to write "to".
+#"Too"는 잘못 쓴 것이다, 나는 원래 "to"라고 쓰려고 했다.
+
+[507]
+#"Trousers" has no singular.
+#"Trousers" 이 단어는 단수형이 없다.
+
+[508]
+#The word "deride" derives from Latin.
+#"deride"라는 단어는 라틴어에서 파생된 것이다.
+
+[509]
+#Who coined the word "nuke"?
+#"nuke"라는 단어는 누가 만들어낸 것입니까?
+
+[510]
+#"When" is a temporal conjunction.
+#"When"은 시간접속사이다.
+
+[511]
+#"Deliver us from evil".
+#"우리를 죄악에서 구원하소서."
+
+[512]
+#"Mind your own business," he snapped at her.
+#"나에게 상관하지 말아요," 그는 매섭게 나에게 말했다.
+
+[513]
+#The word "honesty" is an abstract noun.
+#"성실" 이 단어는 추상명사이다.
+

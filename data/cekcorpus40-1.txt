@@ -1,0 +1,2627 @@
+[1]
+#What has kept you from helping her?.
+#너는 왜 아직 그녀를 돕지 않았니?
+
+[2]
+#It is a pity you missed the party.
+#네가 아직 집회에 참가할 수 없는 것은 유감스러운 일이다.
+
+[3]
+#You let me down when you didn't win the prize.
+#네가 상을 타지 못했던 것은 나로 하여금 너무 실망케 했다.
+
+[4]
+#You are nice; he is just the opposite.
+#너는 우아하고 고상한데 그는 오히려 너와 완전히 상반된다.
+
+[5]
+#Will you ask him whether he is coming with us?
+#너는 그에게 우리들과 함께 올 수 있는지를 좀 물어봐 줄래?
+
+[6]
+#You and I could colloquize to great advantage. .
+#너와 내가 좀 이야기 할 수 있다면 대단한 이점이 있다.
+
+[7]
+#You can't mix oil and water.
+#너는 기름과 물을 한데 섞을 도리가 없다.
+
+[8]
+#You'll not be able to tell the difference between them.
+#너는 그들 사이의 차이를 판별할 도리가 없다.
+
+[9]
+#You won't swing him around to your point of view.
+#너는 그가 너의 의견을 받아들이도록 설득할 도리가 없다.
+
+[10]
+#You cannot imagine how wonderfully he danced.
+#너는 그가 달리는 것이 얼마나 훌륭한지를 상상할 도리가 없다.
+
+[11]
+#You can't master English in such a short time.
+#너는 그렇게 짧은 시간 안에 영어를 마스터할 도리가 없다.
+
+[12]
+#You don't need to shoulder the blame for this failure.
+#너는 이 실패에 대해서 책임을 질 필요가 없다.
+
+[13]
+#Do you expect me to give my whole life up to studying?
+#너는 내가 일생동안 연구에 힘쓰기를 바라니?
+
+[14]
+#Do you care for maize?
+#너는 옥수수 먹는 것을 좋아하니?
+
+[15]
+#Which do you like better,tea or coffee?
+#너는 차 마시는 것을 좋아하니, 아니면 커피?
+
+[16]
+#What flavor of icecream do you like?.
+#너는 어느 맛의 아이스크림을 좋아하니?
+
+[17]
+#Would you like rice with your meat?
+#너는 고기와 쌀밥을 함께 먹는 것을 좋아하니?
+
+[18]
+#Choose any books you like.
+#네가 좋아하는 책 어느 것이나 골라라.
+
+[19]
+#Sleep wherever you like.
+#네가 자고 싶은 데에서 자라.
+
+[20]
+#Would you prefer sausages or bacon with your eggs?
+#너는 소시지에 계란을 볶은 것을 좋아하니 아니면 훈제 돼지고기에 계란을 볶은 것을 좋아하니?
+
+[21]
+#Do you like these checked curtains?
+#너는 이러한 체크무늬의 커튼을 좋아하니?
+
+[22]
+#Take whichever seat you like.
+#네가 앉고 싶은 자리에 앉아라.
+
+[23]
+#How long will you take to get yourself cleaned up?
+#너는 목욕하는데 몇 시간이 걸리니?
+
+[24]
+#You draw the trees and I'll fill in the sky.
+#네가 먼저 나무를 그리고 나면 내가 하늘을 그리겠다.
+
+[25]
+#It's in your interests to put your point of view first.
+#네가 우선 너 자신의 관점을 너에 대해 유리하게 이야기 해라.
+
+[26]
+#First you turn on the engine,so.
+#너는 우선 엔진을 가동시켜라. 바로 이렇게.
+
+[27]
+#You go ahead and tell him that we're coming.
+#네가 먼저 걸어가서, 그에게 우리가 곧 올 것이라고 말해라.
+
+[28]
+#You go on ahead; I'll catch up with you later.
+#네가 먼저 가라, 좀 있다가 내가 따라 붙을 테니.
+
+[29]
+#You look very confused.
+#너는 매우 난감한 것처럼 보인다.
+
+[30]
+#We wish to advise you that you now owe the bank ↔500.
+#당신이 현재 은행에 500파운드를 빚져서 특별히 이에 통지합니다.
+
+[31]
+#How do you feel toward your father now?.
+#너는 지금 너의 아버지에 대해 어떠한 생각을 가지고 있니?
+
+[32]
+#It'll be quite in order for you to speak now.
+#네가 지금 발언하는 것은 매우 적당하다.
+
+[33]
+#You are on my land.
+#너는 지금 내 소유의 땅 위에 있다.
+
+[34]
+#What you say now is far removed from what you said before.
+#네가 지금 말한 것은 이전에 말한 것과 현저한 차이가 있다.
+
+[35]
+#Do you confide in our ability to do this work?
+#너는 우리가 이 일을 할 수 있다라고 믿느냐?
+
+[36]
+#You have no conception of how difficult my job is.
+#너는 나의 일이 얼마나 어려운지를 생각할 수 없다.
+
+[37]
+#Which would you rather have-steak or fish?
+#너는 어느 요리를 먹고 싶니, 비프스테이크 아니면 생선?
+
+[38]
+#How much will you give me for the car?.
+#너는 나의 이 자동차를 사는데 얼마의 돈을 낼 수 있다고 생각하니?
+
+[39]
+#Which is it,coffee or tea?
+#너는 무엇을 마시고 싶, 커피 아니면 차?
+
+[40]
+#What was it you wanted to talk to him about?
+#네가 그와 이야기하고 싶어하는 것은 도대체 무슨 일이야?
+
+[41]
+#What is your reason for wanting to enter the country?
+#네가 이 국가에 들어오고자 하는 이유는 무엇이니?
+
+[42]
+#What time do you expect him home?.
+#너는 그가 언제 돌아올 수 있으리라 생각하니?
+
+[43]
+#You have no idea how worried I was.
+#너는 내가 얼마나 걱정하는지를 상상할 수 없다.
+
+[44]
+#Take as much as you please.
+#너는 원하는 만큼 가져가라.
+
+[45]
+#Would you like to have a cup of cocoa?
+#너는 코코아를 한잔 마시기를 원하니?
+
+[46]
+#He switches off when you try to talk to him.
+#네가 그와 이야기 하고 싶을 때 그는 피하고 듣지 않는다.
+
+[47]
+#What kind of dressing would you like on your salad?.
+#너는 샐러드 위에 어떠한 조미료를 더하고 싶니?
+
+[48]
+#The rocks had knocked her to pieces,you know.
+#네가 알다시피, 암석이 그녀를 산산조각으로 쳤다.
+
+[49]
+#How is your work on that novel going along?
+#네가 쓰는 그 소설은 어떻게 진행되고 있니?
+
+[50]
+#Are you engaged on Monday?.
+#너는 월요일에 해야 하기로 예정된 일이 있니?
+
+[51]
+#There's a message for you from your brother.
+#너의 동생이 너에게 보내는 메시지를 가지고 있다.
+
+[52]
+#You'll never sell me that.
+#너는 나로 하여금 그러한 생각을 받아들이게 하려고 생각하지 말아라.
+
+[53]
+#What you need is more practice.
+#네가 필요로 하는 것은 더욱 많은 연습이다.
+
+[54]
+#You need a guide to show you the city.
+#너는 너를 데리고 도시를 참관할 안내자를 필요로 한다.
+
+[55]
+#You need some diversion.
+#너는 약간의 기분을 좀 풀어주는 활동을 필요로 한다.
+
+[56]
+#It's very sweet of you to invite me.
+#네가 나를 초대해 준 것은 나로 하여금 대단히 기쁘게 했다.
+
+[57]
+#Won't you joinus in the game?.
+#너는 우리들의 유희에 참가하고 싶니?
+
+[58]
+#Would you like a turn to play?
+#너도 한번 와서 좀 놀아보고 싶니?
+
+[59]
+#Do you want your vegetables cooked or raw?
+#너는 푹 삶은 채소를 먹고 싶니 아니면 생 것을 먹고 싶니?
+
+[60]
+#What point are you trying to get across?
+#네가 다른 사람으로 하여금 이해하게끔 하려는 요점이 무엇이니?
+
+[61]
+#Either say you're sorry or else get out!
+#너는 사과를 하든지 꺼지든지 해라!
+
+[62]
+#You must conform to the rules or leave the school.
+#너는 학교 규칙을 준수하든지 학교를 떠나든지 해라.
+
+[63]
+#Which one would you like,the red or the blue?
+#너는 어느 것을 원하니, 빨간 것 아니면 파란 것?
+
+[64]
+#Which one would you like-this one or that one?
+#너는 어느 것을 원하니, 이것 아니면 저것?
+
+[65]
+#Make certain you know what time the train goes.
+#너는 기차가 언제 출발하는지 똑똑히 해야 한다.
+
+[66]
+#What to you want for a present?
+#너는 선물로 어떠한 물건을 원하니?
+
+[67]
+#You'll fuck up the motor if yu're not careful.
+#네가 만일 주의하지 않으면 모터를 망가뜨릴 것이다.
+
+[68]
+#You should have seen the film.
+#네가 그 영화를 보았더라면 좋았을 텐데.
+
+[69]
+#You can do it this way if you care to.
+#네가 하고 싶다면 이렇게 해도 좋다.
+
+[70]
+#Do what you are told; otherwise you willbe punished.
+#너는 말을 들어야 한다. 그렇지 않으면 너는 처분을 받을 수 있다.
+
+[71]
+#You should be careful with that knife.
+#너는 그 칼을 사용하는데 주의해야 한다.
+
+[72]
+#accustom yourself to getting up early.
+#너는 자기에게 일찍 일어나는 습관을 들여야 한다.
+
+[73]
+#You are to report for duty at 8 :30 a.m.
+#너는 아침 8시 30분에 출근해야 한다.
+
+[74]
+#The establishment you are looking for is in Oxford Street.
+#네가 찾으려 한 상사가 옥스퍼드로에 있다.
+
+[75]
+#Are you looking for a permanent position?
+#너는 영구적인 직업을 찾으려 하니?
+
+[76]
+#Be mindful to follow my advice.
+#너는 나의 충고에 따라서 하도록 주의해야 한다.
+
+[77]
+#You must also assume your share of the responsibility.
+#너도 네 몫의 책임을 져야 한다.
+
+[78]
+#You may need the services of a lawyer.
+#너는 아마도 변호사의 도움을 필요로 할 것이다.
+
+[79]
+#Please telegraph to me at once on your arrival in Paris.
+#당신이 파리에 도착하는 대로 즉시 나에게 전보를 치십시오.
+
+[80]
+#You don't have the slightest idea how much she has missed you.
+#너는 그녀가 얼마나 너를 그리워했는지를 조금도 모른다.
+
+[81]
+#You have no regard for my feelings!
+#너는 조금도 나의 느낌을 고려치 않는구나!
+
+[82]
+#You must be very proud of her.
+#너는 분명히 그녀를 매우 자랑스럽게 느낄 것이다.
+
+[83]
+#It must have taken you hours to create.
+#너는 분명히 많은 시간을 써서 해냈을 것이다.
+
+[84]
+#You must hurry and get well!
+#너는 분명히 아주 빨리 좋아지게 될 거야!
+
+[85]
+#You must be the new English teacher.
+#당신은 분명히 새로 오신 영어 선생님이시지요.
+
+[86]
+#Make sure you get a thorough survey.
+#너는 분명히 철저하게 감정해야 한다.
+
+[87]
+#See that you're ready at eight o'clock.
+#너는 분명히 8시 정각에 다 준비해야 한다.
+
+[88]
+#Make sure you get here before midnight.
+#너는 분명히 한밤중 전에 여기에 도착해야 한다.
+
+[89]
+#You must be aware of the fact that he is destitute.
+#너는 분명히 그가 매우 가난하다는 이 상황을 알아야 한다.
+
+[90]
+#You are solely responsible for it.
+#너 혼자서 그 일에 대한 책임을 진다.
+
+[91]
+#I asked him who you were the moment you buzzed in.
+#네가 들어오자마자 나는 그에게 네가 누구냐고 물었다.
+
+[92]
+#You must not relax your control for a moment.
+#너는 한시도 통제를 늦추어서는 안 된다.
+
+[93]
+#Please wire as soon as you hear.
+#당신이 들으시는 대로 즉각 저에게 전보를 치십시오.
+
+[94]
+#You've been eating for too much; small wonder you're getting fat.
+#네가 줄곧 너무 많이 먹으니 네가 살찌고 있는 것은 당연하다.
+
+[95]
+#You have been touching it,haven't you?
+#너는 줄곧 그것을 만지고 있었니, 그렇지?
+
+[96]
+#Have you telegraphed your father ?.
+#너는 이미 너의 아버지에게 전보를 쳤느냐?
+
+[97]
+#Have you reached the end of the first chapter?.
+#너는 이미 제1장의 말미를 읽었느냐?
+
+[98]
+#Have you finished your lunch yet ?.
+#너는 이미 점심을 먹었니?
+
+[99]
+#Have you had breakfast already?
+#너는 이미 아침밥을 먹었니?
+
+[100]
+#You've put him through a lot of pain.
+#너는 이미 그로 하여금 많은 고통을 받게 했다.
+
+[101]
+#Have you settled what to say?.
+#너는 이미 무엇을 말해야 할지를 결정했니?
+
+[102]
+#Have you determined what ! to do for a living?.
+#너는 이미 무엇을 해서 살아갈지를 결정했니?
+
+[103]
+#Have you fixed where to stay?.
+#너는 이미 어디에서 숙박할 것인지를 결정했니?
+
+[104]
+#Have you got your grammar lesson perfectly?.
+#너는 이미 완전히 문법을 이해했니?
+
+[105]
+#You have promised; now,don't go back on me.
+#너는 이미 허락했으니, 이제 너는 나에게 약속을 어길 수 없다.
+
+[106]
+#How much money have you checked out at the bank?
+#너는 이미 은행에서 얼마를 인출했니?
+
+[107]
+#You've been here before,haven't you?
+#너는 이전에 여기에 온 적이 있지, 그렇지?
+
+[108]
+#Do you think you'll be able to go to sleep right away?
+#너는 네가 곧 잠이 들 수 있을 것이라고 생각하니?
+
+[109]
+#Where do you think he's just blown in from?
+#너는 그가 막 어느 곳에서 왔다고 생각하니?
+
+[110]
+#Do you think he can face me down ?
+#너는 그가 나를 놀라 자빠뜨릴 수 있을 것이라고 생각하니?
+
+[111]
+#What do you think? Is that right?
+#너는 어떻게 생각하니? 그렇게 하는 것이 옳으니?
+
+[112]
+#You may answer either verbally or in writing.
+#너는 구두나 서면으로 대답해도 다 괜찮다.
+
+[113]
+#You will be sorry for it later.
+#너는 나중에 그 일로 후회할 것이다.
+
+[114]
+#You should take those books back to the library.
+#너는 마땅히 그 책들을 도서관에 돌려주어야 한다.
+
+[115]
+#You should reckon in the cost of fuel.
+#너는 마땅히 연료비를 안에 계산해야 한다.
+
+[116]
+#You should show more resolution.
+#너는 좀 더 확고하게 나타내야 한다.
+
+[117]
+#You ought to kick back at such malicious slander.
+#너는 이 악독한 모독에 반격해야 한다.
+
+[118]
+#You are supposed to be here at eight every day.
+#너는 매일 8시에 여기에 도착해야 한다.
+
+[119]
+#You should try to exercise patience.
+#너는 인내력을 운용하도록 노력해야 한다.
+
+[120]
+#Your share of the expenses is five dollars.
+#네가 지불해야 하는 비용은 5달러이다.
+
+[121]
+#You are liable for all damage.
+#너는 모든 손해를 배상할 책임을 져야 한다.
+
+[122]
+#You should put your valuables in the bank.
+#너는 귀중한 물품을 은행에 맡겨 두어야 한다.
+
+[123]
+#You should send that coat to be cleaned.
+#너는 그 상의를 세탁하도록 보내야 한다.
+
+[124]
+#You should burn all those old papers.
+#너는 그 옛 문서들을 전부 다 태워버려야 한다.
+
+[125]
+#You should brush the place up a bit.
+#너는 그곳을 좀 깨끗하게 해야 한다.
+
+[126]
+#You should offer her constant reassurance.
+#너는 그녀가 자신감을 세울 수 있도록 부단히 도와야 한다.
+
+[127]
+#You should treat your employees with more kindness.
+#너는 너의 직원들에게 좀 더 인자해야 한다.
+
+[128]
+#You should pay more regard to safety on the roads.
+#너는 교통 안전에 더 주의해야 한다.
+
+[129]
+#You should set your younger brother a good example.
+#너는 동생에게 좋은 모범이 되도록 해야 한다.
+
+[130]
+#You should be more awake to the danger of your position.
+#너는 더욱 네 처지의 위험을 의식해야 한다.
+
+[131]
+#You should combine your language ability with your business skills.
+#너는 언어능력과 업무 기능을 겸비해야 한다.
+
+[132]
+#You should be on a diet; otherwise you will get fatter and fatter.
+#너는 음식을 절제해야 한다. 그렇지 않으면 너는 갈수록 뚱뚱해질 것이다.
+
+[133]
+#You should exploit this opportunity to go abroad.
+#너는 이 기회를 이용해서 국외로 가야 한다.
+
+[134]
+#You will say that,won't you?
+#너는 그렇게 말해야 한다. 그렇지?
+
+[135]
+#You should go through the official channels to get help.
+#너는 정부 당국의 경로를 통해서 도움을 구해야 한다.
+
+[136]
+#You should be ashamed to make a mistake like that.
+#너는 그러한 잘못을 범한 것에 창피함을 느껴야 한다.
+
+[137]
+#You ought to be ashamed of yourself.
+#너는 자기에게 수치감을 느껴야 한다.
+
+[138]
+#You should seek advice from your lawyer.
+#너는 너의 변호사에게 의견을 구해야 한다.
+
+[139]
+#You added when you should have multiplied.
+#너는 곱셈을 썼어야 했는데 오히려 덧셈을 썼다.
+
+[140]
+#You should take more pains with your work.
+#너는 일을 하는데 있어서 더 많은 노력을 기울여야 한다.
+
+[141]
+#You want to see a doctor about your cough.
+#너는 의사를 찾아서 재채기 하는 것을 좀 치료해야 한다.
+
+[142]
+#You might have offered to help!
+#너는 주동적으로 도우러 가자고 제기해야 한다.
+
+[143]
+#You must pay attention to the teacher.
+#너는 선생님이 수업하시는 것을 주의 깊게 들어야 한다.
+
+[144]
+#You should follow the directions given.
+#너는 주어진 용법 설명에 따라야 한다.
+
+[145]
+#You should always do what you believe to be right.
+#너는 네가 옳다고 생각하는 일을 해야 한다.
+
+[146]
+#Do your duty without regard to the consequences.
+#너는 너의 직책을 다해야 한다. 결과가 어떻든 간에.
+
+[147]
+#You should arrive at school before 8:30.
+#너는 8시 반 이전에 학교에 도착해야 한다.
+
+[148]
+#You have a fifty-fifty chance of winning.
+#네가 이길 기회는 50대 50이다.
+
+[149]
+#You'll never see such another.
+#너는 영원히 그렇게 생긴 물건을 볼 수 없다.
+
+[150]
+#It was rude of you to point at her.= You were rude to point at her.
+#네가 손가락으로 그녀를 가리키는 것은 예의가 없는 것이다.
+
+[151]
+#You stick this hook to the wall with a sucker.
+#너는 빨판을 써서 이 갈고리를 벽에 고정했다.
+
+[152]
+#Are you certain that you'll get there in time?
+#너는 제시간에 거기에 도착할 자신이 있니?
+
+[153]
+#You'll arrive there in plenty of time.
+#너는 거기에 도착하는데 충분한 시간이 있다.
+
+[154]
+#How much have you got in change?
+#너는 얼마의 경화 잔돈이 있니?
+
+[155]
+#How many sisters and brothers do you have?
+#너는 몇 명의 자매와 형제가 있니?
+
+[156]
+#Did you perceive anyone come in?.
+#너는 누군가가 들어오는 것을 느꼈니?
+
+[157]
+#Have you left any for your brother?
+#너는 너의 동생에게 좀 남겼니?
+
+[158]
+#Have you got anything to help a cold?
+#너는 무슨 감기를 치료할 약이 있니?
+
+[159]
+#Have you heard about Jim coming to London?
+#너는 짐이 런던에 온다는 것을 들었니?
+
+[160]
+#Have you tried reasoning with him?
+#너는 그와 이치를 좀 이야기해 보았니?
+
+[161]
+#You have your point of vie,and I have mine.
+#너는 너의 생각이 있고, 나는 나의 생각이 있다.
+
+[162]
+#Have you the means to support a family?
+#너는 가족의 생활을 유지할 돈이 있니?
+
+[163]
+#Have you had any practice in teaching students?.
+#너는 학생을 가르친 어떤 실제 경험이 있니?
+
+[164]
+#Have you anything to declare?
+#너는 신고해야 할 어떤 물건이 있니?
+
+[165]
+#What authority have you for entering this house?
+#너는 이 집에 들어올 어떤 권력을 가지고 있습니까?
+
+[166]
+#Can I interest you in a game of bridge ?.
+#너는 브리지게임 한판 하는데 흥미가 있습니까?
+
+[167]
+#You have a radio,don't you?
+#너는 라디오를 하나 가지고 있다, 맞니?
+
+[168]
+#It is incumbent on you to answer his question.
+#너는 그의 문제에 대답할 책임이 있다.
+
+[169]
+#It is fortunate that you have such good friends.
+#네가 이러한 좋은 친구를 가지고 있다는 것은 너의 행운이다.
+
+[170]
+#It is most generous of you to forgive me.= You are most generous to forgive me.
+#네가 나를 양해해 주니 정말 도량이 넓고 크다.
+
+[171]
+#Will you take this man to be your secretary?
+#너는 이 사람이 너의 비서가 되는 것을 받아들일 수 있니?
+
+[172]
+#Would you mind posting a letter for me?
+#너는 내대신 편지를 부칠 수 있니?
+
+[173]
+#Would you like to arrange for a personal interview?
+#너는 개별 토의를 안배하기를 바라니?
+
+[174]
+#Would you care to visit us this weekend?
+#너는 이번 주말에 우리한테 와서 좀 놀기를 바라니?
+
+[175]
+#Will you swear to the truth of your statement?.
+#너는 네가 한 말이 진실이라는 것을 맹세할 수 있니?
+
+[176]
+#Will you bear the cost ?.
+#너는 이 비용을 부담하기를 바라니?
+
+[177]
+#Will you play us at bridge?.
+#너는 우리들과 브리지게임 하기를 바라니?
+
+[178]
+#Would you share my umbrella?.
+#너는 나와 함께 우산을 쓸 수 있니?
+
+[179]
+#Will you exchange seats with me.
+#너는 나와 서로 자리를 바꾸기를 바라니?
+
+[180]
+#Would you like to come with us?
+#너는 우리와 함께 가기를 바라니?
+
+[181]
+#Will you accept my advice?
+#너는 나의 권고를 받아들일 수 있니?
+
+[182]
+#Will you come and dine with us?.
+#너는 와서 우리와 함께 식사 할 수 있니?
+
+[183]
+#Do you wish to travel around the world? Apply with us.
+#당신은 세계를 주유하시기를 바랍니까? 우리에게 신청하십시오.
+
+[184]
+#Do you agree to our going through this room?
+#당신은 우리가 이 방을 통과하는 것을 허락합니까?
+
+[185]
+#Did you ever see him while you were in Paris?.
+#너는 파리에서 있을 때 그를 본 적이 있니?
+
+[186]
+#What kind of gtades did you make in college?
+#너는 대학에서의 학습 성적이 어땠니?
+
+[187]
+#which of the boys were you talking to ?.
+#너는 어느 남자아이와 이야기 하고 있었니?
+
+[188]
+#Put more effort into your work!
+#너는 일을 하는데 있어서 더욱 노력해야 한다.
+
+[189]
+#Your behaviour in class is monstrous!
+#너의 교실에서의 행동은 정말 체면이 깎인다.
+
+[190]
+#What sort of weather did you have during your journey ?.
+#네가 여행하는 동안의 날씨는 어땠니?
+
+[191]
+#What are you poking about for?
+#너는 여기저기 더듬어가면서 무엇을 찾니?
+
+[192]
+#Where did you miss your umbrella?.
+#너는 어디에서 우산을 잃어버렸다는 것을 알았니?
+
+[193]
+#Where did you get that hat?.
+#너는 어디에서 그 모자를 샀니?
+
+[194]
+#Lead on! I'll follow.
+#네가 앞에서 안내해라! 나는 뒤따를게.
+
+[195]
+#when do you use the plural form ?.
+#너는 어느 경우에 복수형을 쓰니?
+
+[196]
+#Did you know her in her lifetime ?.
+#너는 그녀의 생전의 그녀를 알았니?
+
+[197]
+#What are you wearing under your coat?
+#너는 외투 안에 무슨 옷을 입었니?
+
+[198]
+#Did you have a good time at the theater?
+#너는 극장에서 유쾌하게 보냈니?
+
+[199]
+#While you were writing letters,I was reaing a book.
+#네가 편지를 쓰고 있을 때 나는 책을 읽었다.
+
+[200]
+#While you were writing letters,I was reading a book.
+#네가 편지를 쓰고 있을 때 나는 책을 읽었다.
+
+[201]
+#You will need some experience in administration.
+#나는 행정관리에 있어서 약간의 경험을 더 필요로 한다.
+
+[202]
+#You have wonderful taste in clothes.
+#너는 의류방면에 있어서 꽤나 감상력을 갖고 있다.
+
+[203]
+#You are secure from danger here.
+#너는 여기에서 위험을 걱정할 필요가 없다.
+
+[204]
+#While you're here,would you like to go round?
+#너는 여기에 있을 때 여기저기 가서 좀 다니고 싶으냐?
+
+[205]
+#Have you been given leave to swim here?
+#네가 여기에서 수영하는 것은 허가를 받았느냐?
+
+[206]
+#Were you born in this neighborhood ?.
+#너는 이 부근 일대에서 출생했느냐?
+
+[207]
+#You put too much salt in this food.
+#너는 이 요리에 너무 많은 소금을 넣었다.
+
+[208]
+#You need a lot of patience when you work here.
+#네가 여기에서 일하는 것은 아주 많은 인내심을 필요로 한다.
+
+[209]
+#Are you in favour of workers' control of companies?
+#너는 노동자 관리 회사를 찬성하니?
+
+[210]
+#Do you believe in private enterprise or in government ownership of industry?
+#너는 사영기업을 찬성하니 아니면 국영기업을 찬성하니?
+
+[211]
+#How dare you impute the failure to me ?.
+#너는 어떻게 감히 실패를 나에게 탓을 돌리니?
+
+[212]
+#Why don't you come for the weekend?
+#너는 어째서 와서 함께 주말을 보내지 않니?
+
+[213]
+#How do you make that out?
+#너는 어떻게 그러한 결론을 낼 수 있니?
+
+[214]
+#What made you fix contractor on a sum to be paid for a job on that book?
+#너는 어떻게 그 책을 선정할 수 있니?
+
+[215]
+#How come you got that job at the factory?
+#너는 어떻게 공장의 그 일을 찾을 수 있니?
+
+[216]
+#How do you account for all these mistakes?
+#너는 어떻게 이런 갖가지 실수들을 해석하니?
+
+[217]
+#Why do you look so glum?
+#너는 어째서 이렇게 우울해 보이니?
+
+[218]
+#Why do you read such tripe?
+#너는 어째서 이런 무료한 책을 보니?
+
+[219]
+#What's wrong with you?You've fallen off so rapidly of late.
+#너 어떻게 된 거니? 요즈음 너무 심하게 말랐다.
+
+[220]
+#How can you make air move?
+#너는 어떻게 공기가 유동하게끔 할 수 있니?
+
+[221]
+#How can you have the heart to disappoint your parents ?.
+#너는 어떻게 냉정하게 너의 부모님이 실망하게끔 할 수 있니?
+
+[222]
+#How can you justify your rude behaviour?
+#너는 어떻게 너의 우악스러운 행동을 변호할 수 있니?
+
+[223]
+#How do you go about repairing this clock?
+#너는 어떻게 이 시계를 수리하는데 손을 대니?
+
+[224]
+#how comes it you have taken my notebook?.
+#너는 어떻게 나의 노트를 가지고 갔니?
+
+[225]
+#how is it that you didn't come?.
+#너는 어떻게 된 거야, 어째서 안 왔어?
+
+[226]
+#How can you call yourself my friend ?.
+#너는 어떻게 너를 나의 친구라고 부를 수 있니?
+
+[227]
+#How can you suffer his insolence?.
+#너는 어떻게 그의 무지막지하고 무모함을 용인할 수 있니?
+
+[228]
+#how can you leave alone?.
+#너는 어떻게 혼자 떠날 수 있니?
+
+[229]
+#Have you ever heard Italian spoken?
+#너는 일찍이 누군가가 이태리 말을 하는 것을 들은 적이 있니?
+
+[230]
+#What time does your husband return?
+#너의 남편은 언제 퇴근해서 돌아오니?
+
+[231]
+#Have you found your car key?.
+#너는 자동차의 열쇠를 찾았니?
+
+[232]
+#When you find gold you're made.
+#네가 금을 찾으면 너는 곧 성공이다.
+
+[233]
+#Did you find what you were looking for?
+#너는 네가 찾으려는 물건을 찾았느냐?
+
+[234]
+#Have you consulted your doctor about your illness?
+#너는 의사를 찾아서 너의 병을 진찰한 적이 있니?
+
+[235]
+#How is your broken arm coming along?
+#너의 절단한 팔은 지금 어떻게 되었니?
+
+[236]
+#Did you have a good flight?
+#너의 이번 비행기 여행은 순조로웠니?
+
+[237]
+#You wretch !
+#네 이 비굴한 놈! 짐승!
+
+[238]
+#You've broken that cup,you clot!
+#네 이 바보, 컵을 다 부수었네1
+
+[239]
+#Have you any excuse to offer for coming so late?
+#네가 이렇게 늦게서야 오다니 변명할 무슨 이유가 있느냐?
+
+[240]
+#Are you insinuating that I'm not telling the truth?
+#네 이것은 내가 진담을 말한 적이 없다는 것을 의미하고 있니?
+
+[241]
+#You're dancing off your time!
+#네가 이렇게 춤추는 것은 시간을 낭비하고 있는 것이다.
+
+[242]
+#What do you mean by your boast?.
+#네가 이렇게 자만하는 것은 무슨 뜻이니?
+
+[243]
+#Your unkind remark was not called for.
+#너의 이런 무례한 말은 정말 해서는 안 된다.
+
+[244]
+#How thoughtless of you to forget my birthday.
+#너는 정말 세심하지 못하다. 내 생일조차 잊어버리다니.
+
+[245]
+#Do you really credit the government's statement?
+#너는 정부의 성명을 정말 믿느냐?
+
+[246]
+#Do you really want to know what I think?
+#너는 정말 나의 생각을 알고 싶으냐?
+
+[247]
+#You're very kind to take the trouble to help me.
+#너는 정말 좋구나, 번거로움도 싫어하지 않고 와서 나를 돕다니.
+
+[248]
+#It is crazy of you to give him money.
+#너는 정말 멍청하다. 결국 그에게 돈을 주었다니.
+
+[249]
+#It is dilatory of you not to answer to me.
+#너는 정말 미루기를 잘한다. 한번도 나의 편지에 회답하지 않으니.
+
+[250]
+#You are a milk-livered fellow !
+#너는 정말 담이 작은 놈이야!
+
+[251]
+#It was very thoughtful of you to visit me.
+#너는 정말 남을 살뜰히 보살핀다. 와서 나를 방문하다니.
+
+[252]
+#It's naive of you to believe he'll do what he says.
+#너는 정말 천진하구나. 결국 그가 말한 것을 할 것이라고 믿을 수 있으니.
+
+[253]
+#a lucky beggar !
+#너는 정말 행운이다! 너는 정말 행운아야!
+
+[254]
+#Whose side are you on,mine or hers?
+#너는 어느쪽을 지지하니, 나야 아니면 그녀야?
+
+[255]
+#Do you know how to express the idea in English?
+#너는 이 뜻을 영어로 어떻게 표현하는지 아니?
+
+[256]
+#Telephone me back when you know that answer.
+#너는 답을 안 후에 나에게 전화를 걸어라.
+
+[257]
+#Do you know who preceded Winston Churchill as Prime Minister?.
+#너는 처어칠의 전임 수상이 누구였는지 아니?
+
+[258]
+#Do you know what the population of Japan is?
+#너는 일본 인구가 얼마인지 아니?
+
+[259]
+#Do you know that there's a connection between smoking and heart disease?
+#너는 담배 피우는 것이 심장병과 관계가 있다는 것을 아니?
+
+[260]
+#Do you know how shadows are formed?
+#너는 그림자가 어떻게 형성되는지 아니?
+
+[261]
+#Did you know that John and Mary had split up?
+#너는 존과 메리가 이미 결별했다는 것을 아니?
+
+[262]
+#Do you know how to drive a car?.
+#너는 어떻게 자동차를 운전하는지 아니?
+
+[263]
+#Do you know the tune to this song?
+#너는 이 노래의 곡조를 아니?
+
+[264]
+#Who do you designate your proxy?.
+#너는 너의 대리인으로 누구를 지정하니?
+
+[265]
+#I wonder you were not hurt more seriously.
+#나는 단지 경상을 입었다는 것이 정말 놀랍다.
+
+[266]
+#You've only to ask and she'll tell you.
+#네가 그녀에게 묻기만 하면 그녀는 너에게 이야기 할 것이다.
+
+[267]
+#So long as you have money,you need not depend on others.
+#네가 돈이 있기만 하면 너는 타인에게 의지할 필요가 없다.
+
+[268]
+#You can get ahead only with hard work.
+#네가 열심히 일하기만 한다면 성공할 것이다.
+
+[269]
+#That's the least you could do.
+#너는 적어도 그렇게까지 거느릴 수 있어야 한다.
+
+[270]
+#Which part of the town do you live in?
+#너는 도시 안의 어느 부분에서 사니?
+
+[271]
+#You live here in the city,don't you ?
+#너는 이 도시에서 살지, 그렇지?
+
+[272]
+#You can live on this little island tax-free.
+#네가 이 작은 섬에서 살면 세금을 내지 않아도 된다.
+
+[273]
+#Do you notice the hob-and-nob character of their friendship?.
+#너는 그들 사이의 친밀한 우정에 주의했느냐?
+
+[274]
+#Did you notice where I put it?
+#너는 내가 그것을 어디에 두었는지에 주의했느냐?
+
+[275]
+#Would you grate these vegetables up?
+#너는 이 채소들을 잘게 썰려고 하니?
+
+[276]
+#What sum will you go to? It's a good specimen.
+#너는 얼마의 돈을 내려고 하니? 이 품종은 매우 좋다.
+
+[277]
+#Do you mean to close with his offer?
+#너는 그가 제안한 가격을 받아들이려고 하니?
+
+[278]
+#How are you going? Are you going by boat?
+#너는 어떻게 가려고 하니? 배를 타고 가려고 하니?
+
+[279]
+#It is sharp of you to catch him.
+#네가 그를 꼭 붙잡다니, 정말 총명하다.
+
+[280]
+#How is it that you wish to leave for good?
+#너는 어떻게 영원히 떠나려고 생각할 수 있니?
+
+[281]
+#You are always unready to leave on time.
+#너는 항상 정각에 떠날 준비를 잘 할 수 없다.
+
+[282]
+#You'll live to rue it.
+#너는 언젠가는 이 일을 후회할 것이다.
+
+[283]
+#You walk fast,he walks faster.
+#너는 걸음이 빠르고, 그는 걸음이 더 빠르다.
+
+[284]
+#You're going too fast; slow down!
+#너는 걸음이 너무 빨라, 좀 천천히!
+
+[285]
+#Don't forget to lock up all the doors and windows when you leave.
+#네가 갈 때 문과 창문을 다 꼭 잠그는 것을 잊지 말아라.
+
+[286]
+#He hindered me from getting there earlier.
+#너는 내가 좀 일찍 거기에 도착하는 것을 방해했다.
+
+[287]
+#You'd better empty the water out of your boots.
+#너는 장화의 물을 따라내는 게 좋겠다.
+
+[288]
+#You'd better heat up the tomato soup.
+#너는 토마토 스프를 좀 데우는 게 좋겠다.
+
+[289]
+#You'd better buck up your ideas.
+#너는 너의 생각을 좀 바꾸는 게 좋겠다.
+
+[290]
+#You'd better not concern yourself in such things.
+#너는 이 일에 개입하지 않는 게 좋겠다.
+
+[291]
+#You had better not fret about your mistakes.
+#너는 너의 실수를 걱정하지 않는 게 좋겠다.
+
+[292]
+#You had better feed on coarse cereals for a time.
+#너는 일정 시간 동안 잡곡을 먹는 게 좋겠다.
+
+[293]
+#You'd better wear a light jacket.It's chilly today.
+#너는 얇은 재킷을 입는 게 좋겠다.
+
+[294]
+#You'd better put your coat on; it's cold outside.
+#너는 너의 외투를 입는 게 좋겠다. 바깥은 매우 춥다.
+
+[295]
+#You had better eat more fruit and vegetables.
+#너는 과일과 채소를 좀 많이 먹는 게 좋겠다.
+
+[296]
+#You'd better put on another cup of tea for the guest.
+#너는 손님에게 차 한잔을 다시 우려내는 게 좋겠다.
+
+[297]
+#You had better be overhauled by a doctor.
+#너는 의사에게 좀 상세하게 진찰 받는 것이 좋겠다.
+
+[298]
+#You'd better scratch through these superfluous words.
+#너는 이러한 쓸데없는 단어를 그어버리는 게 좋겠다.
+
+[299]
+#You had better send the patient to the hospital at once.
+#너는 즉각 환자를 병원에 보내는 게 좋겠다.
+
+[300]
+#You had better reserve your energies for the new task.
+#너는 새 일을 위해 정력을 남겨 놓는 게 좋겠다.
+
+[301]
+#You'd better set in the sleeves first.
+#너는 먼저 소매를 다는 게 좋겠다.
+
+[302]
+#You had better ask that question of your teacher.
+#너는 너의 선생님에게 그 문제를 여쭙는 게 좋겠다.
+
+[303]
+#You had better take a day or two off and relax.
+#너는 하루이틀 휴가를 내서 좀 쉬는 게 좋겠다.
+
+[304]
+#You'd better hose down the car.
+#너는 호스로 자동차를 좀 세차하는 게 좋겠다.
+
+[305]
+#You'd better stay in bed for a little.
+#너는 침대에서 좀 눕는 게 좋겠다.
+
+[306]
+#Your recent work hasn't been up to standard.
+#너의 최근의 일은 표준에 달하지 못했다.
+
+[307]
+#You've been slack in your work recently.
+#너의 최근의 일은 줄곧 매우 태만했다.
+
+[308]
+#Have you seen any good films lately?
+#너는 최근에 무슨 좋은 영화를 본 적이 있니?
+
+[309]
+#What sort of food do you like best?
+#너는 어떠한 음식을 먹는 것을 가장 좋아하니?
+
+[310]
+#What's your favorite pastime?
+#네가 가장 좋아하는 취미는 무엇이니?
+
+[311]
+#Which part of the play did you like best?.
+#너는 그 연극 중의 어느 부분을 가장 좋아하니?
+
+[312]
+#What is your favourite television programme?
+#너는 어떤 텔레비전 프로를 가장 좋아하니?
+
+[313]
+#What is your favourite brand of soap?
+#너는 어느 상표의 비누를 가장 좋아하니?
+
+[314]
+#Did you send the letter off yesterday?
+#너는 어제 편지를 부쳤니?
+
+[315]
+#Did you go anywhere yesterday?
+#너는 어제 어느 곳에 갔었니?
+
+[316]
+#The man you met yesterday is my neighbor.
+#네가 어제 만난 사람은 나의 이웃이다.
+
+[317]
+#How does it come about that you failed to turn up in time yesterday?
+#너는 어제 어떻게 제시간에 도착하지 못했니?
+
+[318]
+#You have done wrong but I shall look over it this time.
+#네가 잘못했지만 이번은 내가 너를 양해할 것이다.
+
+[319]
+#Don't skimp the butter when you make cakes.
+#너는 케이크를 만들 때 버터 쓰는 것을 아끼지 말아라.
+
+[320]
+#Did you use coffee essence in making cake?
+#너는 케이크를 만들 때 커피 정액을 썼니?
+
+[321]
+#You'll get damn all out of the work.
+#네가 그 일을 해보았자 아무것도 얻을 수 없다.
+
+[322]
+#What was your intention in doing that ?.
+#네가 그 일을 한 것은 무슨 의도가 있느냐?
+
+[323]
+#It is foolish of you to do a thing like that.
+#네가 그러한 일을 한 것은 정말 바보스럽다.
+
+[324]
+#You were mistaken in assuming it.
+#네가 이 가정을 한 것은 잘못이다.
+
+[325]
+#You will need the patience of Job to do it.
+#네가 이 일을 하는 데는 아주 큰 인내심을 필요로 할 것이다.
+
+[326]
+#What influenced you when you made your choice?
+#네가 이렇게 선택한 데는 무슨 영향을 받았느냐?
+
+[327]
+#A fond mother may spoil her child.
+#아이를 지나치게 사랑하는 어머니가 아이를 망칠 것이다.
+
+[328]
+#He departed for Japan with his brothers in 1991.1991.
+#1991년 그는 형제들과 일본에 갔다.
+
+[329]
+#The seventies ushered in women's liberation.1970.
+#1970년대에 부녀해방의 도래를 선고했다.
+
+[330]
+#The yearly audit takes place each December.
+#회계심사년도는 매년 12월에 진행된다.
+
+[331]
+#Age hinders his moving swiftly.
+#나이가 그의 동작을 더 이상 민첩하지 못하게끔 한다.
+
+[332]
+#The oldest children are in the sixth form.
+#나이가 가장 많은 학생은 6학년에 있다.
+
+[333]
+#How are we this morning,young man ?.
+#젊은이, 자네 오늘 아침 안녕한가?
+
+[334]
+#Young people prefer rock music.
+#젊은이들은 록음악을 비교적 좋아한다.
+
+[335]
+#That film stands high among the young.
+#젊은이들은 그 영화에 대해 매우 높이 평가한다.
+
+[336]
+#The young people went hog-wild over that new kind of jazz.
+#젊은이들은 그런 새로운 재즈음악에 대단히 열광한다.
+
+[337]
+#The young man pulled himself up to his full height and began to sing.
+#젊은이들은 몸을 똑바로 펴고 노래를 부르기 시작했다.
+
+[338]
+#Young people resort to the seaside or mountains in summer.
+#젊은이들은 여름에 항상 해변이나 산으로 간다.
+
+[339]
+#Age cannot wither her.
+#나이가 그녀의 아름다운 자태를 쇠퇴시킬 수는 없다.
+
+[340]
+#King John subscribed to Magna Carta in 1215.1215.
+#1215년 존 국왕은 대헌장에 서명했다.
+
+[341]
+#At the end of the year the accounts balance out.
+#연말에 장부가 마침 수지가 맞아 떨어졌다.
+
+[342]
+#The wing of a bird corresponds to the arm of a man.
+#새의 날개는 인간의 팔에 상당한다.
+
+[343]
+#The bird's large wings enable it to fly.
+#새의 양 날개는 매우 커서, 그것을 비상하는데 충분하게끔 한다.
+
+[344]
+#Birds were darting through the trees.
+#새들은 표창처럼 수풀사이를 뚫고 지나간다.
+
+[345]
+#Birds sing loudest in the early morning.
+#새들은 새벽에 가장 크게 노래 부른다.
+
+[346]
+#The birds flitted from branch to branch.
+#새들은 나뭇가지 사이에서 이리저리 날아다닌다.
+
+[347]
+#The bird is picking at the grains left in the cornfield.
+#새가 밭에 남은 곡식 알갱이를 쪼아먹고 있다.
+
+[348]
+#You should take quality into consideration.
+#당신은 반드시 질량 문제를 고려해야 합니다.
+
+[349]
+#Your words of comfort were most helpful.
+#당신의 위로의 말씀이 저에게 큰 도움이 됩니다.
+
+[350]
+#The news of your sorrow has just reached me.
+#당신의 불행한 소식이 방금 제가 있는 곳에 전해졌습니다.
+
+[351]
+#You may be able to profit special terms on your initial order.
+#당신의 첫번째 주문은 특별대우를 누리실 수 있습니다.
+
+[352]
+#Your order will be completed in six months.
+#당신의 주문은 6월 내에 완전히 건네 드릴 것입니다.
+
+[353]
+#I feel highly honored by your kindness.
+#당신의 호의는 저로 하여금 막대한 영광을 느끼게 합니다.
+
+[354]
+#I take your visit as a great honor,honour).
+#당신의 방문은 저의 막대한 영광입니다.
+
+[355]
+#When your letter arrived,I was just in Hong Kong .
+#당신의 편지가 도착하였을 때, 저는 마침 홍콩에 있었습니다.
+
+[356]
+#Do you have any comment to make about this clause?
+#당신은 이것에 대해 또 무슨 의견이 있습니까?
+
+[357]
+#Someday in the future you may have for a new private secretary.
+#당신은 장래에 혹시 새 개인 비서를 필요로 할지도 모릅니다.
+
+[358]
+#What do you think of our price?
+#당신은 우리들의 제시가격이 어떻다고 생각하십니까?
+
+[359]
+#Shall we put it at 450 pieces?
+#450개로 정할까요?
+
+[360]
+#Will you advance me two weeks' salary?.
+#당신은 저에게 2주의 임금을 선불할 수 있습니까?
+
+[361]
+#What is the total annual turnover you could fulfill?
+#당신이 완성할 수 있는 연 판매총량은 얼마입니까?
+
+[362]
+#We wish you a merry Christmas and a happy New Year.
+#당신이 성탄을 유쾌하고 새해를 즐겁게 보내시길.
+
+[363]
+#The cows were twitching their tails to drive off the flies.
+#소가 꼬리를 실룩거려서 파리를 쫓아냈다.
+
+[364]
+#Newton did not confine his studies to mathematics.
+#뉴튼은 결코 그의 연구를 수학에 국한하지 않았다.
+
+[365]
+#Oxford tied Cambridge in football.
+#옥스포드와 캠브리지의 축구 시합은 실력이 비슷비슷하다.
+
+[366]
+#Milk bottle tops are made of tin foil.
+#우유병 뚜껑은 석박으로 제조한 것이다.
+
+[367]
+#The milk slopped over the rim of the glass.
+#우유가 유리컵 바깥으로 흘러 나왔다.
+
+[368]
+#Milk nourishes a baby.
+#우유는 아기를 자양한다. 우유가 아이에게 영양을 준다.
+
+[369]
+#The cattle were well fenced out.
+#소떼가 울짱 바깥에 적당하게 떨어져 있다.
+
+[370]
+#The cattle fattened on the meadow grass.
+#소떼는 목장의 푸른 풀을 먹고 포동포동하게 자랐다.
+
+[371]
+#The salesman from New York was shifted off.
+#뉴욕에서 온 그 판매원은 해고되었다.
+[372]
+#New York ranks as one of the biggest cities in the world.
+#뉴욕은 세계 최대 도시중의 하나이다.
+[373]
+#Thick fog held the London express up for three hours.
+#짙은 안개가 런던 급행열차를 3시간 지연시켰다.
+[374]
+#Thick smoke ascended from the burning plane.
+#짙은 연기가 연소중인 비행기에서 올라왔다.
+[375]
+#Too much make-up looks unnatural.
+#여자가 화려하게 화장한 모습은 자연스러워 보이지 않는다.
+[376]
+#One end of the farm is butting on the airfield.
+#농장의 한 끝은 비행장과 서로 접해 있다.
+[377]
+#The farmer took his pigs to market.
+#농부는 그의 돼지를 시장으로 데리고 갔다.
+[378]
+#The farmer was driving his cattle along the road.
+#농부는 그의 가축을 몰아 그 길을 따라 걸어갔다.
+[379]
+#The farmers were pitching hay on to the cart.
+#농부들은 마른 풀을 화물차에 던져 올리고 있다.
+[380]
+#The farmer's property was apportioned among his sons after his death.
+#농부의 사후 재산은 자식들에 의해 나뉘어진다.
+
+[381]
+#Farmers feed oats to their horses.
+#농부는 귀리를 그들의 말에게 먹인다.
+
+[382]
+#A commodity base of agricultural and by-products has been formed.
+#농부산물 상품기지는 초급 규모를 갖추고 있다.
+
+[383]
+#I may be able to get off after the busy farming season.
+#농번기가 지난 후에 나는 아마도 떠날 수 있을 것이다.
+
+[384]
+#The farmer herded the cows into the field.
+#농민은 소떼를 들로 몰았다.
+
+[385]
+#The farmers kicked at the government's measure.
+#농민들은 정부의 조치에 강렬하게 항의했다.
+
+[386]
+#the farmer milks the cows twice a day.
+#농민은 하루에 두 번 젖소에게서 젖을 짠다.
+
+[387]
+#Farmers plough their fields in autumn or spring.
+#농민은 가을 또는 겨울에 쟁기로 밭을 간다.
+
+[388]
+#Farming is still the mainstay of this country.
+#농민은 여전히 이 나라의 주요 의존자이다.
+
+[389]
+#The crops are suffering from the want of rain.
+#농작물이 강우량 감소로 손해 입었다.
+
+[390]
+#Has it been found out who set the record?
+#이 기록이 누가 세운 것인지 정확히 알았느냐?
+
+[391]
+#The slaves toiled up the hill pulling the heavy blocks.
+#노예가 어렵게 무거운 돌을 산 위로 밀어올렸다.
+
+[392]
+#The slaves rose against their cruel masters.
+#노예들은 일어나서 그들의 잔폭한 주인에게 반항했다.
+
+[393]
+#We can overcome the difficulties by working hard.
+#열심히 일해야만 어려움을 극복할 수 있다.
+
+[394]
+#The girl tripped lightly down the path.
+#여자아이는 경쾌한 발걸음으로 골목을 걸어갔다.
+
+[395]
+#The girls excluded the boys from their conversation.
+#여자아이들은 남자아이가 그녀들의 대화에 참가하는 것을 거절했다.
+
+[396]
+#The girl shrank from the dog.
+#여자아이는 움츠려서 그 개를 피했다.
+
+[397]
+#The girl has blossomed out into a strong young woman.
+#여가아이가 이미 건장한 청년이 되었다.
+
+[398]
+#Girls have a stronger tendency to chatter than boys.
+#여자아이가 남자아이보다 더 말이 많은 기질이 있다.
+
+[399]
+#The girls were reduced to silence .
+#여자아이들이 마침내 조용해졌다.
+
+[400]
+#A woman's age often shows itself in her face.
+#여자의 나이는 항상 그녀의 얼굴에 드러난다.
+
+[401]
+#Women have rounder hips than men.
+#여자의 엉덩이는 남자의 것보다 비대하다.
+
+[402]
+#Women were his undoing.
+#여자가 그의 지위와 명예가 땅바닥에 떨어진 화근이다.
+
+[403]
+#Beauty is jealous,and illy bears the presence of a rival. .
+#여자의 용모는 질투를 잘해서 라이벌을 보면 미워한다.
+
+[404]
+#The ladies swished in and out.
+#숙녀들이 정장을 사각거리면서 들어갔다 나왔다 한다.
+
+[405]
+#The Queen's bodyguards stopped a man who was carrying a gun.
+#여왕의 경호원이 총을 찬 사람을 막았다.
+
+[406]
+#The Queen's son was created Prince of Wales.
+#여왕의 아들은 웨일즈 왕자로 봉직되었다.
+
+[407]
+#The children waved their flags as the Queen passed.
+#여왕이 지나갈 때 아이들은 깃발을 흔들고 있었다.
+
+[408]
+#It's a great honour to have the Queen visiting our town.
+#여왕께서 우리 도시에 왕림하신 것은 정말 막대한 영광입니다.
+
+[409]
+#The queen was gracious enough to invite us.
+#여왕은 친절하게 우리를 초청했다.
+
+[410]
+#The queen was crowned with proper ceremony.
+#여왕은 전통의식으로 왕관 수여식을 거행했다.
+
+[411]
+#The queen was escorted by the directors as she toured the factory.
+#여왕은 이사들의 수행으로 공장을 참관했다.
+
+[412]
+#The actress speaks out her part in a ringing voice.
+#여자 배우는 대사를 명료하고 크게 울리게 읽었다.
+
+[413]
+#The actress exchanged banter with reporters.
+#여배우는 기자들과 서로 농담했다.
+
+[414]
+#The maid was told to do the bathroom.
+#하녀는 욕실을 청소하라고 분부 받았다.
+
+[415]
+#The hostess dished out the beefsteaks.
+#여주인은 비프스테이크를 모두에게 나누어 주었다.
+
+[416]
+#The hostess made up a room for the visitor.
+#여주인은 손님에게 방 한 칸을 안배했다.
+
+[417]
+#The plants in the greenhouse were being smoked.
+#온실의 식물은 담배 연기로 벌레를 제거하고 있다.
+
+[418]
+#The warm weather seduced me away from my studies.
+#따뜻한 날씨는 나로 하여금 열심히 공부하고 싶지 않게 유혹했다.
+
+[419]
+#The warm weather invited me to go out for a walk.
+#따뜻한 날씨가 나를 산보하러 나가도록 유혹했다.
+
+[420]
+#Warm air rises by convection.
+#따뜻한 공기가 대류 작용으로 인해 상승한다.
+
+[421]
+#It is not his nature to be cruel to animals.
+#동물 학대는 그의 본성에 맞지 않는다.
+
+[422]
+#There has been an increase in baby battering.
+#아기 학대 상황이 다소 증가했다.
+
+[423]
+#The malaria cases in the area have become few and far-between.
+#학질병의 예는 이 지역에서 이미 매우 보기 드물다.
+
+[424]
+#Moving that piano was heavy work.
+#그 피아노를 운반하는 것은 힘든 작업이다.
+
+[425]
+#Oh,let her sleep on.
+#오, 그녀로 하여금 더 좀 자게 하자.
+
+[426]
+#I was hit a crack on the head.
+#탁하는 소리와 함께 내 머리 위에 일격이 가해졌다.
+
+[427]
+#snap off a twig
+#탁하고 나뭇가지 하나를 부러뜨리다.
+
+[428]
+#The climber carried some food in a pack on his back.
+#등산하는 사람은 건량을 배낭 속에 두었다.
+
+[429]
+#Mountain climbers need a lot of pluck.
+#등산가는 거대한 기백을 필요로 한다.
+
+[430]
+#Patty dawdled away four years in college,
+#패티는 대학에서 4년을 빈둥거렸다.
+
+[431]
+#be forced to stay off the street at night for fear of being bailed up
+#약탈당할 것을 두려워하여 저녁에 감히 거리로 나가지 못하다.
+
+[432]
+#The auctioneer was hanging out for a better offer.
+#경매인은 시간을 끌면서 더 높은 입찰 가격을 기다렸다.
+
+[433]
+#The platoon leader faced his men about.
+#소대장은 그의 사병들을 뒤로 돌게 했다.
+
+[434]
+#dope out a full year's schedule of football matches
+#전체년도 축구 시합의 시간표를 내놓다.
+
+[435]
+#The queuer were hoping for standing room.
+#줄을 서서 표를 사는 사람들은 단지 입석권이 있기를 바랄 뿐이다.
+
+[436]
+#appoint observers to sit in on an international meeting
+#옵저버들을 한 국제회의에 열석하도록 파견하다.
+
+[437]
+#The plates were all sent down to the kitchen.
+#접시가 다 주방으로 보내졌다.
+
+[438]
+#The tray was passed one to another.
+#접시가 한 사람씩 이어서 전달되었다.
+
+[439]
+#We anticipate the pleasure of hearing from you in the near future.
+#머지않아 너희측의 회신을 받을 수 있기를 바란다.
+
+[440]
+#look to quiet in one's old age
+#늙어서 안정된 생활을 좀 보내기를 바라다.
+
+[441]
+#We look forward to hearing from you soon.
+#빨리 당신의 회신을 받을 수 있기를 바랍니다.
+
+[442]
+#Any information you can supply us in this regard will be highly appreciated.
+#이 방면의 관련 정보를 제공하기를 바랍니다.
+
+[443]
+#Looking forward to hearing from you.
+#빠른 시일에 너희들의 소식을 받게 되기를 바란다.
+
+[444]
+#We are looking forward to receiving your inquiry at an early date.
+#빠른 시일에 당신측의 조회 가격을 받게 되기를 바랍니다.
+
+[445]
+#Diet of Worms
+#마틴 루터를 이교도라고 단정한 회의.
+
+[446]
+#A hush fell over the onlookers.
+#방관자들이 갑자기 조용해졌다.
+
+[447]
+#Get the stardust out of your eyes and face reality.
+#천진한 생각을 버리고 현실을 직시하라.
+
+[448]
+#After all that running I have no breath left.
+#그렇게 많은 길을 달렸으니 너는 숨돌릴 새도 없었구나.
+
+[449]
+#Running five miles gave him a thirst.
+#5마일을 달렸더니 그는 목마름을 느꼈다.
+
+[450]
+#I feel completely shattered after that run up the hill.
+#언덕에 달려 올라온 후에 나는 기진맥진함을 느꼈다.
+
+[451]
+#Paddy is an unsympathetic and feelingless man.
+#패디는 무정하고 냉혹한 사람이다.
+
+[452]
+#Training of technical personnel for operation,maintenance and management;
+#조작, 보수, 관리 등의 기술요원을 배양 훈련하다.
+
+[453]
+#The jury handed down a verdict of guilty.
+#배심단은 유죄판결을 발송했다.
+
+[454]
+#The jury returned a verdict of "Not Guilty".
+#배심단은 무죄판결을 선포했다.
+
+[455]
+#The jury found for the plaintiff.
+#배심단은 원고에게 유리한 판결을 했다.
+
+[456]
+#The jury brought in a verdict of guilty.
+#배심단은 유죄판결을 했다.
+
+[457]
+#The water of the fountain played on the children's faces.
+#분수의 물이 아이들의 얼굴 위로 뿜었다.
+
+[458]
+#The broken edges of the plate were put together with glue.
+#대야의 부서지 끝이 풀로 붙여졌다.
+
+[459]
+#Rub salt into the meat before cooking it.
+#요리하기 전에 먼저 소금을 고기에 문질러라.
+
+[460]
+#Aromatic plants are often used in cooking.
+#요리 중에는 항상 방향식물을 사용한다.
+
+[461]
+#Skewer the chicken before cooking.
+#요리하기 전에 먼저 닭고기를 꿰어라.
+
+[462]
+#His friends condoled with him on his father's death.
+#친구들이 그의 부친의 별세로 그를 조문했다.
+
+[463]
+#The critics got in their zingers.
+#비평가들은 유력한 반박을 받았다.
+
+[464]
+#In splitting wood ,don't try to go against the grain.
+#목재를 자를 때에는 나뭇결에 따라서 잘라야 한다.
+
+[465]
+#The beer frothed as it was poured out.
+#맥주는 따를 때에 거품이 솟아오른다.
+
+[466]
+#The floating sticks were sucked into the whirlpool.
+#떠다니는 나뭇가지가 소용돌이에 말려들었다.
+
+[467]
+#Slums are often causative of crime.
+#빈민굴은 항상 범죄의 온상이다.
+
+[468]
+#Poverty prevented the boy from continuing education.
+#가난은 그 남자아이로 하여금 계속 공부할 수 없게 했다.
+
+[469]
+#The argument that poverty is a blessing has often been put forward.
+#가난은 복이다라는 의론이 항상 사람들에게서 제기된다.
+
+[470]
+#Article: Ladies' Nylon Pantyhose
+품명: 여자용 나일론
+
+[471]
+#Apples,oranges,and bananas are fruit.
+#사과, 귤 그리고 바나나는 모두 다 과일이다.
+
+[472]
+#The apple is a fruit which ripens in the fall.
+#사과는 가을에 익는 과일이다.
+
+[473]
+#Apples are graded according to size and quality.
+#사과는 크기 및 품질에 따라서 등급을 나눈다.
+
+[474]
+#The apple trees are fruiting early this year.
+#사과나무는 금년에 매우 일찍 열매를 맺었다.
+
+[475]
+#What risks are covered by a F.P.A.policy?
+#F.D.A가 맡은 위험 종류는 어느것들인가?
+
+[476]
+#The still water mirrored the trees along the bank.
+#고요한 수면이 연안의 나무 그림자를 비추었다.
+
+[477]
+#We'll have a storm tomorrow,by the feel of it.
+#느낌에 의하면 내일 폭풍우가 있을 것이다.
+
+[478]
+#There's a fightingchance that you will succeed.
+#노력에 의존하면 너는 성공의 기회를 가질 수 있을 것이다.
+
+[479]
+#It is absurd to argue from these premises.
+#이러한 전제에 근거하면 의론은 불합리한 것이다.
+
+[480]
+#This ticket entitles you to travel first class.
+#이 표에 의하면 너는 1등석을 타고 여행할 수 있다.
+
+[481]
+#Instinctively,I knew she was ill.
+#직감에 의해서 나는 그녀가 병이 났다는 것을 안다.
+
+[482]
+#The glass from bottles can be recycled.
+#병의 유리는 회수해서 이용할 수 있다.
+
+[483]
+#Try to be generous in your judgment of others.
+#다른 사람을 평가할 때는 너그럽게 대하도록 힘써 노력해야 한다.
+
+[484]
+#The critics hailed his work as a masterpiece.
+#평론가들은 그의 작품이 걸작이라고 인정했다.
+
+[485]
+#The spilt ink won't scrub out easily.
+#엎질러진 먹물은 쉽게 닦여 씻겨지지 않는다.
+
+[486]
+#Risk of Breakage is classified under extraneous risks.
+#파손 위험은 일반적인 부가 위험에 속합니다.
+
+[487]
+#knock the wholesaler down ten percent
+#도매상에게 10% 가격인하를 강요하다.
+
+[488]
+#drive a building firm out of business
+#건축회사에게 사업 정지를 강요하다.
+
+[489]
+#Set up the mosquito net before you make the bed.
+#침대를 깔기 전에 먼저 모기장을 걸어라.
+
+[490]
+#The servant announced Mr.Smith.
+#하인이 큰소리로 스미스씨의 방문을 알렸다.
+
+[491]
+#The servant brought him the message that someone wanted to speak with him over the telephone.
+#하인이 메시지를 가져와서 누군가가 그와 전화를 통화하고 싶어 한다고 말했다.
+
+[492]
+#The butler ushered the visitor into the drawing room.
+#부역장은 방문객을 모시고 응접실로 들어갔다.
+
+[493]
+#Wine may be distill,distil)ed into brandy.
+#포도주는 브랜드로 증류될 수 있다.
+
+[494]
+#Wine is made from grapes.
+#포도주는 포도로 만든 것이다.
+
+[495]
+#The wine gurgled out of the bottle.
+#포도주가 병에서 흘러나왔다.
+
+[496]
+#The vine has begun to grow away from the wall.
+#포도나무가 이미 담 밖으로 뻗어나오기 시작했다.
+
+[497]
+#Plain clothes are appropriate for school wear.
+#소박한 옷이 등교할 때의 복장으로 적합하다.
+
+[498]
+#What does the shop floor think about the rise in pay?
+#보통의 노동자는 임금 증가에 대해서 어떤 생각을 가지고 있습니까?
+
+[499]
+#Surface mail takes longer than airmail.
+#보통우편은 항공우편보다 느리다.
+
+[500]
+#The cascade falls over a tall cliff.
+#폭포는 아주 높은 절벽 위에서 쏟아진다.
+
+[501]
+#The expectant crowds waited for the queen to pass.
+#기대하는 군중들이 여왕이 지나가기를 기다렸다.
+
+[502]
+#We are looking forward to our close cooperation in the near future.
+#가까운 시일 내에 당신측과 진일보한 합작을 기대합니다.
+
+[503]
+#We look forward to the opportunity of being of service to you.
+#당신을 위해 서비스 할 기회를 갖기를 바라고 있습니다.
+
+[504]
+#I felt uneasy at my wife's absence.
+#아내의 부채가 나로 하여금 걱정하게끔 했다.
+
+[505]
+#When his wife died,he was very lonely.
+#아내가 죽은 후에 그는 매우 고독했다.
+
+[506]
+#He has charge of the children while his wife is at work.
+#아내가 출근할 때 그는 아이를 돌보는 것을 책임졌다.
+
+[507]
+#He became a bit unbalanced after his wife died.
+#아내가 죽은 후에 그의 정신이 약간 이상해졌다.
+
+[508]
+# "Star War" is on at Haidian at 7:30.
+#7시 반에 해전극장에서 <별들의 전쟁>이 상영된다.
+
+[509]
+#What is the average rainfall for July?
+#7월의 평균 강수량은 얼마인가?
+
+[510]
+#The rain continued all through July.
+#7월에 비가 꼬박 1개월을 내렸다.
+
+[511]
+#It's a cold day for July,isn't it?
+#7월에 이런 날씨는 춥다고 할만한 것이다, 네 생각은?
+
+[512]
+#Seven wolves fell to his rifle.
+#7마리의 늑대가 그의 권총에 맞아 죽었다.
+
+[513]
+#The painters sent in for more paint.
+#페인트공이 안에서 약간의 페인트를 더 보내달라고 요구했다.
+
+[514]
+#Rub the door down before you paint it.
+#문을 칠할 때는 먼저 그것을 평평하게 문질러야 한다.
+
+[515]
+#Whose products will be able to compete with similar products in the world market,
+#그 상품은 국제시장에서 경쟁력이 있다.
+
+[516]
+#It had an effect entirely alien from the one intended.
+#그 결과는 예상했던 것과 완전히 상반된다.
+
+[517]
+#The damage was inflicted upon them in transit.
+#그 손실은 운수과정에서 발생했다.
+
+[518]
+#The other boys teased John abou this curly hair.
+#다른 남자아이들은 존의 곱슬곱슬한 머리를 놀렸다.
+
+[519]
+#Other things being equal,iron heats up faster than aluminium.
+#다른 상황이 똑같을 때 철은 알루미늄보다 빨리 뜨거워진다.
+
+[520]
+#There is a possibility that there is life on other planets.
+#다른 행성에 생물이 존재할 가능성이 있다.
+
+[521]
+#Students from other schools came for the talk,too.
+#다른 학교의 학생도 이 보고를 와서 듣는다.
+
+[522]
+#This same method applies to all the other three shipments.
+#기타 세 개의 화물도 이에 따라서 처리한다.
+
+[523]
+#This had the unexpected consequence that everybody resigned.
+#그 의외의 결과는 모두가 함께 사직한 것이다.
+
+[524]
+#The original of which are being sent to you through our bankers.
+#그 원본은 우리 은행을 통해서 당신측에게 보냅니다.
+
+[525]
+#Most types can be supplied from stock.
+#그중 다수의 유형이 모두 현물을 갖추고 있다.
+
+[526]
+#One of the students conducted her in .
+#그중 한 학생이 그녀를 안내해서 들어갔다.
+
+[527]
+#It is odd I cannot think of her name.
+#이상하다. 나는 그녀의 이름이 생각나지 않는다.
+
+[528]
+#It's odd that you should mention that.
+#이상한 것은 네가 결국 그 일을 제기할 수 있다는 것이다.
+
+[529]
+#It's strange you've never met him.
+#이상한 것은 네가 종래 그를 만난 적이 없다는 것이다.
+
+[530]
+#It is a wonder he declined this offer.
+#이상한 것은 그가 뜻밖에도 이 제의를 거절한 것이다.
+
+[531]
+#The upper story is reached by rough stone stairs.
+#울퉁불퉁한 돌 계단이 이층으로 통한다.
+
+[532]
+#It is six of one and half-a-dozen of the other.
+#진용이 상당하다, 피차일반, 난형난제.
+
+[533]
+#The flags lent colour to the streets.
+#깃발은 거리에 색채를 더했다.
+
+[534]
+#She prayed God for strength in her troubles.
+#신에게 기도하는 것은 그녀가 어려움을 만났을 때에 힘을 부여한다.
+
+[535]
+#The rider walked his horse down the founderous road.
+#말을 탄 사람은 그의 말을 타고 진창길을 지났다.
+
+[536]
+#The rider had a hard time holding his horse in.
+#기수는 가까스로 그의 말을 제압했다.
+
+[537]
+#The rider dug the horse in the side with his spurs.
+#말을 탄 사람은 박차로 말의 옆배를 찼다.
+
+[538]
+#The cyclist rang his bell loudly.
+#자전거를 탄 사람은 크게 벨을 눌렀다.
+
+[539]
+#The cyclist ran down an old man.
+#자전거를 탄 사람은 한 노인을 쳐서 쓰러뜨렸다.
+
+[540]
+#After getting up,I go into the bathroom and take a shower.
+#기상 후에 나는 바로 목욕실에 가서 샤워를 했다.
+
+[541]
+#Two fire engines arrived shortly after the fire blazed up.
+#불이 난 후 얼마 되지 않아 두 대의 소방차가 급히 왔다.
+
+[542]
+#The living room communicates with the bedroom.
+#거실은 침실과 서로 통한다.
+
+[543]
+#At first I couldn't perceive what he meant.
+#처음에 나는 그가 말한 뜻을 이해하지 못했다.
+
+[544]
+#The ginpole is the simplest form of derrick.
+#기중 데릭붐은 가장 간단한 기증기이다.
+
+[545]
+#The penguin is a flightless bird.
+#펭귄은 날 수 없는 새이다.
+
+[546]
+#It will not do to try to blur out distinctions between right and wrong.
+#시비를 헛갈리게 하려고 하는 것은 안 된다.
+
+[547]
+#try to gain time by spinning out negotiations
+#협상을 끌어서 시간을 벌려고 하다.
+
+[548]
+#try to shout down the opposition
+#고함소리가 반대파를 압도하려고 한다.
+
+[549]
+#We will decide on the period of the contract at a later date.
+#계약의 기한은 우리 나중에 다시 정하자.
+
+[550]
+#The asthmatic speaks wheezingly.
+#기관지 천식 환자는 헐떡거리면서 말을 했다.
+
+[551]
+#Suddenly the atmosphere was felt to grow tense.
+#분위기가 갑자기 긴장감이 느껴지기 시작했다.
+
+[552]
+#Does the climate agree with the patient?
+#기후가 환자의 체질에 적합합니까?
+
+[553]
+#Gases bubbled up from the mud.
+#기포가 늪에서 솟아올랐다.
+
+[554]
+#face down all opposition
+#기세등등하게 모든 반대 의견을 압도하다.
+
+[555]
+#The gas bubbled to the surface of the water.
+#기체가 기포로 변해서 수면으로 상승했다.
+
+[556]
+#This material is impervious to gases and liquids.
+#기체와 액체는 모두 이런 물질을 통과하지 못한다.
+
+[557]
+#After passing through the boiler,the gasses are still very hot.
+#기체가 보일러를 통과한 후에도 여전히 아주 뜨겁다.
+
+[558]
+#The temperature ranges between ten and thirty degrees.
+#기온은 10에서 30도 사이에 있다.
+
+[559]
+#The weatherman reports it'll be sunny tomorrow.
+#기상 통보관은 내일은 맑은 날씨일 것이라고 말했다.
+
+[560]
+#The weatherforecast said fair in the morning,later cloudy.
+#기사예보는 아침에 날씨가 맑다가 흐려진다고 말했다.
+
+[561]
+#The weatherman reported the typhoon to have approached the mainland.
+#기상 통보관은 태풍이 이미 본토에 접근했다고 통보했다.
+
+[562]
+#The barometer is rising.
+#기압표의 수은주가 상승하고 있다.
+
+[563]
+#The glass is falling; it's going to rain.
+#기압계가 하강하고 있으니 비가 올 것이다.
+
+[564]
+#The windshield iced up.
+#자동차의 바람막이 유리에 얼음 한 층이 얼었다.
+
+[565]
+#The car horns blared out their warnings.
+#자동차의 클렉션이 크게 경고음을 냈다.
+
+[566]
+#The car's engine was ticking over.
+#자동차 엔진이 저속에서 공전하고 있다.
+
+[567]
+#The car industry is one of our biggest employers.
+#자동차 공업은 우리의 최대의 고용주 중의 하나이다.
+
+[568]
+#The car rolled down the hill and came to rest at the bottom.
+#자동차가 산비탈로 굴러내려서, 산허리에서 멈추었다.
+
+[569]
+#The car roared past.
+#자동차가 부르릉부르릉 하면서 급히 지나갔다.
+
+[570]
+#The car came to a halt just in time to prevent an accident.
+#자동차가 즉시 멈춰서 사고를 모면했다.
+
+[571]
+#The car sped up to a hundred kilometres per hour.
+#자동차가 시속 100km를 달리도록 속도를 가했다.
+
+[572]
+#The car has practically fallen apart.
+#자동차가 그야말로 이미 사분오열되었다.
+
+[573]
+#The car pulled in at the garage.
+#자동차가 차고에서 멈추었다.
+
+[574]
+#The car raised a cloud of dust as it rushed past.
+#자동차가 지나갈 때 먼지가 휘날렸다.
+
+[575]
+#The car just grazed the gate as it drove through.
+#자동차가 들어올 때 가볍게 대문을 스쳤다.
+
+[576]
+#The car has started aching up and badly needs servicing.
+#자동차가 고장이 나기 시작했으니 보수가 급히 필요하다.
+
+[577]
+#The car ran slap into the shop window.
+#자동차가 맹렬하게 상점의 쇼윈도를 부딪쳐 들어갔다.
+
+[578]
+#The car rammed the pole.
+#자동차가 맹렬하게 기둥을 박았다.
+
+[579]
+#The car broke down and I had to make my way on foot.
+#자동차가 고장이 나서, 나는 어쩔 수 없이 걸어서 갔다.
+
+[580]
+#The car ran down the hill out of control.
+#자동차가 통제력을 잃어서 산비탈로 굴렀다.
+
+[581]
+#The car careered uncontrollably down the hill.
+#자동차가 통제력을 잃고 총알같이 산을 내려갔다.
+
+[582]
+#The car drivers tooted their horns.
+#자동차 운전자들은 빵빵하고 클렉션을 눌렀다.
+
+[583]
+#The car was parked beside the house.It was headed out towards the street.
+#자동차가 집 옆에 세워져 있는데, 차 앞이 거리를 향해 있다.
+
+[584]
+#The car swerved to avoid the dog.
+#자동차가 갑자기 방향을 바꾸어서 그 개를 피했다.
+
+[585]
+#The car gained speed as it went down the hill.
+#자동차가 산을 내려올 때에 속도를 가속화했다.
+
+[586]
+#The car scooted off into the dark.
+#자동차가 어둠 속을 향해 질주해 갔다.
+
+[587]
+#The car nosed out into the traffic.
+#자동차가 조심스럽고 천천히 차량의 행렬로 들어갔다.
+
+[588]
+#The automobile trade will welcome the measure.
+#자동차업자는 이 조치를 환영할 것이다.
+
+[589]
+#The car was fetched up short by a red light.
+#자동차가 일제히 빨간 신호등에 의해 멈추었다.
+
+[590]
+#The car has been blocked in by all those lorries.
+#자동차는 이미 그 트럭들에 의해 겹겹이 포위되었다.
+
+[591]
+#A car runs on petrol.
+#자동차는 휘발유를 연료로 해서 달린다.
+
+[592]
+#The car pulled up outside the station.
+#자동차는 기차역 밖에 세워 놓았다.
+
+[593]
+#The car changed down just before the turning.
+#자동차는 바로 모퉁이에 이르렀을 때 속도를 늦추었다.
+
+[594]
+#The car bowled along over the street.
+#자동차는 거리에서 경쾌하게 달렸다.
+
+[595]
+#The cars crashed on the straight.
+#자동차는 도로 직선 부분에서 부딪쳤다.
+
+[596]
+#The car pulled up at our door.
+#자동차는 우리의 입구에서 멈추어 섰다.
+
+[597]
+#The car ran over a dog and killed it.
+#자동차는 개 한 마리를 쳐서 그것을 죽였다.
+
+[598]
+#The cars got up speed on the straight.
+#자동차는 직선 주행시에 속도를 냈다.
+
+[599]
+#The car winked before turning.
+#자동차는 모퉁이를 돌기 전에 자동차 깜박이를 계속 깜박거렸다.
+
+[600]
+#The propeller of the steamboat churned the waves.
+#증기선의 프로펠러가 파도를 말아올렸다.
+
+[601]
+#The whistle blew to give notice that the boat was about to leave.
+#기적 소리가 울리는 것은 배가 곧 출항할 것이라는 것을 알린다.
+
+[602]
+#The motorboat skimmed over the water.
+#모터보트는 수면 위에서 날듯이 스치며 지나갔다.
+
+[603]
+#Petrol is highly combustible so don't smoke while you're handling it.
+#휘발유는 매우 연소되기 쉬우므로 처리중에는 담배를 피워서는 안 된다.
+
+[604]
+#Petrol is no longer a cheap fuel.
+#유발유는 이미 더 이상 싼 연료가 아니다.
+
+[605]
+#Pencils are sold in dozens and grosses.
+#연필은 다스와 그로스 단위로 판다.
+
+[606]
+#Never do that again.
+#절대로 다시는 그러한 일을 하지 말아라.
+
+[607]
+#sign over a delivery of six aircraft
+#6대 비행기의 물품인도 협의에 조인하다.
+
+[608]
+#sign books out of a library
+#서명 후에 책을 도서관에서 빌려가다.
+
+[609]
+#The dry wood kindled up quickly.
+#건조한 나무는 아주 빨리 연소하기 시작했다.
+
+[610]
+#A hot,dry wind sprang up in the afternoon.
+#건조한 열풍이 오후에 갑자기 불기 시작했다.
+
+[611]
+#It is either you or he that stole the money.
+#돈은 네가 훔친 것이 아니면 그가 훔친 것이다.
+
+[612]
+#Mr.Qian is planning to go in for further studies in physics.
+#전 선생은 물리학에 대해 진일보한 연구를 할 것을 계획하고 있다.
+
+[613]
+#Money is just one of our worries.
+#돈은 우리의 근심거리 중의 하나일 뿐이다.
+
+[614]
+#I saw your friend the other day.
+#며칠 전에 나는 너의 친구를 본 적이 있다.
+
+[615]
+#I fell across your uncle in the street the other day.
+#며칠 전에 나는 거리에서 너의 숙부를 우연히 만났다.
+
+[616]
+#Take two steps forward and two steps back.
+#2보 전진 후 2보 후퇴.
+
+[617]
+#The road ahead was full of sheep.
+#앞의 거리 위에 양떼가 가득 찼다.
+
+[618]
+#They formed an alliance with Russia the year before last.
+#작년에 그들은 러시아와 동맹을 결성했다.
+
+[619]
+#The charge for a front-row seat is ↔5.
+#앞자리 표 값은 한 장당 5파운드이다.
+
+[620]
+#The foremast carried away in the strong gale.
+#앞의 마스트가 강한 바람에 꺽여 부러졌다.
+
+[621]
+#The advance guard was pressing forward with all speed.
+#전위대는 전속력으로 앞으로 힘차게 나아갔다.
+
+[622]
+#The troops at the front sent back for reinforcements.
+#전방의 군대는 후방에 증원을 요구했다.
+
+[623]
+#One age bequeaths its civilization to the next.
+#앞세대는 그 문명을 뒷세대에게 전한다.
+
+[624]
+#A sample has been mailed to you for your examination.
+#전에 이미 샘플 하나를 보내서 검사하시게 했습니다.
+
+[625]
+#A firearm is no toy to be bandied about.
+#총은 정말 마음대로 갖고 노는 물건이 아니다.
+
+[626]
+#gun down innocent women and children
+#무고한 여자와 아동을 총살하다.
+
+[627]
+#A shot woke the wood.
+#총성이 숲의 적막을 깨뜨렸다.
+
+[628]
+#The shot broke the peace of the morning.
+#총성이 새벽의 평화를 깨뜨렸다.
+
+[629]
+#The wall was riddled by bullets.
+#벽이 총알에 의해 구멍투성이가 되었다.
+
+[630]
+#The wall must be perpendicular to the floor.
+#벽은 반드시 마루와 직각이 되어야 한다.
+
+[631]
+#This part of the wall is chipping away rather badly.
+#담의 여기 일부분이 아주 심하게 갈라졌다.
+
+[632]
+#The wall is so low that they can jump over it with ease.
+#담이 매우 낮아서, 그들은 쉽게 넘어 갈 수 있다.
+
+[633]
+#The wallpaper and paint don't match each other.
+#벽지와 페인트 색깔이 어울리지 않는다.
+
+[634]
+#The burglar bound the clerk's hands together.
+#강도는 점원의 두 손을 한군데에 묶었다.
+
+[635]
+#Thieves descended on the traveller.
+#강도는 무리를 지어 그 여행객을 습격했다.
+
+[636]
+#The robbers broke in the gate and looted the warehouse.
+#강도들이 대문을 부수고 창고를 약탈했다.
+
+[637]
+#The robbers hid out in the suburbs of Boston to cool off.
+#강도들은 보스턴 교외에 숨어 정세를 피했다.
+
+[638]
+#A mugger demanded the tourist's money.
+#강도는 그 관광객에게 금전을 갈취했다.
+
+[639]
+#One of the robbers went under the guise of a postman.
+#강도중의 하나는 집배원으로 가장했다.
+
+[640]
+#insist on the importance of combining theory with practice
+#이론이 실제와 연계하는 중요성을 강조하다.
+
+[641]
+#The strong wind impelled their boat to shore.
+#강풍은 그들의 배를 해안에까지 불었다.
+
+[642]
+#The high winds coupled with a rising tide.
+#강풍은 만조와 한데 결합했다.
+
+[643]
+#Hard wind and bitter cold wizen his face.
+#강풍과 혹한이 그의 얼굴을 쪼그라뜨렸다.
+
+[644]
+#The gale flapped the flags.
+#강풍이 깃발을 펄럭거리며 휘날리게 했다.
+
+[645]
+#The strong easterly wind lash1ed at our faces.
+#강한 동풍이 맹렬히 우리의 얼굴에 불어댔다.
+
+[646]
+#Mr.Johnson is a larksome fellow.
+#존슨씨는 장난을 좋아하는 친구이다.
+
+[647]
+#The bridge broke down in an earthquake.
+#다리가 지진으로 무너졌다.
+
+[648]
+#Look at Mrs Jones; drink killed her!
+#그 존슨여사를 보게, 술이 그녀의 명을 보냈군!
+
+[649]
+#Joe sent away for a free almanac.
+#조는 공짜로 증정하는 달력을 얻으려고 편지를 써 보냈다.
+
+[650]
+#Joe literally launched out during his R and R.
+#조는 휴양기간에 함부로 돈을 썼다.
+
+[651]
+#Joe is collaborating on the work with a friend.
+#조는 한 친구와 그 일을 합작해서 하고 있다.
+
+[652]
+#Please dress the baby,George.
+#조오지, 이 아이에게 옷을 입혀 주세요.
+
+[653]
+#George offered to escort Mrs.Green home .
+#조오지는 그린 여사가 집에 돌아가는 것을 에스코트하기를 원한다고 표시했다.
+
+[654]
+#George has replaced Edward as captain of the team.
+#조오지는 에드워드를 대신해서 주장이 되었다.
+
+[655]
+#After a long illness ,George popped out yesterday.
+#조오지는 오랜 병을 앓은 후에 어제 세상을 떠났다.
+
+[656]
+#George was jockeyed into buying the land.
+#조오지는 사기 당해서 그 땅을 샀다.
+
+[657]
+#It's a good thing George can't hear us!
+#조오지가 우리가 말하는 것을 들을 수 없는 것은 정말 다행이야!
+
+[658]
+#George holds down quite a good job in the city.
+#조오지는 도시에서 아주 좋은 직업을 가지고 있다.
+
+[659]
+#Don't rinse the tea leaves out into the sink.
+#절대로 찻잎을 수조 속에서 씻어내지 말아라.
+

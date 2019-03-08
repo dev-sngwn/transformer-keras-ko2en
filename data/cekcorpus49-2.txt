@@ -1,0 +1,2140 @@
+[1]
+#I doubt if he can live up to his brother.
+나는 그가 그의 동생보다 낫다라고는 생각되지 않는다.
+
+[2]
+#I'm afraid he will not do for a teacher.
+나는 그가 목사가 되는 것에 적합하지 않다고 생각한다.
+
+[3]
+#His accounts seemed to me to smell of truth.
+나는 그의 서술이 진실인 것 같다고 생각한다.
+
+[4]
+#Her shoes looked cheap and nasty to me.
+나는 그녀의 그 신발의 질이 매우 나쁘다고 생각한다.
+
+[5]
+#I learned by watching someone do it.
+나는 다른 사람이 하는 것을 보고나서 이일을 배웠다.
+
+[6]
+#I protest against being treated in this way .
+나는 이러한 대우를 받는 것을 항의했다.
+
+[7]
+#I got through with the examination,but did not get through (it).
+나는 시험을 다 보았지만, 합격하지 못했다.
+
+[8]
+#I live off the money from my first book.
+나는 나의 첫번 째 책이 번 돈에 의지해서 생활한다.
+
+[9]
+#May I look at your watch again?
+내가 너의 시계를 다시 좀 볼 수 있을까?
+
+[10]
+#I won't have you say such things.
+나는 네가 이러한 말을 하는 것을 허락할 수 없다.
+
+[11]
+#May I be excused from the meeting?.
+내가 이 회의에 참가하지 않는 것은 어떠한가?
+
+[12]
+#May I have a look at your costume trinketry ?.
+내가 네 옷 위의 장식품을 좀 볼 수 있을까?
+
+[13]
+#May I put your name forward as a possible chairman of the committee?
+내가 너를 위원회 의장으로 지명해도 될까?
+
+[14]
+#I might be present,and again I might not.
+나는 출석할 수도 있고, 가지 않을 수도 있다.
+
+[15]
+#I'll probably stay home and watch television.
+나는 아마도 집에서 머물러서 텔레비젼을 볼 것이다.
+
+[16]
+#I'll probably wake up early and get up at 6:30.
+나는 아마 일찍 깰 것이다. 6시 반에 기상한다.
+
+[17]
+#May I take this magazine home?
+제가 이 잡지를 집으로 가지고 돌아가도 될까요?
+
+[18]
+#I'll overlook your lateness this time.
+나는 너의 이번 지각을 따지지 않을 것이다.
+
+[19]
+#Can I be excused today's lesson?.
+나는 오늘 수업을 하지 않아도 됩니까?
+
+[20]
+#I may sing a song,and she may too.
+나는 노래를 불러도 되고, 그려도 노래를 불러도 된다.
+
+[21]
+#I can tell the time from the position of the sun.
+나는 태양의 위치로부터 시각을 알 수 있다.
+
+[22]
+#May I intrude on your privacy?
+제가 당신을 한 번 귀찮게 해도 되겠습니까?
+
+[23]
+#Can I go play in the yard ?.
+내가 정원에 가서 놀아도 됩니까?
+
+[24]
+#I'll bet that this is true.
+이것이 사실이라는 것을 나는 너와 내기할 수 있다.
+
+[25]
+#I'll bet you a pound he will win.
+나는 그가 이길 것이라고 말하면서 너에게 1파운드를 걸 수 있다.
+
+[26]
+#May I look on with you?
+내가 당신과 이 책을 함께 볼 수 있습니까?
+
+[27]
+#can I speak to her a moment?.
+내가 그녀에게 말을 좀 해도 됩니까?
+
+[28]
+#May I have the next dance ?.
+내가 당신과 다음 춤을 한 번 춰도 됩니까?
+
+[29]
+#I can say with certainty that this is true.
+나는 이것이 사실이라는 것을 확정적으로 말할 수 있다.
+
+[30]
+#I have access to his office.
+나는 그의 사무실에 출입할 수 있다.
+
+[31]
+#Can I run you home?
+내가 운전해서 당신을 집에 바래다 드려도 됩니까?
+
+[32]
+#Could I see a specimen of the material?.
+내가 이 재료의 샘풀을 볼 수 있습니까?
+
+[33]
+#May I sit in on your class?
+내가 와서 당신의 수업을 들어도 됩니까?
+
+[34]
+#May I pinch a cigarette ?.
+내가 당신에게 담배 한 대를 얻을 수 있을까요?
+
+[35]
+#Can I ask you a small favor?.
+내가 당신에게 작은 도움을 좀 청해도 될까요?
+
+[36]
+#I could swear I've seen him before .
+나는 내가 이전에 그를 만난 적이 있다는 것을 확정할 수 있다.
+
+[37]
+#How many kilograms of luggage can I carry with me?
+제가 몇 킬로그램의 짐을 휴대할 수 있습니까?
+
+[38]
+#I can do what I will with my own.
+나는 내 자신의 물건을 마음대로 처리할 수 있다.
+
+[39]
+#May I ask a question ?.
+내가 당신에게 한 가지 질문을 해도 됩니까?
+
+[40]
+#I can assure you of his sincerity.
+내가 당신에게 그의 성실함을 보증할 수 있다.
+
+[41]
+#I can assure you that he is sincere.
+나는 당신에게 그가 성실하다는 것을 보증할 수 있다.
+
+[42]
+#Can I bum a cigarette ?.
+내가 당신에게 담배 한 대를 빌어도 될까요?
+
+[43]
+#Can I scrounge a cigarette off you?
+내가 당신에게 담배 한 대를 빌어도 될까요?
+
+[44]
+#May I have a little of that cake?
+내가 그 케이크를 좀 얻을 수 있을까요?
+
+[45]
+#Can I have a read of your paper?
+내가 당신의 논문을 좀 읽을 수 있을까요?
+
+[46]
+#May I call in this evening?
+내가 오늘 밤 방문해도 될까요?
+
+[47]
+#I can speak to his veracity .
+나는 네가 말한 것이 실화라는 것을 증명할 수 있다.
+
+[48]
+#Have I the pleasure of addressing Mr.Brown?.
+제가 브라운 선생님과 이야기를 나누는 영광을 가질 수 있을까요?
+
+[49]
+#I grant you.
+나는 네가 말한 말을 인정한다. 네가 말한 것은 틀림없다.
+
+[50]
+#I'm sure the horse can last out the journey.
+나는 이 말이 완주할 수 있을 것이라고 확신한다.
+
+[51]
+#I'm afraid I cannot go along with your proposal.
+나는 너의 건의에 동의할 수 없을 것 같다.
+
+[52]
+#I can ill afford the time.
+나는 시간을 내기가 매우 어려울 것 같다.
+
+[53]
+#I'm afraid your name escapes me.
+나는 너의 이름을 기억하지 못할 것 같다.
+
+[54]
+#I lost control of myself and hit him.
+나는 자신을 억제하지 못하고, 그를 때렸다.
+
+[55]
+#I searched my memory for his name.
+나는 아주 오랫동안 고심해서 그의 이름을 생각해냈다.
+
+[56]
+#I'll give you a general idea of it.
+내가 이 일을 개략적으로 너에게 말할 것이다.
+
+[57]
+#Let me acquaint you with the facts of the case.
+내가 너에게 이 사건의 진상을 말해주겠다.
+
+[58]
+#Let me lift that heavy box for you.
+내가 너를 위해서 그 무거운 상자를 들어주겠다.
+
+[59]
+#Let me give you some fatherly advice.
+내가 너에게 아버지 같은 충고들을 해 주겠다.
+
+[60]
+#I hadn't had any English before I came to the school.
+나는 학교에 오기 전에 영어를 배운 적이 없다.
+
+[61]
+#I had studied Ehglish before I came here.
+나는 이 곳에 오기 전에 영어를 배운 적이 있다.
+
+[62]
+#I spent the morning just lazing around.
+나는 아주 게으르게 이 오전을 보냈다.
+
+[63]
+#I was so tired I just rolled into bed.
+나는 침대를 보고 굴러 올라가서 바로 잠이 들 정도로 지쳤다. 
+
+[64]
+#I'm tired out so I'll go to bed.
+나는 완전히 지쳐서 잠 자러 가야겠다.
+
+[65]
+#I'm tired; I must lie down.
+나는 지쳐서 누워서 쉬어야만 한다.
+
+[66]
+#exceptionally,I went to school on Sunday.
+나는 예외적으로 일요일에 학교에 갔다.
+
+[67]
+#Attend to me,please.I'm in a hurry to leave.
+내가 즉각 출발하려고 하니, 나에게 좀 해 주세요.
+
+[68]
+#My mind flashed back to last Christmas.
+나는 즉각 작년 성탄절의 상황을 회상했다.
+
+[69]
+#I'll run you along to the station in a few minutes.
+내가 즉각 자동차로 너를 정거장까지 데려다 줄 것이다.
+
+[70]
+#At once I picked out my elder sister in the crowd.
+나는 즉각 군중 속에서 나의 언니를 분간해냈다.
+
+[71]
+#With affectionate greetings from us both.
+우리 둘은 너에게 친절한 안부를 보낸다.
+
+[72]
+#I have no leisure to read.
+나는 책 읽을 시간 조차 없다.
+
+[73]
+#I have one inch on her in reach.
+내 두 팔이 곧게 뻗은 너비는 그녀보다 1인치가 길다.
+
+[74]
+#I apprehend the word but cannot use it.
+나는 이 글자의 의미를 이해했지만 사용할 수 없다.
+
+[75]
+#Just as I was leaving the house,it occurred to me that I had forgotten my keys.
+내가 외출하려고 할 때 갑자기 열쇠를 가지고 오는 것을 잊어버린 것이 생각났다.
+
+[76]
+#I grasped the main points of the speech.
+나는 이 강연의 요점을 이해했다.
+
+[77]
+#May I show you to your seat?
+내가 너를 데리고 너의 자리로 가 줄까?
+
+[78]
+#I get up at six and take my breakfast at seven.
+나는 6시에 기상해서 7시에 아침밥을 먹는다.
+
+[79]
+#I regretted my words immediately.
+나는 곧 그런 말을 했던 것을 후회했다.
+
+[80]
+#I got her a doll for Christmas.
+나는 그녀에게 성탄절 선물로 인형 하나를 사 주었다.
+
+[81]
+#I did a bit of Christmas shopping.
+나는 성탄절 용품들을 샀다.
+
+[82]
+#Before buying a book,I look at the contents page.
+나는 책을 사기 전에 먼저 목록을 한 번 보았다.
+
+[83]
+#I bought this shirt because it was reduced.
+내가 이 셔츠를 산 것은 가격이 떨어졌기 때문이었다.
+
+[84]
+#I wormed the secret out of them.
+나는 천천히 그들에게서 비밀을 탐지했다.
+
+[85]
+#I wonder how to do it.
+나는 이 일을 어떻게 해야할 지 전혀 알지 못했다.
+
+[86]
+#I can't get this nail in.
+나는 이 못을 박을 수가 없다.
+
+[87]
+#I couldn't get it over to him that I meant to come.
+나는 내가 오기로 결정한 것을 그에게 이해시킬 수 없었다.
+
+[88]
+#Time hangs heavy on my hands.
+나는 시간을 보낼 수가 없어서 심심해 죽겠다.
+
+[89]
+#I didn't expect to bang into him there.
+나는 거기에서 그를 만나게 되리라고는 예상치 못했다.
+
+[90]
+#I had not bargained for rain,and I got wet.
+나는 비가 오리라고는 예상치 못했다. 그래서 흠뻑 젖었다.
+
+[91]
+#I didn't count on John arriving so early.
+나는 존이 이렇게 일찍 오리라고 예상치 못했다.
+
+[92]
+#I couldn't keep the appointment becaause I was sick.
+나는 약속 장소로 갈 수 없다. 왜냐하면 나는 병이 났다.
+
+[93]
+#I missed the point of his speech.
+나는 그가 연설한 요점을 이해할 수 없었다.
+
+[94]
+#I couldn't make myself understood.
+나는 다른 사람에게 나의 뜻을 이해시킬 수 없었다.
+
+[95]
+#I was unable to assure her of my feelings.
+나는 그녀에게 나의 감정을 이해시킬 수 없었다.
+
+[96]
+#I've no time to bother with such things.
+나는 이러한 일로 골치아파할 시간이 없다.
+
+[97]
+#I didn't realiae the time had passed so quickly.
+나는 시간이 이렇게 빨리 지나갔으리라고 생각하지 못했다.
+
+[98]
+#I wouldn't have thought he'd do a thing like that.
+나는 그가 그러한 일을 해내리라고는 생각하지 못했다.
+
+[99]
+#I had not realized the magnitude of the problem.
+나는 이 문제의 중요성을 의식하지 못했다.
+
+[100]
+#I'm not putting my meaning across very well.
+나는 나의 뜻을 아주 분명하게 설명하지 못했다.
+
+[101]
+#I'm not sure what I ought to say.
+나는 내가 무엇을 말해야 할 지 파악하지 못했다.
+
+[102]
+#I don't go in for sports.
+나는 운동에 참가하는 습관이 없다.
+
+[103]
+#I missed my bus and had to tramp it.
+나는 버스에 대지 못해서 어쩔 수 없이 걸어서 갔다.
+
+[104]
+#I didn't tell anyone,honestly I didn't.
+나는 누구에게도 말하지 않았다. 정말로 나는 하지 않았다.
+
+[105]
+#I haven't spoken to her for two months.
+나는 그녀와 말을 하지 않은 것이 벌써 두 달이나 된다.
+
+[106]
+#I haven't got the time to answer these letters.
+나는 이 편지들에 회답할 시간이 없다.
+
+[107]
+#I don't have the strength to lift this box.
+나는 이 상자를 들어올릴 힘이 없다.
+
+[108]
+#I lacked the money with which to finish it.
+나는 이 일을 완성할 돈이 없다.
+
+[109]
+#I have no share in the matter.
+나는 이 일에 참여하지 않았다. 나는 이 일과 무관하다.
+
+[110]
+#I am wiser than to believe that.
+나는 그런 일을 믿을 지경까지 바보는 아니다.
+
+[111]
+#I haven't the time,and then it isn't my business.
+나는 시간이 없고, 게다가 그것은 나의 일이 아니다.
+
+[112]
+#I have nothing to repent of.
+나는 무슨 후회할 만한 일이 없다.
+
+[113]
+#I have no secret to impart to you.
+나는 너에게 폭로할 만한 무슨 비밀이 없다.
+
+[114]
+#I have nothing to withhold from you.
+나는 너에게 속여야 할 무슨 일이 없다.
+
+[115]
+#I didn't bargain for your arriving so soon.
+나는 네가 이렇게 빨리 도찰할 것이라고 생각하지 못했다.
+
+[116]
+#I have no talent for acquiring foreign languages.
+나는 외국어를 학습할 재능이 없다.
+
+[117]
+#I have no time to study English.
+나는 영어를 배울 시간이 없다.
+
+[118]
+#I left nothing untried.
+나는 해보지 않은 일이 없다.
+
+[119]
+#I am not accountable to you for my actions.
+나는 너에게 나의 행동을 설명해야 하는 의무가 없다.
+
+[120]
+#I didn't have the heart to tell him the bad news.
+나는 이 나쁜 소식을 그에게 이야기할 용기가 없다.
+
+[121]
+#I didn't notice you were wearing your new hat.
+나는 네가 세 모자를 쓴 것을 알아차리지 못했다.
+
+[122]
+#I failed to note that she had left.
+나는 그녀가 이미 가버린 것을 알아차리지 못했다.
+
+[123]
+#I am unqualified to talk on this subject.
+나는 이 제목에 대해서 의견을 발표할 자격이 없다.
+
+[124]
+#I can afford neither the time nor the money for a trip.
+나는 여행을 갈 충분한 시간과 돈이 없다.
+
+[125]
+#I'm always rather pushed for money at the end of the month.
+나는 매번 월말이 되면 늘 경제 형편이 좋지 않음을 느낀다.
+
+[126]
+#I have to study at set hours each day.
+나는 매일 정해진 시간 안에 공부해야만 한다.
+
+[127]
+#I used to start working at 9:00 o'clock every day.
+나는 매일 통상적으로 9시에 일을 시작한다.
+
+[128]
+#I used to have lunch every day at the same time.
+나는 매일 통상적으로 동일한 시간에 점심을 먹는다.
+
+[129]
+#I take a walk in the park before breakfast every day.
+나는 매일 아침 식사 전에 공원에서 산보한다.
+
+[130]
+#I get out of bed about 7 o'clock every morning.
+나는 매일 아침 7시 정도에 기상한다.
+
+[131]
+#I brush my teeth clean every morning and night.
+나는 매일 아침 저녁으로 이를 깨끗이 닦는다.
+
+[132]
+#I used to work until nearly 6:00 o'clock each day.
+나는 매일 늘 6시 가까이까지 일한다.
+
+[133]
+#I pay in five yuan each month.
+나는 매월 5원을 은행에 저금한다.
+
+[134]
+#My sister has been engaged for two months.
+나의 여동생은 이미 약혼한 지 두 달이 되었다.
+
+[135]
+#We watched the kitten playing with a ball.
+우리는 고양이 한 마리가 공을 가지고 놀고 있는 것을 보았다.
+
+[136]
+#We set down in a heavy fog.
+우리의 비행기는 짙은 안개 속에서 착륙했다.
+
+[137]
+#In line with age-old tradition,we observe the Spring Festival.
+우리는 예로부터의 전통에 따라서 설날을 기쁘게 축하한다.
+
+[138]
+#We put the newspapers in piles on the floor.
+우리는 신문지를 마루 위에 겹겹이 쌓았다.
+
+[139]
+#We leaned the shouler poles back against the wall.
+우리는 멜대를 벽에 비스듬히 기대어 놓았다.
+
+[140]
+#We stopped the car on the high rimrock ..
+우리는 차를 높은 낭떠러지에서 멈추었다.
+
+[141]
+#We brought our boat alongside their boat.
+우리는 배를 그들 배 옆에 대었다.
+
+[142]
+#We put the enemy's machine guns out of action.
+우리는 적의 기관총을 불발이 되게 했다.
+
+[143]
+#We bottled the enemy up like turtles in a jar.
+우리는 적을 독 안에 든 쥐처럼 포위했다.
+
+[144]
+#Let's run through the first scene again.
+우리는 첫 장을 다시 한번 리허설했다.
+
+[145]
+#We beat their team with a vengeance.
+우리는 상대방팀을 낙화유수가 되도록 참패시켰다.
+
+[146]
+#We left the baby in the care of our neighbour.
+우리는 아이를 이웃에게 돌봐 달라고 건넸다.
+
+[147]
+#We hatch the eggs by keeping them in a warm place.
+우리는 계란을 따뜻한 곳에 두어 부화시켰다.
+
+[148]
+#We've finished upevery bit of liquor in the house.
+우리는 집의 술을 전부 다 마셨다.
+
+[149]
+#We bundled everything up.
+우리는 갖가지 물건을 싸서 묶었다.
+
+[150]
+#We computed the distance at 300 miles.
+우리는 그 거리를 3백 마일로 추정했다.
+
+[151]
+#We've given out all the tickets.
+우리는 표를 다 발행했다.
+
+[152]
+#We shifted the books next door.
+우리는 책을 옆 방으로 옮겼다.
+
+[153]
+#We cut away all the dead wood from the tree.
+우리는 나무의 썩은 가지를 전부 잘라냈다.
+
+[154]
+#We have bundled up everything.
+우리는 모든 물건을 다 잘 싸서 묶었다.
+
+[155]
+#We lashed his ankles with cord.
+우리는 그의 복숭아뼈를 가는 밧줄로 묶었다.
+
+[156]
+#We heaved him up on to the platform.
+우리는 그를 들어서 무대 위로 보냈다.
+
+[157]
+#We sent them along with the other things.
+우리는 그것들을 다른 물건과 함께 보냈다.
+
+[158]
+#We rest our hope on you alone.
+우리는 희망을 너 자신에게 걸고 있다.
+
+[159]
+#We rolled the barrels of oil onto the ship.
+우리는 기름통 하나하나를 배에 굴려 올렸다.
+ 
+[160]
+#Let's leave her to solve the problem.
+우리는 이 문제를 그녀가 맡아서 해결하도록 하자.
+
+[161]
+#Let's get this straight.
+우리는 이 일을 정확하게 하자.
+
+[162]
+#Let's chuck all these old papers away!
+우리는 이 옛 신문지를 다 버리자.
+
+[163]
+#We call such a process electrolysis.
+우리는 이러한 과정을 전해라고 부른다.
+
+[164]
+#Let's move the table.You take hold of that end.
+우리는 책상을 옮기자. 네가 그 쪽을 들어라.
+
+[165]
+#We keep the data in a computer data bank.
+우리는 자료를 컴퓨터 데이터 뱅크 안에 저장한다.
+
+[166]
+#We shifted the bookcase around.
+우리는 서가의 위치를 옮겼다.
+
+[167]
+#We stripped a room of furniture.
+우리는 방 안의 가구를 다 옮겼다.
+
+[168]
+#We helped the commune members to gather up the loose ears of wheat in the fields.
+우리는 조합원을 도와 땅에 남아 있는 밀이삭을 주었다.
+
+[169]
+#We reserve the right to claim damages.
+우리는 클레임 손실의 권리를 보류했다.
+
+[170]
+#Our company generally underwrites W.P.A.
+우리 보험 회사는 일반적으로 분손 보험을 담보한다.
+
+[171]
+#We will answer for it that all the products will be up to the mark.
+우리는 상품이 전부 합격할 것이라고 보장한다.
+
+[172]
+#Assuring you of our best cooperation at all times.
+우리는 어떤 때라도 힘을 다해 합작할 것을 보장한다.
+
+[173]
+#We were fixed up for the night in a hostel.
+우리는 숙박 시설에 배치되어 밤을 보냈다.
+
+[174]
+#We were wakened by a loud noise.
+우리는 아주 시끄러운 잡음 소리에 깼다.
+
+[175]
+#We are cursed with a plague of mosquitoes.
+우리는 쾌씸한 모기에 의해 매우 산란해졌다.
+
+[176]
+#We were robbed to the tune of fifty pounds.
+우리가 빼앗긴 돈은 50파운드이다.
+
+[177]
+#We were hypnotized by her beauty.
+우리는 그녀의 미모에 미혹되었다.
+
+[178]
+#All of us were invited to sit in on the dress rehearsal.
+우리는 함께 초청되어 드레스 리허설을 보러 갔다.
+
+[179]
+#We are allowed into the White House.
+우리는 백악관 출입을 허가받았다.
+
+[180]
+#We were relocated to the other side of town.
+우리는 공연히 도시의 다른 쪽에 배치되었다.
+
+[181]
+#We have known each other for ten years.
+우리는 서로 이미 10년을 알아왔다.
+
+[182]
+#We should be fair with one another.
+우리는 서로 공명정대해야 한다.
+
+[183]
+#We must dig the vegetable garden.
+우리는 채소밭을 한 번 파야 한다.
+
+[184]
+#We must draw off the water from the rice fields.
+우리는 논의 물을 방출해야 한다.
+
+[185]
+#We must frame up that picture.
+우리는 그 그림을 틀에 끼워넣어야 한다.
+
+[186]
+#We'll have to stretch out the rations .
+우리는 배급 식량의 식용 기간을 연장해야 한다.
+
+[187]
+#We must order our affairs better.
+우리는 일을 좀 적당하게 안배해야 한다.
+
+[188]
+#We must get him away to the sanitarium.
+우리는 그를 요양소에 데리고 가야 한다.
+
+[189]
+#We must dry these towels off.
+우리는 이 수건을 말려야 한다.
+
+[190]
+#We must keep to the style of hard struggle and plain living.
+우리는 각고분투하는 태도를 유지해야 한다.
+
+[191]
+#We must take steps to help them.
+우리는 행동을 채택해서 그들을 도와야 한다.
+
+[192]
+#We must get at the root of the matter.
+우리는 일의 진상을 조사하여 명백하게 밝혀야 한다.
+
+[193]
+#We must become ‘red and expert’.
+우리는 (?)
+
+[194]
+#We must allow him to be a genius.
+우리는 그가 천재라는 것을 인정해야 한다.
+
+[195]
+#We must recognize that we have been defeated.
+우리는 우리가 패배되었음을 인정해야 한다.
+
+[196]
+#We must weed the garden.
+우리는 정원의 잡초를 제거해야 한다.
+
+[197]
+#We must wait until he comes.
+우리는 그가 올 때까지 기다려야 한다.
+
+[198]
+#We must make a durable peace.
+우리는 지속적인 평화를 창건해야 한다.
+
+[199]
+#We must think so as to avoid dupery . .
+우리는 속임을 당하는 것을 면하기 위해 더 많이 생각해야 한다.
+
+[200]
+#We must assume our share of the responsibility.
+우리는 우리의 책임을 분담해야 한다.
+
+[201]
+#We must submit ourselves to God's will.
+우리는 상제의 의지에 복종해야 한다.
+
+[202]
+#We must vary our method of work.
+우리는 일의 방법을 바꾸어야 한다.
+
+[203]
+#We must hurry; time is pressing.
+우리는 긴장해야 한다. 시간이 많지가 않다.
+
+[204]
+#We must prolong the runway of the airfield.
+우리는 비행장의 활주로를 더 길게 해야 한다.
+
+[205]
+#We must hold to the correct political orientation.
+우리는 정확한 정치 방향을 견지해야 한다.
+
+[206]
+#We must get ahead with other matters.
+우리는 기타의 항목을 진행해야 한다.
+
+[207]
+#We have to get these telegrams off as quickly as possible.
+우리는 가능한 빨리 이 전보들을 발송해야 한다.
+
+[208]
+#We must wrestle with the problem .
+우리는 전력을 다해서 이 문제를 해결해야 한다.
+
+[209]
+#We must resolve what to do next.
+우리는 다음 단계에 어떻게 해야 하는지를 결정해야 한다.
+
+[210]
+#We must view things in their totality.
+우리는 사물의 전부를 보아야 한다.
+
+[211]
+#We must consider whether it will be worth while.
+우리는 그것이 가치가 있는지 없는지를 고려해야 한다.
+
+[212]
+#We must pardon him his little faults.
+우리는 그의 작은 실수를 용서해 주어야 한다.
+
+[213]
+#We must appoint a new teacher soon.
+우리는 즉각 새 교사 한 명을 위임해야 한다.
+
+[214]
+#It is imperative that we act at once.
+우리는 즉시 행동을 취해야 한다.
+
+[215]
+#We're faced with the necessity of buying a new car.
+우리는 새 자동차 한 대를 사야 한다.
+
+[216]
+#We must excuse him from his duties.
+우리는 그의 임무를 박탈해야 한다.
+
+[217]
+#We must be clear which way to take.
+우리는 어떤 방법을 취해야 할 것인지를 정확하게 해야 한다.
+
+[218]
+#We must climb the peaks of science and technology.
+우리는 과학 기술의 고봉에 올라야 한다.
+
+[219]
+#We must go all out to fulfil the task.
+우리는 전력을 다해서 임무를 완성해야 한다.
+
+[220]
+#We must look at the problem from all sides.
+우리는 전면적으로 이 문제를 보아야 한다.
+
+[221]
+#We must confirm whether it is true or not.
+우리는 그것이 사실인지 아닌지를 확인해야 한다.
+
+[222]
+#We must rest the soil for a year.
+우리는 토양을 1년간 휴경해야 한다.
+
+[223]
+#We must acknowledge his letter.
+우린느 그의 편지를 받았던 것을 설명해야 한다.
+
+[224]
+#We must lessen the differences between the city and the countryside.
+우리는 도시와 농촌의 차별을 축소해야 한다.
+
+[225]
+#We must ascertain the public's wishes.
+우리는 대중의 희망을 살펴보아야 한다.
+
+[226]
+#We must arrange for a boat for them.
+우리는 그들을 위해서 배 한 척을 마련해야 한다.
+
+[227]
+#We must pick the best seeds.
+우리는 가장 좋은 종자를 선택해야 한다.
+
+[228]
+#We must stop spoiling the environment.
+우리는 환경 오염을 정지해야 한다.
+
+[229]
+#We have to provide a ship with radar equipment.
+우리는 선박에 레이다 장치를 해야 한다.
+
+[230]
+#We must prepare a room for our guest.
+우리는 손님을 위해 방 한 칸을 준비해야 한다.
+
+[231]
+#We must safeguard national independence.
+우리는 민족 독립을 수호해야 한다.
+
+[232]
+#We must make a resolution to study hard.
+우리는 열심히 공부할 결심을 세워야 한다.
+
+[233]
+#We must limit ourselves to an hour.
+우리는 한 시간 내에 완성할 것을 한정해야 한다.
+
+[234]
+#We must believe in and rely on the masses.
+우리는 군중을 믿고 의지해야 한다.
+
+[235]
+#We must make up his loss somehow.
+우리는 그의 손상을 보상할 방법을 생각해야 한다.
+
+[236]
+#We must figure out how to do it.
+우리는 이 일을 하는 방법을 생각해 내야 한다.
+
+[237]
+#We've to look for new water sources.
+우리는 새로운 수원을 찾아야 한다.
+
+[238]
+#We must supersede old machines by new ones.
+우리는 새로운 기계로 낡은 기계를 대체해야 한다.
+
+[239]
+#We must diversify our products.
+우리는 상품 다양화를 해야 한다.
+
+[240]
+#We must battle on against all difficulties.
+우리는 모든 어려움과 싸워나가야 한다.
+
+[241]
+#We must decide between A and B.
+우리는 A와 B 중에서 선택해야 한다.
+
+[242]
+#We must leave at daylight.
+우리는 새벽에 출발해야 한다.
+
+[243]
+#In the laboratory we were required to analyze specimens.
+우리는 실험실에서 표본을 분석해야 한다.
+
+[244]
+#We'll have to stop at the next petrol station.
+우리는 다음 주유소에서 정차해야 한다.
+
+[245]
+#We must look to our own work.
+우리는 자신의 일을 잘 하도록 주의해야 한다.
+
+[246]
+#We must get at the kernel of the problem.
+우리는 문제의 핵심을 파악해야 한다.
+
+[247]
+#We must allow an hour for changing trains.
+우리는 차를 바꿔 탈 수 있도록 한 시간을 남길 것을 참작해야 한다.
+
+[248]
+#We must hold off the enemy's attack.
+우리는 적의 진공을 저지해야 한다.
+
+[249]
+#We must regard each other's right.
+우리는 서로의 권리를 존중해야 한다.
+
+[250]
+#We must conform to the customs of the country.
+우리는 이 나라의 풍속을 따라야 한다.
+
+[251]
+#We must honour our commitments to smaller nations.
+우리는 소국에 한 약속을 준수해야 한다.
+
+[252]
+#We must have everything ready.
+우리는 일체의 준비를 잘 해야 한다.
+
+[253]
+#We must triple our efforts.
+우리는 세 배의 노력을 해야 한다.
+
+[254]
+#We shunned seeing other people.
+우리는 다른 사람들과 만나는 것을 피했다.
+
+[255]
+#We roamed the banks of the river gathering flowers.
+우리는 꽃을 따면서 강변을 한가로이 거닐었다.
+
+[256]
+#We lost because we became complacent.
+우리는 자만해져서 졌다.
+
+[257]
+#We put on a song and dance performance to welcome the guests.
+우리는 가무를 공연해서 내빈을 환영했다.
+
+[258]
+#We need not make so much ado about it.
+우리는 이 일로 이렇게 골치아파할 필요가 없다.
+
+[259]
+#We had to choose from what remained.
+우리는 어쩔 수 없이 남은 사람 중에서 골라야 했다.
+
+[260]
+#We had to scratch him from the race  . ,
+우리는 어쩔 수 없이 그가 시합에 나가는 것을 취소해야 했다.
+
+[261]
+#We had to make a few stops on the way.
+우리는 어쩔 수 없이 길 위에서 여러 번 서야만 했다.
+
+[262]
+#We fired away at the enemy.
+우리는 부단히 적에게 발포했다.
+
+[263]
+#We may as well cut across the playground.
+우리는 운동장을 가로질러가도 무방하다.
+
+[264]
+#We should not depreciate the value of justice.
+우리는 정의의 가치를 낮게 평가해서는 안된다.
+
+[265]
+#We're not going to fall out over this ,are we?
+우리가 이것 때문에 싸울 수 없다. 그렇지?
+
+[266]
+#We shall know the truth before long.
+우리는 곧 진상을 알게 될 것이다.
+
+[267]
+#We'll have to branch off shortly to get to the village.
+우리는 곧 굽이 돌아 그 마을에 도착해야 할 것이다.
+
+[268]
+#We soon got up to the others.
+우리는 곧 다른 사람들을 뒤쫓았다.
+
+[269]
+#Let's not devalue his work unjustly.
+우리는 공정하지 못하게 그의 작품을 낮게 평가해서는 안된다.
+
+[270]
+#We must not let those people want.
+우리는 그런 사람들로 하여금 빈곤의 고통을 받개 해서는 안된다.
+
+[271]
+#We are not supposed to smoke in the classroom.
+우리는 교실에서 담배를 피워서는 안된다.
+
+[272]
+#We cannot shuffle off our responsibilities onto others.
+우리는 우리의 책임을 다른 사람에게 미룰 수 없다.
+
+[273]
+#We couldn't play tennis because there was too much wind.
+우리는 테니스를 할 수가 없었다. 왜나하면 바람이 너무 많이 불었기 때문이다.
+
+[274]
+#We cannot pass this matter by without comment.
+우리는 이 일을 내버려두고 평론하지 않을 수 없다.
+
+[275]
+#We cannot afford to ignore the lessons of the past.
+우리는 과거의 교훈을 홀시할 수 없다.
+
+[276]
+#We cannot accept your excuse.
+우리는 너의 변명을 받아들일 수 없다.
+
+[277]
+#We can't go on evidence like that.
+우리는 그것을 가지고 증거로 삼을 수 없다.
+
+[278]
+#We can't exclude the possibility that it will rain.
+우리는 비가 올 가능성을 배제할 수 없다.
+
+[279]
+#We cannot let the matter rest there .
+우리는 문제를 여기에 방치해 둘 수 없다.
+
+[280]
+#We can't do with such extravagance and waste.
+우리는 이렇게 허세를 부리며 낭비하는 것을 용인할 수 없다.
+
+[281]
+#We cannot entertain your claim.
+우리는 당신들의 클레임을 수리할 수 없다.
+
+[282]
+#We cannot risk another confrontation with the government.
+우리는 다시 한번 위험을 무릅쓰고 정부에 대항할 수 없다.
+
+[283]
+#Can't we start all over again?
+우리는 다시 처음부터 시작할 수 없습니까?
+
+[284]
+#We don't have an English lesson every day.
+우리는 매일마다 영어 수업을 하는 것은 아니다.
+
+[285]
+#We were not born yielders.
+우리가 선천적인 굴복자는 아니다.
+
+[286]
+#We refuse to knock under to any difficulty.
+우리는 어떠한 어려움에 대해서도 굴복하지 않는다.
+
+[287]
+#Let us pass over his rude remarks in silence.
+우리는 그의 그러한 무례한 말들을 아랑곳하지 말자.
+
+[288]
+#Let's not go into details.
+우리는 지엽적인 문제를 추궁하지 말자.
+
+[289]
+#Shouldn't we respect our elders?
+우리는 윗사람을 존중해야 하지 않습니까?
+
+[290]
+#We should not allow the disease to run on unchecked.
+우리는 이 병이 커지도록 내버려두어서는 안된다.
+
+[291]
+#We don't make cutting tools from low carbon steel.
+우리는 탄소 함유가 낮은 강철로 절삭 공구를 제조하지 않는다.
+
+[292]
+#We don't want to put him about ,doing this and that for us.
+우리는 그를 번거롭게 해서 우리를 위해 이런 저런 일을 하도록 하고 싶지 않다.
+
+[293]
+#We walked on without further conversation.
+우리는 더 이상 말하지 않고 앞으로 걸어갔다.
+
+[294]
+#We don't approve of divorcing theory from practice.
+우리는 이론이 실제를 이탈하는 것을 찬성하지 않는다.
+
+[295]
+#We don't know what went with him.
+우리는 그들의 상황이 어떠한지 알지 못한다.
+
+[296]
+#We looked at the conjurer in silent conjurer.
+우리는 아무 소리 없이 경이롭게 그 마법사를 바라보고 있었다.
+
+[297]
+#We adopted the new method of making wine.
+우리는 새로운 양조법을 취했다.
+
+[298]
+#We are nearly at the top of the hill.
+우리는 거의 산정에 도달했다.
+
+[299]
+#We nearly died of exposure on the cold mountain.
+우리는 하마터면 한랭한 산 위에서 동사할 뻔 했다.
+
+[300]
+#We missed the other car by a hairs breadth.
+우리는 하마터면 다른 자동차와 충돌할 뻔 했다.
+
+[301]
+#We tried but failed.
+우리는 시도해 보았지만 실패했다.
+
+[302]
+#We attempted breaking the lines of the enemy.
+우리는 적의 방어선을 뚫으려고 시도했다.
+
+[303]
+#New production records are chalked up every year in our factory.
+우리 공장은 매년 새로운 생산 기록을 낸다.
+
+[304]
+#We rapped about baseball for hours.
+우리는 몇 시간 동안이나 야구에 대해 맘껏 이야기했다.
+
+[305]
+#We blew his argument sky-high.
+우리는 철저하게 그의 논점을 반박하여 압도했다.
+
+[306]
+#Let's cash in on the fine weather and go out.
+우리 날씨가 좋으면 나가서 좀 놀자.
+
+[307]
+#We profited by a let-up in the rain to fetch the wood.
+우리는 비가 잠시 멈출 때를 틈타 나무를 가지러 갔다.
+
+[308]
+#We took the night train and finished up in Paris.
+우리는 밤차를 타고 마침내 파리에 도달했다.
+
+[309]
+#We followed up our victory by attacking the enemy on all fronts.
+우리는 승세를 타고 적의 전 전선을 향해 진공했다.
+
+[310]
+#We had a three-course dinner.
+우리가 먹은 성찬은 세 가지 요리였다.
+
+[311]
+#Before we eat,we should wash our hands.
+우리는 밥을 먹기 전에, 마땅히 손을 씻어야 한다.
+
+[312]
+#We had a scrumptious lunch.
+우리는 아주 훌륭한 오찬을 먹었다.
+
+[313]
+#We're late,because one of our tires blew out.
+우리는 늦었다. 왜냐하면 타이어가 빵구났기 때문이다.
+
+[314]
+#Are we late? －－I'm afraid so.
+우리가 늦었니? 나는 그럴 것 같은데.
+
+[315]
+#We're late; we must push on.
+우리는 늦었다. 우리 서둘러야 한다.
+
+[316]
+#We shall reckon with the renegades sooner or later.
+우리는 조만간 이러한 반역자들에 대해서 결판을 내야 한다.
+
+[317]
+#We savor,ed mountain life to the full.
+우리느 산거 생활의 즐거움을 충분히 체득했다.
+
+[318]
+#We are full of determination to win.
+우리는 필승의 결심으로 충만했다.
+
+[319]
+#We can't spare the time to finish it.
+우리는 그것을 완성할 만한 시간을 낼 수가 없다.
+
+[320]
+#We couldn't raise enough money for a holiday.
+우리가 마련한 돈은 휴가를 보내기에 충분하지 않다.
+
+[321]
+#Many years have gone by since we first met.
+우리는 처음 만나 지금까지 벌써 여러 해가 되었다.
+
+[322]
+#We pitched in to buy a television set.
+우리는 돈을 내서 텔레비젼을 함께 샀다.
+
+[323]
+#We stand at the portals of a new age .
+우리는 새로운 시대의 출발에 처해 있다.
+
+[324]
+#We travelled through unknown territory.
+우리는 이름 없는 땅을 지나갔다.
+
+[325]
+#We have never doubted of success.
+우리는 이제껏 성공할 것이라는 것을 회의해 본 적이 없다.
+
+[326]
+#Let's begin with a simple subject.
+우리는 간단한 제목에서부터 시작하자.
+
+[327]
+#We hear on good authority that...
+우리는 믿을 만한 관방 소식에서 ...을 알게 되었다.
+
+[328]
+#We sailed eastward from New York to Southampton.
+우리는 뉴욕에서 동쪽으로 Southampton까지 항행했다.
+
+[329]
+#We entered her room down the front door.
+우리는 앞문에서 그녀의 방으로 들어갔다.
+
+[330]
+#We were greatly indebted to those who had gone before (us).
+우리는 앞사람에게서 이익되는 바가 적지 않다.
+
+[331]
+#We crossed from Taiwan to San Francisco.
+우리는 대만에서 해양을 횡단해서 샌프란시스코에 도착했다.
+
+[332]
+#We get fruit from a tree.
+우리는 나무에서 과일을 얻는다.
+
+[333]
+#We had the news from John.
+우리는 존에게서 이 소식을 들었다.
+
+[334]
+#We can overlook the sea from here.
+우리는 여기에서 대해를 굽어볼 수 있다.
+
+[335]
+#We clubbed together to buy her a present.
+우리는 돈을 모아 그녀에게 선물 하나를 사주었다.
+
+[336]
+#We aired the room by opening the windows.
+우리는 창문을 열어서 방을 좀 환기를 시켰다.
+
+[337]
+#We opened the sluice and the water poured in.
+우리가 수문을 열자, 물이 쏟아져 들어왔다.
+
+[338]
+#We'll be going to discuss the matter with them.
+우리는 그들과 함께 이 일을 토론할 작정이다.
+
+[339]
+#We intend this house for you.
+우리는 이 집을 네가 사용하도록 제공할 작정이다.
+
+[340]
+#We make out to visit the dam tomorrow.
+우리는 내일 댐을 참관하러 갈 작정이다.
+
+[341]
+#We are going to play them in the next game.
+우리는 그들로 하여금 다음 시합에 참가하게 할 작정이다.
+
+[342]
+#We're going to take a flat in London.
+우리는 런던에서 방을 하나 구할 작정이다.
+
+[343]
+#We intend that these rules be followed.
+우리는 이 법규들을 준수할 작정이다.
+
+[344]
+#We silenced the enemy guns.
+우리는 적의 포화를 불발시켰다.
+
+[345]
+#We all trooped into the room.
+우리 모두는 무리를 지어 실내로 들어갔다.
+
+[346]
+#We were all worried about her illness.
+우리 모두는 다 그녀의 병세를 걱정했다.
+
+[347]
+#We all sided against your plan.
+우리 모두는 다 너의 계획을 반대한다.
+
+[348]
+#We all harbor fears about the future.
+우리 모두는 다 미래에 대해서 두려워하고 있다.
+
+[349]
+#All of us joined in to swell the chorus.
+우리 모두는 제창해서 합창 소리를 높였다.
+
+[350]
+#Affectionate greetings from all of us.
+우리 모두는 당신에게 열정적인 안부를 드립니다.
+
+[351]
+#We all went on a picnic last Sunday.
+우리 모두는 지난 일요일에 소풍을 갔다.
+
+[352]
+#We shepherded the children into the bus.
+우리는 아이들을 데리고 버스에 탔다.
+
+[353]
+#We were apprehensive that it might happen.
+우리는 이 일이 발생할까봐 걱정했다.
+
+[354]
+#We might just as well have stayed at home.
+우리는 당초에 정말 집에 남아 있어도 무방했다.
+
+[355]
+#We can certainly do without John poking his nose in.
+우리는 당연히 존이 간섭할 할 필요가 없다.
+
+[356]
+#We were debating which was best.
+우리는 당시에 어느 것이 가장 좋은 지를 논쟁하고 있었다.
+
+[357]
+#Our party swept the board in the election.
+우리 당은 선거에서 크게 전승을 얻었다.
+
+[358]
+#The meeting was in fullswing when we arrived.
+우리가 도착했을 때 회의는 그야말로 고조에 달해 있었다.
+
+[359]
+#We went to a nearby town.
+우리는 부근의 한 도시로 올라갔다.
+
+[360]
+#We got to the top,fairly done over.
+우리는 정상에 도착했고, 지쳐서 쓰러질 지경이었다.
+
+[361]
+#We have been here for a week.
+우리가 여기에 도착한 지 벌써 일주일이 되었다.
+
+[362]
+#We clocked up 1000 miles coming here.
+우리의 여기까지의 계산 거리는 1000마일이다.
+
+[363]
+#We were wrongly informed.
+우리는 정확하지 않은 소식을 접했다.
+
+[364]
+#We are very glad to have had your help.
+우리가 너의 도움을 얻게 되어서 대단히 기쁘다.
+
+[365]
+#We must put in enough manpower.
+우리는 충분한 인력을 투입해야 한다.
+
+[366]
+#Our packing is well suited for long distance shipments.
+우리의 포장은 장거리 운송에 매우 적합하다.
+
+[367]
+#Our offer remains open for 3 days.
+우리의 오퍼가격은 3일 내에 유효하다.
+
+[368]
+#Our products must stand wearandtear.
+우리의 상품은 반드시 오래 써야만 합니다.
+
+[369]
+#Our products can stand competition.
+우리의 상품은 경쟁력이 있는 것입니다.
+
+[370]
+#There is a lot of vice in our cities.
+우리의 도시에는 많은 사악한 존재가 있습니다.
+
+[371]
+#Our success depends entirely upon the weather.
+우리의 성공은 전적으로 날씨에 의존해야만 한다.
+
+[372]
+#Our boat was floated to shore by the current.
+우리의 배는 조수에 의해서 해변에 부딪쳤다.
+
+[373]
+#Our ship sails tomorrow for New York.
+우리의 배는 내일 뉴욕으로 출항할 것이다.
+
+[374]
+#Our ship watered before sailing.
+우리의 배는 출항 전에 담금질을 했다.
+
+[375]
+#Our ship broke up on the rocks.
+우리의 배는 암석에  부딪쳐 파괴되었다.
+
+[376]
+#We put off from the pier yesterday morning.
+우리의 배는 어제 아침에 부두를 떠났다.
+
+[377]
+#Our climbing party planned to get away at dawn.
+우리의 등산대는 날이 새자마자 출발할 작정이었다.
+
+[378]
+#Our arrival time is contingent on the weather.
+우리의 도착 시간은 날씨의 상황에 달려 있다.
+
+[379]
+#Our holiday plans are still uncertain.
+우리의 휴가 계획은 아직 결정되지 않았다.
+
+[380]
+#Our son is a member of a youth fellowship.
+우리의 아들은 청년 친목회의 회원이다.
+
+[381]
+#Our course is directly south.
+우리의 방향은 줄곧 남쪽을 향한다.
+
+[382]
+#Our house adjoins theirs.
+우리의 집은 그들의 것과 인접한다.
+
+[383]
+#Our house is the furthest away.
+우리의 집은 여기에서 가장 가까운 것이다.
+
+[384]
+#Our house was washed away in the flood.
+우리의 집은 홍수 중에 휩쓸려 갔다.
+
+[385]
+#The fence screens our house from view.
+우리의 집은 벽에 가려서 보이지 않는다.
+
+[386]
+#We have a considerably smaller house than theirs.
+우리의 집은 그들의 것보다 많이 작다.
+
+[387]
+#Our house is very convenient for the shops.
+우리의 집은 상점에서 매우 가깝다.
+
+[388]
+#Our house looks out on the river.
+우리의 집은 강을 마주하고 있다.
+
+[389]
+#Our house has a thatched roof.
+우리의 집은 초가로 엮은 지붕이다.
+
+[390]
+#Our anti- aircraft company accounted for five enemy planes.
+우리의 방공련은 5대의 적기를 공락했다.
+
+[391]
+#Our plane winged over the Rockies.
+우리의 비행기는 로키 산맥을 날아 지나갔다.
+
+[392]
+#Our differences were at last hammered out in discussion.
+우리의 불일치는 마침내 토론을 통해 해소되었다.
+
+[393]
+#Our parents and ourselves went there.
+우리의 부모는 우리와 그곳에 갔다.
+
+[394]
+#Will our supplies see the winter out?
+우리의 공급이 겨울 동안 쓰기에 충분합니까?
+
+[395]
+#Our dog smelled out the thief.
+우리의 개가 그 도둑을 쫓아냈다.
+
+[396]
+#Our dog went at the postman.
+우리의 개가 우체부를 향해 뛰어들었다.
+
+[397]
+#Our dog strayed from home.
+우리의 개는 집으로부터 실종되었다.
+
+[398]
+#Our dog always growls at visitors.
+우리의 개는 늘 손님을 마주하고 짖어댄다.
+
+[399]
+#Our relationship must remain a secret.
+우리의 관계는 계속적으로 비밀을 유지해야 한다.
+
+[400]
+#Our country has a glorious past.
+우리의 국가는 빛나는 역사를 가지고 있다.
+
+[401]
+#Our baby's got a vocabulary of about ten words.
+우리의 아이는 10여 개의 단어를 말할 줄 알게 되었다.
+
+[402]
+#Our child is learning to talk.
+우리의 아이는 말을 배우기 시작하고 있다.
+
+[403]
+#When is the deadline of the loading period for our consignment?
+우리의 화물 선적 기간은 언제까지입니까?
+
+[404]
+#Our scheme neatly dovetailed with theirs.
+우리의 계획은 그들의 것과 서로 맞물린다.
+
+[405]
+#Our plans are only tentative.
+우리의 계획은 단지 시험적인 것이다.
+
+[406]
+#Our plans are subjcet to the weather.
+우리의 계획은 날씨가 어떠한 가에 달려 있다.
+
+[407]
+#Our plans got the chop.
+우리의 계획이 갑자기 중지되었다.
+
+[408]
+#We sell furniture at very reasonable terms.
+우리의 가구 판매 가격은 매우 합리적입니다.
+
+[409]
+#At last our holidays arrived.
+우리의 휴가가 마침내 도래했다.
+
+[410]
+#We enjoyed our holiday to the full.
+리의 휴가는 매우 유쾌하게 보냈다.
+
+[411]
+#Our view are not so far apart,after all.
+우리의 견해는 결국 그다지 커다란 불일치는 없다.
+
+[412]
+#Our ships have engaged with the enemy.
+우리의 함선은 이미 적과 교전했다.
+
+[413]
+#Our feet crunched on the snow.
+우리의 발은 사박사박 소리를 내면서 눈 위를 밟았다.
+
+[414]
+#Our warning did not have much effect on him.
+우리의 경고는 그에게 그다지 큰 효과는 없다.
+
+[415]
+#Our club is 50 strong.
+우리의 클럽 성원은 50여 명이다.
+
+[416]
+#Our forces are growing.
+우리의 역량은 부단히 발전하고 있다.
+
+[417]
+#Our grain production keeps going up.
+우리의 양식 생산량은 부단히 증가하고 있다.
+
+[418]
+#Our neighbours are moving out.
+우리의 이웃은 이사가려고 한다.
+
+[419]
+#Our wagon jerked along .
+우리의 마차는 삐걱삐걱 소리를 내며 흔들리며 갔다.
+
+[420]
+#Our cat has glossy black fur.
+우리의 고양이의 털은 검고도 윤이 난다.
+
+[421]
+#Our cat caught a very big rat last night.
+우리의 고양이는 어제 밤에 큰 쥐 한 마리를 잡았다.
+
+[422]
+#whither our democracy ?.
+우리의 민주 정치는 어느 것을 버리고 어느 것을 따를 것인가?
+
+[423]
+#Our wood supply proved insufficient.
+우리의 목재 공급은 충분치 않은 것으로 증명되었다.
+
+[424]
+#Our car was sandwiched in between two trucks.
+우리의 자동차는 두 대의 트럭 사이에 끼어 있다.
+
+[425]
+#Our car buzzed along the superhighway.
+우리의 자동차는 고속도로를 따라서 질주했다.
+
+[426]
+#We're nearly out of petrol.
+우리의 휘발유는 거의 다 써버렸다.
+
+[427]
+#Our money will last out the year.
+우리의 돈은 올 한 해를 보낼 수 있을 것이다.
+
+[428]
+#We have barely enough money to last the weekend.
+우리의 돈은 가까스로 주말까지 유지할 수 있다.
+
+[429]
+#Our team was flushed with its great victory.
+우리의 팀은 큰 승리로 득의양양해졌다.
+
+[430]
+#Our shop has always been very highly commended.
+우리의 상점은 줄곧 고도의 표창을 받았다.
+
+[431]
+#Our lives are conditioned by outer circumstances.
+우리의 생활은 외부 환경의 제한을 받는다.
+
+[432]
+#The future of our business is problematic.
+우리의 사업 전망은 아직 의문이다.
+
+[433]
+#ours is a day of rapid changes.
+우리의 시대는 빠른 변화의 시대이다.
+
+[434]
+#The bones of our fingers are articulated.
+우리의 손가락뼈는 관절이 연결한다.
+
+[435]
+#We've got just enough to supply the demand.
+우리의 소득은 수요를 만족하기에 충분하다.
+
+[436]
+#We've come to a dead end in our talks.
+우리의 회담은 이미 교착 상태로 빠졌다.
+
+[437]
+#Our discussion stuck to one topic.
+우리의 토론은 하나의 논제을 엄격하게 지킨다.
+
+[438]
+#Our first baby was born by caesarean.
+우리의 첫째 아이는 제왕절개해서 났다.
+
+[439]
+#Our foreign languages teaching method is badly in need of improvement.
+우리의 외국어 교육 방법은 개선할 필요가 많습니다.
+
+[440]
+#Our cultural delegation met with a hearty welcome.
+우리의 문화 대표단은 열렬한 환영을 받았다.
+
+[441]
+#therein lies our problem.
+우리의 문제는 바로 거기에 있다.
+
+[442]
+#Our roof was torn off in the storm.
+우리의 지붕은 폭풍우에 휩쓸려갔다.
+
+[443]
+#Our hopes were centered on him.
+우리의 희망은 모두 그에게 집중되어있다.
+
+[444]
+#Our hopes have been nearly snuffed out.
+우리의 희망은 거의 파멸되었다.
+
+[445]
+#Our hopes rest on you alone.
+우리의 희망은 너 한 사람에게 결려 있다.
+
+[446]
+#Our hopes have been dashed.
+우리의 희망은 이미 파멸되었다.
+
+[447]
+#Our hopes have been extinguished by those failures.
+우리의 희망은 그러한 실패로 인하여 파멸되었다.
+
+[448]
+#Our ideas must get through to them quickly.
+우리의 생각이 빨리 그들이 이해할 수 있도록 해야 한다.
+
+[449]
+#Our campus reaches to the river.
+우리의 캠퍼스는 강변까지 뻗어있다.
+
+[450]
+#Our new plan was generally welcomed.
+우리의 새로운 계획은 광범위하게 환영을 받는다.
+
+[451]
+#Our new range of cars is now on view.
+우리의 새로운 자동차 시리즈는 현재 전시되고 있다.
+
+[452]
+#Our new baby is a boy.
+우리의 새로 태어난 아기는 남자아이다.
+
+[453]
+#Our teeth are separate.
+우리의 이는 각자 분리되어있다.
+
+[454]
+#Our eye react s to light.
+우리의 눈은 빛에 반응을 일으킨다.
+
+[455]
+#Our sheep have strayed from the fold.
+우리의 양은 양떼와 헤어져서 길을 잃었다.
+
+[456]
+#Can you meet our requirement?
+우리의 요구는 만족할 수 있습니까?
+
+[457]
+#Our thought is to avoid war.
+우리의 의향은 전쟁을 모면하는 것이다.
+
+[458]
+#Our cherry trees don't fruit well.
+우리의 앵두나무는 열매가 잘 맺지 않는다.
+
+[459]
+#Our guerrillas choked off the enemy's supplies.
+우리의 유격대는 적의 보급을 차단했다.
+
+[460]
+#Our fighter planes are all armed with cannon.
+우리의 전투기는 모두 기관포를 장착했다.
+
+[461]
+#Our fighters fell on immediately.
+우리의 전사는 즉각 전투에 투입했다.
+
+[462]
+#Our fighters are seeking after the enemy.
+우리의 전사는 적을 추격하고 있다.
+
+[463]
+#Our account is all square.
+우리의 장부는 이미 완전히 청산했다.
+
+[464]
+#Our account is nicely in the black this month.
+우리의 장부 상에는 이번달에 꽤 잉여가 있다.
+
+[465]
+#Our party has been in office for three years.
+우리의 정당은 이미 3년을 집권했다.
+
+[466]
+#Our party has been out of office for three years.
+우리의 정당은 야당에 있은 지가 벌써 3년이 되었다.
+
+[467]
+#Our government permits of no freecoinage.
+우리의 정부는 자유롭게 화페를 주조하는 것을 허락하지 않는다.
+
+[468]
+#Our host had a fine spread waiting for us.
+우리의 주인은 성연을 준비해서 우리를 기다리고 있다.
+
+[469]
+#We're a month behindhand with the rent.
+우리의 임대료는 이미 한달이나 밀렸다.
+
+[470]
+#Our football team's performance has been excellent this year.
+우리의 축구팀은 금년에 성적이 대단이 우수하다.
+
+[471]
+#It was tragic when our football team lost the match.
+우리의 축구팀이 지다니, 정말 비참하다.
+
+[472]
+#Our football team won by four goals to nil.
+우리의 축구팀은 4대 0으로 이겼다.
+
+[473]
+#Our football team is shaping up nicely.
+우리의 축구팀은 건강하게 성장하고 있다.
+
+[474]
+#Our last hope has vanished.
+우리의 마지막 희망이 이미 수포로 돌아갔다.
+
+[475]
+#We failed in our attempt to climb the mountain.
+우리의 등산 시도는 실패했다.
+
+[476]
+#We went up the steps leading to the top of the mountain.
+우리는 산정으로 통하는 단계에 올랐다.
+
+[477]
+#We waited 20 minutes for a bus.
+우리는 20분간 버스를 기다렸다.
+
+[478]
+#We had a long wait for a bus.
+우리는 아주 오랫동안 버스를 기다렸다.
+
+[479]
+#We had a long wait for the train.
+우리는 기차를 기다린지 이미 아주 오래되었다.
+
+[480]
+#We waited ten minutes for service.
+우리는 10분을 기다려서야 서비스를 받았다.
+
+[481]
+#Let's wait and see what transpires.
+우리 기다려서 무슨 일이 발생할 것인지를 보자.
+
+[482]
+#We underrated his powers as a speaker.
+우리는 그가 연설자가 될 수 있는 능력을 낮게 평가했다.
+
+[483]
+#The time is approaching when we must leave.
+우리가 출발할 때가 거의 되었다.
+
+[484]
+#We all must answer for our actions.
+우리는 모두 자신의 행동에 대해서 책임을 지어야 한다.
+
+[485]
+#We all spoke for the act.
+우리 모두는 이 행동을 지지한다고 발언한다.
+
+[486]
+#We all felt the force of his argument.
+우리는 모두 그의 논거의 힘을 느꼈다.
+
+[487]
+#We all appreciate your unstinting help.
+우리는 모두 네가 서로 돕는데 인색하지 않은 것에 감사한다.
+
+[488]
+#All of us feel for you in your great trouble.
+우리는 모두 너의 어려운 처지를 매우 동정한다.
+
+[489]
+#We all lamented the death of our friend.
+우리는 모두 친구의 죽음에 비통해한다.
+
+[490]
+#We all rejoice at the good news.
+우리는 모두 이런 좋은 소식에 기쁨을 느낀다.
+
+[491]
+#We all cheered our baseball team .
+우리는 모두 자신의 야구팀을 위해 응원한다.
+
+[492]
+#We all hope for a secure old age.
+우리는 모두 근심없는 만년을 희망한다.
+
+[493]
+#We'd love to see you again.
+우리는 모두 다시 너희를 만나기를 희망한다.
+
+[494]
+#We are all looking forward to seeing you.
+우리는 모두 간절히 당신들이 왕림하기를 바랍니다.
+
+[495]
+#We should all keep the peace.
+우리는 모두 사회 안정을 유지해야 한다.
+
+[496]
+#We are all taking medicine against the disease.
+우리는 모두 이런 질병을 예방하는 약을 복용하고 있다.
+
+[497]
+#We spent a very restless night.
+우리는 매우 불안한 밤을 보냈다.
+
+[498]
+#We had a smashing holiday.
+우리는 매우 멋진 휴가를 보냈다.
+
+[499]
+#Our holiday has eaten into the money we saved.
+우리는 휴가를 보내느라 저축한 것을 소비했다.
+
+[500]
+#The weather during our holiday was perfect.
+우리가 츄가를 보낼 때 날씨가 기막히게 좋았다.
+
+[501]
+#We're three points behind the team in first place.
+우리팀은 시작하자마자 그 팀에게 3점을 뒤졌다.
+
+[502]
+#We have opposit views on this.
+우리는 이에 대해서 상반되는 생각을 가지고 있다.
+
+[503]
+#We give a 10 percent,discount for cash.
+우리는 현금의 10%를 지불한다.
+
+[504]
+#We have reached an agreement on all the terms.
+우리는 각 조항에 대한 의견이 모두 일치했다.
+
+[505]
+#We took precautions against illness.
+우리는 질병에 대해서 예방 조치를 채택했다.
+
+[506]
+#We are very much interested in your hardware.
+우리는 당신들의 하드웨어에 대해서 매우 괌심이 있습니다.
+
+[507]
+#Our heartfelt thanks are due you.
+우리는 당신에게 충심의 감사를 드립니다.
+
+[508]
+#We wondered at what we saw.
+우리는 본 물건에 대해서 경이로움을 느꼈다.
+
+[509]
+#We were embittered by his callousness.
+우리는 그의 냉담함에 대해 화가 났다.
+
+[510]
+#We overrode their objections.
+우리는 그들의 반대에 대해 아랑곳하지 않는다.
+
+[511]
+#We marvelled at their skill.
+우리는 그들의 기예에 대해 경이로움을 느꼈다.
+
+[512]
+#We must discount half of what he says.
+우리는 그가 한 말에 대해서 50% 할인을 해야 한다.
+
+[513]
+#Our thoughts go out to our friends.
+우리는 우리의 친구들에 대해 가슴 가득 동정을 느낀다.
+
+[514]
+#Our opinions on this matter concur.
+우리는 이 일의 의견에 대해 일치했다.
+
+[515]
+#We have full assurance of the results.
+우리는 그 결과에 대해서 확신으로 충만해 있다.
+
+[516]
+#We felt faint for lack of food.
+우리는 배고파서 거의 정신을 잃을 정도이다.
+
+[517]
+#We find every bale weighs short.
+우리는 매 포장의 중량이 모두 부족하다는 것을 알았다.
+
+[518]
+#We find that the case shows a shortage in weight.
+우리는 매 상장의 중량이 모두 부족하다는 것을 알았다.
+
+[519]
+#We found the hut in a dirty state.
+우리는 그 초가집이 매우 더럽다는 것을 알았다.
+
+[520]
+#We find your price unworkable.
+우리는 당신측의 가격이 실행 불가능하다는 것을 압니다.
+
+[521]
+#We've found 40 cases of strawberries were seriously damaged.
+우리는 40상자의 딸기가 이미 전부 손상되었다는 것을 알았다.
+
+[522]
+#We found the design much improved.
+우리는 이 설계가 크게 개선되었다는 것을 알았다.
+
+[523]
+#We found the installations up to standard.
+우리는 이렇나 설계가 표준에 적합하다는 것을 알았다.
+
+[524]
+#We opposed the building of the motorway.
+우리는 그 자동차 도로를 건조하는 것에 반대한다.
+
+[525]
+#We oppose any plans to cut back production.
+우리는 생산을 삭감하는 어떠한 계획에도 반대한다.
+
+[526]
+#Let's return to the subject of my holiday.
+우리 휴가를 보내는 것과 관련된 화제로 돌아가자.
+
+[527]
+#The lease of our house will fall in next year.
+우리 집의 임대 계약은 내년이 되면  만기된다.
+
+[528]
+#We put down our burdens and rested for some time.
+우리는 짐을 내려 놓고 좀 쉬었다.
+
+[529]
+#You are very much loved,appreciated and missed.
+우리는 매우 당신을 사랑하고, 당신을 소중히 여기며, 당신을 그리워합니다.
+
+[530]
+#We strongly disapprove of the firm's new methods.
+우리는 회사의 새로운 조치에 결코 찬성하지 않는다. 
+
+[531]
+#We are only too pleased to hear from you.
+우리는 너의 편지를 받게 되어 매우 기쁘다.
+
+[532]
+#We are very much concerned about the future of our country.
+우리는 국가의 전도에 매우 관심이 있다.
+
+[533]
+#In deepest sorrow and affection.
+우리는 매우 괴로우며, 깊이 당신들을 동정합니다.
+
+[534]
+#We raced the sick woman to hospital.
+우리는 재빠르게 병이 난 부인을 병원으로 데리고 갔다.
+
+[535]
+#We had a great tug to persuade him.
+우리는 대단한 정력을 들여서 그녀를 설득했다.
+

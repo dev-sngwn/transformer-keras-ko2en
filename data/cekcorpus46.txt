@@ -1,0 +1,3999 @@
+[1]
+#His brain was muddled with alcohol.
+#그는 술에 취해서 머리가 어지럽고 몽롱했다.
+
+[2]
+#He was disconsidered with his friends for his flippancy.
+#그는 언행이 경솔하여 친구의 존중을 잃었다.
+
+[3]
+#He laboured under a misunderstanding.
+#그는 한 번의 오해로 괴로워했다.
+
+[4]
+#He is esteemed for his courage.
+#그는 용기가 있어서 사람들의 존경을 받았다.
+
+[5]
+#He is distinguished for his knowledge of linguistics.
+#그는 언어학의 지식으로 유명했다.
+
+[6]
+#He was expelled for smoking in class.
+#그는 수업시간에 담배를 피워 쫓겨났다.
+
+[7]
+#He was entranced that he was at last able to see the ocean.
+#그는 마침내 바다를 볼 수 있게 되어 미친 듯이 기뻐했다.
+
+[8]
+#He was laid up with a bad cold.
+#그는 심한 감기로 침대에서 일어나지 못했다.
+
+[9]
+#He's hyped-up on drugs.
+#그는 마약을 맞고 흥분에 빠졌다.
+
+[10]
+#He got choked off for doing something wrong.
+#그는 일을 잘못 처리 해 질책을 받았다.
+
+[11]
+#His dark looks are a reflection of his unhappiness.
+#그의 우울한 표정은 내심 고뇌의 반영이다.
+
+[12]
+#He innovated a plan for increased efficiency.
+#그는 효율을 높이는 방안을 도입했다.
+
+[13]
+#He quotes from the Bible to support his beliefs.
+#그는 성경을 인용해 그의 신앙을 지지했다.
+
+[14]
+#He quoted a phrase from Shakespeare.
+#그는 셰익스피어의 문장을 인용했다.
+
+[15]
+#He spoke darkly of trouble to come.
+#그는 오는것이 번거롭다고 희미하게 말했다.
+
+[16]
+#He has a way with children.
+#그는 아이를 상대하는데 있어 기술이 있다.
+
+[17]
+#He's due back in a few days.
+#그는 며칠 내에 돌아와야 할 것이다. 
+
+[18]
+#He ought to be punished,oughtn't he?
+#그는 징벌을 받아야 한다. 그렇지 않니?
+
+[19]
+#He lined out a few songs upon request.
+#그는 몇수의 노래를 불러달라는 요청에 응했다.
+
+[20]
+#He won and I lost; that's the luck of the draw.
+#그가 이기는지 내가 지는지 뽑기로 운의 좋고 나쁨을 모두 알 수 있다.
+
+[21]
+#He hustled me into buying the car.
+#그는 나에게 그 차를 사도록 강요했다.
+
+[22]
+#He has thrust himself into the position of president.
+#그는 사장의 자리에 강제로 올랐다.
+
+[23]
+#He holds a half share in the business.
+#그는 이 기업 절반의 주식을 갖고 있다.
+
+[24]
+#He's an influence for good in the club.
+#그는 영원히 클럽에서 세력이 있는 사람이다.
+
+[25]
+#He swept the horizon with a telescope.
+#그는 망원경으로 지평선을 힐끗 보았다.
+
+[26]
+#He clove the pumpkin with his kitchen knife.
+#그는 칼로 그 호박을 잘랐다.
+
+[27]
+#He surprised me into consent .
+#그는 뜻밖의 방법으로 우리를 동의하게 했다.
+
+[28]
+#He ran us across to the other side of the bay in his boat.
+#그는 배로 우리를 해안 맞은편까지 데려다 주었다.
+
+[29]
+#He bashed his finger with a hammer.
+#그는 쇠망치로 손가락을 찌어 다쳤다.
+
+[30]
+#He used the party funds to feather his own nest.
+#그는 당의 기금을 중간에 낚아 챘다.
+
+[31]
+#He boomed out his answer.
+#그는 무거운 어조로 대답했다.
+
+[32]
+#He fixed the picture in position with a nail.
+#그는 못으로 그 그림을 고정했다.
+
+[33]
+#He pitched the ball on to the green.
+#그는 정격법으로 공을 과수원으로 쳤다.
+
+[34]
+#He used his house as collateral for the loan.
+#그는 집을 물건값을 치루는 담보로 사용했다.
+
+[35]
+#He used his house as security to borrow the money.
+#그는 집을 돈을 빌리는 담보로 사용했다.
+
+[36]
+#He hacked the box apart with his ax.
+#그는 도끼로 그 상자를 쪼갰다.
+
+[37]
+#He pecked at the hard ground with a pickaxe.
+#그는 곡괭이로 단단한 토지를 팠다.
+
+[38]
+#He worded the explanation well.
+#그는 능숙한 언어로 변명했다.
+
+[39]
+#He bribed himself into office.
+#그는 국가기관에 뇌물을 주어 직업을 구했다.
+
+[40]
+#He fanned himself with his hat.
+#그는 모자로 자신을 시원하게 했다.
+
+[41]
+#He shouldered his way through the crowd.
+#그는 어깨로 사람들을 밀치고 앞으로 나갔다.
+
+[42]
+#He pasted the pictures in.
+#그는 풀로 그 그림을 안에 붙였다.
+
+[43]
+#He expresses something in terms of science.
+#그는 과학적 언어로 사물을 나타냈다. 
+
+[44]
+#He whistled a popular tune.
+#그는 입으로 한 유행하는 곡조를 휘파람 불렀다.
+
+[45]
+#He snapped off several frames.
+#그는 스냅 촬영으로 장면을 찍었다.
+
+[46]
+#He surrounded the garden with a fence.
+#그는 울타리로 화원 주위를 둘렀다.
+
+[47]
+#He hurled a brick through the window.
+#그는 힘껏 벽돌을 창문으로 던졌다.
+
+[48]
+#He pushed hard against the door and finally it gave in.
+#그가 힘껏 문을 밀어, 문은 드디어 열렸다.
+
+[49]
+#It took him a long time to make up his mind.
+#그는 오랜 시간에 거쳐 마음을 결정했다.
+
+[50]
+#He modelled a ship out of bits of wood.
+#그는 조각난 목재로 배의 모형을 하나 만들었다.
+
+[51]
+#He popped at a bird but missed it.
+#그는 총으로 새를 쏘았다. 그러나 맞추지 못했다.
+
+[52]
+#He spat out the words with scorn.
+#그는 비웃는 말투로 이 말을 했다. 
+
+[53]
+#He ground his fist into his opponent's face.
+#그는 주먹으로 상대방의 얼굴을 힘껏 밀었다.
+
+[54]
+#He banged the desk with his fist.
+#그는 주먹으로 책상을 꽝하고 내리쳤다.
+
+[55]
+#He fleshed out his argument with solid facts.
+#그는 확실한 사실로 자신의 논점에 충실했다.
+
+[56]
+#He was put on his honour not to tell the secret.
+#그는 인격을 담보로 비밀을 보수했다.
+
+[57]
+#He greeted her with a loving kiss.
+#그는 정다운 키스로 그녀를 환영했다.
+
+[58]
+#He roped up the mules and led them off.
+#그는 밧줄로 노새를 묶어 끌고 갔다.
+
+[59]
+#He smudged the ink with his hand.
+#그는 손으로 묵적을 흐리게 했다.
+
+[60]
+#He felt around for the handle.
+#그는 손으로 사방을 더듬어 손잡이를 찾았다.
+
+[61]
+#He softened up the plasticine with his fingers.
+#그는 손가락으로 점토를 부드럽게 주물렀다.
+
+[62]
+#He crumbled the bread in his fingers.
+#그는 손가락으로 빵을 빻아서 부수었다.
+
+[63]
+#He drummed his fingers on the table.
+#그는 손가락으로 탁자를 똑똑 두드렸다.
+
+[64]
+#He drummed on the table with his fingers.
+#그는 손가락으로 테이블을 똑똑 두드렸다.
+
+[65]
+#He enclosed his garden with a hedge.
+#그는 나무울타리로 그의 화원을 둘렀다.
+
+[66]
+#He watched the motorcycle race through his binoculars.
+#그는 쌍망원경으로 오토바이경주를 보았다. 
+
+[67]
+#He diluted the paint with water.
+#그는 물로 페인트를 희석시켰다.
+
+[68]
+#He drove me back in his car.
+#그는 그의 차로 나를 데려다 주었다.
+
+[69]
+#He used sugar to break down the spirits.
+#그는 설탕으로 술의 농도를 낮추었다.
+
+[70]
+#He ran the course in 58 seconds.
+#그는 58초 동안 전코스를 완주했다.
+
+[71]
+#He scratched his name on the wall with a knife.
+#그는 작은 칼로 자신의 이름을 벽에 새겼다.
+
+[72]
+#He ripped the cloth with his knife.
+#그는 작은 칼로 그 옷감을 찢었다.
+
+[73]
+#He forced the lock with a penknife.
+#그는 연필깎는 칼로 문을 억지로 비틀어 열었다.
+
+[74]
+#He shored up the wall with a thick balk of wood.
+#그는 두꺼운 나무토막으로 담을 지탱했다.
+
+[75]
+#He began his lecture with a joke .
+#그는 농담으로 그의 연설을 시작했다.
+
+[76]
+#He steamed open the envelope.
+#그는 증기로 편지봉투를 열었다.
+
+[77]
+#He beat a tattoo with his fingers on the table.
+#그는 손가락으로 탁자를 똑똑 계속 두드렸다.
+
+[78]
+#He folded the seeds in a piece of paper.
+#그는 종이로 그 씨들을 포장했다.
+
+[79]
+#He elbowed his way through the crowd.
+#그는 팔꿈치로 인파를 밀고 비집고 갔다.
+
+[80]
+#He gave the news out in grave voice.
+#그는 무거운 목소리로 이 소식을 전했다.
+
+[81]
+#He gave her his camera for her watch.
+#그는 자신의 카메라를 그녀의 손목시계와 바꾸었다.
+
+[82]
+#He struck the man to the heart with a dagger.
+#그는 비수로 그 사람의 심장을 찔렀다.
+
+[83]
+#He made a little statue of clay.
+#그는 점토로 조각상 하나를 만들었다.
+
+[84]
+#He settled himself comfortably in an easy chair.
+#그는 한가롭게 안락의자에 앉아 있다.
+
+[85]
+#He was returned to Parliament for Bath.
+#그는 베스시에서 국회의원으로 선출되었다.
+
+[86]
+#He jumped from one topic to another.
+#그는 한 화제에서 다른 화제로 바꾸었다.
+
+[87]
+#He broke up under strain.
+#그는 일의 과중으로 몸이 망가졌다.
+
+[88]
+#He is exempt from military service,because of his bad health.
+#그는 몸이 좋지 않아 병역을 면제받았다.
+
+[89]
+#He grimaced with pain.
+#그는 아파 얼굴을 찌푸렸다. 
+
+[90]
+#He is too shy to mingle with others .
+#그는 너무 내성적이어서 타인과 왕래하는데 부끄러워한다.
+
+[91]
+#He got injured through his own carelessness.
+#그는 스스로 조심하지 않아 다쳤다.
+
+[92]
+#He faltered and lost his chance.
+#그는 망설이고 결정하지 못해서 기회를 놓쳤다.
+
+[93]
+#Is there any possibility of his coming immediately?.
+#그는 즉시 올 수 있습니까?
+
+[94]
+#He had a determined chin.
+#그는 강한 의지를 나타내는 턱을 갖고있다.
+
+[95]
+#He has a perfect alibi.
+#그는 현장부재인 충분한 증거를 갖고 있다.
+
+[96]
+#He has good grounds for believing it.
+#그는 믿을 만한 충분한 증거가 있다.
+
+[97]
+#He is well qualified for the work.
+#그는 이 일을 부담할 충분한 자격을 갖고 있다.
+
+[98]
+#He stinks of money.
+#그가 가진 것은 돈밖에 없다. 그는 온몸에서 구리냄새가 난다.
+
+[99]
+#He has a knockout of a girlfriend.
+#그는 아주 아름다운 애인이 있다.
+
+[100]
+#He has been nowhere for years.
+#그는 몇 년 동안 어떤 곳도 가지 못했다.
+
+[101]
+#He had the chance to play the violin to his heart's content.
+#그는 바이올린을 맘껏 연주할 기회가 있다.
+
+[102]
+#He has some share of his father's genius.
+#그는 아버지의 천성을 조금 이어 받았다. 
+
+[103]
+#He'd got a few minutes to spend with her.
+#그는 몇 분 동안 그녀와 함께 했다.
+
+[104]
+#He has a good verbal memory.
+#그는 좋은 언어 기억력을 갖고 있다.
+
+[105]
+#He is dominating and active in manner.
+#그는 지도력의 태도가 있어 주도권을 가질 수 있다.
+
+[106]
+#Did he approach you about lending him some money?
+#그가 너에게 돈을 빌려 달라고 말을 했니?
+
+[107]
+#He's never been abroad in his life.
+#그는 태어난 이래로 외국에 나간 적이 없다.
+
+[108]
+#Sometimes he comes by train and sometimes by car.
+#그는 어떤 때 기차를 타고 오거나 어떤 때는 차를 타고 온다.
+
+[109]
+#He sometimes surprises us with a sudden visit.
+#그는 갑자기 찾아와서 우리를 놀라게 했다.
+
+[110]
+#He has a patent of generosity.
+#그는 타인이 갖고 있지 않은 넓은 도량이 있다.
+
+[111]
+#He has a wife and four children besides.
+#그는 부인이 있고 네 명의 아이들이 있다.
+
+[112]
+#He is in the habit of tilting his head to one side.
+#그는 한쪽으로 머리를 갸우뚱하는 습관이 있다.
+
+[113]
+#He's fortunate in having a good job.
+#그는 좋은 직장이 있으니 정말 운이 좋다.
+
+[114]
+#There is an aura of divinity about him.
+#그는 침범할 수 없는 신성한 기운이 있다.
+
+[115]
+#He has a soul above material pleasures.
+#그는 상황을 초월해 즐길 수 있는 마음이 있다.
+
+[116]
+#He has radio,doesn't he?
+#그는 라디오 한대가 있지?그렇지?
+
+[117]
+#He has some weird ideas.
+#그는 기발난 생각을 갖고 있다.
+
+[118]
+#He is comfortable enough to buy a new car.
+#그는 한대의 새 차를 살 충분한 돈이 있다.
+
+[119]
+#He has a constitution that defies any climate.
+#그는 어떤 기후도 족히 막아 낼 체격이 있다.
+
+[120]
+#An old injury to his right foot had begun to act up again.
+#그의 오른쪽다리의 오래된 상처가 또 발작했다.
+
+[121]
+#He beguiled me into parting with the gem.
+#그는 그 보석을 버리도록 날 꼬셨다.
+
+[122]
+#He trapped me into admitting I had done it.
+#내가 일을 한 것이라고 인정하도록 그가 날 속였다. 
+
+[123]
+#He told the story yet again.
+#그는 또 이 이야기를 한번 더 말했다.
+
+[124]
+#He has been poking in again trying to find things out.
+#그는 또 갑자기 들어오더니 상황을 해명하려고 했다. 
+
+[125]
+#He has made the very same mistake again.
+#그는 또 완전히 같은 착오를 저질렀다.
+
+[126]
+#He relapsed into his old bad habits.
+#그는 또 과거의 나쁜 습관을 회복했다.
+
+[127]
+#He had to fork out some money again to have his watch repaired.
+#그는 또 약간의 돈을 써서 시계를 고쳤다.
+
+[128]
+#He's mucking about with his new bicycle again.
+#그는 또 그의 새 자전거를 가지고 놀았다. 
+
+[129]
+#He has had a good upbringing.
+#그는 어린시절에 좋은 교육을 받은 적이 있다.
+
+[130]
+#He wound his way through the trees.
+#그는 우여곡절 끝에 수풀림을 통과했다.
+
+[131]
+#he gave our exercises back to us the next day.
+#그는 다음날 연습을 우리들에게 교환해 주었다.
+
+[132]
+#He signed out at ten this morning.
+#그는 오늘 아침 열시에 서명하고 떠났다.
+
+[133]
+#His cheerful laughter dispelled her fears.
+#그의 유쾌한 웃음소리는 그녀의 두려움을 없앴다. 
+
+[134]
+#He's playing footsie with the conservatives.
+#그는 보수당원과 몰래 공모했다.
+
+[135]
+#He was intimate with many of the greatest minds of his day.
+#그는 당시의 많은 걸출한 문인들과 깊은 교류가 있었다.
+
+[136]
+#He is concerned with the real estate business.
+#그는 부동산사업과 유관하다.
+
+[137]
+#He transacts business with a large number of stores.
+#그는 많은 상점과 무역거래를 한다.
+
+[138]
+#He wasn't particularly friendly with Henry.
+#그는 헨리와 결코 특별한 우호가 없다.
+
+[139]
+#He ran away with his teacher's wife.
+#그는 선생님의 부인과 도피행각을 벌렸다.
+
+[140]
+#He answered the description of the criminal.
+#그는 그 범인의 용모와 서로 일치되게 묘사했다.
+
+[141]
+#He has his pride,same as you .
+#그는 너처럼 그의 자존심이 있어.
+
+[142]
+#He argued with his friend about the best method.
+#그는 친구들과 최고의 방법으로 토론했다.
+
+[143]
+#He answers to the description of the suspect.
+#그는 용의자의 용모와 부합되게 묘사했다.
+
+[144]
+#He married a beautiful redhead.
+#그는 아름다운 붉은 머리 소녀와 결혼했다.
+
+[145]
+#A tone of menace entered into his voice.
+#그의 말투에 위협의 요소가 담겨 있다.
+
+[146]
+#He's easily disheartened by difficulties.
+#그는 곤란에 부딪칠 때 쉽게 포기한다.
+
+[147]
+#He tipped the horse to win the race.
+#그는 그 말이 그 경기에서 이길것이라고 예측했다.
+
+[148]
+#He scented that trouble was brewing.
+#그는 문제가 곧 발생할 것을 예감했다.
+
+[149]
+#He expects to have finished by May.
+#그는 5월에 완성될 것이라고 예기했다.
+
+[150]
+#He envisaged that she would eventually marry him.
+#그는 그녀가 결국은 그에게 시집갈거라고 예기했다.
+
+[151]
+#He predicted when war would break out.
+#그는 전쟁이 언제가 발발할거라고 예언했다.
+
+[152]
+#He was rather a pedestrian student.
+#그는 원래 아주 평범한 학생이었다.
+
+[153]
+#He is willing to stand in and give ten yuan to the funds.
+#그는 이 활동의 참가를 원했으며 또한 10전을 부조했다.
+
+[154]
+#He was born c.1600.
+#그는 기원전 1600년쯤에 출생했다.
+
+[155]
+#He has promised to give us a lecture.
+#그는 우리들에게 한번 강의 할 것을 약속했다.
+
+[156]
+#As he grows older,he spends more of his time in bed.
+#그는 늙을수록 침대에 누워있는 시간도 점점 많아졌다.
+
+[157]
+#He will not draw back from what he has promised.
+#그는 약속했던 일은 절대 취소하지 않는다.
+
+[158]
+#He conceded us the right to walk through his garden.
+#그는 우리들에게 그의 화원을 걸어가도 된다고 허락했다.
+
+[159]
+#He was unfortunately caught in the shower.
+#그는 운 나쁘게 소나기를 만났다.
+
+[160]
+#Good luck was with him,and he found a job at once.
+#그는 운이 좋아서 곧 직장을 구했다.
+
+[161]
+#He lucked out and found a seat.
+#그는 운이 좋아서 좌석을 찾았다.
+
+[162]
+#He employed a new theory to solve the problem.
+#그는 새 이론을 운용하여 이 문제를 해결했다.
+
+[163]
+#He waltzed me around again.
+#그는 재차 나에게 왈츠를 추도록 지도했다.
+
+[164]
+#He reviewed the scene of the crime.
+#그는 다시 범죄의 현장을 관찰했다.
+
+[165]
+#He repeated his assertion that he was not guilty.
+#그는 재차 자신은 무죄라고 밝혔다.
+
+[166]
+#The place became too warm for him.
+#그는 다시 또 그곳에서 기다릴 방법이 없다.
+
+[167]
+#He could not keep his feelings under any longer.
+#그는 다시 또 그의 감정을 억제할 없었다.
+
+[168]
+#He became king of England in 1936.
+#그는 1936년에 영국의 국왕이 되었다.
+
+[169]
+#He smacked his cousin on the cheek.
+#그는 사촌의 볼에 키스를 했다.
+
+[170]
+#He is very shy and hesitant in company.
+#그는 타인의 면전에서 부끄러워 망설인다.
+
+[171]
+#He joined the navy nearly 30 years ago.
+#그는 거의 30년 전에 해군에 참가했다.
+
+[172]
+#He was respectful before his betters.
+#그는 선배이기 전에 공경을 받았다.
+
+[173]
+#He weaved in and out through the traffic.
+#그는 차들이 왕래하는 도로에서 앞으로 지나갔다.
+
+[174]
+#He ran through his mail during breakfast.
+#그는 아침을 먹을 때 바삐 편지를 읽었다.
+
+[175]
+#He was feeling after a reason for their unusual conduct.
+#그는 그들의 행위가 이상한 원인을 따져보고 있다.
+
+[176]
+#He worked his passage by doing jobs on the ship.
+#그는 배 위에서 일을 해서 배값을 지불했다.
+
+[177]
+#He ran for President in the election.
+#그는 이번 대선에서 대통령으로 경선되었다.
+
+[178]
+#In his haste,he forgot to put on his coat.
+#그는 바쁜 와중에 외투를 잃어 버렸다.
+
+[179]
+#He was unseated at the general election.
+#그는 대선에서 낙선되어 직위를 잃었다.
+
+[180]
+#He is a minor talent in contemporary writing.
+#그는 당대문단에서 이류작가이다.
+
+[181]
+#He is waiting to hear your opinion.
+#그는 너의 의견 듣는 것을 기다리고 있다.
+
+[182]
+#He burned a hole in the rug.
+#그는 양탄자 위에 구멍하나를 태워냈다. 
+
+[183]
+#He was blinded in world war II.
+#그는 제 2차 세계대전에서 실명했다.
+
+[184]
+#He was knocked out in the second round.
+#그는 2차에서 타격당했다.
+
+[185]
+#He was laid out in the seventh round.
+#그는 7회에서 맞아 쓰러졌다.
+
+[186]
+#He measured up the wood before he started.
+#그는 공사하기 전에 나무토막의 무게를 재었다.
+
+[187]
+#Through all his changing fortunes,he never lost courage.
+#그는 변화가 많았던 일생동안 용기를 잃은 적이 없다.
+
+[188]
+#During his fever he babbled without stopping.
+#그는 열이 날 때 끊임없이 횡설 수설했다.
+
+[189]
+#He broke under the strain of heavy work.
+#그는 일의 압력이 무거워지자 아주 피로했다.
+
+[190]
+#He hunted the room for the missing papers.
+#그는 방의 도처에서 잃었던 서류를 찾았다.
+
+[191]
+#He stormed about the house,breaking things.
+#그는 집안에서 우뢰와 같이 날뛰며 물건을 던졌다.
+
+[192]
+#He bustled about the house.
+#그는 집에서 아주 바빴다.
+
+[193]
+#He is in stir.
+#그는 수감되었다.
+
+[194]
+#He was shot three times in the army.
+#그는 복역할 때 세 차례의 총상을 입었다.
+
+[195]
+#He ran off a hundred copies on the duplicating machine.
+#그는 복사기로 백장을 복사했다.
+
+[196]
+#He was born the day his father left for Asia.
+#그는 아버지가 아시아로 가던 그날 태어났다.
+
+[197]
+#He didn't feature in that movie.
+#그는 이 영화에서 주인공으로 출연하지 않았다.
+
+[198]
+#He put new locks on the doors.
+#그는 각각 문에다 새 열쇠를 채웠다.
+
+[199]
+#He's in difficulty with his schoolwork.
+#그는 공부에서 어려움에 부딪혔다.
+
+[200]
+#He saw his friend off at the bus station.
+#그는 버스정거장에서 친구를 송별했다.
+
+[201]
+#He works in the foreign division of the company.
+#그는 회사의 국제과에서 일한다.
+
+[202]
+#He had been bumming around the park all day.
+#그는 공원에서 하는 일 없이 하루를 보냈다.
+
+[203]
+#He took a beating in the stock market.
+#그는 주식시장에서 참담한 손해를 입었다.
+
+[204]
+#He got off the bus at the corner.
+#그는 코너에서 버스에서 내렸다.
+
+[205]
+#He scrabbled about in the bush for the ball.
+#그는 관목이 무성한 곳에서 도처를 뒤져 공을 찾았다.
+
+[206]
+#He is better known abroad than at home.
+#그는 국외에서의 명성이 국내보다 크다.
+
+[207]
+#He hesitated before crossing the road.
+#그는 도로를 건너기 전에 약간 망설였다.
+
+[208]
+#He is raking through old records for information.
+#그는 과거의 기록에서 자료를 찾았다.
+
+[209]
+#He sat out the bombardment in the trench.
+#그는 포격이 멈출때까지 도랑에 줄곧 앉아 있었다.
+
+[210]
+#He hit his head against the wall in the dark cellar.
+#그는 어두운 땅굴에서 머리를 벽에 부딪혔다.
+
+[211]
+#He saw badly in the dark.
+#그는 어둠속에서 정확하게 볼 수 없었다.
+
+[212]
+#He was just able to discern the road in the dark.
+#그는 어둠속에서 간신히 길을 식별할 수 있었다.
+
+[213]
+#He felt his way to the door in the dark.
+#그는 어둠속에서 더듬거리며 입구까지 걸어갔다.
+
+[214]
+#He felt along the wall in the dark for the door.
+#그는 어둠속에서 벽을 따라 더듬거리며 문을 찾았다.
+
+[215]
+#In the dark he ran up against a cupboard.
+#그는 어둠속에서 찬장에 부딪혔다.
+
+[216]
+#He put a fence around the garden.
+#그는 화원주위에 울타리를 쳤다.
+
+[217]
+#He is a divisive influence at meetings.
+#그는 회의에서 언제나 분열적인 작용을 일으킨다.
+
+[218]
+#He committed the crime under the influence of a strong passion.
+#그는 격정에 이끌려 죄를 지었다.
+
+[219]
+#He has outdone all his rivals in skill.
+#그는 기교에서 모든 적수를 이긴 적이 있다.
+
+[220]
+#He passed the remaining years of his life in loneliness and sorrow.
+#그는 적막과 비애속에서 그의 여생을 보냈다.
+
+[221]
+#He is smart in his dealings.
+#그는 교역방면에서 매우 총명하다.
+
+[222]
+#He is teaching French and leaning Greek.
+#그는 불어를 가르치고 있고 희랍어를 가르치고 있다.
+
+[223]
+#He sat down opposite to the teacher.
+#그는 교사의 맞은편에 앉았다.
+
+[224]
+#He whistled to me from the other side of the street.
+#그는 거리 맞은 편에서 나에게 휘파람을 한번 불렀다.
+
+[225]
+#He banged into a bus in the street.
+#그는 거리에서 버스에 부딪혔다.
+
+[226]
+#He really cleaned up at the races today.
+#그는 오늘의 경마에서 떼돈을 벌었다.
+
+[227]
+#He fired at the animal point-blank.
+#그는 거리가 가까운 동물에게 사격했다.
+
+[228]
+#He happened on the book in a secondhand bookstore.
+#그는 오래된 서점에서 우연히 이 책을 발견했다.
+
+[229]
+#He's waiting not far from there.
+#그는 그곳에서 멀지 않은 곳에서 기다리고 있다.
+
+[230]
+#He hesitated before deciding.
+#그는 결정하기 전에 망설였다.
+
+[231]
+#His mind ranged over the problems set before him.
+#그는 그의 면전에 늘어 놓은 문제들을 고민중이다.
+
+[232]
+#He got into a state before the examination began.
+#그는 시험보기 전에 마음이 매우 긴장되었다.
+
+[233]
+#He rubbed a hole in the knees of his trousers.
+#그는 바지의 무릎에 구멍이 하나 생겼다.
+
+[234]
+#He was cited in a divorce case.
+#그는 이혼안건으로 법원에 소송되어 출정했다.
+
+[235]
+#He locked up the jewel before going away.
+#그는 떠나기 전에 보석을 열쇠로 잠궈 숨겼다.
+
+[236]
+#He is practicing on the typewriter (the piano).
+#그는 타자나 피아노를 치는 것을 연습중이다.
+
+[237]
+#He fought in both World Wars.
+#그는 2차 세계대전중에 싸운 적이 있다.
+
+[238]
+#He seesawed between two opinions.
+#그는 두 개의 의견사이에서 결정하지 못했다.
+
+[239]
+#He dried himself down after a shower.
+#그는 목욕 후에 몸을 닦아 말렸다.
+
+[240]
+#He has rounded out twenty years in the consular service.
+#그는 영사관에서 일한 지 꼭 20년이 되었다.
+
+[241]
+#He stretched himself out in front of the fire.
+#그는 불앞에서 몸을 곧게 뻗었다.
+
+[242]
+#He is strong on American literature.
+#그는 미국문학 방면에 조예가 깊다.
+
+[243]
+#He trickled a few drops of oil into the mayonnaise.
+#그는 마요네즈에 기름을 몇 방울 떨어뜨렸다.
+
+[244]
+#At the in terview he made an unfortunate remark.
+#그는 면담에서 불합당한 말을 했다.
+
+[245]
+#He was feeling about for the light switch.
+#그는 전등 스위치 찾아 더듬거리고 있었다.
+
+[246]
+#It was fortunate for you that he was there.
+#그가 거기에 있었던 것은 너에게 있어 행운이다.
+
+[247]
+#How much did he staked down on that deal?
+#그는 그 무역 거래에서 돈을 얼마나 낮게 투자했습니까?
+
+[248]
+#He bought it at the store over there.
+#그는 그 쪽의 상점에서 그것을 샀다.
+
+[249]
+#He was rooting about among the piles of papers .
+#그는 그 서류 뭉치속에서 뒤져서 찾고 있는 중이다.
+
+[250]
+#He has set up as a dentist in that district.
+#그는 그 지역에서 치과의사가 되었다.
+
+[251]
+#He slipped up over that problem.
+#그는 그 문제에서 틀렸다.
+
+[252]
+#He was badly hurt in the accident.
+#그는 그 이외의 사고에서 중상을 입었다.
+
+[253]
+#He was brooding over his bad luck.
+#그는 그 곳에서 나쁜 운명을 속으로 생각하고 있다.
+
+[254]
+#He sat there for hours on end.
+#그는 그 곳에서 줄곧 몇 시간 동안 앉아있었다.
+
+[255]
+#He weighed the ideas in his mind.
+#그는 머리 속으로 이러한 생각들을 따져 보았다.
+
+[256]
+#He stuck a flower in his buttonhole.
+#그는 단추 구멍에 한 송이 꽃을 꽂았다.
+
+[257]
+#He took ship at New York for Europe.
+#그는 뉴욕에서 유럽까지 배를 타고 갔다.
+
+[258]
+#He had a happy childhood in the country.
+#그는 농촌에서 즐거운 유년시절을 보냈다. 
+
+[259]
+#He is trying hard to pull up his English.
+#그는 자신의 영어 수준을 높이려고 노력 중이다.
+
+[260]
+#He heaped food on the plate.
+#그는 접시에 먹을 것을 가득 담았다.
+
+[261]
+#He made off with the first prize in the table tennis tournament.
+#그는 탁구 리그전에서 일등을 했다.
+
+[262]
+#He labeled the bottle poisonous.
+#그는 병에 독이 표시된 딱지를 붙였다.
+
+[263]
+#He dragged behind the others.
+#그는 다른 사람 뒤에서 천천히 진행했다.
+
+[264]
+#He was captured trying to escape from the country.
+#그는 이 국가를 떠나 도망가려고 시도했을 때 잡혔다.
+
+[265]
+#He hammered a tack into the wall to hang a picture.
+#그는 벽에 그림을 걸 못을 박았다.
+
+[266]
+#What is he pasting up on the wall?
+#그는 벽에 어떤 물건을 붙였니?
+
+[267]
+#He was steamrollered into signing the agreement.
+#그는 강한 압력으로 협의에 서명했다.
+
+[268]
+#He picked out his sister in the crowd.
+#그는 인파 속에서 그의 여동생을 알아봤다.
+
+[269]
+#He sought out his friend in the crowd.
+#그는 군중 속에서 그의 친구를 찾았다.
+
+[270]
+#He is willing to help you in anyway.
+#그는 어떤 방면이든 널 돕기를 원한다.
+
+[271]
+#He dressed the salad with oil and vinegar.
+#그는 사라다에 기름과 초를 섞었다.
+
+[272]
+#He spent two weeks in Shanghai,looking about two weeks in Shanghai,looking about the city.
+#그는 상해에서 2주 동안 유람했다.
+
+[273]
+#He was bidding for popular support.
+#그는 대책을 강구하는데 대중의 지지를 쟁취했다.
+
+[274]
+#He trudged 20 miles through the deep snow.
+#그는 많은 눈에도 20리를 걸어갔다. 
+
+[275]
+#In his anger he blurted out the secret.
+#그는 화가 나서 입을 열고 비밀을 말해 버렸다.
+
+[276]
+#He lost an eye in the accident.
+#그는 사고로 한쪽 눈을 상실했다.
+
+[277]
+#He lost the use of both legs in the accident.
+#그는 사고로 양쪽다리의 기능을 상실했다.
+
+[278]
+#He hesitated to spend so much money on books.
+#그는 책에 그렇게 많은 돈을 쓰고 싶지 않았다.
+
+[279]
+#He towers above his classmates in mathematics.
+#그는 수학에서 그의 친구들보다 잘했다.
+
+[280]
+#He entered the room after his father.
+#그는 그의 아버지 뒤에서 방으로 들어갔다.
+
+[281]
+#He saw her as she was getting off the bus.
+#그는 그녀가 버스에서 내릴 때 그녀를 보았다.
+
+[282]
+#He tore a ligament playing football.
+#그는 축구를 할 때 인대가 끊어졌다.
+
+[283]
+#He was in heaven,whither she hoped to follow.
+#그는 천국에 있고 그녀는 그를 따라 그곳에 가길 희망했다.
+
+[284]
+#He went home by daylight.
+#그는 날이 아직 어두워지지 않을 때 집에 돌아왔다.
+
+[285]
+#He beat out a tune on a tin can.
+#그는 깡통 통조림을 두드려 곡조를 연주했다.
+
+[286]
+#He dozed off during the long lecture.
+#그는 지루하고 장황한 강연을 들을 때 꾸벅꾸벅 졸았다.
+
+[287]
+#He is unpopular with his fellow workers.
+#그는 동료들 사이에서 명성이 좋지 않다.
+
+[288]
+#He was looking something through a telescope.
+#그는 망원경을 통해 사물을 보고 있다.
+
+[289]
+#He was wearing a vest under his coat.
+#그는 외투에 조끼 하나를 입었다.
+
+[290]
+#He helped me in my hour of need.
+#그는 내가 곤란할 때 나를 도왔다.
+
+[291]
+#He stands first in our class.
+#그는 우리반에서 일등을 했다.
+
+[292]
+#He lived for a time in Spain.
+#그는 스페인에서 한 동안을 보냈다.
+
+[293]
+#He signed off work at half past five p.m. .
+#그는 오후 5시반에 퇴근 싸인을 했다.
+
+[294]
+#He was shot out in the crash.
+#그는 충돌사고에서 튕겨져 나왔다.
+
+[295]
+#He lived a rich and comfortable life in the country.
+#그는 시골에서 부유하고 편한 생활을 보냈다.
+
+[296]
+#He was born and raised in a country town.
+#그는 시골에서 태어나 자랐다.
+
+[297]
+#He has a large estate in the country.
+#그는 시골에서 광대한 토지를 소유하고 있다.
+
+[298]
+#He is in possession of a large estate in the country.
+#그는 시골에서 큰 땅을 갖고 있다.
+
+[299]
+#He scratched a match on the sole of his shoe.
+#그는 신발밑으로 성냥을 그어 불을 붙였다.
+
+[300]
+#He looked through his notes before writing the report.
+#그는 보고를 쓰기 전에 노트를 다시 보았다.
+
+[301]
+#He felt completely at sea in his new school.
+#그는 새 학교에서 어찌할지 몰라 막막했다.
+
+[302]
+#He bathed in many a limpid stream.
+#그는 많고 깨끗한 계곡물에서 목욕했다.
+
+[303]
+#He is always very selective when he chooses his suits.
+#그는 한 벌을 살 때 언제나 신중하게 고른다.
+
+[304]
+#He is learning to be a dancer.
+#그는 무용을 배우고 있는데 무용가가 되고 싶어 한다.
+
+[305]
+#He spends very little time on his studies.
+#그는 학습에 투자하는 시간이 매우 적다.
+
+[306]
+#He leavened his speech with humor.
+#그는 연설중에 약간의 유머를 섞었다.
+
+[307]
+#He circulated among the guests at the party.
+#그는 연회에서 손님들 사이를 맴돌았다.
+
+[308]
+#His behaviour at the party was most regrettable.
+#그의 연회에서의 행동은 사람들에게 깊은 유감을 안겨 주었다.
+
+[309]
+#He works in sales.
+#그는 실무부서에서 일한다. 그는 판매를 담당한다.
+
+[310]
+#In his spare time he did all he could to polish up his German.
+#그는 여가시간에 열심히 독어를 연수했다.
+
+[311]
+#His face was bunged up in a car accident.
+#그는 한번의 차사고에서 부딪혀 눈과 코가 부었다.
+
+[312]
+#He was ordained in 1982.
+#그는 1982년에 목사로 위임되었다.
+
+[313]
+#He was called up in 1917.
+#그는 1982년에 소집에 응하여 입대했다.
+
+[314]
+#He went through a fortune in a year.
+#그는 1년 동안 큰 돈을 모두 날렸다.
+
+[315]
+#He met many famous men in his time.
+#그는 일생동안 많은 유명인을 회견했다.
+
+[316]
+#He was educated at a very good school.
+#그는 아주 좋은 학교에서 교육을 받은 적이 있다.
+
+[317]
+#He made notes for his lecture on a scrap of paper.
+#그는 종이 한 장에 수업한 내용을 기록했다.
+
+[318]
+#He groped in his pocket for his ticket.
+#그는 표를 찾으려고 옷주머니를 뒤졌다.
+
+[319]
+#He remembered her in his will.
+#그는 유언에 그녀의 이름을 넣었다.
+
+[320]
+#He shifted uncomfortably in his chair.
+#그는 의자에서 불편하게 이리저리 움직였다.
+
+[321]
+#He settled himself in his chair.
+#그는 의자에 편하게 앉았다.
+
+[322]
+#He narrowly escaped being hurt in the accident.
+#그는 이외의 사건에서 하마터면 다칠뻔했다.
+
+[323]
+#He has a good job in a bank.
+#그는 은행에서 좋은 일을 한다.
+
+[324]
+#He wriggled uncomfortably on the hard chair.
+#그는 딱딱한 의자에서 불편하게 몸을 이리저리 비비꼬았다.
+
+[325]
+#He is working hard so that he may pass the examination.
+#그는 열심히 공부하면 시험에 통과할 수 있을 것이다.
+
+[326]
+#He stopped at the pillar-box and dropped the letter in.
+#그는 우체통 옆에 서서 편지를 집어 넣다.
+
+[327]
+#He checked into the Grand Hotel for a three-day stay.
+#그는 원산호텔에서 삼일을 묵었다.
+
+[328]
+#He shipped as cook aboard an ocean liner.
+#그는 원양정기 어선에서 주방장이 되었다.
+
+[329]
+#He was seeking after something to serve as a table.
+#그는 책상위에서 쓸만한 것을 찾고있었다.
+
+[330]
+#He did not know anybody in the town.
+#그는 이 도시에서 어떤 사람도 알지 못한다.
+
+[331]
+#He's taking rather a long time over it.
+#그는 이 일로 많은 시간을 낭비했다.
+
+[332]
+#He went through the whole house hunting for his books.
+#그는 온 집안 도처에서 그의 책을 찾아 뒤졌다.
+
+[333]
+#He was rather severely handled in the witness box.
+#그는 증인석상에서 힘든 시달림을 받았다.
+
+[334]
+#He had a lead of three laps over the secondplace car at the finish.
+#그는 종점선에서 2위차를 앞서 3바퀴를 돌았다.
+
+[335]
+#He did it in full view of the public.
+#그는 많은 사람들앞에서 그 일을 했다.
+
+[336]
+#He rode on the wave of popularity.
+#그는 여러사람들의 기대속에서 승세를 타고 전진했다.
+
+[337]
+#He opened out a map on the table.
+#그는 책상위에 지도를 펼쳤다.
+
+[338]
+#He found the money in his desk.
+#그는 책상의 서랍에서 그 돈을 찾았다.
+
+[339]
+#He is launched on a new enterprise.
+#그는 새 기업의 창업을 착수하는 중이다.
+
+[340]
+#He was never popular in his native Australia.
+#그는 자신의 고국인 오스트레일리아에서는 이름이 알려지지 않았다.
+
+[341]
+#He fluttered back and forth in the corridor.
+#그는 복도에서 조바심나게 왔다갔다 했다.
+
+[342]
+#He cried off the project at the last moment.
+#그는 최후에 이 계획에서 퇴출됐다.
+
+[343]
+#He hasn't changed a hair in the last ten years.
+#그는 최근 10년 동안 조금도 변화가 없었다.
+
+[344]
+#He wavered before deciding.
+#그는 결정을 하기 전에 망설였다.
+
+[345]
+#He fumbled in his pocket for his lighter.
+#그는 주머니에서 라이터를 뒤져 찾았다.
+
+[346]
+#He was sporting a moustache.
+#그는 그의 수염을 뽐냈다.
+
+[347]
+#He put his work aside for a time.
+#그는 잠시 수중의 일을 멈추었다.
+
+[348]
+#He early showed a talent for music.
+#그는 젊은 시절 음악의 재능을 보였다.
+
+[349]
+#He reproached me for not having let him know about it.
+#그는 내가 그에게 먼저 그 일을 알지못하게 한 것에 대해 책망했다.
+
+[350]
+#Try as he would ,he couldn't kick the motor over.
+#그는 어떻게 해도 모터를 돌릴 방법이 없었다.
+
+[351]
+#He told me he had not known the man.
+#그는 그가 그 사람을 모른다고 나에게 일찍이 알려준 적이 있다.
+
+[352]
+#He saw that he had made a mistake.
+#그가 착오를 범했음을 일찍이 깨달았다.
+
+[353]
+#He reminded them that there were no trains after midnight.
+#그는 한밤중 이후에 기차가 없다고 그들에게 일찍이 일깨워 주었다.
+
+[354]
+#He once fell out with his uncle.
+#그는 그의 숙부와 한 차례 다투었다.
+
+[355]
+#He has had a conviction for drunken driving.
+#그는 일찌기 술에 취해 차를 운전한 전과가 있다.
+
+[356]
+#He showed no small skill.
+#그는 예사롭지 않은 능력을 보였다.
+
+[357]
+#He won the George Cross during the war.
+#그는 전쟁시에 조지 십자훈장을 받았다.
+
+[358]
+#He stood aloof and did not give us a hand.
+#그는 멀리서 서서, 우리를 도우러 오지 않았다.
+
+[359]
+#He is on Fraser's side.
+#그는 프레저쪽에 서 있다.
+
+[360]
+#He stood there with his eyes fixed on the picture.
+#그는 그쪽에 서서 이 그림을 응시했다.
+
+[361]
+#He stood on the clifftop looking out to sea.
+#그는 절벽 꼭대기에서 대해를 조망했다.
+
+[362]
+#He stood in a strange street.
+#그는 낯선 거리에 서 있다.
+
+[363]
+#His mouth was agape in yokel fashion.
+#그는 진빵을 먹으려는 모습으로 입을 벌렸다.
+
+[364]
+#He beckoned the waiter for their bill.
+#그는 손을 흔들어 종업원에게 영수증을 그에게 주라고 했다.
+
+[365]
+#He found a level site to build the cabin.
+#그는 작은 집을 지을 평탄한 지점을 찾았다.
+
+[366]
+#He found a niche for himself.
+#그는 적당히 몸을 가릴 곳을 찾았다.
+
+[367]
+#He hunted for a lost book and finally found it.
+#그는 잃어 버렸던 책을 찾아 결국 찾았다.
+
+[368]
+#He put the children to bed.
+#그는 아이들이 침대에서 자도록 돌보았다.
+
+[369]
+#He went to bed early,as was his wont.
+#그는 습관에 따라 일찍 잤다.
+
+[370]
+#He retraced his steps back to where he had started from.
+#그는 그가 출발했던 곳으로 되돌아갔다.
+
+[371]
+#His faction split off from the party.
+#그는 이 파티에서 이 당을 떠났다.
+
+[372]
+#He's a friendly chatty sort of person.
+#그 이 사람은 매우 착하고 말하기를 좋아한다.
+
+[373]
+#He's so lazy that it's difficult to assess his ability.
+#그는 이렇게 게을러서 정말 그의 능력을 판가름하기 어렵다,
+
+[374]
+#He has been studying archeology these thirty years.
+#그는 30년동안 줄곧 고고학을 연구했다.
+
+[375]
+#It is impudent of him to say so.= He is impudent to say so.
+#그가 이렇게 말하니 정말 염치없다.
+
+[376]
+#It was contemptible of him to speak like that about the queen!
+#그가 이렇게 여왕을 비평하니 정말 사람들이 멸시를 받는구나!
+
+[377]
+#He managed to make a mess of it.
+#그는 정말 괜찮다. 일을 한차례 저질렀다.
+
+[378]
+#Did he really say that?
+#그는 정말 이런 말을 한 적이 있습니까?
+
+[379]
+#It is unbelievable how stupid he is.
+#그는 정말 멍청해서 사람들의 신임을 얻기 어렵다.
+
+[380]
+#He was surprised to find his room cleaned.
+#그는 방이 청소된 걸 발견할 줄은 생각치도 못했다.
+
+[381]
+#It's a bit rough on him,having to do two people's work.
+#그는 정말 좀 손해를 본다. 두 사람의 일을 해야 한다.
+
+[382]
+#He braced every nerve for a supreme effort.
+#그는 정신을 진작하고 앞으로 전력질주을 준비했다.
+
+[383]
+#He enjoyed every minute of the holiday.
+#그는 온 휴가기간 동안 매우 즐겁게 지냈다.
+
+[384]
+#Gathering up the thread of his story,he set about writing.
+#그는 일의 단서를 정리하고 작문을 시작했다.
+
+[385]
+#He shuts himself in his study all day long.
+#그는 하루종일 자신을 서점에 가두었다.
+
+[386]
+#All day he did nothing but contemplate.
+#그는 하루종일 깊이 생각하는 것 외에 어떤 일도 하지 않았다.
+
+[387]
+#He spent the day pondering the steps to be taken.
+#그는 하루종일 사고의 방향에서 순서를 취해야만 한다.
+
+[388]
+#He is acting Hamlet.
+#그는 햄릿의 역할을 분장중이다.
+
+[389]
+#He's travelling down to London from Scotland.
+#그는 스코틀랜드에서 출발해서 런던으로 가고 있다.
+
+[390]
+#He's taking lots of exercise to get into shape.
+#그는 적극적으로 몸을 건강하게 하기 위해 연마중이다.
+
+[391]
+#He is busy pricking out some cabbage seedlings.
+#그는 약간의 양배추를 이식하느라 바쁘다.
+
+[392]
+#He was boning up for an examination.
+#그는 시험에 임박해서야 공부에 파고 든다.
+
+[393]
+#He is potting up chrysanthemum cuttings.
+#그는 국화 가지를 화분에 꽂고 있다.
+
+[394]
+#He is reading the book that he bought yesterday.
+#그는 어제 산 그 책을 읽고 있다.
+
+[395]
+#He is lolling about the beach.
+#그는 해변에서 한가롭게 유유자적 빈둥거리고 있다.
+
+[396]
+#He is watching me repair the machine.
+#그는 내가 기계 수리하는 것을 보고 있다.
+
+[397]
+#He is dusting off the tables.
+#그는 책상 위의 먼지를 닦고 있다.
+
+[398]
+#He was trying to expand his business.
+#그는 자신의 사업을 확장하려고 노력하고 있다.
+
+[399]
+#He's trying to figure out a way to solve the problem.
+#그는 이 문제를 해결할 방법을 찾느라 노력하고 있다.
+
+[400]
+#He's showing around a party of visitors.
+#그는 한 무리의 관광객을 데리고 참관하고 있다.
+
+[401]
+#He is listening in to Radio Beijing.
+# 그는 북경 방송국의 광고를 듣고 있다.
+
+[402]
+#He's mugging up history for the exam.
+#그는 시험에 대비에 역사를 통째로 외우고 있다.
+
+[403]
+#He is raking around in the library for some reference books.
+#그는 도서관에서 참고서를 찾고 있다.
+
+[404]
+#He's meddling with your camera.
+#그는 너의 사진기를 다루고 있다.
+
+[405]
+#He is getting up his maths for the exam.
+#그는 시험을 준비해 수학을 반복 학습하고 있다.
+
+#52053:儉\攣瞳\璣冷\儉돨\菱윱彊\궝\.\
+#He is rooting about for his fountain pen.
+#그는 그의 만년필을 찾고 있다.
+
+[406]
+#He is shaping up a set of notes for publication.
+#그는 출판을 대비해 노트를 정리하고 있다.
+
+[407]
+#He is squaring away to write a new chapter.
+#그는 새 일 장을 쓰기 시작할 준비하고 있다.
+
+[408]
+#He was yammering about his classmates.
+#그는 그의 친구의 일을 쉴새없이 떠들고 있다.
+
+[409]
+#He proved himself to be an amusing companion.
+#그는 자신은 재미있는 친구라고 증명했다.
+
+[410]
+#He testified that he'd seen the robbery.
+#그는 그가 그 강탈을 보았다고 증명했다.
+
+[411]
+#He sided with the plan to build a reservoir.
+#그는 물창고를 수리하는 계획을 지지했다.
+
+[412]
+#He will be very grateful to know that.
+#그는 그 일이 매우 감동적일 것을 알고 있다.
+
+[413]
+#He knows how to save himself trouble.
+#그는 어떻게 해야 자신이 번거로움을 피할 수 있는지 알고 있다.
+
+[414]
+#He perceived that he could not make his daughter change her mind.
+#그는 딸의 마음을 변화시킬 방법이 없다는 것을 알고 있다.
+
+[415]
+#He knew that his comrades will see him through.
+#그는 그가 끝까지 하는 것에 동지들이 지지할 것을 알고있다.
+
+[416]
+#He knows how to go about repairing the machine.
+#그는 이 기계를 어떻게 수리해야 할지 알고 있다.
+
+[417]
+#He knows how he stands with his fellows.
+#그는 자신이 동료들 사이에서 어떻게 평가되는지 알고 있다.
+
+[418]
+#He didn't get home until two o'clock in the morning.
+#그는 새벽2시가 되서야 집에 도착했다.
+
+[419]
+#He was happy till the day of his death.
+#그는 죽는 날까지 줄곧 행복했다.
+
+[420]
+#It was not until he was thirty that he started to paint.
+#그는 30세가 되서야 비로소 그림을 그리기 시작했다.
+
+[421]
+#He gave me a level look.
+#그는 물끄러미 나를 바라보았다.
+
+[422]
+#He told me in no uncertain terms to go away.
+#그는 직접 나에게 떠나라고 소리쳤다.
+
+[423]
+#On and on he ran,never daring to look back.
+#그는 곧장 앞으로 뛰어갔고 감히 뒤돌아보지 않았다.
+
+[424]
+#He is free with his advice to his pupils.
+#그는 조금도 숨김 없이 학생들에게 충고 했다.
+
+[425]
+#He is obdurate in his convictions.
+#그는 자신이 굳게 믿었던 일에 집착하고 있다.
+
+[426]
+#He directed the building of the new bridge.
+#그는 그 새 다리의 건축공사를 지휘했다.
+
+[427]
+#The cut on his finger will eventually scar over.
+#그의 손가락의 상처는 마지막에 흉터가 아물것이다.
+
+[428]
+#He is a mere tool of the labor union.
+#그는 단지 노동조합의 노동자에 불과하다.
+
+[429]
+#He merely wants to know the truth.
+#그는 단지 사실의 진상을 알고 싶은 것에 불과하다.
+
+[430]
+#He looked at the problem only from his own angle.
+#그는 단지 자신의 입장에서 이 문제를 보았다.
+
+[431]
+#He just doses out aspirin to everybody.
+#그는 단지 아스피린을 각 사람들에게 나눠줄것이다.
+
+[432]
+#He looked but once,and vail'd eyes again.
+#그는 단지 한번 보더니 또 눈 감고 잠이 들었다.
+
+[433]
+#He traversed alone the whole continent of Africa.
+#그는 단지 홀로 전 아프리카대륙 횡단여행을 했다.
+
+[434]
+#He's just an overgrown baby.
+#그는 단지 과속 발육한 영아이다.
+
+[435]
+#He is a scholar in name only.
+#그는 단지 이름뿐인 학자이다.
+
+[436]
+#He only glanced at the topic.
+#그는 단지 이 화제를 조금 이야기했다.
+
+[437]
+#He only adverted to the main points of my argument.
+#그는 단지 내가 논의한 요점을 제기했다.
+
+[438]
+#For once he was telling the truth.
+#그는 단지 이번에 사실을 말했다.
+
+[439]
+#He addressed himself to the main difficulty.
+#그는 주요곤란한 점을 해결하는데 주력했다.
+
+[440]
+#He's dropped all his old friends.
+#그는 모든 오래된 친구와의 내왕을 중단했다.
+
+[441]
+#He has come after all,so you win.
+#그는 결국 왔다.그래서 네가 이겼다.
+
+[442]
+#He spends so much time fooling around that he never accomplishes anything.
+#그는 종일 아무것도 하는 일이 없다.그래서 어떤 일도 이루지 못했다.
+
+[443]
+#He will have to answer for his wrongdoing one day.
+#그는 결국 어느날 그가 저질렀던 죄를 책임지게 될 것이다.
+
+[444]
+#He decided to play along in the end.
+#그는 결국 합법적인 태도를 취하기로 결정했다.
+
+[445]
+#Eventually he came through with his promise to help as best he could.
+#그는 결국 힘껏 서로 돕기로 한 언약을 실행했다.
+
+[446]
+#At last he descended to particulars.
+#그는 결국 사소한 문제로 돌려 이야기했다
+
+[447]
+#At last he was free of his teacher.
+#그는 결국 다시는 선생님의 꾸중을 받지 않았다.
+
+[448]
+#He finally tumbled to what she was doing.
+#그는 마침내 그녀가 무엇을 하고 있는지 관찰했다.
+
+[449]
+#He managed to slough off his drinking habit.
+#그는 마침내 술 마시는 습관을 끊었다.
+
+[450]
+#He succeeded in overcoming all those difficulties.
+#그는 마침내 그러한 모든 어려움을 극복했다.
+
+[451]
+#He got his old job back.
+#그는 과거의 그 일을 다시 얻었다.
+
+[452]
+#He began to feel a realness in life again.
+#그는 생활의 진실성을 다시 느꼈다.
+
+[453]
+#He screwed his face into a frown.
+#그는 눈썹을 올리고 얼굴에 화난 기색이 역력했다.
+
+[454]
+#He is gradually eased in to the word.
+#그는 점점 이 일에 적응하게 됐다.
+
+[455]
+#His flat's a bit of a hole.
+#그가 살던 아파트는 굴같이 작다.
+
+[456]
+#He lives somewhere Highgate way.
+#그는 하이트게이트 부근의 어떤 곳에 살고 있다.
+
+[457]
+#He lives in the room that looks on the street.
+#그는 거리에 근접한 그 방에 살고 있다.
+
+[458]
+#He lives in the firststory of that building.
+#그는 그 건물의 일층에 산다.
+
+[459]
+#Where he lives is not known.
+#그는 어떤 사람도 알지 못하는 곳에 산다.
+
+[460]
+#He lives across the road .
+#그는 우리 도로의 맞은편에 산다.
+
+[461]
+#He lives five doors above the school.
+#그는 학교쪽의 다섯번째 집에 산다.
+
+[462]
+#He lived in a quiet place free of noise.
+#그는 소음과 거리가 먼 조용한 곳에 살고 있다.
+
+[463]
+#He lives in a bravely decked house.
+#그는 장식이 화려한 집에 살고 있다.
+
+[464]
+#He was preordained to be our leader.
+#그는 반드시 우리들의 우두머리가 되어야 한다.
+
+[465]
+#He was predestined to lead an adventurous life.
+#그는 모험적인 생활을 반드시 지내야 한다.
+
+[466]
+#He was destined to plod the path of toil.
+#그는 반드시 힘든 도로에서 걸어가야 한다.
+
+[467]
+#He was never to see his home again.
+#그는 결코 다시는 그의 고향을 보지 못했다.
+
+[468]
+#He listened to the story with eager attention.
+#그는 주의력에 매우 집중해 이 이야기를 들었다.
+
+[469]
+#He seized a stick and laid to in all directions.
+#그는 방망이를 들어 사방으로 어지럽게 때렸다.
+
+[470]
+#He grabbed a stick and sailed into the dog.
+#그는 막대로 그 개를 사납게 때렸다.
+
+[471]
+#He held the boy by the collar.
+#그는 그 남자아이의 옷깃을 잡았다.
+
+[472]
+#He clutches at every opportunity to practice English conversation.
+#그는 영어회화를 연습할 모든 기회를 잡는다.
+
+[473]
+#He specializes in biophysics.
+#그는 생물물리학을 전문적으로 연구한다
+
+[474]
+#He swung round and faced the detective.
+#그는 그 탐정의 맞은 편으로 몸을 돌렸다.
+
+[475]
+#He screwed the lock off the door.
+#그는 나사를 돌려 문 열쇠를 뺐다.
+
+[476]
+#He earns just enough for us to live on.
+#그가 번 돈은 우리들의 생활에 충분하다.
+
+[477]
+#He earns double my salary.
+#그가 번 돈은 내 월급의 두배이다.
+
+[478]
+#He decorated his house within and without.
+#그는 집의 안과 밖을 장식했다.
+
+[479]
+#He has been courting Kate for more than two years.
+#그가 케이트를 따른지 2년여가 되었다.
+
+[480]
+#Is he going to lecture in English?
+#그는 영어로 수업을 준비했습니까?
+
+[481]
+#He plodded away at his lessons.
+#그는 부지런히 열심히 공부했다.
+
+[482]
+#He scrutinized the diamond for flaws.
+#그는 보석에 결점이 없는지 자세히 살펴보았다.
+
+[483]
+#He batted the subject around in his head.
+#그는 이 문제를 자세히 생각했다.
+
+[484]
+#He was scanning the sky for planes.
+#그는 비행기를 찾아 하늘을 자세히 살폈다.
+
+[485]
+#He has been a teacher since 1960.
+#그는 1960년 이래로 교사로 있었다.
+
+[486]
+#He confessed how he did it.
+#그는 그가 어떻게 그 일을 했는지 자백했다.
+
+[487]
+#He volunteered to help me move.
+#그는 내가 이사하는 것을 돕겠다고 자발적으로 나섰다.
+
+[488]
+#He was shamed out of his bad habits.
+#그는 스스로 부끄럽다고 느끼고 악습을 바꾸었다.
+
+[489]
+#He was blown up with his own conceit.
+#그는 스스로 자신이 훌륭하다고 여기고 득의 양양했다.
+
+[490]
+#He is swollen with his own importance.
+#그는 자신이 대단하다고 여기고 기뻐서 자기 체면을 잃어버렸다.
+
+[491]
+#He thinks he's somebody.
+#그는 스스로 대단한 사람이라고 생각했다.
+
+[492]
+#He fancies himself as a good swimmer.
+#그가 스스로 훌륭한 수영선수라고 생각했다.
+
+[493]
+#He writes so small I can't read it.
+#그가 글자를 너무 작게 써, 나는 읽을 수 없다.
+
+[494]
+#He's too free with his advice.
+#그는 항상 다른 사람들에게 많이 충고하길 좋아한다.
+
+[495]
+#He always puts self first.
+#그는 언제나 자신의 이익을 먼저 올려 놓는다.
+
+[496]
+#He must always have his own way.
+#그는 항상 일을 스스로 하지 않으면 안된다. 
+
+[497]
+#He can always smell when rain is coming.
+#그는 언제나 비가 언제 올지 예감할 수 있다.
+
+[498]
+#He imagines that people don't like him.
+#그는 언제나 사람들이 그를 좋아하지 않는다고 여긴다.
+
+[499]
+#He always fancied himself a moralist.
+#그는 언제나 자신은 도덕가라고 여긴다.
+
+[500]
+#He's always scrounging off his friends.
+#그는 언제나 그의 친구의 물건을 제멋대로 뺏는다.
+
+[501]
+#He always tries to skate over difficulties.
+#그는 언제나 어려움을 피하려고 시도한다.
+
+[502]
+#He's always making cracks about my big feet.
+#그는 언제나 내 발을 갖고 농담을 한다.
+
+[503]
+#He's always griping at me about something.
+#그는 언제나 어떤 일에 대해 나에게 불평 한다.
+
+[504]
+#He always wastes his time doing nothing.
+#그는 언제나 아무일도 하지 않고 시간을 허비한다.
+
+[505]
+#He always charges me too much for his goods.
+#그는 언제나 나에게 높은 물건 값을 독촉해서 받아낸다.
+
+[506]
+#He always shelters himself under his boss.
+#그는 언제나 사장의 보호에 의지한다.
+
+[507]
+#He's always the last to catch on.
+#그는 언제나 마지막에 이해한다.
+
+[508]
+#He's always twittering on.
+#그는 언제나 끊임없이 재잘거리며 이야기한다.
+
+[509]
+#He's always airing his knowledge.
+#그는 언제나 자기의 지식을 뽐낸다.
+
+[510]
+#He managed to live through two world wars.
+#그는 결국 두 번의 전쟁에서 살아 남았다.
+
+[511]
+#He'll finish up by becoming an idiot.
+#그는 결국 어느날 바보로 변할 것이다.
+
+[512]
+#With one bound,he was over the wall.
+#그는 훌쩍 뛰어 담을 넘었다.
+
+[513]
+#He went to his cellar and routed out a bottle of port.
+#그는 땅굴로 걸어가 포도주병을 찾아냈다.
+
+[514]
+#He went to the parapet and leaned over.
+#그는 난간으로 걸어가 몸을 숙여 내려다 보았다.
+
+[515]
+#He came up to me and asked my name.
+#그는 내 앞까지 걸어와 나의 이름을 물었다.
+
+[516]
+#He stepped aside for me to go in (the house).
+#그는 한쪽으로 걸어가 나에게 방으로 들어가라고 양보했다.
+
+[517]
+#He walked so fast that I could hardly keep up with him.
+#그는 정말 빨리 걸어가 나는 정말 따라갈 수 없다.
+
+[518]
+#He came in and took a seat opposite to me.
+#그는 걸어 들어와 내 앞의 좌석에 앉았다.
+
+[519]
+#He went into a barber's shop to have his hair cut.
+#그는 이발하러 한 이발소에 갔다.
+
+[520]
+#He's gone,and I'm glad to be rid of him.
+#그는 떠났고 나는 그에게서 벗어나 매우 기뻣다.
+
+[521]
+#His grandfather must now be getting on for eighty.
+#그의 조부는 현재 반드시 곧 80세가 되었을 것이다.
+
+[522]
+#He delved into lots of old books for the facts.
+#그는 그러한 사실을 조사하려고 대량의 고서를 깊이 연구한다.
+
+[523]
+#He munched at the cookies.
+#그의 입은 사각사각 소리 내며 과자를 먹었다.
+
+[524]
+#He looked at me with a smile on his lips.
+#그의 입은 미소를 띄고 날 보고 있다.
+
+[525]
+#His breath smelt suspiciously of drink.
+#그의 입에서 뿜는 입김은 마치 술냄새가 나는 것 같다.
+
+[526]
+#He was drunk and began casting up.
+#그는 술에 취해 토하기 시작했다.
+
+[527]
+#He came reeling up the street,drunk.
+#그는 곤드레만드레 취해 길가에서 비틀거리며 걸어온다.
+
+[528]
+#His dearest hopes crumbled to nothing.
+#그의 최대의 희망은 물거품이 되었다.
+
+[529]
+#He finally owned up to having told the lie.
+#그는 마지막에 자신이 거짓말 한 것을 인정했다.
+
+[530]
+#He got out nothing at last.
+#그는 마지막에 어떤 것도 얻지 못했다.
+
+[531]
+#He brought down several wild ducks on his last hunting trip.
+#그는 마지막 사냥에서 몇마리의 야생 오리를 잡았다.
+
+[532]
+#He's not looking like his old self lately.
+#그는 최근에 보아하니 이전 같지 않다.
+
+[533]
+#His last recourse was the law.
+#그의 마지막 재간은 법률에 호소하는 것이다.
+
+[534]
+#He saw someone in the room yesterday.
+#그는 어제 방안에 사람이 있는 것을 보았다.
+
+[535]
+#Did he see anyone in the room yesterday?
+#그는 어제 방에 사람이 있는 것을 보았습니까?
+
+[536]
+#He did not come yesterday,nor did his brother.
+#그는 어제 오지 않았고 그의 형도 오지 않았다.
+
+[537]
+#He didn't see anyone in the room yesterday.
+#그는 어제 방에 사람이 있는 것을 보지 못했다.
+
+[538]
+#He received a telegram from home yesterday.
+#그는 어제 집에서 친 전보를 받았다.
+
+[539]
+#He was writing a letter at ten last night.
+#그는 어제 저녁 10시에 편지를 쓰고 있었다.
+
+[540]
+#He finished reading the novel last night.
+#그는 어제 이 소설을 다 보았다.
+
+[541]
+#He reflected how to finish the work.
+#그는 어떻게 그 일을 다 할지 이리저리 생각했다.
+
+[542]
+#He would stoop to anything.
+#그는 어떤 비굴한 일도 해낼 수 있다.
+
+[543]
+#Danger attended everything he did.
+#그가 한 것은 모두 위험성이 있다.
+
+[544]
+#What he does redounds to the credit of our motherland.
+#그가 한 일은 조국을 위해 영광을 다툰 것이다.
+
+[545]
+#His behavior does not accord with what he has said.
+#그가 한 것은 그가 말한 것과 일치하지 않는다.
+
+[546]
+#He did it,and did it well.
+#그는 했고 잘했다.
+
+[547]
+#He did it to spite me.
+#그는 그 일을 해서 나를 곤란하게 했다.
+
+[548]
+#He little dreamed of it.
+#그는 꿈에도 이렇게 될 줄 생각치 못했다.
+
+[549]
+#What was his motive for doing that?.
+#그가 그 일을 하게 된 동기는 무엇입니까?
+
+[550]
+#The reason why he did it is unknown.
+#그가 그 일을 하게 된 이유는 알 수가 없다.
+
+[551]
+#He was hero enough to do it.
+#그가 그 일을 하다니 아주 용감하다.
+
+[552]
+#He did it just to spite me.
+#그가 그 일을 해서 확실히 날 곤란하게 했다.
+
+[553]
+#He made a fortune in oil.
+#그는 석유사업으로 떼돈을 벌었다.
+
+[554]
+#What he does is no concern of mine.
+#그가 무엇을 하든 나의 일과 무관하다.
+
+[555]
+#He signed them to get out of the hotel.
+#그는 손짓으로 우리들에게 여관에서 떠나라고 했다.
+
+[556]
+#He did it quite without regard to the results.
+#그가 이 일을 하는데 절대 결과를 고려하지 않았다.
+
+[557]
+#He made an angry gesture.
+#그는 분노의 손짓을 했다.
+
+[558]
+#He delivered a course of lectures on world affairs.
+#그는 세계정세와 유관한 강연을 했다.
+
+[559]
+#He gestured for another drink.
+#그는 손짓으로 한 잔하자고 표했다.
+
+[560]
+#He witnessed to having seen the accident.
+#그는 그 이외의 사건을 목격했다고 증명했다.
+
+[561]
+#The branch he was sitting on began to give.
+#그가 앉은 그 나뭇가지는 굽어지기 시작했다.
+
+[562]
+#He sat at the controls of the aircraft.
+#그는 비행기의 조정장치 앞에 앉았다.
+
+[563]
+#He sat on the seat furthermost from the TV set.
+그는 TV에서 떨어진 가장 먼 자리에 앉았다.
+
+[564]
+#He sat gazing out of the window.
+#그는 그곳에 앉아 창 밖을 응시했다.
+
+[565]
+#He sat there mulling over the design.
+#그는 그곳에 앉아 자세히 그 설계를 고려했다.
+
+[566]
+#He sat on the edge of the table dangling his legs.
+#그는 책상가 두 다리를 걸치고 앉았다
+
+[567]
+#He sat frowning over a crossword puzzle.
+#그는 앉아서 눈썹을 찡그리고 퍼즐을 생각했다.
+
+[568]
+#He acted counter to all advice.
+#그는 모든 충고를 버리고 뒷골목으로 갔다.
+
+[569]
+#He prattled on about his job.
+#그는 그의 일을 시끄럽게 이야기 했다.
+
+[570]
+#He feeds me up with his chatter.
+#그는 쉬지않고 떠들어 나를 짜증나게 했다.
+
+[571]
+#He kept rattling on about his holidays.
+#그는 그가 연휴에 보낸 일을 쉬지않고 떠들었다.
+
+[572]
+#He muttered that he would not agree with me.
+#그는 그가 나를 찬성하지 않는다고 중얼거렸다.
+
+[573]
+#He fell splash into the river.
+#그는 풍덩하고 강가로 뛰어들었다.
+
+[574]
+#He listened with pleasure to the beautiful music.
+#그는 즐겁게 만족하며 그 미묘한 음악을 들었다.
+
+[575]
+#He glanced his eye down the list of the books.
+#그는 책의 일람표를 대충 흩어 보았다.
+
+[576]
+#He was appointed to the professorship in 1960.
+#그는 1960년에 교사로 임명되었다.
+
+[577]
+#He came home roaring drunk.
+#그는 곤드레 만드레 취해서 집으로 돌아갔다.
+
+[578]
+#He blundered in and out.
+#그는 비틀거리며 왔다갔다 걸어다녔다.
+
+[579]
+#It's infinitely worse than I thought.
+#그것은 내가 생각했던 것보다 더 나쁘다.
+
+[580]
+#It's not doing any harm,is it?
+#그것은 어떤 상처가 없을 것이다. 그렇지?
+
+[581]
+#That does not suit all tastes.
+#그것은 모두의 맘에 들 수 없다.
+
+[582]
+#every word of it is false.
+#그것의 매 글자는 모두 거짓이다.
+
+[583]
+#Its skin has a rough feel.
+#그것의 피부는 거친 느낌이 있다.
+
+[584]
+#Its origin is wrapped in mystery.
+#그것의 기원은 여전히 해결되지 않는 수수꼐끼다.
+
+[585]
+#It smells like violets.
+#그것은 스토크의 냄새가 난다.
+
+[586]
+#That will do except that it is too long.
+#그것은 이용할 수 있다. 단지 매우 길다.
+
+[587]
+#They are different in size but not in kind.
+#그것들의 크기는 다르다. 그러나 성질은 같다.
+
+[588]
+#They seem to have disappeared off the face of the earth.
+#그것은 이미 지구표면에서 사라진 것 같다.
+
+[589]
+#Under what category do they belong?.
+#그것들은 반드시 어떤 항목에 귀속되어야 하나요?
+
+[590]
+#They exceeded in number.
+#그것들은 숫자면에서 우세하다.
+
+[591]
+#It has its roots deep in the Middle Ages.
+#그것은 먼 중세기에 기원한다.
+
+[592]
+#It has much sound but no sense.
+#그것의 소리는 크다. 그러나 의미가 없다.
+
+[593]
+#It's the best yet found.
+#그것은 지금까지 찾았던 최고의 사람이다.
+
+[594]
+#It was a perfectly flavorless Ghost. .
+#그것은 완전히 재미없는 유령이다.
+
+[595]
+#It is city with a great history.
+#그것은 위대한 역사를 구비한 도시이다.
+
+[596]
+#It is useful; indeed,it is indispensable.
+#그것은 유용한 것이다. 더욱 빠져서는 안될 것이다.
+
+[597]
+#It seemed much larger than I had expected it to be.
+#그것은 내가 예감했던 것보다 더 크다.
+
+[598]
+#It made a scar on the table.
+#그것은 책상위에 흔적을 남겼다.
+
+[599]
+#It feels as if it were the fur of a fox.
+#그것은 사람들에게 여우가죽같은 느낌을 준다.
+
+[600]
+#It's not far beyond the church.
+#그것은 교실을 지나 멀지 않은 곳에 있다.
+
+[601]
+#It clawed a hole in my stocking.
+#그것은 내 스타킹을 할퀴어 구멍을 냈다.
+
+[602]
+#The deuce it is !
+#이래서야 되겠는가? 어찌 이럴 수 있는가?
+
+[603]
+#Her flower arrangement was a monstrosity.
+#그녀의 꽃은 정말 보기 흉하다.
+
+[604]
+#She has begun to come out in spots.
+#그녀의 피부에 반점이 나타나기 시작했다.
+
+[605]
+#She switched the lights from green to red.
+#그녀는 스위치를 눌러 파란등을 빨간 등으로 바꾸었다.
+
+[606]
+#She buzzed her secretary to come.
+#그녀는 버저를 눌러 비서를 들어 오라고 했다.
+
+[607]
+#She trusted the doctor implicitly.
+#그녀는 은연중에 이 의사를 신임했다.
+
+[608]
+#Her heart melted away in secret raptures.
+#그녀는 내심 기뻐서 어쩔줄 몰랐다.
+
+[609]
+#She could outdraw any member of the club.
+#그녀는 총을 빼는 것이 이 회원의 어떤 회원보다 빠르다.
+
+[610]
+#She caught the insect by inverting her cup over it.
+#그녀는 컵을 뒤집어 그 곤충을 가두었다.
+
+[611]
+#She packed away the clothes when they were not needed .
+#그녀는 불필요한 옷을 쌌다.
+
+[612]
+#She thinks nothing of walking ten miles.
+#그녀가 보행을 10마일을 하는 것은 부당한 일이다.
+
+[613]
+#She combed the snarls out of her hair.
+#그녀는 엉킨 머리를 빗었다.
+
+[614]
+#She scraped her boots clean.
+#그녀는 장화를 깨끗하게 닦았다.
+
+[615]
+#She fetched up everything she had eaten.
+#그녀는 먹은 음식을 모두 토했다.
+
+[616]
+#She gave her castoffs to her younger sister.
+#그녀는 오래 입어 필요없게 된 옷을 동생에게 주었다.
+
+[617]
+#She shoved the dictionary across the desk to him.
+#그녀는 사전을 책상 한 쪽으로 밀어 그녀에게 주었다.
+
+[618]
+#She unlidded the second box.
+#그녀는 두번째 상자를 열었다.
+
+[619]
+#She painted the house a venomous yellow.
+#그녀는 방을 사람의 마음을 끄는 노란색으로 칠했다.
+
+[620]
+#She settled her child in a chair.
+#그녀는 아이들을 의자에 앉혔다.
+
+[621]
+#She rocked the child in her arms.
+#그녀는 아이들을 가슴에 가볍게 안았다.
+
+[622]
+#She led the children to a place of safety.
+#그녀는 아이들을 한 안전한 곳으로 끌고 갔다.
+
+[623]
+#She drew the child away from the fire.
+#그녀는 아이들을 빠르게 끌어냈다.
+
+[624]
+#She slipped the ring on to her finger.
+#그녀는 반지를 가볍게 손가락에 끼었다.
+
+[625]
+#She left the sentence unfinished.
+#그녀는 문장을 다 말하지 않고 남겼다.
+
+[626]
+#She glued the two pieces of wood together.
+#그녀는 두 조각의 나무토막을 한꺼번에 엮었다.
+
+[627]
+#She lapped the blanket around herself.
+#그녀는 모포를 몸에 감았다.
+
+[628]
+#She wore her hat at a rakish angle.
+#그녀는 모자를 건들건들하게 썼다.
+
+[629]
+#She bundled everything into the bags.
+#그녀는 각각 물건을 가방에 어지럽게 집어넣었다.
+
+[630]
+#She imparted the secret to a friend.
+#그녀는 비밀을 한 친구에게 누설했다
+
+[631]
+#She pinned the list up on the notice board.
+#그녀는 명단을 게시판에 붙였다.
+
+[632]
+#She brought her mother out to the car.
+#그녀는 어머니를 모시고 나와 차로 걸어갔다.
+
+[633]
+#She averted her eyes from the terrible sight.
+#그녀는 시선을 놀라운 정경에서 돌렸다.
+
+[634]
+#She stripped the child naked.
+#그녀는 그 아이의 옷을 모두 벗겼다.
+
+[635]
+#She nipped the waist of the dress in.
+#그녀는 그 여성복장의 허리를 줄였다.
+
+[636]
+#She tore the plant out of the ground.
+#그녀는 그 식물을 땅에서 뽑았다.
+
+[637]
+#She caught the dress in at the waist.
+#그녀는 여자와이셔츠의 허리부분을 좁게 했다.
+
+[638]
+#She let the dress out several centimetres.
+#그녀는 여자 와이셔츠를 몇 센치미터 넓게 했다.
+
+[639]
+#She set the dish on the table.
+#그녀는 접시를 탁자위에 늘어 놓았다.
+
+[640]
+#She emptied the bottle of milk into a saucepan.
+#그녀는 병안의 우유를 전부 후라이팬에 부었다.
+
+[641]
+#She conducts her business very successfully.
+#그녀는 기업을 매우 성공적으로 경영했다.
+
+[642]
+#She honked the horn of the car.
+#그녀는 차의 경적을 빵빵하고 울렸다.
+
+[643]
+#She dropped the ball down and he caught it.
+#그녀는 공을 던지고 그는 받았다.
+
+[644]
+#She drove the ball 150 metres.
+#그녀는 공을 150미터 던졌다.
+
+[645]
+#She joined the three widths of cloth.
+#그녀는 삼폭의 면을 함께 묶었다.
+
+[646]
+#She enveloped the sick baby in a blanket.
+#그녀는 병든 아이를 모포에 감쌌다.
+
+[647]
+#She saved what was left of the food for supper.
+#그녀는 남은 음식을 저녁으로 만들었다.
+
+[648]
+#She arranged maatters so as to suit everyone.
+#그녀는 일을 사람들이 각각 만족하게 배치했다.
+
+[649]
+#She had screwed up and had to do it all over again.
+#그녀는 일을 잘못해서 다시 해야만 했다.
+
+[650]
+#She tied the ribbon in a bow.
+#그녀는 장식품끈을 리본으로 만들었다.
+
+[651]
+#She withdrew her eyes from me.
+#그녀는 시선을 내 몸에서 옮겼다.
+
+[652]
+#She laid her hand on her son's shoulder.
+#그녀는 손을 아들의 어깨에 놓았다.
+
+[653]
+#She got the book out for a fortnight.
+#그녀는 2주를 기간으로 책을 빌려왔다.
+
+[654]
+#She gives all her time to her family.
+#그녀는 모든 시간을 집안에서 보냈다.
+
+[655]
+#She has kept all the letters from him.
+#그녀는 그의 답장을 모두 보관했다.
+
+[656]
+#She read me a few extracts from his letter.
+#그녀는 그의 신념을 몇 가지 나에게 들려 주었다.
+
+[657]
+#She pulled their argument to pieces.
+#그녀는 그들의 논점을 만진창이 되도록 반박했다.
+
+[658]
+#She loaned her pictures to the museum.
+#그녀는 그녀의 그림을 장기간 박물관에 빌려주었다.
+
+[659]
+#She has married off all her daughters.
+#그녀는 그녀의 딸을 시집보냈다.
+
+[660]
+#She folded her baby in her arms .
+#그녀는 그녀의 아기를 가슴에 안았다.
+
+[661]
+#She gave away all her money to the poor.
+#그녀는 그녀의 모든 돈을 가난한 사람에게 보냈다.
+
+[662]
+#She twisted her hair round her fingers to make it curl.
+#그녀는 머리카락을 손가락으로 비비꼬았다.
+
+[663]
+#She wears her hair in a bun.
+#그녀는 머리를 한데 묶었다.
+
+[664]
+#She caught up her hair into a bun.
+#그녀는 머리를 빵모양으로 걷어올렸다.
+
+[665]
+#She had her hair bound up in a neckerchief.
+#그녀는 머리를 수건으로 감쌌다.
+
+[666]
+#She draped the robe around her daughter's shoulders.
+#그녀는 외투를 딸의 어깨에 걸쳤다.
+
+[667]
+#She dropped the bowl on the floor,and it broke into fragments.
+#그녀는 그릇을 땅에 떨어뜨려 조각을 냈다.
+
+[668]
+#She misinterpreted my silence as giving consent.
+#그녀는 나의 침묵을 대답으로 오해했다.
+
+[669]
+#She twined her fingers in my hair.
+#그녀는 나의 머리를 그녀의 손가락으로 꼬았다.
+
+[670]
+#She drew me aside and whispered in my ear.
+#그녀는 나를 한쪽으로 끌어당겨 나에게 귓속말로 이야기했다.
+
+[671]
+#She spun the laundry dry.
+#그녀는 세탁한 옷을 탈수하여 말렸다.
+
+[672]
+#She paid the cash in to her bank account.
+#그녀는 현금을 그녀의 은행구좌에 입금했다.
+
+[673]
+#She shook the sand from her shoes.
+#그녀는 신발안의 모래를 털었다.
+
+[674]
+#She communicated her suspicions to her teacher.
+#그녀는 마음속의 의심을 그녀의 서생님에게 알렸다.
+
+[675]
+#She read the letter through.
+#그녀는 편지를 처음부터 끝까지 한번 읽었다.
+
+[676]
+#She screwed up the letter and threw it into the fire.
+#그녀는 편지를 손으로 한데 뭉쳐 불속에 던졌다.
+
+[677]
+#She tossed the beggar a dime.
+#그녀는 은돈 한 푼을 거지에게 던졌다.
+
+[678]
+#She poured some water into the pail.
+#그녀는 약간의 물을 통에 쏟았다.
+
+[679]
+#She tacked a notice to the board.
+#그녀는 통지 한 장을 게시판에 붙였다.
+
+[680]
+#She banged the chair against the wall.
+#그녀는 의자를 거세게 벽에 부딪혔다.
+
+[681]
+#She made up the remaining cloth into an apron.
+#그녀는 남은 옷감을 앞치마로 재봉했다.
+
+[682]
+#She turned the key in the lock.
+#그녀는 열쇠를 자물쇠안에 넣어 돌렸다.
+
+[683]
+#She mounted the photograph on stiff paper.
+#그녀는 사진을 딱딱한 종이위에 붙였다.
+
+[684]
+#She made the contrast of this picture with that one.
+#그녀는 이 그림과 그 그림을 대비했다.
+
+[685]
+#She folded up the paper to make a toy aircraft.
+#그녀는 종이로 비행기를 접었다.
+
+[686]
+#She knocked the cup off the table.
+#그녀는 책상위의 컵을 땅에 떨어뜨렸다.
+
+[687]
+#She attributed her success to good luck.
+#그녀는 자신의 성공을 행운으로 돌렸다.
+
+[688]
+#She surrendered her seat to the old man.
+#그녀는 자신의 위치를 그 노인에게 양보했다.
+
+[689]
+#She spent her last cent.
+#그녀는 마지막 일푼을 낭비했다.
+
+[690]
+#It was polite of her to offer me her seat.
+#그녀는 좌석을 나에게 양보하니 정말 예의바르다.
+
+[691]
+#She employed her spare time in knitting.
+#그녀는 남은 시간동안 뜨게질을 했다.
+
+[692]
+#She doesn't gain on her papa in the least.
+#그녀의 아버지는 조금도 그녀를 좋아하지 않는다.
+
+[693]
+#She carried off the role very well.
+#그녀가 이 역할로 분장한 것은 성공적이다.
+
+[694]
+#She sat the old man up in bed.
+#그녀는 노인이 침대에서 일어나는 것을 도왔다.
+
+[695]
+#She helped her mother with the work in the kitchen.
+#그녀는 어머니가 주방일을 하는 것을 도왔다.
+
+[696]
+#she complained that she had been manhandled by the police.
+#그녀는 경찰이 폭력적으로 그녀를 대했다고 원망하며 말했다.
+
+[697]
+#She applied on the offchance.
+#그녀는 망연한 희망을 안고 신청하러 갔다.
+
+[698]
+#She was sad,and rightly so.
+#그녀는 슬퍼서 어쩐지 이러했구나.
+
+[699]
+#She was much perturbed by her son's illness.
+#그녀는 아들의 병에 아주 당황했다.
+
+[700]
+#She spotted her dress with ketchup.
+#그녀는 케찹을 옷에 묻혀 더럽혔다.
+
+[701]
+#She was left standing there.
+#그녀는 그곳에 남아 서 있었다.
+
+[702]
+#She was shaken up by the news.
+#그녀는 그 소식으로 마음이 아주 심란했다.
+
+[703]
+#She was scared at the strange noise.
+#그녀는 이상한 소리에 깜짝 놀랐다.
+
+[704]
+#She is reckoned to be a very good politician.
+#그녀가 알려진 바로 매우 뛰어난 정치가이다.
+
+[705]
+#She was connected with the crime.
+#그녀가 생각하는 것과 범죄사건과 유관하다.
+
+[706]
+#She was cowed by his intelligence.
+#그녀는 그의 총명함에 놀랐다.
+
+[707]
+#She was imposed on by his plausible talk.
+#그녀는 그의 감언이설에 속았다.
+
+[708]
+#She was attracted by his smile.
+#그녀는 그의 외모에 반했다.
+
+[709]
+#She was supplanted in her lover's affections by her friend.
+#그녀는 그녀의 친구에 의해 냉정하게 사랑을 빼앗겼다.
+
+[710]
+#She has been held up as a model worker.
+#그녀는 모범노동자로 추천되었다.
+
+[711]
+#She was suffocated by the smoke.
+#그녀는 담배연기로 숨쉴 수가 없었다.
+
+[712]
+#She was assigned to the laboratory.
+#그녀는 실험실로 파견되어 일했다.
+
+[713]
+#Her cheeks were red after she ran up the stairs.
+#그녀는 계단으로 뛰어올라 양볼이 상기되었다.
+
+[714]
+#She showed great patience.
+#그녀는 큰 인내심을 보였다.
+
+[715]
+#She shows great zeal for knowledge.
+#그녀는 강렬한 지식욕구를 나타냈다.
+
+[716]
+#A strange calmness settled upon her.
+#그녀는 일종의 기이한 평정을 표현했다.
+
+[717]
+#She's very ill and I'm afraid she's dying.
+#그녀는 병이 심해서 아마 죽을 것이다.
+
+[718]
+#She is very ill,but she still keeps about.
+#그녀의 병이 심했으나 여전히 계속 일했다.
+
+[719]
+#She was sick and took some medicine.
+#그녀는 병이 나서 약을 먹었다.
+
+[720]
+#She was ill for a month but she's nearly well now.
+#그녀는 한달 동안 아팠으나, 지금은 거의 완쾌되어 간다.
+
+[721]
+#She is gaining in weight after her recovery from illness.
+#그녀는 완쾌된 후 체중이 증가했다.
+
+[722]
+#She's going about again after her illness.
+#그녀는 완쾌된 후 나와서 걸었다.
+
+[723]
+#She isn't really ill; it's only pretence.
+#그녀는 정말 병이 있지 않고 단지 가장한 것 뿐이다.
+
+[724]
+#She doesn't go out much; she likes to keep herself to herself.
+#그녀는 자주 나가지 않고 혼자 있는 것을 좋아한다.
+
+[725]
+#She both speaks and writes Swahili.
+#그녀는 스와히리어를  할 줄 알 뿐아니라 쓸 줄도 안다.
+
+[726]
+#She had to give up the idea of visiting the place.
+#그녀는 반드시 이곳에 방문한다는 생각을 버렸다.
+
+[727]
+#Her endless carping is indeed a nuisance.
+#그녀가 끊임없이 트집을 잡아 정말 얄밉다.
+
+[728]
+#She hated her husband to use such vulgar words.
+#그녀는 남편이 그런 거친 말을 해서 기분이 나뻤다.
+
+[729]
+#She braved her parents displeasure by marrying him.
+#그녀는 부모의 불행을 원치 않았으나 그와 결혼했다.
+
+[730]
+#She is determined to do regardless of all consequences.
+#그녀는 일체의 결과를 생각하지 않고 이렇게 하기로 결정했다.
+
+[731]
+#She is shy about singing in public.
+#그녀는 사람들 앞에서 노래를 부르는 것이 부끄러웠다.
+
+[732]
+#He looked at her when she was not looking.
+#그녀가 보고 있지 않을 때 그는 그녀를 보았다.
+
+[733]
+#She held on to a plan of her own.
+#그녀는 자신의 계획을 포기하는데 응하지 않았다.
+
+[734]
+#She's not a very forthcoming kind of girl.
+#그녀는 교제에 능숙한 그런 여자애가 아니다.
+
+[735]
+#She is not a fit person to baby-sit.
+#그녀는 임시보모에 적당한 사람이 아니다.
+
+[736]
+#She nagged him to buy her a new coat.
+#그녀는 계속 그에게 새 외투를 사줄 것을 애원했다.
+
+[737]
+#She is generous in giving of her time to help others.
+#그녀는 시간을 아끼지 않고 타인을 도왔다.
+
+[738]
+#She doesn't like the prospect of having to live alone.
+#그녀는 앞으로 독신 생활을 좋아하지 않는다.
+
+[739]
+#She was not persuaded of the truth of his statement.
+#그녀는 그의 성명이 진실이라고 믿지 않는다.
+
+[740]
+#She knocked the vase off by accident.
+#그녀는 조심 하지 않아 꽃병을 떨어뜨렸다.
+
+[741]
+#She scorned our offers of help.
+#그녀는 우리가 건의한 도움을 수용할 가치가 없었다.
+
+[742]
+#Motherhood doesn't suit her; she shouldn't have had children.
+#그녀는 어머니로서 적당치 않고 아이를 낳아선 안된다.
+
+[743]
+#She doesn't know what she is talking about.
+#그녀는 자신이 무엇을 하고 있는지 모른다.
+
+[744]
+#Fear crept into her mind.
+#그녀는 어떻게 두려운지 모른다.
+
+[745]
+#She can speak not only German but also French.
+#그녀는 단지 독어를 할수 없을 뿐 불어는 할 줄 안다.
+
+[746]
+#She is not so foolish as to do that.
+#그녀는 우둔해서 그러한 일을 할 수 없다.
+
+[747]
+#She is not so simple as to believe him.
+#그녀는 진실로 그의 처지를 믿지 않는다.
+
+[748]
+#She poised her elbow on her knee.
+#그녀는 팔목으로 그의 무릎을 괸 자세를 취했다.
+
+[749]
+#She opened the envelope,took out the letter,and unfolded it.
+#그녀는 편지봉투를 뜯고 편지를 꺼내 편지지를 폈다.
+
+[750]
+#She often buys clothes on impulse.
+#그녀는 자주 충동적으로 옷을 구매한다.
+
+[751]
+#She often remembered her schooldays.
+#그녀는 자주 그녀의 학창시절을 생각한다.
+
+[752]
+#She gives dinner parties in style,with the best food and wine.
+#그녀는 자주 좋은 술과 음식으로 화려한 연회를 거행하곤 한다.
+
+[753]
+#Her long illness gradually sapped her strength.
+#그녀는 장기간 병고로 그녀의 체력이 점점 소모되었다.
+
+[754]
+#She sang her child to sleep.
+#그녀는 노래를 불러 그녀의 아이를 재웠다.
+
+[755]
+#She slid out of the room when no one was looking.
+#그녀는 사람이 보지 않는 틈을 타서 방을 빠져 나왔다.
+
+[756]
+#She was successful in finding a new job.
+#그녀는 성공적으로 새 직장을 구했다.
+
+[757]
+#She nagged at him all day long.
+#그녀는 하루종일 그의 실수를 꼬집어 말했다.
+
+[758]
+#She gets sick when she rides in a bus.
+#그녀는 버스를 탈 때 토하려한다.
+
+[759]
+#She undertook responsibility for the changes.
+#그녀는 이러한 변혁의 책임을 지고 있다.
+
+[760]
+#Her late arrival messes up our plans.
+#그녀는 지각해서 우리들의 계획을 어지럽게 했다.
+
+[761]
+#Her brio astounds everyone.
+#그녀의 충분한 정력은 사람을 놀라게 한다.
+
+[762]
+#She hesitated and walked on.
+#그녀는 한번 머뭇거리더니 계속 걸었다.
+
+[763]
+#She was a bit queasy at her first appearance on the stage.
+#그녀는 처음 무대에 올라 좀 불안했다.
+
+[764]
+#She set off on a trip across Europe.
+#그녀는 유럽횡단 여행을 위해 출발했다.
+
+[765]
+#She bid a good price for the table.
+#그녀는 고가로 그 책상을 샀다.
+
+[766]
+#She went out for something to eat.
+#그녀는 먹을 것을 찾아 나갔다.
+
+[767]
+#She did well out of the sale of her house.
+#그녀는 방을 팔아 큰 수익을 얻었다.
+
+[768]
+#She has a very scientific method of dealing with political problems.
+#그녀는 정치문제를 해결하는 방법이 매우 과학적이다.
+
+[769]
+#She's at a suggestible age.
+#그녀는 영향을 받기 쉬운 연령이다.
+
+[770]
+#She had on all her bridal decorations.
+#그녀는 모든 신부의 장식품을 매달았다.
+
+[771]
+#Blue always looks very becoming on her.
+#그녀가 남색복장을 입은 것은 언제나 어울린다.
+
+[772]
+#She wore a cream-coloured dress.
+#그녀는 한벌의 우유빛 옷을 입었다.
+
+[773]
+#She wears an abbreviated costume.
+#그녀는 몸을 가리는 옷을 입었다.
+
+[774]
+#She looks ridiculous in those tight trousers.
+#그녀는 모양이 익살스러워 보이는 몸에 죄는 바지를 입었다.
+
+[775]
+#She was wearing nondescript clothes.
+#그녀는 평범한 옷을 입고 있다.
+
+[776]
+#She was sensibly dressed in tweeds.
+#그녀는 실용적인 스코트랜드 트위니제 옷을 입고 있다.
+
+[777]
+#She's rigged out in her best finery.
+#그녀는 그녀의 최고 화려한 복장을 입고 있다.
+
+[778]
+#She was wearing someone else's coat.
+#그녀는 타인의 외투를 입고 있다.
+
+[779]
+#She threw a shawl over her shoulders.
+#그녀는 바쁘게 숄을 어깨에 걸쳤다.
+
+[780]
+#She came up in a hurry and pushed the others aside.
+#그녀는 바쁘게 걸어와 타인을 밀었다.
+
+[781]
+#She unpacked the wedding presents.
+#그녀는 꾸러미에서 결혼 예물을 꺼냈다.
+
+[782]
+#She cut the advertisement out of the newspaper.
+#그녀는 신문상에서 그 광고를 오렸다.
+
+[783]
+#She never puts herself out to help people.
+#그녀는 원래 타인을 돕는데 신경쓰지 않는다.
+
+[784]
+#She never showed much consideration for my feelings.
+#그녀는 원래 나의 감정을 이해해 주지 않는다.
+
+[785]
+#She borrowed the money from her sister.
+#그녀는 언니에게 이 돈을 빌려왔다.
+
+[786]
+#She took two yards of cloth out of her pocket.
+#그녀는 주머니에서 두 마를 꺼냈다.
+
+[787]
+#She had never had a room of her own.
+#그녀는 원래 자기의 방이 없다.
+
+[788]
+#Didn't she use to live in Coventry?
+#그녀는 예전에 코벤트지방에 산 적이 있습니까?
+
+[789]
+#She poked her head round the corner.
+#그녀는 모서리에서 찾았다.
+
+[790]
+#She got mumps from her brother.
+#그녀는 그녀의 동생한테서 유행성 이하선염이 전염되었다.
+
+[791]
+#She has never knowingly hurt anybody.
+#그녀는 원래 고의로 타인의 마음을 다치게 한 적이 없다.
+
+[792]
+#She twitched the letter out of my hand.
+#그녀는 나의 손에서 그 편지를 빼앗아 갔다.
+
+[793]
+#She fetched her child home from school.
+#그녀는 학교에서 아이를 집으로 데리고 왔다.
+
+[794]
+#She woke up in the middle of an exciting dream.
+#그녀는 흥분되었던 꿈에서 깨어났다.
+
+[795]
+#She leapt from one topic to another.
+#그녀는 한 화제에서 다른 화제로 뛰어 넘었다.
+
+[796]
+#She began working here in 1962.
+#그녀는 1962년에 여기에서 일하기 시작했다.
+
+[797]
+#She took a dislike to him at once.
+#그녀는 처음부터 그를 좋아하지 않았다.
+
+[798]
+#She ran out from behind a tree.
+#그녀는 나무 뒤에서 뛰어 나왔다.
+
+[799]
+#She took the matches away from the baby.
+#그녀는 아이의 손에서 성냥을 빼았었다.
+
+[800]
+#She cut a piece off the loaf.
+#그녀는 빵 하나에서 한 조각을 잘랐다.
+
+[801]
+#Her indelicate remark hurt his feelings.
+#그녀의 거친 말은 그의 마음을 다치게 했다.
+
+[802]
+#She undertook to pay back the money within six months.
+#그녀는 6개월 이내에 빚을 갚겠다고 대답했다.
+
+[803]
+#She was dressed to kill.
+#그녀는 사람을 얼빠지게 할 정도로 분장했다.
+
+[804]
+#She sent her son away for the summer vacation in the countryside.
+#그녀는 아들을 농촌에 보내 여름 방학을 보내라 했다.
+
+[805]
+#She hit the child and he ran away.
+#그녀가 아이를 때리자, 아이가 도망갔다.
+
+[806]
+#She packed her bags and left.
+#그녀는 여행짐을 꾸리고 출발했다.
+
+[807]
+#She opened the cage and let the bird out.
+#그녀는 새장을 열고 새를 풀어 주었다.
+
+[808]
+#She opened the oven and popped the cake in.
+#그녀는 난로를 열고 빨리 빵을 집어 넣었다.
+
+[809]
+#She unlocked the door and then opened it.
+#그녀는 문의 자물쇠를 연 뒤 문을 열었다.
+
+[810]
+#She spoke up in defence of her beliefs.
+#그녀는 대담하게 자신의 신앙을 변호했다.
+
+[811]
+#She lost her temper and screamed at her brother.
+#그녀는 노발 대발하고 그녀의 동생에게 날카롭게 소리쳤다.
+
+[812]
+#She is,I'd say,fifty.
+#그녀는 아마 50세일 것이다.
+
+[813]
+#She whipped the children on with shouts of encouragement.
+#그녀는 크게 소리쳐 그 아이들을 응원했다.
+
+[814]
+#she had a shock and conked out.
+#그녀는 크게 놀라 정신을 잃었다.
+
+[815]
+#What an adorable hat she is wearing!
+#그녀가 쓴 모자는 매우 귀엽다.
+
+[816]
+#She had on an unbecoming hat.
+#그녀는 어울리지 않는 모자를 쓰고 있다.
+
+[817]
+#She put her hat and coat on.
+#그녀는 모자를 쓰고 외투를 입었다.
+
+[818]
+#She wear a wedding ring to show that she's married.
+#그녀는 결혼 반지를 끼고 그녀가 기혼자임을 나타냈다.
+
+[819]
+#She was wearing a string of green beads.
+#그녀는 녹색구슬의 목걸이를 달고 있다.
+
+[820]
+#She guides people around the city.
+#그녀는 사람들을 이끌고 이 도시를 유람했다.
+
+[821]
+#She came back bubbling over with new ideas.
+#그녀는 머리속에 가득찬 새로운 생각을 갖고 돌아왔다.
+
+[822]
+#She was afraid that he would beat her with the stick.
+#그녀는 그가 막대기로 그녀를 때리까봐 걱정됐다.
+
+[823]
+#She was under the apprehension that she would fall back in to poverty.
+#그녀는 그녀가 다시 가난한 곤경에 빠질까 걱정됐다.
+
+[824]
+#She ran the family and her husband stood back.
+#그녀는 집안을 도맡고 그녀의 남편은 집안일에 관여하지 않는다.
+
+[825]
+#Her coming-out was a big event of the year.
+#그녀가 올해 초 교계에 입사한 것은 큰일다.
+
+[826]
+#naturally,she accepted the invitation to the party.
+#그녀는 당연히 연회에 참가하는 요청을 받았다.
+
+[827]
+#She arrived at the station towards evening.
+#그녀가 정거장에 도착했을때 날이 어두워지려 한다.
+
+[828]
+#She went to England,and then to America.
+#그녀는 영국에 도착 후 미국에 갔다.
+
+[829]
+#Where is she going? －To attend a lecture.
+#그녀는 어디에 갔니? 강연을 들으러 갔다.
+
+[830]
+#Where is e going? －To attend a lecture.
+#그녀는 어디에 갔니? 강연을 들으러 갔다.
+
+[831]
+#A fixed income has been ensured her.
+#그녀는 고정된 수입을 있을거라는 보증을 얻었다.
+
+[832]
+#She was given a chestful of jewels.
+#그녀는 구슬이 가득찬 상자를 얻었다.
+
+[833]
+#She acquired a bad reputation.
+#그녀는 나쁜 명성을 얻었다.
+
+[834]
+#Her love has slowly gone out.
+#그녀의 사랑은 서서히 사라졌다.
+
+[835]
+#Her arrogance only reflects on herself.
+#그녀의 교만은 무례해서 단지 그녀자신을 추하게 할 뿐이다.
+
+[836]
+#Her ambition was strait-jacket by her family.
+#그녀의 포부는 그녀의 가정에 의해 짓눌렸다.
+
+[837]
+#One of her ambitions is to become a minister.
+#그녀의 포부중에 하나는 부장이 되는 것이다.
+
+[838]
+#Her statement checks pretty well.
+#그녀의 보고는 비교는 상당히 합리적이다.
+
+[839]
+#Her distress was sensible from her manner.
+#그녀의 고통은 그녀의 태도에서 느낄 수 있다..
+
+[840]
+#Her bad health is a product of her imagination.
+#그녀의 병은 그녀가 상상해 낸 것이다.
+
+[841]
+#Her property is at her disposition.
+#그녀의 재산은 그녀가 맘대로 처리한다.
+
+[842]
+#Her silk dress was almost transparent.
+#그녀의 실크 옷은 거의 투명한 것이다.
+
+[843]
+#Her intelligence is self-evident.
+#그녀의 총명함은 말할 필요가 없다.
+
+[844]
+#Her mistake gnawed at her conscience.
+#그녀의 착오는 자신의 양심을 고통스럽게 했다.
+
+[845]
+#Her reply was full of ambiguities.
+#그녀의 대답 구구절절 모두 애매모호하다.
+
+[846]
+#Her blouse slid from the chair.
+#그녀의 짧은 셔츠는 의자에서 떨어졌다.
+
+[847]
+#Her son was an anxiety to her.
+#그녀의 아들은 그녀를 노심초사하게 했다.
+
+[848]
+#She speaks French very fluently.
+#그녀의 불어를 매우 유창하게 말한다.
+
+[849]
+#She was in labour for three hours.
+#그녀의 출산 과정은 세 시간에 다달았다.
+
+[850]
+#Her parents coerced her into marrying the man.
+#그녀의 부모는 그녀가 그 사람에게 시집가라고 강요했다.
+
+[851]
+#Her influence made me a better person.
+#그녀의 감화는 날 비교적 진보적인 사람으로 변하게 했다.
+
+[852]
+#Her job is breaking new workers in.
+#그녀의 일은 신임 노동자를 훈련시키는 것이다.
+
+[853]
+#Her job has something to do with looking after old people.
+#그녀의 일은 노인들을 돌보는 것과 유관하다.
+
+[854]
+#Her services are more valuable than was supposed.
+#그녀의 공헌은 사람들이 상상한것 보다 더 고귀하다.
+
+[855]
+#Her ashes were scattered over the sea.
+#그녀의 유해는 바다에 뿌려졌다.
+
+[856]
+#Her children were banging away at their homework.
+#그녀의 아이들은 집안숙제를 꾸준히 했다.
+
+[857]
+#Her shouts drew the attention of the police.
+#그녀의 함성은 경찰의 주의를 끌었다.
+
+[858]
+#Her curiosity was roused.
+#그녀의 호기심이 발동하기 시작했다.
+
+[859]
+#She got nothing in reward for her kindness.
+#그녀의 착한 마음은 약간의 보상도 받지 못했다. 
+
+[860]
+#I was overwhelmed by her kindness.
+#그녀의 호의는 날 깊이 감동시켰다.
+
+[861]
+#Her wedding is three days ahead.
+#그녀의 결혼식은 다시 삼일 동안 거행되려 한다.
+
+[862]
+#Her savings have been eaten up by illness.
+#그녀의 적금은 병고로 모두 바닥났다.
+
+[863]
+#Her illness had a sobering effect on her.
+#그녀의 질병은 그녀에게 일종의 각성의 작용을 했다.
+
+[864]
+#Her family insulates her from contact with the world.
+#그녀의 가족은 그녀에게 세상의 벽과 끊으라 했다.
+
+[865]
+#Her thyroid was acting up again.
+#그녀의 갑상선 질병은 또 발작했다.
+
+[866]
+#Her health is getting steadily worse.
+#그녀의 건강은 끊임없이 악화되었다.
+
+[867]
+#Her health does not permit her to go with us.
+#그녀의 건강은 우리들과 함께 나가는 것을 허락하지 않았다.
+
+[868]
+#Her speech was word-perfect.
+#그녀의 말은 한 글자도 틀리지 않고 외워졌다.
+
+[869]
+#Her voice dropped to a whisper.
+#그녀의 말소리는 낮춰 귓속말이 되었다.
+
+[870]
+#Her boss approved of her work.
+#그녀의 경리는 그녀의 일을 허가했다.
+
+[871]
+#There was that in her bearing which suggested an ancient race of man.
+#그녀의 행동거지는 사람에게 고대인을 연상하게 했다.
+
+[872]
+#Her hair fell over her shoulders in a cascade of curls.
+#그녀의 곱슬머리는 마치 폭포처럼 그녀의 양어깨에 늘어졌다.
+
+[873]
+#Her caustic remark gave him a foretaste of her anger.
+#그녀의 냉혹한 말은 그에게 그녀의 분노를 예감하게 했다.
+
+[874]
+#Her fears were soon laid to rest.
+#그녀의 공포는 오래지 않아 사라졌다.
+
+[875]
+#Her fear showed itself in her speech.
+#그녀의 공포는 그녀의 말중에 나타났다.
+
+[876]
+#Her visit did not cause me much surprise.
+#그녀의 방문은 날 크게 놀라게 하지 않았다.
+
+[877]
+#Her letter allayed all his anxieties.
+#그녀의 답장은 그의 근심을 사라지게 했다.
+
+[878]
+#Her face was badly lacerated by the broken glass.
+#그녀의 얼굴은 쪼개진 유리로 매우 큰 상처가 났다.
+
+[879]
+#Her face was screened by a tree.
+#그녀의 얼굴은 한 그루의 나무로 가려졌다.
+
+[880]
+#Her face was eloquent of pleasure.
+#그녀의 얼굴은 충분히 기쁨이 나타나 있다.
+
+[881]
+#Her face was overclouded with grief.
+#그녀의 얼굴색은 슬픔으로 어둡게 변했다.
+
+[882]
+#Her face showed disappointment.
+#그녀의 얼굴에 시련이 나타났다.
+
+[883]
+#Her face was covered with insect bites.
+#그녀의 얼굴은 모두 벌레 물린 상처이다.
+
+[884]
+#A smile of triumph lit up her face.
+#그녀의 얼굴에 승리의 미소가 나타났다.
+
+[885]
+#She had a wounded look on her face.
+#그녀의 얼굴에 상처받은 모습이 역역하다.
+
+[886]
+#Her face shone with youth .
+#그녀의 얼굴은 젊음으로 광채가 난다.
+
+[887]
+#Her face is sprinkled with tiny freckles.
+#그녀의 얼굴은 약간의 주근깨가 있다.
+
+[888]
+#Her face expressed how happy she was.
+#그녀의 얼굴은 매우 행복해 보였다.
+
+[889]
+#Blood sprang to her cheeks.
+#그녀의 양볼은 돌연 붉게 상기되었다.
+
+[890]
+#Every concert of hers has been a sellout.
+#그녀의 매번 연주회는 좌석이 만원이다.
+
+[891]
+#He is besotted by her beauty.
+#그녀의 아름다움은 그를 사랑에 빠지게 했다.
+
+[892]
+#You'll be surprised how beautiful she is.
+#그녀의 미모는 너를 놀라게 할 것이다.
+
+[893]
+#She gets her good looks from her mother.
+#그녀의 미모는 어머니로부터 물러받은 것이다.
+
+[894]
+#Her beauty knocked us.
+#그녀의 아름다움은 우리들을 크게 놀라게 했다.
+
+[895]
+#Her beauty left me momentarily speechless.
+#그녀의 아름다움은 나를 일시에 아연자실하게 했다.
+
+[896]
+#Her name is quite a mouthful!
+#그녀의 이름은 정말 길고 읽기 어렵다.
+
+[897]
+#Her anger seems to have burnt out.
+#그녀의 노기는 이미 없어진 것 같다.
+
+[898]
+#She outpulls all male stars at the box office.
+#그녀의 박스오피스에서 모든 남자연애인을 이긴 적이 있다.
+
+[899]
+#She uses her car mostly for her job.
+#그녀의 차는 주로 출근 할때 사용한다.
+
+[900]
+#Her modesty was all put on.
+#그녀의 겸손은 완전히 가장한 것이다.
+
+[901]
+#Her prospects will clear soon.
+#그녀의 전도는 곧 밝을 것이다.
+
+[902]
+#Her death depressed him .
+#그녀의 죽음은 그의 의지를 소침하게 했다.
+
+[903]
+#She is quite pretty,but uninteresting.
+#그녀는 확실히 예쁘다. 그러나 결코 다른 사람들의 질투를 받지 않는다.
+
+[904]
+#Her skirt ballooned out in the wind.
+#그녀의 치마는 바람에 펄럭거렸다.
+
+[905]
+#She shut her skirt in the door and tore it.
+#그녀의 치마는 문틈에 끼어 찢어졌다.
+
+[906]
+#Her skirt billowed out like a parachute.
+#그녀의 치마는 낙하산이 떨어지듯 펄럭거렸다.
+
+[907]
+#Her passion flamed out.
+#그녀의 열정은 격동되었다.
+
+[908]
+#Her kindness baffled description.
+#그녀의 인자함는 사람으로 하여금 형용할 수 없게 한다.
+
+[909]
+#Her three children are always getting underfoot.
+#그녀의 세 아이들은 언제나 방해가 된다.
+
+[910]
+#Her vitalstatistics are 33-23-34.
+#그녀의 가슴 둘레, 허리둘레,히프둘레는 33-23-34이다.
+
+[911]
+#Her voice rose higher and higher with excitement.
+#그녀의 목은 격동되어 점점 높아졌다.
+
+[912]
+#He was heartened by her kindness.
+#그녀의 깊은 호의는 그를 고무시켰다.
+
+[913]
+#Her nervous illness often threw her into convulsions.
+#그녀의 신경질환은 종종 그녀를 경련하게 한다.
+
+[914]
+#Her voice was quite unlike her usual one.
+#그녀의 목소리는 평소와 완전히 다르다.
+
+[915]
+#Her voice rasped on my ears.
+#그녀의 목소리는 나에게 귀따갑게 느끼게 했다.
+
+[916]
+#Her voice sounded muffled up.
+#그녀의 목소리는 듣기에 답답한 것 같다.
+
+[917]
+#Her life lies on the result of this operation.
+#그녀의 생명은 이번 수술 결과에 달려 있다.
+
+[918]
+#Her disappearance was very worrying.
+#그녀의 실종은 사람들을 매우 걱정 시켰다.
+
+[919]
+#There is a roughness to the feel of her hands.
+#그녀의 손은 만지면 아주 거친 부분이 있다.
+
+[920]
+#She had two lipsticks in her purse.
+#그녀의 손지갑에는 두 개의 립스틱이 있다.
+
+[921]
+#Her suitcase clicked shut.
+#그녀의 손가방은 딱 소리내며 닺쳤다.
+
+[922]
+#Her suitcase was cram-full of clothes.
+#그녀의 손가방은 옷으로 가득하다.
+
+[923]
+#Her book is a fine piece of scholarship.
+#그녀의 책은 일부 가치있는 학술저자이다.
+
+[924]
+#Her hands rested on the arms of her chair.
+#그녀의 양손은 의자의 손잡이에 놓았다.
+
+[925]
+#Her legs flailed in the water.
+#그녀의 양 다리는 물에서 거세게 흔들었다.
+
+[926]
+#Her elopement astounded her parents.
+#그녀의 도피행각은 그녀의 부모님을 아주 놀라게 했다.
+
+[927]
+#Her manner was polite but remote.
+#그녀의 태도는 예의가 있으나 매우 냉담하다.
+
+[928]
+#Her talk was very unliterary.
+#그녀의 말은 조금도 조작되지 않았다.
+
+[929]
+#Her special abilities fit her well for the job.
+#그녀의 특징은 그녀를 이 일에 적당하게 종사하게 했다.
+
+[930]
+#Her rule lasted 20 years.
+#그녀의 통치는 20년간 유지되었다.
+
+[931]
+#Her hair was done up in a very funny way.
+#그녀의 머리카락은 매우 익살스럽게 머리에 놓여 있다.
+
+[932]
+#She has straight,not curly hair.
+#그녀의 머리는 곱슬거리지 않고 곧다.
+
+[933]
+#Her hair seemed to cry aloud for hairpins.
+#그녀의 머리는 보아하니 머리핀을 꽂아야만 한다.
+
+[934]
+#Her hair had escaped from her hat.
+#그녀의 머리카락은 모자 밖으로 보였다.
+
+[935]
+#Her hair waves in beautiful curls.
+#그녀의 머리는 예쁘게 파도모양처럼 곱슬거렸다.
+
+[936]
+#Her hair straggled over her collar.
+#그녀의 머리카락은 옷칼라에 늘어져 있다.
+
+[937]
+#Her hair frizzles up naturally.
+#그녀의 머리카락은 원래 곱슬이다.
+
+[938]
+#She had her hair styled at the beauty parlor.
+#그녀의 머리는 미용실에서 한 것이다.
+
+[939]
+#She's gone grey within a few weeks.
+#그녀의 머리카락는 몇 주내에 하얗게 변했다.
+
+[940]
+#She hit her head on the table.
+#그녀의 머리는 책상에 부딪혔다.
+
+[941]
+#She has nice legs.
+#그녀의 다리는 예쁘다. 
+
+[942]
+#Her smile implied her consent to our proposal.
+#그녀의 미소는 그녀가 우리들이 제의에 찬성한다는것을 암시한다.
+
+[943]
+#Her smile convinced him that she was happy.
+#그녀의 미소는 그녀가 행복하다는 것을 그에게 확실히 믿게 했다.
+
+[944]
+#Her face was illuminated by a smile.
+#그녀의 미소는 그녀의 얼굴을 환하게 했다.
+
+[945]
+#Her rudeness provoked me to strike her.
+#그녀의 무례함은 내가 그녀를 때리게 했다.
+
+[946]
+#Her joke raised a laugh.
+#그녀의 농담은 웃음소리를 자아냈다.
+
+[947]
+#Her laugh is one of those welcome yocks.
+#그녀의 웃음소리는 환영을 나타내는 큰 웃음이다.
+
+[948]
+#Her laughter charmed away his cares.
+#그녀의 웃음 소리는 그의 고민을 없앴다.
+
+[949]
+#Her shoes wore out quickly.
+#그녀의 신발은 빨리 신어 닳았다.
+
+[950]
+#Her new sports car was the envy of all.
+#그녀의 새 스포츠카는 모두가 부러워하는 대상이 되었다.
+
+[951]
+#Her new book is already a best-seller.
+#그녀의 새 책은 이미 베스트 셀러가 되었다.
+
+[952]
+#Her new book will appear in the shops very soon.
+#그녀의 새 책은 빨리 서점에 진열 될 것이다.
+
+[953]
+#Her heart began to flutter with fear.
+#그녀의 마음은 두려움으로 쿵쿵 뛰기 시작했다.
+
+[954]
+#Her letters always read well.
+#그녀의 편지는 읽기에 언제나 매끄럽다.
+
+[955]
+#Her letter were writeen in a happy strain.
+#그녀의 편지는 즐거운 필체로 쓰여져 있다.
+
+[956]
+#Her behavior transgressed all boundaries of good taste.
+#그녀의 행위는 올바른 한계를 넘어섰다.
+
+[957]
+#Her act shows a complete want of delicacy.
+#그녀의 행동은 아주 고상하지 않게 보였다.
+
+[958]
+#Her eyes were swimming with tears.
+#그녀의 눈은 눈물로 가득하다.
+
+[959]
+#Her gaze fastened on the jewels.
+#그녀의 눈은 보석에 멈추어져 있다.
+
+[960]
+#Her eyes are very telling.
+#그녀의 눈은 매우 사랑스럽다.
+
+[961]
+#Her eyes and voice beguiled me.
+#그녀의 눈과 목소리는 나를 홀렸다.
+
+[962]
+#Her eyes said that she was happy.
+#그녀의 눈에서 행복의 기색이 들어났다.
+
+[963]
+#Her eyes glowed with pleasure.
+#그녀의 눈에서 기뻐하는 빛이 보였다.
+
+[964]
+#Her eyes kindled with curiosity.
+#그녀의 눈은 호기심으로 빛났다.
+
+[965]
+#She has got wrinkles round her eyes.
+#그녀의 눈 주위에 주름살이 생겼다.
+
+[966]
+#Her glasses have misted up.
+#그녀의 안경은 물기로 흐렸다.
+
+[967]
+#She still has a perfect set of teeth.
+#그녀의 치아는 여전히 완전 무결하다.
+
+[968]
+#Her life was blighted by ill health.
+#그녀의 일생은 모두 불량한 건강 상태로 망가졌다.
+
+[969]
+#Her dress is as pretty as mine.
+#그녀의 옷은 나의 것과 같이 예쁘다.
+
+[970]
+#She varies her dress as fashion changes.
+#그녀의 옷은 유행에 따라 변화한다.
+
+[971]
+#Her body lies in the churchyard.
+#그녀의 몸은 그 교회의 무덤에 매장되었다.
+
+[972]
+#It's hard to sympathize with her political opinions.
+#그녀의 정치관점은 매우 사람들의 찬성을 얻기 어렵다.
+
+[973]
+#His fate was sealed by her testimony.
+#그녀의 정직은 그의 운명을 결정했다.
+
+[974]
+#She's in the top stream.
+#그녀의 지혜는 최고의 등급에 속한다.
+
+[975]
+#Her lips twitched in exasperation.
+#그녀의 입술은 격노로 떨렸다.
+
+[976]
+#Her mouth is her best feature.
+#그녀의 입은 그녀의 오관중에 가장 예쁜 부분이다.
+
+[977]
+#Her shyness was her best friend.
+#그녀의 부끄러움은 그녀에게 큰 도움을 주었다.
+
+[978]
+#She waited for the car from the school to call for her.
+#그녀는 그녀를 데리러 올 학교차를 기다리고 있다.
+
+[979]
+#She watched to see who would come out of the house.
+#그녀는 누가 그 방에서 나올 것인지 기다리고 있다.
+
+[980]
+#She watched to see what I would do.
+#그녀는 내가 무엇을 할 것인지 지켜보고 있다.
+
+[981]
+#She crooned her baby tosleep.
+#그녀는 자장가를 흥얼거려 그녀의 아이를 재웠다.
+
+[982]
+#She hummed her baby to sleep.
+#그녀는 낮은 목소리로 노래를 불러 아가를 재웠다.
+
+[983]
+#She succeeded the second time she took the examination.
+#그녀는 두번째 시험에 참가할 때 합격했다.
+
+[984]
+#Her first marriage was not very happy.
+#그녀는 첫번째 결혼이 즐겁지 않았다.
+
+[985]
+#She nodded smiled,and went on stitching.
+#그녀는 고개를 끄덕이고 웃으며 계속 옷을 재봉했다.
+
+[986]
+#When she lit the gas there was a loud explosion.
+#그녀는 가스에 불을 붙일 때 폭발 소리가 났다.
+
+[987]
+#She looked away from the tragic scene.
+#그녀는 고개를 떨구고 그 참담한 광경을 차마 볼 수 없었다.
+
+[988]
+#Her ankle swelled up after the fall.
+#그녀는 한번 넘어진 후 복사뼈가 부었다.
+
+[989]
+#She knows French,not to speak of English.
+#그녀는 불어를 알고 있다. 영어는 더 말할 것도 없다.
+
+[990]
+#She started for the doctor before I could stop her.
+#그녀는 의사를 찾아 떠났다. 나는 그를 불러 세울 수 없었다.
+
+[991]
+#She set to do all the housework.
+#그녀는 각종 집안일을 하기 시작했다.
+
+[992]
+#She went off alone and has not returned.
+#그녀는 혼자 가서 아직 돌아오지 않았다.
+
+[993]
+#She reads a lot when she's alone.
+#그녀는 혼자 있을때 언제나 책을 본다
+
+[994]
+#She is too curious about other people's business.
+#그녀는 타인의 일에 매우 호기심을 갖고 있다.
+
+[995]
+#She was intrigued by the stated contradiction.
+#그녀는 진술상의 모순에 매우 흥미를 갖고있다.
+
+[996]
+#She has the reputation of being kind to the poor.
+#그녀는 가난한 사람들에게 자비로 대한다고 평판이 나있다.
+
+[997]
+#She laughed at the enemy's threats.
+#그녀는 적에 대한 공포가 조금도 없다.
+
+[998]
+#She has not yet got over the loss of her son.
+#그녀는 아들이 죽은 뒤에 지금까지 여전히 슬퍼한다.
+
+[999]
+#She has good taste in clothes.
+#그녀는 패션에 좋은 심미안이 있다.

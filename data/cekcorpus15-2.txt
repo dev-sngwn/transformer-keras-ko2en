@@ -1,0 +1,444 @@
+[1]
+#The bullet has bedded itself in the wall.
+#탄알이 벽에 박혔다.
+
+[2]
+#The bullet perforated his lung.
+#탄알이 그의 폐를 관통했다.
+
+[3]
+#The bullet has lodged in his lung.
+#탄알이 그의 폐에 쏘아 박혔다.
+
+[4]
+#The bullet went clear through the wall.
+#탄알이 완전히 벽을 뚫었다.
+
+[5]
+#It behooves a child to obey his parents.
+#자녀는 부모에게 순종해야 한다.
+
+[6]
+#The receipts have increased since last year.
+#작년부터 수입이 늘기 시작했다.
+
+[7]
+#nature is the best physician.
+#자연은 가장 좋은 의사이다.
+
+[8]
+#A bicycle has two wheels.
+#자전거에는 바퀴가 2개 있다.
+
+[9]
+#Liberty entails responsibility.
+#자유에는 반드시 책임이 따른다.
+
+[10]
+#Liberty incarnate.
+#자유의 화신.
+
+[11]
+#Free trade is a goodthing.
+#자유무역은 좋은 일이다.
+
+[12]
+#Words are classified into parts of speech.
+#단어는 몇몇 품사로 나누어진다.
+
+[13]
+#Have you finished with the dictionary?
+#너 사전 다 썼니?
+
+[14]
+#The dictionary was bought by her.
+#사전은 그녀가 산 것이다.
+
+[15]
+#How many letters are there in the alphabet?
+#자모표에 자모가 몇 개냐?
+
+[16]
+#Religious organizations are exempt from taxation.
+#종교기구는 납세로부터 제외된다.
+
+[17]
+#The president will soon retire from office.
+#총재는 오래지 않아 사임할 것이다.
+
+[18]
+#Somebody or other will have to go.
+#어쨌든 누군가 가야 한다.
+
+[19]
+#The sum doesn't work out.
+#총액은 계산돼 나오지 않았다.
+
+[20]
+#The head office recalled him to Japan.
+#본사에서 그를 일본으로 소환했다.
+
+[21]
+#There are two hundred persons alltold.
+#모두 200명이다.
+
+[22]
+#That'll be ten dollars.
+#모두 10달러이다.
+
+[23]
+#In total,there were two hundred visitors.
+#모두 200명의 참관자가 있다.
+
+[24]
+#The total income approximates 10,000 dollars.
+#총수입은 만 달러에 달한다.
+
+[25]
+#The President is safe to be reelected.
+#대통령은 재선이 확실하다.
+
+[26]
+#The President reviewed the fleet.
+#대통령은 함대를 사열했다.
+
+[27]
+#The President nominated him Secretary of State.
+#대통령은 그를 국무장관에 임명했다.
+
+[28]
+#The President named him as Secretary of state.
+#대통령은 그를 국무장관으로 임명했다.
+
+[29]
+#The President authorized him to do that.
+#대통령이 그에게 그 일을 하도록 권한을 부여했다.
+
+[30]
+#The president called an election.
+#대통령이 대선을 실시토록 명령했다.
+
+[31]
+#The President spoke to the nation.
+#대통령이 전국에 담화를 했다.
+
+[32]
+#The President gave the crowd a wave.
+#대통령이 군중에게 손을 흔들었다.
+
+[33]
+#The long and short of it is that the plan was a failure.
+#어쨌든, 그 계획은 허사가 되었다.
+
+[34]
+#The total weight approaches 100 pounds.
+#전체 무게는 100파운드에 달한다.
+
+[35]
+#On your way.Make with the feet.
+#가자! 발걸음을 내딛자!
+
+[36]
+#Come and sit over here.
+#이리와 여기에 앉아라.
+
+[37]
+#scat !
+#꺼져! 다른 데로 가!
+
+[38]
+#Out of my sight !
+#꺼져!
+
+[39]
+#Go away and leave me in peace!
+#가버려, 나를 혼자 놔둬!
+
+[40]
+#Buzz off,you nasty little boy!
+#꺼져!
+
+[41]
+#Clear off.And quick,too!
+#꺼져, 빨리 꺼져!
+
+[42]
+#Dance off now;I wish to be alone.
+#꺼져, 나를 건드리지마.
+
+[43]
+#Move out of my way so I can pass.
+#내가 지나가게 비켜.
+
+[44]
+#The corridor opens into the dining hall.
+#복도는 식당으로 통한다.
+
+[45]
+#It would be a big saving to walk .
+#걸어가면 많이 절약할 수 있다.
+
+[46]
+#Look where you're going!
+#길을 걸어갈 때 조심해라.
+
+[47]
+#smuggle in a lot of opium
+#밀수로 많은 아편이 운반되어 들어오다.
+
+[48]
+#The lucky bastard!
+#운이 좋은 자식!
+
+[49]
+#Will this road take me to the station?
+#이 도로로 걸어가면 정류장에 갈 수 있습니까?
+
+[50]
+#play the Old Year out
+#송구영신을 연주하다.
+
+[51]
+#The lease runs out next month.
+#임대차계약은 다음달에 만기가 된다.
+
+[52]
+#The football match was called off on account of rain.
+#축구경기는 우천으로 취소되었다.
+
+[53]
+#Football is a team game.
+#축구는 팀 경기이다.
+
+[54]
+#It's a good five kilometres away.
+#족히 5km가 된다.
+
+[55]
+#keep the mosquitoes and flies down
+#파리, 모기의 번식을 억제하다.
+
+[56]
+#dig into a subject
+#한 테마를 연구하다.
+
+[57]
+#Be here at 9 at latest.
+#많이 늦어도 9시에 여기에 와라.
+
+[58]
+#initially,all went well.
+#처음에는 모든 것이 순조로웠다.
+
+[59]
+#They are better avoided.
+#그들을 피하는 것이 가장 좋다.
+
+[60]
+#The best defense is offense.
+#최고의 방어는 공격이다.
+
+[61]
+#It's best to forgive and forget.
+#과거의 개운치 않았던 일을 잊는 것이 가장 좋다.
+
+[62]
+#It ended in his going off in a rage.
+#결국 그는 크게 화를 내고 가버렸다.
+
+[63]
+#And to end up with there'll be some steamed bread.
+#끝에는 그래도 만두를 먹을 것이다.
+
+[64]
+#The final decision rests with him.
+#최종결정은 그에 의해 결정된다.
+
+[65]
+#The worst was yet to come.
+#최악의 상황은 아직 오지 않았다.
+
+[66]
+#Has he been here lately ?.
+#최근에 그는 여기에 왔었냐?
+
+[67]
+#We haven't seen much of you lately.
+#요즈음 우리는 너를 거의 못 봤다.
+
+[68]
+#Prices have shot up lately.
+#최근 물가가 폭등했다.
+
+[69]
+#At the farthest it can't be more than a mile.
+#많이 멀어도 1마일은 넘지 않을 것이다.
+
+[70]
+#screw the handle on last.
+#마지막으로 손잡이를 달다.
+
+[71]
+#At last they sighted land.
+#결국 그들은 육지를 봤다.
+
+[72]
+#The wages of sin is death.
+#죄악의 대가는 사망이다.
+
+[73]
+#Vice in every land doth monarchize.
+#죄악의 만방에 군림한다.
+
+[74]
+#Criminals often return to the scene of the crime.
+#범인은 항상 범죄현장에 다시 온다.
+
+[75]
+#The prisoner's defence was rather weak.
+#범인의 변명은 아주 약했다.
+
+[76]
+#The criminals conspired to rob a bank.
+#범인들은 은행을 털기로 밀모했다.
+
+[77]
+#The crime is chargeable on him.
+#죄과는 그에게 돌려졌다.
+
+[78]
+#Crime has its sequence of punishment.
+#죄는 징벌의 결과가 따른다.
+
+[79]
+#defer to sb.'s judgment
+#누구의 판단에 경의를 표하다.
+
+[80]
+#keep to the rules of a game
+#게임 규칙을 지켜라.
+
+[81]
+#follow out the doctor's directions
+#의사의 지시를 따라 일을 하다.
+
+[82]
+#We had a visit from our uncle yesterday.
+#어제 큰아버지가 우리를 보러 오셨다.
+
+[83]
+#A funny thing happened yesterday.
+#어제 재미있는 일이 발생했다.
+
+[84]
+#It was plenty hot yesterday.
+#어제는 무척 더웠다.
+
+[85]
+#Share prices rose yesterday.
+#어제는 주가가 올랐다.
+
+[86]
+#Where did you go yesterday?
+#너는 어제 어디에 갔니?
+
+[87]
+#whom did you meet yesterday?.
+#너는 어제 누구를 만났니?
+
+[88]
+#What work were you doing yesterday?
+#너는 어제 무슨 일을 했니?
+
+[89]
+#The temperature was very low yesterday.
+#어제는 기온이 낮았다.
+
+[90]
+#Yesterday was a real broiler!
+#어제는 난로처럼 더웠다.
+
+[91]
+#What day was yesterday?
+#어제는 무슨 요일이지?
+
+[92]
+#yesterday was Saturday.
+#어제는 토요일이었다.
+
+[93]
+#Yesterday was Sunday.
+#어제는 일요일이었다.
+
+[94]
+#It was rainy yesterday.
+#어제는 비가 왔다.
+
+[95]
+#He went to town for a stroll yesterday.
+#어제 그는 시내에 가서 돌아다녔다.
+
+[96]
+#He did not go to the cinema yesterday.
+#어제 그는 영화보러 가지 않았다.
+
+[97]
+#He blew in on me yesterday.
+#어제 그가 갑자기 나를 보러 왔다.
+
+[98]
+#He was invited out to a meal yesterday.
+#그는 어제 초대되어 나가서 저녁을 먹었다.
+
+[99]
+#What was the weather like yesterday?
+#어제 날씨는 어땠어요?
+
+[100]
+#I wasn't in last night.
+#어젯밤 나는 집에 없었다.
+
+[101]
+#The temperature raced up yesterday.
+#어제는 기온이 급격히 상승했다.
+
+[102]
+#I hed my money stoler yesterday.
+#어제 나는 돈을 도둑맞았다.
+
+[103]
+#How much did I cover yesterday ?.
+#어제 나는 얼마나 얘기했나요?
+
+[104]
+#It so happened that I saw him yesterday.
+#어제 나는 우연히 그를 만났다.
+
+[105]
+#I happened to see him yesterday.
+#어제 나는 우연히 그를 만났다.
+
+[106]
+#yesterday I was sick.
+#나는 어제 병이 났었다.
+
+[107]
+#We had a heavy snow yesterday.
+#어제는 큰눈이 내렸다.
+
+[108]
+#Yesterday it rained all day.
+#어제는 하루종일 비가 내렸다.
+
+[109]
+#Where were you yesterday afternoon.
+#어제 오후에 너는 어디에 있었니?
+
+[110]
+#The water was cut for two hours yeaterday while the road was being repaired.
+#어제는 도로 수리로 인해 2시간 물이 안 나왔다.
+
+[111]
+#There was a hard frost last night.
+#어젯밤에는 많은 서리가 내렸다.
+

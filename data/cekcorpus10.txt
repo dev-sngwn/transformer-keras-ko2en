@@ -1,0 +1,4000 @@
+[1]
+#The sky was cloudless.
+#하늘에 구름이 없다.
+
+[2]
+#Heavens,what is that?.
+#세상에! 저게 뭐야?
+
+[3]
+#Heavens,no!
+#맙소사!
+
+[4]
+#Oh Lord,I forget!
+#하느님! 나는 망했다!
+
+[5]
+#The weather became warmer.
+#날씨가 따뜻해졌다.
+
+[6]
+#The weather is meither hot nor cold.
+#날씨가 덥지도 춥지도 않다.
+
+[7]
+#It sure is hot.
+#날씨가 확실히 매우 덥다.
+
+[8]
+#It's ever so cold.
+#날씨가 매우 춥다.
+
+[9]
+#It will get warmer soon.
+#날씨가 곧 따뜻해질 것이다.
+
+[10]
+#It was now hot,now cold.
+#날씨가 추웠다 더웠다 한다.
+
+[11]
+#It is rather cool than not .
+#날씨가 아직도 매우 춥다.
+
+[12]
+#The weather will milden soon.
+#날씨가 곧 따뜻해질 것이다.
+
+[13]
+#The weather was about to break.
+#날씨가 곧 변할 것이다.
+
+[14]
+#It is neither cold nor hot.
+#날씨가 춥지도 덥지도 않다.
+
+[15]
+#It is getting hot.
+#날씨가 서서히 더워진다.
+
+[16]
+#The weather stayed hot for a week.
+#날씨가 일주일 동안 계속 더웠다.
+
+[17]
+#The weather varies hourly.
+#날씨가 매시간마다 변한다.
+
+[18]
+#It's warm enough to swim.
+#날씨가 수영을 할 수 있을 만큼 따뜻하다.
+
+[19]
+#It's warm and shiny.
+#날씨가 따뜻하고 맑다.
+
+[20]
+#It's scorching hot.
+#날씨가 불로 태우는 것처럼 뜨겁다.
+
+[21]
+#The weather seemed favorable for the flight.
+#날씨가 비행하기에 유익한 것 같다.
+
+[22]
+#It was bitterly cold.
+#날씨가 매우 춥다.
+
+[23]
+#The weather is sure to be wet.
+#날씨가 분명히 비가 올 듯하다.
+
+[24]
+#It is getting warmer day by day.
+#날씨가 하루하루 따뜻해진다.
+
+[25]
+#The weather has become warmer.
+#날씨가 이미 따뜻해졌다.
+
+[26]
+#Heavy rain has been forecast for tomorrow.
+#일기예보에 의하면 내일 큰 비가 올 것이다.
+
+[27]
+#The weather is getting worse and worse.
+#날씨가 점점 나빠지고 있다.
+
+[28]
+#What is the weather like?=How is the weather ?.
+#날씨가 어떻습니까?
+
+[29]
+#Nature alternate sunshine with rain.
+#날씨가 갑자기 맑았다가 비가 왔다 한다.
+
+[30]
+#What marvellous weather!
+#날씨가 정말 좋다.
+
+[31]
+#The weather is breaking up.
+#날씨가 마침 나빠졌다.
+
+[32]
+#The days are getting hotter.
+#날씨가 점점 뜨거워지고 있다.
+
+[33]
+#Hot weather will sour milk.
+#더운 날씨 때문에 우유가 상할 수도 있다.
+
+[34]
+#The sky came over dark.
+#하늘이 어두워졌다.
+
+[35]
+#It was getting dark.
+#날이 점점 어두워졌다.
+
+[36]
+#It's getting late.
+#날이 서서히 저물고 있다.
+
+[37]
+#There are no clouds in the sky.
+#하늘에 구름 한 점 없다.
+
+[38]
+#She came not withstanding the rains.
+#비록 비가 오지만 그녀는 여전히 왓다.
+
+[39]
+#institute of astronomy
+#천문학연구소
+
+[40]
+#There is always a wayout.
+#하늘이 무너져도 솟아날 구멍이 있다.
+
+[41]
+#It threatens to rain .
+#비가 올 것 같은 기세다.
+
+[42]
+#God save the Queen!
+#하늘의 도움이 여왕에게 있기를!
+
+[43]
+#It's turned out fine again.
+#날이 다시 맑아졌다.
+
+[44]
+#God knows where he went!
+#그가 어디로 갔는지 하늘이 알 것이다!
+
+[45]
+#Heaven helps those who help themselves.
+#하늘은 스스로 돕는 자를 돕는다.
+
+[46]
+#Put some wood on the fire and make it burn up.
+#땔나무를 더 넣어서 불이 잘 타게 하다.
+
+[47]
+#piece out a library with new books
+#새책을 추가 구입해서 장서를 확충하다.
+
+[48]
+#The fields were railed in .
+#밭에 울짱을 둘렀다.
+
+[49]
+#The fields have frosted over.
+#들판이 온통 서리로 덮였다.
+
+[50]
+#The fields were bathed in sunlight.
+#들판에는 햇빛이 내리쬐고 있었다.
+
+[51]
+#sweet dreams !
+#좋은 꿈 꾸고 잘 자요!
+
+[52]
+#What's for pudding?
+#단 것으로는 무엇을 먹지요?
+
+[53]
+#choose what you like.
+#네가 좋아하는 것을 골라라.
+
+[54]
+#choose the cake you like best.
+#네가 가장 좋아하는 케이크를 골라라.
+
+[55]
+#Pick the best one.
+#가장 좋은 것을 골라라.
+
+[56]
+#ACPTCL ON SME TEMS AND CONDITIONS -acceptable (on) same terms and conditions
+#
+
+[57]
+#The treaty has been prolonged for another ten years.
+#조약이 10년 연장되었다.
+
+[58]
+#Dancing is a delight to me.
+#춤은 나의 취미이다.
+
+[59]
+#The railroad runs across the plain.
+#철도가 평원을 가로지른다.
+
+[60]
+#The blacksmith smote the anvil.
+#철공은 철침을 두드린다.
+
+[61]
+#The railroad tracks branch off in all directions.
+#철도가 사방으로 갈라진다.
+
+[62]
+#The railroad divides into two lines here.
+#철도가 여기에서 둘로 갈라진다.
+
+[63]
+#Iron expands when it is heated.
+#철은 열을 받으면 팽창한다.
+
+[64]
+#Rust was eating away the iron supports.
+#녹이 쇠기둥을 부식시키고 있다.
+
+[65]
+#The crowd filled the hall.
+#홀에 사람들이 꽉 찼다.
+
+[66]
+#Listen to the seabirds crying.
+#들어봐, 바다새가 울고 있다.
+
+[67]
+#listen! What's that noise?.
+#들어봐, 저게 무슨 소리지?
+
+[68]
+#Not a cheep could be heard.
+#한마디도 안 들린다.
+
+[69]
+#fall into sb.'s command
+#누군가의 지휘에 따르다.
+
+[70]
+#listen to the advice of your father.
+#너의 아버지 말씀을 들어라.
+
+[71]
+#hold by one's comrades
+#동지들의 권고를 들어라.
+
+[72]
+#Steps were heard approaching.
+#발자국 소리가 가까워오는 것을 들었다.
+
+[73]
+#I was tickled to death at the news.
+#그 소식을 듣고 나는 너무나 웃겼다.
+
+[74]
+#There was a knock at the door.
+#문을 두드리는 소리를 들었다.
+
+[75]
+#A volley of shots was heard.
+#총소리가 한바탕 들렸다.
+
+[76]
+#I'm sorry to hear it.
+#이 일을 듣고 나는 매우 슬펐다.
+
+[77]
+#A bird was heard singing.
+#새가 우는 소리가 들렸다.
+
+[78]
+#I am pleased at hearing of your recovery.
+#네가 회복되었다는 소리를 듣고 아주 기뻤다.
+
+[79]
+#I hear he's just like his fater.
+#듣자 하니 그는 그의 아버지를 많이 닮았다고 한다.
+
+[80]
+#Just hark to him!
+#그가 말하는 것을 들어라!
+
+[81]
+#Let things drift.
+#운명을 하늘에 맡겨라.
+
+[82]
+#Take a tip from me.
+#나의 제안을 들어라.
+
+[83]
+#moon over music
+#넋을 잃고 음악을 듣다.
+
+[84]
+#The audience groaned the speaker down.
+#청중들은 강연자를 우우하며 야유하여 무대에서 내려오게 했다.
+
+[85]
+#The audience broke forth in cheers.
+#청중들이 환호성을 질러댔다.
+
+[86]
+#The audience was mesmerized.
+#청중들은 매료되었다.
+
+[87]
+#The audience were mostly young people.
+#청중의 대부분이 젊은 사람들이다.
+
+[88]
+#The audience applauded frantically.
+#청중들은 열렬히 박수를 쳤다.
+
+[89]
+#The audience approximated to five hundred people.
+#청중이 5백 명 정도 된다.
+
+[90]
+#The audience was struck silent.
+#청중들이 쥐 죽은 듯 조용했다.
+
+[91]
+#The parking lot was chocked up with cars.
+#주차장에 차가 꽉 주차되어 있었다.
+
+[92]
+#Pack it in,stop arguing!
+#그만 둬라, 말다툼하지 말아라!
+
+[93]
+#stow it!
+#그만 해! 말하지마!
+
+[94]
+#Stop poking into my personal affairs.
+#더 이상 내 개인적인 일에 쓸데없이 간섭하지 마세요.
+
+[95]
+#Stop messing in my affairs.
+#내 일에 간섭하지 마세요.
+
+[96]
+#stop that nonsense!
+#그런 헛소리 좀 그만 해라!
+
+[97]
+#Stop thrumming on your desk.
+#책상 두드리는 것 좀 멈춰요.
+
+[98]
+#Stop fighting with your brother.
+#너의 형과 그만 좀 싸워라.
+
+[99]
+#Stop diddling around and get to work.
+#빈둥빈둥 돌아다니는 것을 멈추고 일을 시작하다.
+
+[100]
+#Stop that infernal noise!
+#그 지겨운 소음 좀 멈춰라!
+
+[101]
+#The yard was hemmed around by an iron fence.
+#정원에 철 울타리가 둘러져 있다.
+
+[102]
+#Keep your back straight.
+#등을 곧게 펴라.
+
+[103]
+#Sit up straight.
+#몸을 곧게 펴고 앉다.
+
+[104]
+#Ordinary commercial discounts
+#
+
+[105]
+#I'm not late,usually.
+#평소에 나는 지각하지 않는다.
+
+[106]
+#I usually wake up early.
+#나는 보통 아주 일찍 일어난다.
+
+[107]
+#Certain bank notes were called in.
+#모종의 지폐를 회수할 것을 통고하다.
+
+[108]
+#ease one's mind by blowing up sb.
+#누군가를 욕하는 것으로 화풀이를 하다.
+
+[109]
+#Inflation went on climbing.
+#통화팽창.
+
+[110]
+#The outtake is at the top of the windows.
+#연통이 창문 끝에 있다.
+
+[111]
+#The circulars have been sent out.
+#통지가 이미 발송되었다.
+
+[112]
+#Compassion often engenders love.
+#동정은 종종 애정을 낳는다.
+
+[113]
+#Drink up,comrades!
+#친구들, 건배!
+
+[114]
+#Put on more steam,comrades!
+#친구들, 파이팅!
+
+[115]
+#Fall into line ,please,comrades.
+#친구들, 줄을 서세요.
+
+[116]
+#Sing up,comrades.
+#친구들, 힘껏 노래합시다.
+
+[117]
+#Copper and aluminium are good conductors.
+#동과 알루미늄은 양도체이다.
+
+[118]
+#Copper and silver are both metals.
+#동과 은은 모두 금속이다.
+
+[119]
+#The copper is cased over with silver.
+#구리를 은으로 도금하다.
+
+[120]
+#A barrel swells in the middle.
+#병 중앙의 부푼 부분.
+
+[121]
+#The barrel rolled over and over.
+#통이 계속 구르고 있다.
+
+[122]
+#inveigh against hegemonism
+#패권주의를 배척하다.
+
+[123]
+#double up with pain
+#아파서 몸을 바싹 구부리다.
+
+[124]
+#inveigh against corrupt officials
+#탐관오리를 호되게 꾸짖다.
+
+[125]
+#Stealing is an infringement of the law.
+#훔치는 것은 법률에 저촉되는 것이다.
+
+[126]
+#Stealing is against the law.
+#훔치는 것은 법에 위배되는 것이다.
+
+[127]
+#rip off a bookshop
+#서점의 책을 훔치다.
+
+[128]
+#slide into a room
+#살금살금 방으로 미끄러져 들어가다.
+
+[129]
+#knock down some cash
+#현금을 약간 훔치다.
+
+[130]
+#The noes have it .
+#반대표를 던진 사람들이 대다수다.
+
+[131]
+#There was quite a good turnout at the polls.
+#투표율이 상당히 좋다.
+
+[132]
+#abstain from voting
+#투표 때 기권을 하다.
+
+[133]
+#invest in a project
+#이 연구과제에 투자하다.
+
+[134]
+#Hair grows at an average rate of six inches a year.
+#머리카락은 평균적으로 매년 6인치씩 긴다.
+
+[135]
+#land on one's head
+#머리를 땅에 박다.
+
+[136]
+#bone up on (one's) English
+#단기간에 총력을 집중하여 영어를 배우다.
+
+[137]
+#bone up on a problem
+#총력을 집중하여 문제 하나를 깊이 연구하다.
+
+[138]
+#break through the enemy lines
+#적의 방어선을 돌파하다.
+
+[139]
+#A breeze suddenly sprang up.
+#갑자기 미풍이 한차례 불어왔다.
+
+[140]
+#A wind suddenly sprang up.
+#갑자기 바람이 일었다.
+
+[141]
+#burst out into laughter (tears)
+#갑자기 와 웃음을(울음을) 터뜨리다.
+
+[142]
+#burst out laughing (crying)
+#갑자기 웃기(울기) 시작하다.
+
+[143]
+#fly into raptures
+#기뻐서 날뛰다.
+
+[144]
+#a pier running out into the sea.
+#바다까지 펼쳐진 부두.
+
+[145]
+#You get the book in the library.
+#도서관에 이 책이 있다.
+
+[146]
+#The library backs on to the park.
+#도서관은 공원과 등을 대고 있다.
+
+[147]
+#The ground is too dry for planting seeds.
+#토지가 너무 말라서 씨를 뿌리기에 적당치 않다.
+
+[148]
+#The potato peelings have bunged up the sink.
+#감자 껍질이 하수구를 막아 버렸다.
+
+[149]
+#Are the potatoes done yet?
+#감자가 다 익었습니까?
+
+[150]
+#Saturn has several moons.
+#토성에는 몇 개의 위성이 있다.
+
+[151]
+#let off a dissent
+#불만의 뜻을 토로하다.
+
+[152]
+#Rabbits breed very quickly.
+#토끼는 번식이 아주 빠르다.
+
+[153]
+#Rabbits are long-eared animals.
+#토끼는 긴 귀를 가진 동물이다.
+
+[154]
+#The rabbit dived into its hole.
+#토끼는 잽싸게 굴로 파고 들어갔다.
+
+[155]
+#union is strength.
+#단결이 곧 힘이다.
+
+[156]
+#speculate on the outcome of negotiations
+#담판의 결과를 추측하다.
+
+[157]
+#bring down a government
+#정부를 전복시키다.
+
+[158]
+#go behind sb.'s words
+#누군가가 한 말의 뜻을 곰곰이 생각하다.
+
+[159]
+#Put the car into reverse.
+#차를 밀어 리버스에 넣다.
+
+[160]
+#The salesman will call back later.
+#판매원은 다시 방문할 것이다.
+
+[161]
+#back out of an obligation
+#져야 할 의무를 회피하다.
+
+[162]
+#back out of the meeting room
+#회의실에서 물러나다.
+
+[163]
+#drop out of the political scene
+#정치무대에서 물러나다.
+
+[164]
+#drop out of the presidential race
+#총통 경선에서 탈퇴하다.
+
+[165]
+#What time is check-out?.
+#퇴실 시간이 몇 시입니까?
+
+[166]
+#check-out is at noon.
+#정오에 퇴실한다.
+
+[167]
+#Selling price of goods returned
+#물품을 반송하는 판매가
+
+[168]
+#eat up other countries' territories
+#다른 나라 영사를 병탄하다.
+
+[169]
+#mop up the water on the floor
+#마루 위의 물을 닦다.
+
+[170]
+#mop up a floor
+#바닥을 닦다.
+
+[171]
+#rise above vulgar interests
+#저속한 취미에서 벗어나다.
+
+[172]
+#break with the Democratic Party
+#민주당을 탈당하다.
+
+[173]
+#Take your hat off.
+#너의 모자를 벗어라.
+
+[174]
+#The ostrich grows to a height of eight feet.
+#타조는 키가 8피트까지 자란다.
+
+[175]
+#dig out a mineral spring
+#광천을 파다.
+
+[176]
+#gouge out sb.'s eyes
+#누군가의 눈을 도려내다.
+
+[177]
+#The dredger spooned up mud.
+#준설기가 진흙을 파내다.
+
+[178]
+#Oh joy !
+#와! 즐겁다!
+
+[179]
+#Wahaha Children' Nourishing Oral Liquid
+#'와하하' 어린이 영양액
+
+[180]
+#Hasn't the baby gone off yet?
+#아기가 아직도 잠들지 않았습니까?
+
+[181]
+#What is the baby doing?
+#아기가 뭐하고 있습니까?
+
+[182]
+#The tiles lap over.
+#기와를 겹쳐서 덮다.
+
+[183]
+#Gas is escaping from the range.
+#가스가 가스레인지에서 누출되고 있다.
+
+[184]
+#Watt invented the steam engine.
+#와트가 증기기관을 발명했다.
+
+[185]
+#Watt inaugurated the age of steam.
+#와트가 증기시대를 열었다.
+
+[186]
+#The stocking is raveling out.
+#스타킹의 올이 나갔다.
+
+[187]
+#What about the outer packing?
+#바깥 포장이 어떤 모양입니까?
+
+[188]
+#It seems to be cold out there.
+#바깥은 아주 추울 것 같다.
+
+[189]
+#Appearances are very often deceptive.
+#외모는 종종 믿을 수 없다.
+
+[190]
+#It is a car that there is outside.
+#밖에 있는 것은 한 대의 차이다.
+
+[191]
+#A foreign language is a window on the world.
+#외국어는 세계로 향하는 창이다.
+
+[192]
+#Whoever plays with fire will get burnt.
+#불장난 하면 제 불에 타죽는다.
+
+[193]
+#dally with a woman's affections
+#여인의 애정을 우롱하다.
+
+[194]
+#Some of the soup slopped over the edge of the bowl.
+#그릇 가에 약간의 국이 넘쳤다.
+
+[195]
+#There's no sugar in the bowl.
+#그릇에 설탕이 없다.
+
+[196]
+#Good night,John.
+#잘 자, John.
+
+[197]
+#What is there for supper?.
+#저녁으로 뭘 먹을까요?
+
+[198]
+#Dinner is almost ready.
+#저녁이 거의 다 됐다.
+
+[199]
+#After dinner the ladies withdrew.
+#회식 후에 여자들은 물러간다.
+
+[200]
+#Everything is in readiness for the party.
+#저녁 파티가 이미 다 준비되었다.
+
+[201]
+#The party finished at midnight.
+#파티는 한밤중에 끝났다.
+
+[202]
+#Evening dress is derigueur.
+#저녁 파티를 위한 정장은 꼭 필요한 것이다.
+
+[203]
+#The wind went down during the night.
+#밤에는 바람이 가라앉았다.
+
+[204]
+#Good evening,Mrs.Green.
+#안녕히 주무세요, Green 부인.
+
+[205]
+#Mother watches TV at night.
+#저녁때 어머니는 텔레비전을 보신다.
+
+[206]
+#She cooks a hot meal in the evenings.
+#그녀는 저녁때 늘 따뜻한 밥을 짓는다.
+
+[207]
+#All hail!
+#환영합니다!
+
+[208]
+#All things are in a state of flux.
+#만물은 끊임없이 변한다.
+
+[209]
+#trumps are spades.
+#킹카드는 스페이드이다.
+
+[210]
+#Mrs.Wang is watching TV in the parlor.
+#왕부인이 거실에서 텔레비전을 본다.
+
+[211]
+#Mr.Wang cannot come today.
+#왕선생은 오늘 오지 못할 것이다.
+
+[212]
+#Mr.Wang can come today.
+#왕선생은 오늘 올 수 있다.
+
+[213]
+#Mr.Wang gets back tonight.
+#왕선생은 오늘 저녁에 돌아온다.
+
+[214]
+#What is Mr.Wang?
+#왕선생은 무엇 하는 분입니까?
+
+[215]
+#Mr.Wang is sleeping on the sofa.
+#왕선생이 쇼파에서 주무시고 있다.
+
+[216]
+#Mr.Wang lives in Hongkong.
+#왕선생은 홍콩에 산다.
+
+[217]
+#Miss Wang cannot cook meals.
+#미스 왕은 밥을 할 줄 모른다.
+
+[218]
+#Miss Wang can speak English.
+#미스 왕은 영어를 할 줄 안다.
+
+[219]
+#Miss Wang will probably pardon me.
+#미스 왕은 아마도 너를 용서할 것이다.
+
+[220]
+#Miss Wang may know you.
+#아마도 미스 왕은 너를 알 것이다.
+
+[221]
+#Miss Wang must be very pretty.
+#미스 왕은 분명히 아주 예쁠 것이다.
+
+[222]
+#Miss.Wang is reading in the study.
+#미스 왕은 서재에서 책을 읽고 있다.
+
+[223]
+#The prince was enamored,of the girl.
+#왕자는 그 소녀에게 반했다.
+
+[224]
+#Better late than never.
+#소 잃고 외양간 고친다, 없는 것보다는 조금 낫다.
+
+[225]
+#Tennis isn't my cup of tea.
+#나는 테니스를 좋아하지 않는다.
+
+[226]
+#You are expected to finish it in time.
+#당신이 제때에 그 일을 마쳐 주기를 바랍니다.
+
+[227]
+#I hope that you will soon be completely restored to health.
+#당신이 하루빨리 건강을 완전히 회복하기를 바랍니다.
+
+[228]
+#Hoping to hear from you soon.
+#하루빨리 당신의 소식을 듣게 되기를 바랍니다.
+
+[229]
+#A breeze blew up the leaflets.
+#미풍이 불어서 전단지가 날아갔다.
+
+[230]
+#The breeze stirred the leaves.
+#산들바람이 나뭇잎을 살랑거리게 했다.
+
+[231]
+#The breeze fanned her hair.
+#미풍이 그녀의 머리카락을 가볍게 스쳐 지나갔다.
+
+[232]
+#A light wind disturbed the surface of the water.
+#미풍이 수면의 잔잔한 물결을 흔들어 놓았다.
+
+[233]
+#The breeze whispered through the pines.
+#산들바람이 솨솨 하며 소나무 숲을 지나갔다.
+
+[234]
+#Smiles are significant of pleasure.
+#미소는 기쁘다는 것을 표시한다.
+
+[235]
+#A smile often denotes pleasure.
+#미소는 즐겁다는 것을 의미한다.
+
+[236]
+#A smile crossed her face.
+#그녀의 얼굴에 미소가 스쳤다.
+
+[237]
+#bail out in an emergency
+#위급
+
+[238]
+#Danger overhangs him.
+#위험이 그를 위협하다.
+
+[239]
+#danger past,God forgotten.
+#위험이 지나가자 신을 잊었다.
+
+[240]
+#Dangers were looming ahead.
+#위험이 눈앞에 다가오다.
+
+[241]
+#The danger was well overpassed.
+#위험은 이미 지나갔다.
+
+[242]
+#The fence is ten paces from the house.
+#울타리는 집에서 열 보 정도 떨어져있다.
+
+[243]
+#A fence encloses the land.
+#담이 그 땅을 둘러싸다.
+
+[244]
+#be crushed down with grief
+#슬픔에 압도당했다.
+
+[245]
+#The end justifies the means.
+#목적을 달성하기 위해 수단을 가리지 않다.
+
+[246]
+#lay up provisions for an assault
+#진공을 위해 보급품을 준비하다.
+
+[247]
+#Property is appraised for taxation.
+#과세를 위해 재산을 계산하다.
+
+[248]
+#line up evidence for a legal case
+#모 안건을 위해 증거를 수집하다.
+
+[249]
+#fear for sb.'s safety
+#누군가의 안전을 위해 걱정하다.
+
+[250]
+#make up to sb.for sth.
+#어떤 일을 위해 누군가의 비위를 맞추다.
+
+[251]
+#exert yourself for that object.
+#그 목표를 위해 노력하다.
+
+[252]
+#make up marriage for one's daughter
+#딸의 혼사를 위해 준비하다.
+
+[253]
+#read for a degree
+#학위를 취득하기 위해 열심히 공부하다.
+
+[254]
+#beat up custom for a shop
+#상점에서 손님을 불러 모으다.
+
+[255]
+#"Why ?" she asked abruptly.
+#왜요? 그녀는 갑자기 물었다.
+
+[256]
+#Why don't you invite me in ?
+#당신은 왜 나를 청하지 않습니까?
+
+[257]
+#why don't you sit down ?.
+#왜 앉지 않습니까?
+
+[258]
+#Why do you delight to torture her?.
+#당신은 왜 그녀를 즐겨 괴롭히십니까?
+
+[259]
+#Why thus sad?.
+#왜 이렇게 슬퍼하십니까?
+
+[260]
+#why does paper burn ?.
+#종이는 왜 타는 것일까요?
+
+[261]
+#uneasy lies the head that wears a crown.
+#왕이 된 자는 편안할 날이 없다.
+
+[262]
+#Plan ahead!
+#미래를 위해 계획을 세워라.
+
+[263]
+#Three cheers for our team!
+#우리 팀을 위해서 세 번 환호하다.
+
+[264]
+#block up the log cabin
+#통나무집에 담을 만들다.
+
+[265]
+#lay about to put on a show
+#공연을 위해 준비하다.
+
+[266]
+#hunt out materials for a lecture
+#강연을 위해 자료를 찾다.
+
+[267]
+#drink in the beauty of the landscape
+#아름다운 풍경에 도취되다.
+
+[268]
+#Here's to John in his new job!
+#John의 새 일을 위해 건배!
+
+[269]
+#beat up support for a campaign
+#캠페인을 하기 위하여 지원을 얻어내다.
+
+[270]
+#read for an examination
+#시험을 준비하기 위해 배운 것을 복습하다.
+
+[271]
+#glory in one's country's success
+#조국의 성공을 자랑으로 여기다.
+
+[272]
+#Victoria Rroad.
+#빅토리아 길.
+
+[273]
+#stand for which is right
+#올바른 언행을 견지하다.
+
+[274]
+#Virginia leaf.
+#버지니아 담배잎.
+
+[275]
+#The repairs will cost a lot of money.
+#수리하려면 아주 많은 돈이 들 것이다.
+
+[276]
+#The committee approved the budget.
+#위원회는 예산안을 심의 비준했다.
+
+[277]
+#The committee appointed him manager.
+#위원회는 그를 책임자로 임명했다.
+
+[278]
+#The puppet troops came apart at the seams.
+#괴뢰군은 철저히 붕괴되었다.
+
+[279]
+#It is against the law to counterfeit.
+#화폐를 위조하는 것은 위법이다.
+
+[280]
+#a reputation that has not yet been blown upon
+#더럽혀진 적이 없는 좋은 명성
+
+[281]
+#To be continued.
+#다음에 계속됩니다.
+
+[282]
+#Hello,who's speaking,please?
+#여보세요! 실례지만 당신은 누구십니까?
+
+[283]
+#Come here,woman.
+#이것 봐요, 이리 와요.
+
+[284]
+#Stop!You there !
+#어이! 그쪽에 있는 사람 멈춰요!
+
+[285]
+#you there,what's your name ?.
+#이봐요, 당신 이름이 뭡니까?
+
+[286]
+#Now then,pull up,comrades
+#어이, 친구들, 힘껏 잡아 당겨봐!
+
+[287]
+#you,my daughters.
+#나의 딸들아.
+
+[288]
+#hello,this is Brown speaking.
+#여보세요, 저는 브라운입니다.
+
+[289]
+#Be craeful,now!
+#어, 조심하세요!
+
+[290]
+#hello,this is 777-3330.
+#여보세요, 여기는 777-3330입니다.
+
+[291]
+#Get a wheen biscuits for the beasts.
+#동물에게 소량의 비스킷을 주다.
+
+[292]
+#Have the poultry been fed?.
+#집에서 기르는 짐승이 있습니까?
+
+[293]
+#The guard will be relieved at midnight.
+#위병은 한밤중에 교대하게 될 것이다.
+
+[294]
+#The plague stalked through the land.
+#전염병이 온 땅에 번져 퍼졌다.
+
+[295]
+#The thermometer reads 33 degrees.
+#온도계가 33도를 가리키고 있다.
+
+[296]
+#The thermometer shows ten below zero.
+#온도계가 영하 10도를 가리키고 있다.
+
+[297]
+#The thermometer registered four degrees of frost.
+#온도계가 영하 4도를 가리키고 있다.
+
+[298]
+#The temperature has gone up.
+#온도가 올라갔다.
+
+[299]
+#The temperature is minus ten degrees.
+#온도는 영하 10도이다.
+
+[300]
+#The temperature has gone up two points.
+#온도가 이미 2도 올랐다.
+
+[301]
+#The temperature is way below the freezing point.
+#
+
+[302]
+#A soft answer turneth away wrath.
+#온화한 대답은 화를 풀리게 한다.
+
+[303]
+#He doesn't know grammar.
+#그는 문법을 모른다.
+
+[304]
+#The papers blew off .
+#서류가 바람에 날라갔다.
+
+[305]
+#The papers are in my keeping.
+#서류는 내가 보관하고 있다.
+
+[306]
+#There are many cases where the pen is mightier than the sword.
+#"펜이 칼보다 강하다"와 같은 상황은 아주 많다.
+
+[307]
+#Literature is a branch of knowledge.
+#문학은 학문의 한 갈래이다.
+
+[308]
+#institute of literature
+#문학연구소
+
+[309]
+#renaissance painters.
+#르네상스 시기의 화가.
+
+[310]
+#The article is written at last.
+#기사가 끝내는 쓰여졌다.
+
+[311]
+#The writing carries over on to the next page.
+#문장이 다음 페이지로 넘어가다.
+
+[312]
+#what is that to you ?.
+#그 일을 알아서 뭐 하게요?
+
+[313]
+#ask him whether he knows her.
+#그에게 그녀를 아느냐고 물었다.
+
+[314]
+#It is useless to ask him.
+#그에게 묻는 것도 소용없다.
+
+[315]
+#Ask her when she will come back.
+#그녀에게 언제 돌아올 것이냐고 물었다.
+
+[316]
+#What matters is how they live.
+#문제는 그들이 어떻게 생활하느냐 하는 것이다.
+
+[317]
+#The trouble is that she does not like it.
+#그녀가 그것을 좋아하지 않는다는 것이 문제다.
+
+[318]
+#The point is that we are short of funds.
+#문제는 우리가 자금이 부족하다는 것이다.
+
+[319]
+#The question has been decided.
+#문제가 이미 해결되었다.
+
+[320]
+#ask how to do it.
+#어떻게 그것을 하는지 물었다.
+
+[321]
+#The snail drew in its feelers.
+#달팽이가 촉수를 움츠렸다.
+
+[322]
+#A snail shrinks back at a touch.
+#달팽이는 한번 건드리자 곧 움츠러들었다.
+
+[323]
+#Harbouring criminals is an offence in law.
+#범인을 숨겨주는 것은 위법이다.
+
+[324]
+#I'll be flying in on the 22nd.
+#나는 22일에 비행기를 타고 돌아올 것이다.
+
+[325]
+#I envy you your beauty .
+#나는 당신의 아름다움이 부럽다.
+
+[326]
+#I envy him going abroad.
+#나는 그가 출국하는 것이 부럽다.
+
+[327]
+#I like vegetable curry.
+#나는 커리를 즐겨 먹는다.
+
+[328]
+#I like sailing.
+#나는 배를 타고 항해하는 것을 좋아한다.
+
+[329]
+#I love you as much as I love her.
+#내가 너를 사랑하는 것 만큼 그녀도 사랑한다.
+
+[330]
+#I gave him a hint that I might resign.
+#나는 그에게 내가 해직될지도 모른다고 알려주었다.
+
+[331]
+#I leave home for school at eight.
+#나는 8시에 집을 나서서 학교로 간다.
+
+[332]
+#I woke up at eight o'clock.
+#나는 8시에 일어났다.
+
+[333]
+#I start work at the end of August.
+#나는 8월말부터 일을 시작한다.
+
+[334]
+#I've burnt a hole in my shirt.
+#내가 셔츠를 태워 구멍이 났다.
+
+[335]
+#I cut the cake in two .
+#나는 케이크를 둘로 잘랐다.
+
+[336]
+#I entrusted my son to her care.
+#나는 그녀에게 아이를 맡겨 돌보도록 했다.
+
+[337]
+#I twisted my foot.
+#나는 발을 삐었다.
+
+[338]
+#I got my feet wet.
+#나는 발을 적셨다.
+
+[339]
+#I've lost both my gloves.
+#나는 장갑 두 짝을 다 잃어버렸다.
+
+[340]
+#I hitched up the horses to the cart.
+#나는 말을 마차에 메웠다.
+
+[341]
+#I have lost the key to the door.
+#나는 문 열쇠를 잃어버렸다.
+
+[342]
+#I gave the book to her.
+#나는 그 책을 그녀에게 주었다.
+
+[343]
+#I sawed the branch away.
+#나는 그 나뭇가지를 톱질했다.
+
+[344]
+#I take that for a compliment.
+#나는 그것을 아첨하는 말이라고 간주한다.
+
+[345]
+#I hunted the dog away .
+#나는 그 개를 내쫓았다.
+
+[346]
+#I eased the belt a little.
+#나는 벨트를 좀 풀었다.
+
+[347]
+#I've rubbed the skin off.
+#피부가 벗겨졌다.
+
+[348]
+#I keep my money loose in my pocket.
+#나는 돈을 주머니에 아무렇게나 넣었다.
+
+[349]
+#I was bunkered.
+#나는 공을 벙커에 쳐넣었다.
+
+[350]
+#I entrusted the duty to him.
+#나는 그에게 임무를 맡겼다.
+
+[351]
+#I flattened myself against the wall.
+#나는 벽에 몸을 바싹 붙였다.
+
+[352]
+#I hitched the rope round a bough of the tree.
+#나는 밧줄을 나뭇가지에 걸었다.
+
+[353]
+#I give the victory to thee.
+#승리를 너에게 돌리겠다.
+
+[354]
+#I stuck my hands into my trouser pockets.
+#나는 바지 주머니에 손을 넣었다.
+
+[355]
+#I got a broken arm.
+#나의 팔뚝이 부러졌다.
+
+[356]
+#I transplanted the seedlings to the garden.
+#나는 묘목을 정원에다 옮겨 심었다.
+
+[357]
+#I have planted the trees in the garden.
+#나는 나무를 정원에 심었다.
+
+[358]
+#I aroused him from his sleep.
+#나는 그를 잠에서 깨웠다.
+
+[359]
+#I choked him to death.
+#나는 그를 목졸라 죽였다.
+
+[360]
+#I regard him as a friend.
+#나는 그를 친구처럼 여긴다.
+
+[361]
+#I gave it him.
+#나는 그것을 그에게 주었다.
+
+[362]
+#I gave it her.
+#나는 그것을 그녀에게 주었다.
+
+[363]
+#I've blown it!
+#나는 그것을 다 써버렸다.
+
+[364]
+#I brought all of them.
+#나는 그것들을 다 가지고 왔다.
+
+[365]
+#I left it on the train.
+#나는 그것을 기차에 떨어뜨렸다.
+
+[366]
+#I have forgotten her name.
+#나는 그녀의 이름을 잊었다.
+
+[367]
+#I told him of her death.
+#나는 그녀의 죽음을 속히 그에게 알렸다.
+
+[368]
+#I saw her safe home.
+#나는 그녀를 편안하게 집에 데려다 주었다.
+
+[369]
+#I had my hair waved.
+#나는 머리를 물결모양으로 했다.
+
+[370]
+#I burned the toast.
+#나는 토스트를 구웠다.
+
+[371]
+#I'll repeat the question once more.
+#나는 문제를 다시 한번 반복했다.
+
+[372]
+#I humped the case upstairs.
+#나는 상자를 어깨에 메고 위층으로 갔다.
+
+[373]
+#I gave her the letter.
+#나는 편지를 그녀에게 주었다.
+
+[374]
+#I have mailed the letter.
+#나는 편지를 부쳤다.
+
+[375]
+#I hammered the metal flat .
+#나는 이 금속을 평평하게 했다.
+
+[376]
+#I helped him off with his overcoat.
+#나는 그가 코트 벗는 것을 도와주었다.
+
+[377]
+#I helped him mend his bicycle.
+#나는 그를 도와 자전거를 수리했다.
+
+[378]
+#I assisted in doing his homework.
+#나는 그가 숙제하는 것을 도와주었다.
+
+[379]
+#I am insured.
+#나는 생명보험에 가입했다.
+
+[380]
+#I give my guarantee that I'll pay your money tomorrow.
+#나는 내일 너에게 돈을 줄 것을 보증한다.
+
+[381]
+#I insure that you will succeed.
+#나는 네가 성공할 것이라고 확신한다.
+
+[382]
+#I've got a sore place in the middle of my back.
+#나는 등에 아픈 곳이 한 곳 있다.
+
+[383]
+#I was hurried down .
+#나는 서둘러 내려왔다.
+
+[384]
+#I was struck blind.
+#나는 맞아서 머리가 어지럽고 눈앞이 아찔했다.
+
+[385]
+#I was temporarily delayed.
+#나는 일정기간을 지연시켰다.
+
+[386]
+#I tore my knee on a nail.
+#나는 못에 무릎을 찔려 다쳤다.
+
+[387]
+#I am plaguyd to death.
+#나는 죽고 싶을 만큼 괴롭힘을 당했다.
+
+[388]
+#I was jammed in.
+#나는 밀려 들어갔다.
+
+[389]
+#I was bidden to enter.
+#나는 불려 들어갔다.
+
+[390]
+#I was floored by that question.
+#그 문제가 나를 당황하게 했다.
+
+[391]
+#I was committed in that matter.
+#나는 그 일로 구속당했다.
+
+[392]
+#I was scared stiff by the dog.
+#나는 그 개 때문에 놀라 멍해졌다.
+
+[393]
+#I was screwed out of 50 dollars.
+#나는 50달러를 사기당했다.
+
+[394]
+#I was driven to resign.
+#나는 사직을 강요당했다.
+
+[395]
+#I was compelled to confess.
+#나는 할 수 없이 자백했다.
+
+[396]
+#I scalded my tongue on the hot soup.
+#나는 뜨거운 국에 혀를 데었다.
+
+[397]
+#I was shouldered aside.
+#사람들이 어깨로 나를 한쪽으로 밀었다.
+
+[398]
+#I was squirted with water.
+#나는 물에 젖었다.
+
+[399]
+#I was tripped by him.
+#그가 나를 걸어 넘어뜨렸다.
+
+[400]
+#I was rather nettled by his rudeness.
+#나는 그의 경솔함에 격노했다.
+
+[401]
+#I was dazzled by her beauty.
+#나는 그녀의 아름다움에 매료되었다.
+
+[402]
+#I was struck by her charm.
+#나는 그녀의 매력에 미혹되었다.
+
+[403]
+#I have been misinformed about the date.
+#나는 날짜를 잘못 전했다.
+
+[404]
+#I was terrified out of my wits.
+#나는 놀라서 어찌할 바를 몰랐다.
+
+[405]
+#I was selected to make a speech.
+#나는 연설을 하도록 선출되었다.
+
+[406]
+#I was almost choked by the smoke.
+#나는 연기에 숨이 막혀 거의 질식할 지경이었다.
+
+[407]
+#I hoped I had met him.
+#나는 그를 만날 수 있기를 기대했다.
+
+[408]
+#I was more advantaged than Mary.
+#나는 마리보다 좀 우세하다.
+
+[409]
+#I am far much more careless than you.
+#나는 너보다 많이 부주의하다.
+
+[410]
+#I'm two years older than you are.
+#나는 너보다 두 살이 많다.
+
+[411]
+#I left home earlier than usual.
+#나는 평소보다 일찍 집을 나섰다.
+
+[412]
+#I like you better than he .
+#내가 그보다 훨씬 더 너를 좋아한다.
+
+[413]
+#I am ten years senior to him.
+#나는 그보다 10살이 많다.
+
+[414]
+#I want it worse than before.
+#나는 전보다 더 그것을 하려고 한다.
+
+[415]
+#I must cut my expenses down.
+#나는 반드시 비용을 줄여야 한다.
+
+[416]
+#I must fly.
+#나는 빨리 가야만 한다.
+
+[417]
+#I must have the room cleaned.
+#나는 방을 깨끗이 청소해야 한다.
+
+[418]
+#I must ask you a favour.
+#나는 너에게 한가지 일을 부탁해야 한다.
+
+[419]
+#somehow I must find her.
+#어떻게든지 나는 그녀를 찾아야 한다.
+
+[420]
+#I have to begin now.
+#나는 지금 시작해야만 한다.
+
+[421]
+#I owe you an apology.
+#나는 너에게 사과를 해야 한다.
+
+[422]
+#I must make an apology to her.
+#나는 반드시 그녀에게 사과를 해야 한다.
+
+[423]
+#Is it necessary for me to sign here?.
+#내가 여기에 서명해야 합니까?
+
+[424]
+#I must take care of myself.
+#나는 스스로를 돌봐야만 한다.
+
+[425]
+#I must be going.
+#나는 가야만 한다.
+
+[426]
+#I am bound by my promise.
+#나는 약속을 지켜야만 한다.
+
+[427]
+#I turned away.
+#
+
+[428]
+#I don't much care about going.
+#나는 결코 매우 가고 싶은 것은 아니다.
+
+[429]
+#I don't hate him personally.
+#나는 결코 그를 미워하지 않는다.
+
+[430]
+#Money is no object with me.
+#나는 결코 돈을 염두에 두지는 않는다.
+
+[431]
+#I am not reckoning on her help.
+#나는 결코 그녀의 도움을 기대하지 않는다.
+
+[432]
+#I do not disapprove of him.
+#나는 그를 찬성하지 않은 적이 없다.
+
+[433]
+#I meant no harm.
+#나는 결코 악의는 없었다.
+
+[434]
+#It is not necessary that I should go there.
+#내가 거기에 갈 필요는 없다.
+
+[435]
+#I couldn't very well say no.
+#나는 싫다는 말을 잘 하지 못한다.
+
+[436]
+#I don't see much of him.
+#나는 가끔 그를 만난다.
+
+[437]
+#I've no inclination to be a doctor.
+#나는 의사가 될 마음은 없었다.
+
+[438]
+#I've got no intention of changing my mind.
+#나는 의견을 바꿀 생각이 아니었다.
+
+[439]
+#I can't help drumming this point in.
+#나는 이 점을 강조하지 않을 수 없었다.
+
+[440]
+#I could not avoid doing so.
+#나는 이렇게 하지 않을 수 없었다.
+
+[441]
+#I am ignorant in classical music.
+#나는 클래식 음악을 잘 모른다.
+
+[442]
+#I don't understand scientific terminology.
+#나는 과학술어를 이해하지 못한다.
+
+[443]
+#I am not familiar with that word.
+#나는 그 글자가 익숙치 않다.
+
+[444]
+#I can't make out what you mean.
+#나는 너의 뜻을 이해할 수 없다.
+
+[445]
+#I cannot fathom what you mean.
+#나는 네가 한 말의 뜻을 헤아릴 수가 없다.
+
+[446]
+#I know little German.
+#나는 독일어를 거의 할 줄 모른다.
+
+[447]
+#I'm no linguist.
+#나는 외국어를 할 줄 모른다.
+
+[448]
+#I can't understand modern art.
+#나는 현대 예술을 이해하지 못한다.
+
+[449]
+#I am not averse to a good meal.
+#나는 좋은 음식을 싫어하지 않는다.
+
+[450]
+#I have no objection to hearing it.
+#나는 그 일에 관해 듣는 것에 반대하지 않는다.
+
+[451]
+#I am unhappy about letting her go alone.
+#나는 그녀 혼자서 가게 하는 것이 안심이 되지 않는다.
+
+[452]
+#I am doubtful about keeping my promise.
+#나는 내가 약속을 지킬 것이라고 확신하지는 못하겠다.
+
+[453]
+#I dare not say who'll go abroad.
+#나는 누가 출국하게 될 것인지를 감히 말할 수 없었다.
+
+[454]
+#I daren't ask him.
+#나는 감히 그에게 묻지 못했다.
+
+[455]
+#I won't venture a step farther.
+#나는 감히 다시 앞으로 나가지 못했다.
+
+[456]
+#I do not care what you think.
+#나는 네가 어떻게 생각하든 관여하지 않겠다.
+
+[457]
+#I am unaccustomed to cooking for myself.
+#나는 밥을 잘 짓지 못한다.
+
+[458]
+#I was diffident about saying so.
+#이런 말을 하기는 정말 어렵다.
+
+[459]
+#I don't take coffee.
+#나는 커피를 마시지 않는다.
+
+[460]
+#I won't keep you long.
+#나는 너를 오래 기다리게 하지 않을 것이다.
+
+[461]
+#I wouldn't stoop to stealing money.
+#나는 돈을 훔칠 만큼 타락하지는 않았다.
+
+[462]
+#I shall not gird at realism.
+#나는 현실주의를 비웃지 않는다.
+
+[463]
+#I'll skip over your rudeness.
+#나는 너희들의 경솔함을 문제 삼지 않을 것이다.
+
+[464]
+#I will not be imposed upon.
+#내가 속을 리 없다.
+
+[465]
+#I won't stay long.
+#나는 오래 머무를 수 없다.
+
+[466]
+#I won't go to such places again.
+#나는 그런 곳에 다시는 가지 않을 것이다.
+
+[467]
+#None of your tricks with me !
+#나는 다시는 너에게 속지 않을 것이다.
+
+[468]
+#I am not envious of your success.
+#나는 너의 성공을 시기하지 않는다.
+
+[469]
+#I have no recollection of it.
+#나는 이 일을 기억하지 않을 것이다.
+
+[470]
+#I'm pleased with myself.
+#나는 나도 모르게 득의양양하며 즐거워했다.
+
+[471]
+#I'll write soon.
+#내가 곧 다시 연락할 것이다.
+
+[472]
+#I will soon start for home.
+#나는 곧 집으로 떠날 것이다.
+
+[473]
+#I am due for an increase in pay soon.
+#나는 곧 월급을 인상하기로 되어있다.
+
+[474]
+#I'll be back before long.
+#나는 곧 돌아올 것이다.
+
+[475]
+#I am not concerned with niceties.
+#나는 사소한 일에 구애되지 않는다.
+
+[476]
+#I didn't take in what you were saying.
+#나는 네가 무슨 말을 하고 있는 것인지 모르겠다.
+
+[477]
+#I don't glom on to what he is saying.
+#나는 그가 무슨 말을 하고 있는 것인지 모르겠다.
+
+[478]
+#I don't grasp his meaning.
+#나는 그의 뜻을 납득할 수가 없다.
+
+[479]
+#I don't grudge the expenses.
+#나는 이 비용을 아까워하지 않는다.
+
+[480]
+#I should think not.
+#나는 그렇게 생각하지 않는다.
+
+[481]
+#I can't undertake that you will succeed.
+#나는 네가 성공할 것이라는 것을 확신할 수가 없다.
+
+[482]
+#I cannot avoid meeting him.
+#나는 그를 피할 수가 없다.
+
+[483]
+#I cannot avoid seeing her.
+#나는 그녀를 만나지 않을 수 없다.
+
+[484]
+#I cannot stomach sweets.
+#나는 단 음식을 먹을 수 없다.
+
+[485]
+#I couldn't start the car.
+#나는 그 차를 출발시킬 수 없었다.
+
+[486]
+#offhand,I can't say.
+#나는 즉석에서 되는대로 말할 수 없다.
+
+[487]
+#I cannot see her.
+#나는 그녀를 볼 수 없다.
+
+[488]
+#I am not sure of his age.
+#나는 그의 나이를 확실히 모르겠다.
+
+[489]
+#I cannot condone the use of violence.
+#나는 폭력을 사용하는 것을 용서할 수 없다.
+
+[490]
+#I can't fathom what you mean.
+#나는 너의 뜻을 납득할 수 없다.
+
+[491]
+#I'm incapable of deceiving you.
+#내가 너를 속일 리가 없다.
+
+[492]
+#I cannot procure employment.
+#나는 직업을 구할 수 없다.
+
+[493]
+#I can't bear being cheated.
+#나는 다른 사람에게 속는 것을 참을 수 없다.
+
+[494]
+#I can't stick that fellow.
+#나는 그 녀석을 참을 수가 없다.
+
+[495]
+#I cannot endure the sight.
+#나는 이런 장면을 용인할 수 없다.
+
+[496]
+#I cannot allow such conduct.
+#나는 이런 행동을 용납할 수 없다.
+
+[497]
+#I am not equal to the task.
+#나는 그 일을 감당할 수가 없다.
+
+[498]
+#I can't subscribe to unnecessary killing.
+#나는 죄없는 사람을 마구잡이로 죽이는 것에 동의할 수 없다.
+
+[499]
+#I can't wait much longer.
+#나는 더 이상 기다릴 수가 없다.
+
+[500]
+#I can go no farther.
+#나는 더 이상 앞으로 갈 수 없다.
+
+[501]
+#I can't walk any more.
+#나는 더 이상 걷지 못하겠다.
+
+[502]
+#I cannot subscribe to that opinion.
+#나는 그 의견에 찬성할 수 없다.
+
+[503]
+#I cannot command the sum.
+#나는 이 금액을 분배할 수 없다.
+
+[504]
+#I could not deter him from going there.
+#나는 그가 거기에 가는 것을 막을 수 없었다.
+
+[505]
+#I'm rather hazy about how to reply.
+#나는 어떻게 대답해야 할지를 몰랐다.
+
+[506]
+#just what it is I don't know.
+#나는 그것이 무엇인지를 잘 모르겠다.
+
+[507]
+#I cannot bear to see the scene.
+#나는 이 장면을 볼 수가 없다.
+
+[508]
+#I don't know either boy.
+#나는 이 두 남자를 모릅니다.
+
+[509]
+#I'm no good at figures!
+#나는 계산을 잘 못한다.
+
+[510]
+#I am not laughing at you.
+#나는 너를 비웃는 것이 아니다.
+
+[511]
+#I am not a lawyer.
+#나는 변호사가 아니다.
+
+[512]
+#I am not of that feather.
+#나는 그런 부류의 사람이 아니다.
+
+[513]
+#I was not born yesterday.
+#나는 어제 태어난 사람이 아니다.
+
+[514]
+#I am a stranger in this city .
+#나는 이 도시에 대해 잘 모른다.
+
+[515]
+#I am new to this district this business].
+#나는 이 지역에 대해 잘 모른다.
+
+[516]
+#I am not clear what she means.
+#나는 그녀의 뜻을 확실히는 모르겠다.
+
+[517]
+#I'm not overly tired.
+#나는 별로 피곤하지 않다.
+
+[518]
+#I don't get much exercise.
+#나는 그다지 활동하지 않는다.
+
+[519]
+#I'm afraid I don't agree with you there.
+#나는 너의 견해에 동의하지 않는다.
+
+[520]
+#I won't consent to have her come home.
+#나는 그녀가 집에 돌아가는 것에 동의하지 않는다.
+
+[521]
+#I'm not late,am I?
+#나 늦지 않았지요?
+
+[522]
+#I don't bother about it.
+#나는 이 일로 고민하지 않는다.
+
+[523]
+#I'm not accustomed to getting up so early.
+#나는 이렇게 일찍 일어나는 것에 익숙하지 않다.
+
+[524]
+#I have no gust to antiquities.
+#나는 골동품을 좋아하지 않는다.
+
+[525]
+#I don't like disturbing others.
+#나는 다른 사람을 방해하는 것을 좋아하지 않는다.
+
+[526]
+#I don't fancy acting as chairman.
+#나는 의장이 되는 것을 원치 않는다.
+
+[527]
+#I dislike being kept waiting.
+#나는 기다리는 것을 좋아하지 않는다.
+
+[528]
+#I don't like my coffee sweetened.
+#나는 커피 마시는 것을 좋아하지 않는다.
+
+[529]
+#I don't like toast burnt.
+#나는 구운 토스트를 좋아하지 않는다.
+
+[530]
+#I am tired of cold weather.
+#나는 추운 날씨를 좋아하지 않는다.
+
+[531]
+#I don't like the sound of it.
+#나는 그런 멜로디를 좋아하지 않는다.
+
+[532]
+#I don't like your tone of voice.
+#나는 너의 그런 어조를 좋아하지 않는다.
+
+[533]
+#I don't like fog.
+#나는 안개를 좋아하지 않는다.
+
+[534]
+#I hate getting to the school late.
+#나는 학교에 지각하는 것을 매우 싫어한다.
+
+[535]
+#I dislike this kind of food.
+#나는 이러한 종류의 음식을 싫어한다.
+
+[536]
+#I disbelieve him .
+#나는 그를 믿지 않는다.
+
+[537]
+#I don't believe what he said.
+#나는 그가 하는 말들을 믿지 않는다.
+
+[538]
+#I don't believe what she says.
+#나는 그녀의 말을 믿지 않는다.
+
+[539]
+#I disbelieve in UFOs.
+#나는 UFO를 믿지 않는다.
+
+[540]
+#I don't buy it.
+#나는 그 일을 믿지 않는다.
+
+[541]
+#I'm distrustful of such cheap goods.
+#이렇게 싼 물건은 좀 의심스럽다.
+
+[542]
+#I don't feel disposed to help you.
+#나는 너를 돕고 싶지 않다.
+
+[543]
+#I don't want to rush you.
+#나는 너를 몰아치고 싶지 않다.
+
+[544]
+#I have no stomach for a fight.
+#나는 다투고 싶지 않다.
+
+[545]
+#I don't want to keep you back from your work.
+#나는 너의 일을 방해하고 싶지 않다.
+
+[546]
+#I don't want to fall foul of the police.
+#나는 경찰과 충돌하고 싶지 않다.
+
+[547]
+#I have no wish to quarrel with you.
+#나는 너와 말다툼하고 싶지 않다.
+
+[548]
+#I don't want to reflect on your honesty.
+#나는 너의 성실함을 의심하고 싶지 않다.
+
+[549]
+#I won't reply to this letter.
+#나는 이 편지에 답장하지 않을 것이다.
+
+[550]
+#I shall not concern myself with his affairs.
+#나는 그의 일에 개입하지 않을 생각이다.
+
+[551]
+#I don't want to get involved in the matter.
+#나는 이 일에 말려들고 싶지 않다.
+
+[552]
+#I don't like to ask my parents for money.
+#나는 부모님께 돈을 요구하고 싶지 않다.
+
+[553]
+#I object to waiting another year.
+#나는 다시 1년을 기다릴 수 없다.
+
+[554]
+#I have no reliance about his assurance.
+#나는 그의 보증을 신뢰하지 않는다.
+
+[555]
+#I have no belief in you.
+#나는 너를 신임하지 않는다.
+
+[556]
+#I don't like girls to smoke.
+#나는 여자가 다배 피우는 것을 좋아하지 않는다.
+
+[557]
+#I have difficulty remembering names.
+#나는 사람 이름을 쉽게 기억하지 못한다.
+
+[558]
+#I won't wear a crumpled dress.
+#나는 주름진 옷을 입고 싶지 않다.
+
+[559]
+#I won't go!
+#나는 가기를 원하지 않는다.
+
+[560]
+#I feel disinclined for an argument.
+#나는 언쟁하고 싶지 않다.
+
+[561]
+#I don't smoke anymore.
+#나는 다시는 담배를 피우지 않겠다.
+
+[562]
+#I won't believe you any more.
+#나는 다시는 너를 믿지 않을 것이다.
+
+[563]
+#I have nothing more to say .
+#나는 더 이상 할 말이 없다.
+
+[564]
+#I don't care a groat.
+#나는 조금도 개의치 않는다.
+
+[565]
+#I don't associate myself with his proposal.
+#나는 그의 제안에 찬성하지 않는다.
+
+[566]
+#I am not friendly to his policy.
+#나는 그의 정책을 찬성하지 않는다.
+
+[567]
+#I don't share your opinion.
+#나는 너의 의견에 찬성하지 않는다.
+
+[568]
+#I don't think so.
+#나는 그렇게 생각하지 않는다.
+
+[569]
+#I don't know when to go.
+#나는 언제 가야 하는지를 모른다.
+
+[570]
+#I was uncertain how to act.
+#나는 어떻게 해야 하는지를 모른다.
+
+[571]
+#The difference is imperceptible to me.
+#나는 그 차이를 모르겠다.
+
+[572]
+#I don't know about that matter.
+#나는 그 일에 대해서 모른다.
+
+[573]
+#I wonder how old are you.
+#나는 네가 몇 살인지를 모른다.
+
+[574]
+#I don't know the exact date.
+#나는 확실한 날짜를 모른다.
+
+[575]
+#I couldn't discover how to use it.
+#나는 그것을 어떻게 사용하는지 모른다.
+
+[576]
+#I don't know what time it is.
+#나는 지금이 몇 시인지를 모른다.
+
+[577]
+#I did not know what to reply.
+#나는 어떻게 대답해야 할지를 몰랐다.
+
+[578]
+#I disavow you.
+#나는 너와 관련된 일을 모른다.
+
+[579]
+#I don't know what to do.
+#나는 어떻게 해야 하는지를 모르겠다.
+
+[580]
+#I cannot say which way to go.
+#나는 어느 길로 가야 하는지를 모르겠다.
+
+[581]
+#I lay no claim to being a scholar.
+#
+
+[582]
+#I suspect he is sick.
+#나는 그가 아마도 병이 났을 것이라고 추측된다.
+
+[583]
+#I suppose he's gone home.
+#그가 이미 돌아왔을 것이다.
+
+[584]
+#I don't go on that at all.
+#나야말로 그것을 싫어한다.
+
+[585]
+#I don't buy that nonsense.
+#나야말로 그런 헛소리는 믿지 않는다.
+
+[586]
+#I'll be jiggered if I do it!
+#나야말로 그런 일은 하지 않는다.
+
+[587]
+#I slipped on a banana peel .
+#나는 바나나 껍질을 밟고 미끄러졌다.
+
+[588]
+#I smelled some trouble.
+#나는 좀 번거롭다고 느꼈다.
+
+[589]
+#I sent him for some milk.
+#나는 그를 보내 우유를 사오도록 했다.
+
+[590]
+#I lingered away my days on the sickbed.
+#나는 병석에서 벗어나지 못하고 나날을 보냈다.
+
+[591]
+#I often visit him.
+#내가 자주 너를 방문하겠다.
+
+[592]
+#I have often been to India.
+#나는 자주 인도에 간다.
+
+[593]
+#I bicycle a good deal.
+#나는 늘 자전거를 탄다.
+
+[594]
+#I have often been to America.
+#나는 자주 미국에 간다.
+
+[595]
+#I often recreate myself with gardening.
+#나는 항상 원예로 소일을 삼는다.
+
+[596]
+#I can't sing the high notes.
+#나는 고음을 잘 부르지 못한다.
+
+[597]
+#I grant that I was wrong.
+#나는 내가 틀렸다는 것을 인정한다.
+
+[598]
+#I admit that it is true.
+#나는 이 일이 사실이라는 것을 인정한다.
+
+[599]
+#I've had plenty.
+#나는 너무 많이 먹었다.
+
+[600]
+#I eat as much as you.
+#나도 너만큼 먹었다.
+
+[601]
+#I have eaten my breakfast.
+#나는 아침을 먹었다.
+
+[602]
+#Surprise struck me dumb.
+#나는 너무 놀라서 말도 하지 못했다.
+
+[603]
+#I plowed my way through .
+#나는 있는 힘껏 앞으로 나갔다.
+
+[604]
+#I am satiated with chocolate.
+#나는 초콜릿 먹는 것에 물렸다.
+
+[605]
+#I came immediately after I'd eaten.
+#나는 먹자마자 곧 왔다.
+
+[606]
+#I have passed the Senior High School Certificate before leaving school.
+#나는 고등학교 졸업 증서를 가지고 있다.
+
+[607]
+#I gave him a whipping .
+#나는 그를 채찍질했다.
+
+[608]
+#I came out in a cold sweat.
+#나는 온몸에 식은땀이 났다.
+
+[609]
+#Did anybody come here while I was away.
+#내가 외출한 동안 누가 왔었습니까?
+
+[610]
+#I was among the crowd.
+#나는 군중들 틈에 있었다.
+
+[611]
+#I am wearing several articles of clothing.
+#나는 몇 벌의 옷을 입었다.
+
+[612]
+#I take a size 44 shoe.
+#나는 44호 신발을 신는다.
+
+[613]
+#I am clever,he is cleverer.
+#나도 총명한데 그는 더욱 총명하다.
+
+[614]
+#I detached my watch from the chain.
+#나는 시계줄에서 시계를 떼어냈다.
+
+[615]
+#I never eat tripe.
+#나는 절대 위를 먹지 않는다.
+
+[616]
+#I have never dared speak to him.
+#나는 줄곧 그와 이야기할 용기가 없었다.
+
+[617]
+#I never take sides.
+#나는 줄곧 어느 한쪽의 편을 들지 않았다.
+
+[618]
+#I commence from this point.
+#나는 이 점에서부터 시작한다.
+
+[619]
+#I never used to oversleep.
+#나는 지금까지 지나치게 많이 자본 적이 없다.
+
+[620]
+#Not a finger did I lay on him.
+#나는 그를 비난해 본 적이 결코 없다.
+
+[621]
+#I used to walk to school.
+#나는 이전에는 늘 걸어서 학교에 다녔다.
+
+[622]
+#I've seen that film before.
+#나는 전에 그 영화를 본 적 있다.
+
+[623]
+#I hadn't seen him previously.
+#나는 이전에 그를 본 적이 없다.
+
+[624]
+#I passed by her.
+#나는 그녀의 곁을 지나갔다.
+
+[625]
+#I have never flown in an aeroplane.
+#나는 비행기를 타본 적이 없다.
+
+[626]
+#I have never seen a panda.
+#나는 팬더를 본 적이 없다.
+
+[627]
+#I've never been to Paris.
+#나는 파리에 가본 적이 없다.
+
+[628]
+#I have never yet lied.
+#나는 거짓말을 해본 적이 없다.
+
+[629]
+#I have never heard of such a thing.
+#나는 이런 일을 들어본 적이 없다.
+
+[630]
+#It never entered my head that he was dead.
+#나는 그가 이미 죽었다고 생각해 본 적이 없다.
+
+[631]
+#I never learnt to drive a car.
+#나는 운전을 배운 적이 없다.
+
+[632]
+#I departed from my home.
+#나는 집에서 출발했다.
+
+[633]
+#I've known him from a boy upward.
+#나는 어렸을 때부터 그를 알아왔다.
+
+[634]
+#I jumped up out of the chair.
+#나는 의자에서 뛰었다.
+
+[635]
+#I have promised to help them.
+#나는 그들을 도와주기로 약속했다.
+
+[636]
+#I promise to respect your wishes.
+#나는 너의 바람을 고려해 볼 것을 약속한다.
+
+[637]
+#I agree undertake the work.
+#나는 이 일을 하기로 동의했다.
+
+[638]
+#I telegraphed to my father.
+#나는 아버지께 전보를 쳤다.
+
+[639]
+#I telegraphed him for help.
+#나는 그에게 도와달라고 전보를 쳤다.
+
+[640]
+#I telephoned my teacher for advice.
+#나는 선생님께 가르침을 청하려고 전화를 드렸다.
+
+[641]
+#I telephoned him congratulations.
+#나는 전화를 해서 그를 축하하였다.
+
+[642]
+#I telephoned mother to come.
+#나는 전화를 해서 어머니를 오시라고 했다.
+
+[643]
+#I bet that she will come.
+#나는 그녀가 올 것이라고 장담한다.
+
+[644]
+#I'll bet against your winning.
+#나는 네가 이기지 못한다는 데에 걸겠다.
+
+[645]
+#I made a wager that our team would win.
+#나는 우리 팀이 이긴다는 데 내기를 걸었다.
+
+[646]
+#I play golf for relaxation.
+#나는 골프 치는 것으로 기분전환을 한다.
+
+[647]
+#I have finished typing the letters.
+#나는 편지를 다 쳤다.
+
+[648]
+#I won't be long unpacking.
+#소포를 푸는데 긴 시간은 필요없다.
+
+[649]
+#I struck him a blow .
+#나는 그에게 일격을 가했다.
+
+[650]
+#I got cleaned out playing cards.
+#나는 트럼프를 해서 돈을 모두 잃었다.
+
+[651]
+#I won ↔20 at cards.
+#나는 트럼프를 해서 20파운드를 땄다.
+
+[652]
+#A chill came over me.
+#나는 몸서리가 쳐졌다.
+
+[653]
+#I expect to be there this evening.
+#나는 오늘밤에 거기에 갈 계획이다.
+
+[654]
+#I mean to go tomorrow.
+#나는 내일 갈 예정이다.
+
+[655]
+#I calculate to climb that mountain.
+#나는 그 산을 오르려고 한다.
+
+[656]
+#I figure on going there in the evening.
+#나는 저녁에 거기에 갈 계획이다.
+
+[657]
+#I intend to report you to the police.
+#나는 경찰에게 너를 고발하려 한다.
+
+[658]
+#I propose to go to London on Tuesday.
+#나는 화요일에 런던에 갈 생각이다.
+
+[659]
+#I'm planning on visiting Paris.
+#나는 파리를 방문할 계획이다.
+
+[660]
+#My heart leaped into my mouth.
+#나는 놀라서 펄쩍 뛰었다.
+
+[661]
+#I shall doubtless see you tomorrow.
+#나는 아마도 내일 너를 만날 수 있을 것이다.
+
+[662]
+#I shouted to make them hear.
+#나는 그들이 들을 수 있도록 크게 불렀다.
+
+[663]
+#I shouted to him to look out.
+#나는 그에게 조심하라고 큰소리로 외쳤다.
+
+[664]
+#I eat dinner at about 7 o'clock.
+#나는 대략 7시쯤에 저녁을 먹는다.
+
+[665]
+#I am worried that he has not recovered yet.
+#나는 그가 아직 회복하지 못해서 걱정이다.
+
+[666]
+#I am anxious for his safety.
+#나는 그의 안전이 걱정된다.
+
+[667]
+#I's worried about his health.
+#나는 그의 건강이 걱정이다.
+
+[668]
+#I have a fear that he will betray us.
+#나는 그가 우리를 배반할까 봐 걱정이다.
+
+[669]
+#I am anxious that he may fail.
+#나는 그가 실패할까 봐 염려된다.
+
+[670]
+#I fear lest the rumor may be true.
+#
+
+[671]
+#I wish you ' d pack yourself off at once.
+#나는 네가 즉시 떠나기를 바란다.
+
+[672]
+#I conduct tours.
+#나는 여행 가이드가 되었다.
+
+[673]
+#In my day things were different.
+#내가 살던 세상 형편과 지금은 다르다.
+
+[674]
+#I went that instant.
+#나는 그때 곧 갔다.
+
+[675]
+#I was living in the West End then.
+#나는 당시 서구에 살고 있었다.
+
+[676]
+#I am inclined to believe that he is innocent.
+#나는 오히려 그가 무죄라는 것을 믿었다.
+
+[677]
+#I won't object to a cup of tea.
+#나는 오히려 차를 마시고 싶었다.
+
+[678]
+#I saw it everywhere.
+#나는 어디에서든지 그것을 보았다.
+
+[679]
+#H I am.
+#내가 돌아왔습니다.
+
+[680]
+#I'm going over to Mary's house.
+#나는 그녀를 만나러 마리의 집으로 갔다.
+
+[681]
+#He had already gone when I arrived.
+#내가 도착했을 때 그는 이미 가고 없었다.
+
+[682]
+#I must admit to feeling ashamed.
+#나는 내가 부끄럽게 느꼈다는 것을 시인해야 한다.
+
+[683]
+#I made booty of a good radio.
+#나는 좋은 라디오 하나를 얻었다.
+
+[684]
+#I must be dashing off now.
+#나는 곧 가야 한다.
+
+[685]
+#I have a migraine.
+#나는 편두통이 생겼다.
+
+[686]
+#I owe you thanks.
+#나는 너에게 사과를 해야 한다.
+
+[687]
+#It's a short trip to my office.
+#나의 사무실이 이 부근에 있다.
+
+[688]
+#My back itches.
+#등이 가렵다.
+
+[689]
+#My nose has been blocked up.
+#코가 막혔다.
+
+[690]
+#My watch isn't right.
+#나의 시계가 잘 맞지 않는다.
+
+[691]
+#Where has my watch gone ?.
+#나의 시계가 어디로 갔지?
+
+[692]
+#My watch has just packed up.
+#시계가 막 멎었다.
+
+[693]
+#I had my watch stolen.
+#누가 내 시계를 훔쳐갔다.
+
+[694]
+#I have the same watch as you have.
+#내 시계는 너의 것가 같다.
+
+[695]
+#My watch has stopped.
+#시계가 멎었다.
+
+[696]
+#My watch needs repair.
+#내 시계는 수리를 해야 한다.
+
+[697]
+#My watch says ten minutes after ten.
+#내 시계가 10시 10분을 가리키고 있다.
+
+[698]
+#My uncle is a high school principal.
+#나의 백부는 고등학교 교장 선생님이다.
+
+[699]
+#My eldest son has a strong will.
+#나의 큰아들은 의지가 굳다.
+
+[700]
+#My car runs first-rate.
+#내 차는 아주 잘 달린다.
+
+[701]
+#My grades are all above B.
+#나의 성적은 모두 B 이상이다.
+
+[702]
+#I keep my savings in the bank.
+#나는 은행에 저축을 한다.
+
+[703]
+#My savings quickly shrank.
+#나의 예금이 급속히 줄어든다.
+
+[704]
+#My brother is two years younger than I am.
+#나의 남동생은 나보다 2살이 적다.
+
+[705]
+#My brother is a six-footer.
+#나의 남동생은 키가 6피트이다.
+
+[706]
+#I was connected to the wrong person.
+#내가 전화를 잘못 걸었다.
+
+[707]
+#My son's contracted a severe fever.
+#나의 아들이 열이 난다.
+
+[708]
+#My son is aged 10 years.
+#나의 아들은 10살이다.
+
+[709]
+#My ears are still ringing.
+#내 귀에서 아직도 윙윙 소리가 난다.
+
+[710]
+#My French is rusty.
+#나의 프랑스어는 아직 서툴다.
+
+[711]
+#My room looks to the north.
+#나의 방은 북향이다.
+
+[712]
+#My house is insured against fire.
+#나의 집은 화재보험에 가입되어 있다.
+
+[713]
+#My father is half paralyzed.
+#나의 아버지는 반신불수이다.
+
+[714]
+#My father intended me to become a doctor.
+#나의 아버지는 내가 의사가 되기를 원하신다.
+
+[715]
+#I'm up to my ears in work.
+#일이 산더미처럼 쌓였다.
+
+[716]
+#My work is piling up.
+#일이 갈수록 많아진다.
+
+[717]
+#My dog never bites.
+#우리 개는 통 사람을 물지 않는다.
+
+[718]
+#My aunt washes for a living.
+#우리 고모는 세탁소를 하신다.
+
+[719]
+#I am British by nationality.
+#나의 국적은 영국이다.
+
+[720]
+#My child speaks highly of you.
+#나의 아이는 나를 아주 존경한다.
+
+[721]
+#My remarks were not aimed at you.
+#나의 말은 너를 견주어 한 말이 아니다.
+
+[722]
+#My words made her angry.
+#그녀는 나의 말에 화를 냈다.
+
+[723]
+#My plan is different from yours.
+#나의 계획은 너의 계획과 다르다.
+
+[724]
+#I've got a short memory.
+#나는 기억력이 안 좋다.
+
+[725]
+#My house looks south.
+#우리집은 남향이다.
+
+[726]
+#My house confronts hers.
+#우리집과 그녀의 집은 서로 마주보고 있다.
+
+[727]
+#My family are all very well.
+#우리 가족은 모두 잘 있다.
+
+[728]
+#My shoulder is playing up horribly .
+#어깨가 아주 심하게 아프다.
+
+[729]
+#Where are my scissors?.
+#내 가위가 어디에 있지?
+
+[730]
+#My suggestion didn't penetrate.
+#나의 건의가 관철되지 않았다.
+
+[731]
+#I have an itch on my foot.
+#발이 가렵다.
+
+[732]
+#I have a pain in her horse.
+#발이 매우 아프다.
+
+[733]
+#My foot hurts awfully.
+#발이 매우 아프다.
+
+[734]
+#My feet are killing me.
+#나는 발이 아파 죽겠다.
+
+[735]
+#My feet are killing me!
+#나는 발이 아파 죽을 지경이다.
+
+[736]
+#My sister is the oldest.
+#나의 언니가 첫째다.
+
+[737]
+#My wife is a real torment to me.
+#나의 아내는 나를 정말 괴롭게 한다.
+
+[738]
+#My course has not yet been determined.
+#나의 계획은 아직 확정되지 않았다.
+
+[739]
+#I've got a flat.
+#나의 타이어가 빵꾸 났다.
+
+[740]
+#My cat and dog live together in perfect harmony.
+#나의 고양이와 개는 서로 잘 지낸다.
+
+[741]
+#My cat is the epitome of laziness.
+#나의 고양이는 게으름의 화신이다.
+
+[742]
+#Where has my hat got to?
+#내 모자 어디 갔어?
+
+[743]
+#My first name is Bill.
+#나의 이름은 Bill입니다.
+
+[744]
+#My name is spelled BOYD.
+#내 이름의 철자는 BOYD입니다.
+
+[745]
+#My mother suffers from backache.
+#어머니는 등이 아파서 고생하신다.
+
+[746]
+#My mother is widowed.
+#나의 어머니는 과부이다.
+
+[747]
+#My native tongue is English.
+#나의 모국어는 영어이다.
+
+[748]
+#I'm twice your age.
+#나의 나이가 너의 두 배이다.
+
+[749]
+#My car's been pinched!
+#내 차가 온데 간데 없어졌다.
+
+[750]
+#The point of my pencil has broken off.
+#만년필 촉이 부러졌다.
+
+[751]
+#All my money has gone.
+#돈이 전부 없어졌다.
+
+[752]
+#I am loaded.
+#나는 총에 총알을 장전했다.
+
+[753]
+#My youth is past.
+#나의 청춘은 이미 지나갔다.
+
+[754]
+#I was in a terrible bad way.
+#나의 상황이 아주 나쁘다.
+
+[755]
+#I've been done out of my rights.
+#나의 권리가 다른 사람에 의해 사취당했다.
+
+[756]
+#My world has changed.
+#세계가 이미 변했다.
+
+[757]
+#enough about my affairs.
+#내 일에 대해 충분히 얘기했다.
+
+[758]
+#I have twenty-twenty vision.
+#나의 시력은 정상이다.
+
+[759]
+#I could not take my eyes off her.
+#나는 그녀에게서 시선을 뗄 수가 없었다.
+
+[760]
+#I mashed my hand in the door.
+#나는 문에 손을 찧었다.
+
+[761]
+#My hands are icy.
+#내 손이 얼음같이 차다.
+
+[762]
+#My hands are benumbed with cold.
+#나의 손이 얼어서 마비되었다.
+
+[763]
+#I've burnt my hand.
+#나는 손을 데었다.
+
+[764]
+#I got my hand caught in the door.
+#나의 손이 문틈에 걸렸다.
+
+[765]
+#My fingers were bitten by frost.
+#나의 손가락이 얼었다.
+
+[766]
+#My fingers have stopped feeling.
+#나의 손가락은 이미 감각을 잃었다.
+
+[767]
+#My book has a dark blue cover.
+#나의 책은 짙은 남색 표지이다.
+
+[768]
+#My mathematics are weak.
+#나는 수학에 약하다.
+
+[769]
+#My ideas are at variance with his.
+#나의 사상은 그의 사상과 다르다.
+
+[770]
+#My thoughts are in a whirl.
+#생각이 혼란스럽다.
+
+[771]
+#I'm rather bad at sums.
+#나는 계산이 아주 떨어지낟.
+
+[772]
+#My soup is not even warm.
+#국이 따뜻하지도 않다.
+
+[773]
+#I weigh less than I used to.
+#이전보다 체중이 줄었다.
+
+[774]
+#My hair stood on end.
+#나의 머리카락이 오히려 섰다.
+
+[775]
+#My hair has grown very long.
+#나의 머리카락이 아주 많이 길었다.
+
+[776]
+#My hair is quite a mess.
+#머리카락이 다 흐트러졌다.
+
+[777]
+#My head aches terribly.
+#머리가 많이 아프다.
+
+[778]
+#My head is heavy.
+#나는 머리가 둔하다.
+
+[779]
+#My leg is asleep.
+#다리가 저리다.
+
+[780]
+#My leg felt as though it was broken.
+#다리가 마치 부러진 것 같다.
+
+[781]
+#My leg hurts.
+#다리가 좀 아프다.
+
+[782]
+#My leg's bad again.
+#다리가 또 안 좋아졌다.
+
+[783]
+#My coat pales beside his.
+#내 코트가 그의 것보다 좀 못하다.
+
+[784]
+#My stomach griped.
+#위가 아주 아프다.
+
+[785]
+#My bedroom looks to the south.
+#나의 침실은 남향이다.
+
+[786]
+#My bedroom is just above.
+#침실은 위쪽에 있다.
+
+[787]
+#My hopes were blasted.
+#나의 희망이 모두 깨졌다.
+
+[788]
+#My hope is that Ican marry her.
+#나의 희망은 그녀와 결혼하는 것이다.
+
+[789]
+#My little girl is ill.
+#나의 딸이 아프다.
+
+[790]
+#My shoes let in water.
+#나의 신발은 물이 샌다.
+
+[791]
+#I had my shoes mended.
+#나의 신발을 수리했다.
+
+[792]
+#My shoes were oozing with water.
+#나의 신발에 물이 스며들었다.
+
+[793]
+#My shoes want mending.
+#내 신발은 수리를 해야 한다.
+
+[794]
+#My new shoes pinch.
+#나의 새 신이 너무 꽉 낀다.
+
+[795]
+#My precious darling!
+#나의 소중한 연인!
+
+[796]
+#Grief pierced my heart.
+#나의 마음이 극도로 비통하다.
+
+[797]
+#My heart gave a throb.
+#나는 가슴이 두근거렸다.
+
+[798]
+#My heart throbbed heavily.
+#나는 가슴이 굉장히 두근거렸다.
+
+[799]
+#My heart bleeds for them .
+#그들 때문에 마음이 아팠다.
+
+[800]
+#My letter remains unanswered.
+#나의 편지에 아직 답장이 오지 않았다.
+
+[801]
+#My brother gets up later than I do.
+#나의 형이 나보다 늦게 일어난다.
+
+[802]
+#My brother got up earlier than I did.
+#나의 형이 나보다 일찍 일어난다.
+
+[803]
+#My brother has a bad headache.
+#나의 형은 머리가 심하게 아프다.
+
+[804]
+#My brother wants to learn how to dance.
+#나의 형은 춤을 배우고 싶어 한다.
+
+[805]
+#My eyes are stinging from the smoke.
+#담배 연기 때문에 눈이 아팠다.
+
+[806]
+#The dust has got into my eye.
+#눈에 먼지가 들어갔다.
+
+[807]
+#My glasses steamed up.
+#나의 안경이 흐릿해졌다.
+
+[808]
+#I measure 30 inches round the waist.
+#나의 허리둘레는 30인치이다.
+
+[809]
+#My girth is increasing.
+#나의 허리둘레가 갈수록 굵어지고 있다.
+
+[810]
+#My dress got hitched on a nail.
+#나의 옷이 못에 걸렸다.
+
+[811]
+#My opinion is identical with yours.
+#나의 의견은 너의 의견과 같다.
+
+[812]
+#I wobbled in my opinion.
+#나는 우물쭈물하며 결단을 내리지 못했다.
+
+[813]
+#such was not my intention.
+#나의 뜻은 그런 게 아니다.
+
+[814]
+#My bank balance isn't very large.
+#우리 은행은 예금이 많지 않다.
+
+[815]
+#I had a pain in my right side.
+#나의 오른쪽 옆구리가 아프다.
+
+[816]
+#My husband is out of work.
+#나의 남편은 직장을 잃었다.
+
+[817]
+#How much does my bill come to altogether?.
+#나의 계산액이 모두 얼마입니까?
+
+[818]
+#I've already paid.
+#나는 이미 다 지불했다.
+
+[819]
+#My work is in teaching .
+#나의 직업은 선생님이다.
+
+[820]
+#My weekends are sacrosanct.
+#나의 주말은 아주 귀중한 것이다.
+
+[821]
+#My bad tooth worries me.
+#나는 충치 때문에 고통스럽다.
+
+[822]
+#My ancestors came from Spain.
+#나의 조상은 스페인인이다.
+
+[823]
+#I've got a pain in my left side.
+#나는 몸 왼쪽이 아프다.
+
+[824]
+#I climbed up to the top of the hill.
+#나는 산꼭대기까지 올라갔다.
+
+[825]
+#I cannot wait.
+#나는 기다릴 수 없다.
+
+[826]
+#I had a weary wait.
+#나는
+
+[827]
+#I am awaiting your reply.
+#나는 너의 답장을 기다리고 있다.
+
+[828]
+#I'm awaiting your good reply.
+#나는 너희들의 좋은 소식을 기다리고 있다.
+
+[829]
+#I waited an hour.
+#나는 한 시간을 기다렸다.
+
+[830]
+#I waited for three solid hours.
+#나는 꼬박 세 시간을 기다렸다.
+
+[831]
+#I'm fed up(with)waiting for him.
+#나는 그를 기다리는데 너무나 지겨웠다.
+
+[832]
+#My brother detests spiders.
+#나의 남동생은 거미를 몹시 싫어한다.
+
+[833]
+#My brother is drumming on the piano.
+#나의 남동생이 피아노를 치고 있다.
+
+[834]
+#My brother lives next door to us.
+#나의 남동생은 우리 옆집에 살고 있다.
+
+[835]
+#I nodded to show that I agreed.
+#나는 고개를 끄덕여서 동의한다는 것을 표시했다.
+
+[836]
+#I cabled him some money.
+#나는 전신환으로 그에게 돈을 조금 보냈다.
+
+[837]
+#I dropped into the chair.
+#나는 의자위로 떨어졌다.
+
+[838]
+#I had a new pair of shoes made.
+#나는 새 신발을 맞췄다.
+
+[839]
+#I lost my watch,which is not found yet.
+#나는 시계를 잃어버렸는데 아직도 찾지 못했다.
+
+[840]
+#I take your point.
+#나는 너의 뜻을 이해한다.
+
+[841]
+#I got you.
+#나는 너의 뜻을 알았다.
+
+[842]
+#I have a knowledge of astronomy.
+#나는 천문학에 관해 조금 안다.
+
+[843]
+#I did it unaided.
+#나는 혼자서 그 일을 완성했다.
+
+[844]
+#I concluded it to be the best.
+#나는 이것이 가장 좋은 것이라고 단정지었다.
+
+[845]
+#I tell you flat.
+#나는 단호하게 너에게 말한다.
+
+[846]
+#I flatly refuse to come.
+#나는 단호하게 오는 것을 거절했다.
+
+[847]
+#Our team triumphed over the visiting team.
+#우리팀이 원정팀을 격파했다.
+
+[848]
+#Our team is bound to win.
+#우리팀이 반드시 이길 것이다.
+
+[849]
+#Our team was victorious over theirs .
+#우리팀이 그들 팀을 이겼다.
+
+[850]
+#I am hopeful of success.
+#나는 성공에 대해 큰 희망을 가지고 있다.
+
+[851]
+#I am not at all assured of success.
+#나는 성공에 대한 자신이 조금도 없다.
+
+[852]
+#I am hopeless of success .
+#나는 성공의 희망을 잃었다.
+
+[853]
+#I don't know anything about it.
+#나는 이 일에 대해 아는 것이 하나도 없다.
+
+[854]
+#Little did I think of it .
+#나는 이것에 대해 아주 조금 생각해 봤을 뿐이다.
+
+[855]
+#Fishing is a closed book to me.
+#나는 낚시에 관해서는 조금도 모른다.
+
+[856]
+#I felt nervous about the result.
+#나는 결과에 대해 불안감을 느낀다.
+
+[857]
+#I am perplexed at the result.
+#나는 결과에 대해 당혹감을 느낀다.
+
+[858]
+#Alcohol is anathema to me.
+#나는 술이라면 원한이 골수에 사무친다.
+
+[859]
+#I am satisfied with the result of the examination.
+#나는 시험 결과에 매우 만족한다.
+
+[860]
+#I have no memory of my mother.
+#나는 어머니에 대한 기억이 희미하다.
+
+[861]
+#I have a low opinion of that book.
+#나는 그 책을 아주 수준이 낮다고 평가한다
+
+[862]
+#I'm pleased with your work.
+#나는 너의 일하는 것에 아주 만족한다.
+
+[863]
+#I am satisfied with your explanation.
+#나는 너의 설명에 매우 만족한다.
+
+[864]
+#I wonder at you .
+#나는 너에게 아주 놀랐다.
+
+[865]
+#I can never thank you enough.
+#나는 너에게 감사해 마지 않는다.
+
+[866]
+#I don't bear you any resentment.
+#나는 너에게 원한이 전혀 없다.
+
+[867]
+#I conceal nothing from you.
+#나는 너에게 숨기는 것이 조금도 없다.
+
+[868]
+#You have my unreserved admiration.
+#나는 너에게 끝없이 탄복했다.
+
+[869]
+#I swear on the Bible.
+#나는 성겨에 대고 맹세한다.
+
+[870]
+#I cringed at his story.
+#나는 그의 이야기에 싫증이 났다.
+
+[871]
+#I bear no malice toward him.
+#나는 그에게 조금도 악의가 없다.
+
+[872]
+#I bear a grudge against him.
+#나는 그에게 원한을 품고 있다.
+
+[873]
+#I hit him back.
+#나는 그에게 반격을 가했다.
+
+[874]
+#I have a low opinion of him.
+#나는 그에 대해 높은 평가를 하지 않는다.
+
+[875]
+#I cannot abide him.
+#나는 그에 대해 더 이상 참을 수가 없다.
+
+[876]
+#I was offended with him .
+#나는 그에게 화가 났다.
+
+[877]
+#I have no rancor against him.
+#나는 그에게 아무런 원한도 없다.
+
+[878]
+#I am no good at it.
+#나는 그것에 재능이 없다.
+
+[879]
+#It is of no interest to me.
+#나는 그것에 관심이 없다.
+
+[880]
+#I am heartily tired of it.
+#나는 그것에 아주 물렸다.
+
+[881]
+#I'm very partial to sweet foods.
+#나는 단 음식을 특히 좋아한다.
+
+[882]
+#I'm interested in the theatre.
+#나는 희극에 관심이 있다.
+
+[883]
+#I am disappointed in our new teacher.
+#나는 새로 오신 선생님께 상당히 실망했다.
+
+[884]
+#I'm not much interested in music.
+#나는 음악에 그다지 관심이 없다.
+
+[885]
+#I am very interested in music.
+#나는 음악에 아주 관심이 많다.
+
+[886]
+#I ask nothing of you.
+#나는 너에게 도움 청할 것이 없다.
+
+[887]
+#I am quite strange to this place.
+#나는 이곳에 대해 잘 모른다.
+
+[888]
+#I am not happy about the plan.
+#나는 이 계획에 만족하지 않는다.
+
+[889]
+#I am unfamiliar with the subject.
+#나는 이 문제가 이해되지 않는다.
+
+[890]
+#I have no interest in politics.
+#나는 정치에 관심이 없다.
+
+[891]
+#I'm mixed up about politics--I don't understand it.
+#나는 정치에 대해 아무것도 모른다.
+
+[892]
+#Chinese art is outside my province.
+#나는 중국예술에 대해 문외한이다.
+
+[893]
+#I shot an arrow at the wall.
+#나는 담을 겨냥하고 화살을 하나 쐈다.
+
+[894]
+#I'm plus a dollar.
+#나는 1달러를 더 얻었다.
+
+[895]
+#My son was appointed to reply to the speech.
+#나의 아들이 답사를 하기로 지목되었다.
+
+[896]
+#My son's very capable as a driver.
+#나의 아들은 운전을 아주 잘한다.
+
+[897]
+#I'm twenty-one years old.
+#나는 스물한 살이다.
+
+[898]
+#I found the story interesting.
+#나는 이야기가 아주 재미있다고 생각했다.
+
+[899]
+#I could smell that something was going wrong.
+#나는 일이 잘 되어 가지 못한다는 것을 깨달았다.
+
+[900]
+#I found the gun aiming straight at me.
+#나는 총구가 곧장 나를 겨냥하고 있음을 깨달았다.
+
+[901]
+#I discovered that he was unreliable.
+#나는 그가 믿을 만하지 못하다는 것을 깨달았다.
+
+[902]
+#I find it pays.
+#나는 그것이 수지가 맞다고 생각한다.
+
+[903]
+#I will take an oath that he said so.
+#나는 그가 이렇게 말했다는 것을 맹세할 수 있다.
+
+[904]
+#I pledged my word that I would never break my promise.
+#나는 내가 결코 약속을 깨지 않으리라는 것을 맹세했다.
+
+[905]
+#I pledged myself to protect her.
+#나는 그녀를 보호할 것임을 맹세한다.
+
+[906]
+#I found him lying on the bed.
+#나는 그가 침대에 누워있는 것을 발견했다.
+
+[907]
+#I found her in bad health.
+#나는 그녀의 건강이 좋지 않다는 것을 알았다.
+
+[908]
+#I found her in.
+#나는 그녀가 집에 있다는 것을 알았다.
+
+[909]
+#I lead in French.
+#나는 프랑스어를 제일 잘한다.
+
+[910]
+#I searched through all my papers.
+#나는 모든 서류를 뒤집어 조사했다.
+
+[911]
+#I rummaged up the pin.
+#나는 샅샅이 뒤져 그 핀을 찾았다.
+
+[912]
+#I am opposed to that plan.
+#나는 그 계획에 반대한다.
+
+[913]
+#I object to that kind of talk.
+#나는 그런 종류의 회담을 반대한다.
+
+[914]
+#I am adverse to bringing up the matter again.
+#나는 이 일을 다시 제기하는데 반대한다.
+
+[915]
+#I object to the proposal.
+#나는 이 제안에 반대한다.
+
+[916]
+#I always wash before dinner.
+#나는 밥을 먹기 전에 항상 씻는다.
+
+[917]
+#We will adhere to this offer for...weeks.
+#우리측 제시가격...
+
+[918]
+#We have numerical strength over the enemy.
+#우리측 병력이 적보다 많다.
+
+[919]
+#We enclose...
+#우리측이 동봉하는...
+
+[920]
+#We are quite willing to ...
+#우리측은 매우 원한다...
+
+[921]
+#Our price is highly competitive.
+#우리측이 제시한 가격은 매우 경쟁력이 있다.
+
+[922]
+#We would point out that...
+#우리측이 지적하는...
+
+[923]
+#I am very attached to her sister.
+#나는 그녀의 여동생에게 매우 애정이 간다.
+
+[924]
+#I'm so sorry.
+#내가 정말 미안합니다.
+
+[925]
+#I am so much obliged to you for your kindness.
+#나는 너의 호의에 매우 감격했다.
+
+[926]
+#I'll gladly come and help you.
+#나는 아주 즐거운 마음으로 너를 돕겠다.
+
+[927]
+#I'm plain tired.
+#나는 매우 피곤하다.
+
+[928]
+#I'm longing for him to come home.
+#나는 그가 집에 돌아가기를 바란다.
+
+[929]
+#I would just love to have you here.
+#나는 네가 올 수 있기를 매우 희망한다.
+
+[930]
+#I enjoyed it immensely.
+#나는 그것을 매우 좋아한다.
+
+[931]
+#I'm very fond of ice cream.
+#나는 아이스크림 먹는 것을 매우 좋아한다.
+
+[932]
+#I'm frightfully fond of her.
+#나는 그녀를 매우 좋아한다.
+
+[933]
+#I'm dying for a cigarette.
+#나는 담배를 매우 피우고 싶다.
+
+[934]
+#I am in heaven.
+#나는 매우 행복하다.
+
+[935]
+#Be sure of my availability and eagerness to help in any way I can.
+#내가 언제든지 도울 수 있기를 바란다.
+
+[936]
+#I flew for a doctor.
+#나는 날듯이 달려가서 의사를 청했다.
+
+[937]
+#I bent to the ground and picked up a shell.
+#나는 몸을 구부려서 조개를 주웠다.
+
+[938]
+#I paid him for the rent .
+#나는 그에게 방세를 지불했다.
+
+[939]
+#I paid what was owing.
+#나는 지불해야 하는 모든 돈을 깨끗이 다 지불했다.
+
+[940]
+#My father and mother have been invited out to dinner.
+#우리 부모님은 초대에 응하여 밖에서 저녁식사를 하셨다.
+
+[941]
+#My father has gone out fishing.
+#우리 아버지는 낚시하러 나가셨다.
+
+[942]
+#My father retired at the age of 60.
+#아버지는 60세에 퇴직하셨다.
+
+[943]
+#My father has familiarized me with computers.
+#아버지께서는 나로 하여금 컴퓨터에 익숙하게 하셨다.
+
+[944]
+#Father is a good carpenter.
+#우리 아버지는 훌륭한 목공이시다.
+
+[945]
+#My father has traveled the whole world.
+#우리 아버지께서는 이미 전세계를 유람하셨다.
+
+[946]
+#I was burdened with debt.
+#나는 빚을 졌다.
+
+[947]
+#Shall I go,or shan't I?
+#내가 가야 합니까, 아니면 안 가도 됩니까?
+
+[948]
+#I revised my opinions of him.
+#나는 그에 대한 생각이 바뀌었다.
+
+[949]
+#I changed my mind.
+#나는 생각을 바꾸었다.
+
+[950]
+#I found it hard to believe this.
+#나는 이 일이 믿기 어렵다는 것을 깨달았다.
+
+[951]
+#I'm not feeling very well.
+#나는 매우 불편하다고 느꼈다.
+
+[952]
+#I felt helpless.
+#나는 절망적이라고 느꼈다.
+
+[953]
+#I feel thirsty.
+#나는 갈증이 났다.
+
+[954]
+#I feel completely done!
+#나는 아주 피곤하다고 느꼈다.
+
+[955]
+#I felt her injured.
+#나는 그녀가 상처를 입었다고 느꼈다.
+
+[956]
+#I was quite refreshed.
+#나는 기분이 매우 시원했다.
+
+[957]
+#I felt my heart palpitate.
+#나는 가슴이 두근거림을 느꼈다.
+
+[958]
+#I can feel a sharp pain in my chest.
+#나는 가슴이 심하게 아파옴을 느낄 수 있었다.
+
+[959]
+#I felt the blood flush into my face.
+#나는 얼굴에 피가 흐름을 느꼈다.
+
+[960]
+#I felt disgusted.
+#나는 지겹다고 느꼈다.
+
+[961]
+#I feel a bit nauseous.
+#나는 좀 메스껍다고 느꼈다.
+
+[962]
+#I'm feeling kind of tired.
+#나는 좀 피곤하게 느껴졌다.
+
+[963]
+#I was agreeably surprised.
+#나는 놀라우면서도 기뻤다.
+
+[964]
+#I was moved to tears.
+#나는 눈물을 흘릴 정도로 감동했다.
+
+[965]
+#I am obligated to you for your help.
+#나는 너의 도움에 감격했다.
+
+[966]
+#I feel malaise.
+#나는 불편하게 느껴진다.
+
+[967]
+#I felt tears rain down my cheeks.
+#나는 얼굴 가득 눈물이 흐르고 있음을 느꼈다.
+
+[968]
+#I could feel her disappointment.
+#나는 그녀의 실망을 느낄 수 있었다.
+
+[969]
+#I am feeling relaxed.
+#나는 홀가분하다.
+
+[970]
+#I am thirsty.
+#나는 갈증이 난다.
+
+[971]
+#My nose is bunged up with a cold.
+#나는 감기가 걸려서 코가 막혔다.
+
+[972]
+#I am thankful to you for your present.
+#나는 당신의 선물을 고맙게 생각합니다.
+
+[973]
+#I thanked him for his help.
+#나는 도움에 감사를 드립니다.
+
+[974]
+#I bless him for his forgiveness.
+#그의 관대한 용서에 대단히 감사합니다.
+
+[975]
+#By gum!
+#맹세코! 틀림없이!
+
+[976]
+#I just dozed off for a moment.
+#나는 방금 졸았다.
+
+[977]
+#I was only fooling.
+#나는 단지 농담을 한 것뿐이다.
+
+[978]
+#An idea has just come into my mind.
+#나는 막 어떤 생각이 떠올랐다.
+
+[979]
+#I have just begun this story book.
+#나는 지금 막 이 이야기책을 시작했다.
+
+[980]
+#I shouted that all were safe.
+#나는 모두들 평안하라고 큰소리로 말했다.
+
+[981]
+#I danced for joy.
+#나는 너무 기뻐서 덩실덩실 춤을 추었다.
+
+[982]
+#I told him who to look for.
+#나는 그에게 가서 누구를 찾으라고 말했다.
+
+[983]
+#I informed him about where to go.
+#나는 그에게 어디로 가라고 가르쳐주었다.
+
+[984]
+#I told him that I must go.
+#나는 그에게 내가 반드시 간다고 말했다.
+
+[985]
+#I have cut my finger.
+#나는 손가락을 베었다.
+
+[986]
+#Personally,I prefer winter weather.
+#나 개인적으로는 겨울을 비교적 좋아한다.
+
+[987]
+#I have no personal acquaintance with him.
+#나 개인적으로는 그와 면식이 없다.
+
+[988]
+#I for one think it's rather good.
+#나는 개인적으로 이 일이 아주 좋다고 생각한다.
+
+[989]
+#I'll percolate some coffee for you.
+#내가 너에게 커피를 내려 주겠다.
+
+[990]
+#May I take your picture?
+#내가 사진을 찍어 드릴까요?
+
+[991]
+#Shall I boil you an egg?
+#내가 당신에게 계란을 삶아 드려도 괜찮겠습니까?
+
+[992]
+#I gave him some medicine to ease the pain.
+#나는 그에게 약을 먹여서 아프지 않게 했다.
+
+[993]
+#I told him a story.
+#나는 그에게 이야기를 하나 들려 주었다.
+
+[994]
+#It is advisable for me to write to him?.
+#내가 그에게 편지를 쓰는 것이 마땅한 것입니까?
+
+[995]
+#I gave him a book.
+#나는 그에게 책 한 권을 주었다.
+
+[996]
+#I caught him with an uppercut.
+#나는 그에게 어퍼컷을 한대 갈겨주었다.
+
+[997]
+#I have directed him wrongly.
+#나는 그에게 길을 잘못 가르쳐주었다.
+
+[998]
+#I hit him a hard blow.
+#나는 그를 호되게 한방 때렸다.
+
+[999]
+#I gave it food.
+#나는 그것에게 음식을 주었다.
+
+[1000]
+#I gave her a five-dollar tip.
+#나는 그녀에게 팁을 5달러 주었다.
+

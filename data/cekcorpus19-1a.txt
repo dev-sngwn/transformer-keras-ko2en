@@ -1,0 +1,809 @@
+[1]
+#The boy scraped through the hedge and ran towards us.
+#소년은 가까스로 나무 울타리를 뚫고 우리에게로 달려왔다.
+
+[2]
+#The boy got in to the athletic school after a special test.
+#소년은 전문적인 시험을 한차례 통과한 후에 체육학과에 들어갔다.
+
+[3]
+#The boys and girls trimmed the Christmas tree.
+#소년, 소녀들이 이 크리스마스 트리를 장식했다.
+
+[4]
+#The boys fought until one gave in.
+#소년들은 한 사람이 항복할 때까지 싸우고서야 비로소 멈췄다.
+
+[5]
+#The boys huddled together under the rock to keep warm.
+#소년들은 바위 아래에 빽빽이 모여서 몸을 좀 따뜻하게 했다.
+
+[6]
+#The boy mimicked his father's voice and set everyone off laughing.
+#소년이 아버지의 목소리를 흉내내서 모두를 웃게 했다.
+
+[7]
+#The boy backed quietly away and hid himself behind his mother.
+#소년은 조용히 뒷걸음쳐 돌아가서 엄마의 등뒤에 숨었다.
+
+[8]
+#After his fall the boy rose and dusted himself down.
+#소년은 넘어진 후 일어나서 몸의 먼지를 떨어냈다.
+
+[9]
+#The boy pleaded with his mother not to leave him till he went to sleep.
+#소년은 자신이 잠들기 전에 어머니가 그의 곁을 떠나지 말 것을 간청했다.
+
+[10]
+#The boy had a swoon,but soon came round.
+#소년은 기절했으나 곧 깨어났다.
+
+[11]
+#The boy is trying to cut out a five-pointed star from a piece of cardboard.
+#소년은 판지로 오각별을 오려 내려고 하고 있다.
+
+[12]
+#The boy pegged away at a homework assignment.
+#소년은 선생님께서 내주신 숙제를 쉬지 않고 부지런히 하고 있다.
+
+[13]
+#The boys crowded round the tennis player.
+#소년들이 그 테니스 선수의 주위에 군집해 있다.
+
+[14]
+#The boy stood on tiptoe and reached for the map on the wall.
+#소년은 발돋움을 하고, 손을 뻗어서 벽에 있는 지도를 들었다.
+
+[15]
+#The actors ' and actresses 'costume was picked out by the spotlights.
+#남녀 배우들의 복장이 스포트라이트에 비취어 매우 두드러진다.
+
+[16]
+#The men went on drinking and smoking,while the ladies retired.
+#남자들이 계속 술을 마시고 담배를 피우자 여자들은 거실로 물러갔다.
+
+[17]
+#Can't you keep your dog from coming into my garden?
+#너는 도대체 너의 개가 우리 화원에 들어가지 못하게 좀 할 수 없니?
+
+[18]
+#No wonder the cloisonn work has won a world fame as the flower of Chinese art.
+#경태람이 세계에 널리 알려져서 중국 예술의 꽃이라고 칭해지는 것은 이상할 것이 없다.
+
+[19]
+#The refugees were resettled in Canada by a U.N.relief organization.
+#난민들은 연합국 구제조직에 의해서 캐나다에 편안히 정착하게 되었다.
+
+[20]
+#The physician said smoking is harmful to my health.
+#내과의사는 담배 피우는 것은 나의 건강에 해롭다고 말했다.
+
+[21]
+#Will you let us know what discount you can give for an order exceeding...?
+#
+
+[22]
+#Will you kindly inform us,without delay,what you wish us to do?
+#너희측은 우리측이 어떻게 하기를 원하는지 제때에 알려줄 수 있습니까?
+
+[23]
+#It has not been tried whether the copper parts can be replaced by other metal parts.
+#기타 금속부품이 동부품을 대신할 수 있는지 없는지를 시험해 본 적이 있다.
+
+[24]
+#It's a luxury for me to be able to sleep this late.
+#이렇게 늦게까지 잘 수 있다는 것은 나로서는 일종의 사치이다.
+
+[25]
+#Which can make use of our enterprises and carry out technical innovation,
+#우리나라의 현존하는 기업을 이용해서 기술개혁을 진행할 수 있다.
+
+[26]
+#After you think it over,please let me know what you decide.
+#네가 충분히 생각한 후에 너의 결정을 나에게 알려줘라.
+
+[27]
+#It's a steal at that price.
+#그런 가격으로 살 수 있다면 정말 주워온 거나 마찬가지다.
+
+[28]
+#Which can introduce badly-needed new techniques and new equipment into our country,
+#우리나라가 가장 필요로 하는 신기술과 신설비를 들여올 수 있다.
+
+[29]
+#The Nile is the very life of Egypt.
+#나일강은 정말 이집트의 생명이 존재하는 곳이라고 일컬을 만하다.
+
+[30]
+#Nigeria is my home,but I'm living in London just now.
+#나이지리아는 나의 고향이다. 하지만 나는 현재 런던에 살고 있다.
+
+[31]
+#When you melt ice,it passes from a solid to a liquid state.
+#네가 얼음을 녹일 때, 얼음은 고체상태에서 액체상태로 변한다.
+
+[32]
+#Did you report the loss of your car to the police?
+#너는 차를 잃어버린 일을 경찰에 신고했습니까?
+
+[33]
+#You may put your books on the shelf when you have cleared it off.
+#너는 선반을 깨끗이 치운 후에 책을 올려 놓아라.
+
+[34]
+#Will it be convenient for you to explain your plans to him?
+#너는 너의 계획을 그에게 한번 이야기해 봐라. 괜찮지?
+
+[35]
+#Where are your manners ?.
+#너는 예의를 다 어디다 잃어버렸니?
+
+[36]
+#Will you hand on this telegram to your friend?
+#너는 이 전보를 네 친구에게 전해 주겠니?
+
+[37]
+#By telling her that,you've put me in a very difficult position.
+#네가 이 일을 그녀에게 이야기해서 나의 처지가 곤란해졌다.
+
+[38]
+#You damaged the bike and you will hear about it.
+#네가 자전거를 망가뜨려서 한차례 야단을 맞을 것이다.
+
+[39]
+#You must follow the directions on the packet.
+#너는 반드시 포장에 있는 용법의 설명에 따라 해야 한다.
+
+[40]
+#You must drum the lessons into Tom.
+#너는 이 수업을 탐의 머리 속에 집어넣어야 한다.
+
+[41]
+#You should preserve your papers from harm.
+#너는 반드시 너의 증명서를 잘 보존해서 손해를 막아야 한다.
+
+[42]
+#You must leave your personal effects in that locker.
+#너는 개인 소지품을 반드시 그 장에 넣어야 한다.
+
+[43]
+#You must condition yourself against cold weather.
+#너는 몸을 잘 보양해서 추운 날씨에 적응해야 한다.
+
+[44]
+#You must verify whether he is competent for the work.
+#너는 그가 그 일을 잘 감당할 수 있을지 없을지를 잘 조사해야 한다.
+
+[45]
+#You must live with the fact that you're no longer as strong as you were.
+#너는 네가 이미 과거처럼 그렇게 건강하지 않다는 것을 인정해야만 한다.
+
+[46]
+#You must be alert to the coming danger.
+#너는 다가오고 있는 위험에 계속 경계를 하고 있어야 한다.
+
+[47]
+#You can't vote until you have satisfied all the formal conditions.
+#너는 모든 정식적인 조건에 부합되어야만 비로소 선거에 참가할 수 있다.
+
+[48]
+#You have to zap the invading spaceships to get points.
+#너는 침입한 우주선을 모두 해치워야만 비로소 점수를 얻을 수 있다.
+
+[49]
+#You must play fair.
+#너는 공정하게 일을 처리해야만 한다.; 너는 광명정대하게 시합을 해야 한다.
+
+[50]
+#You must come with us,I insist.
+#너는 반드시 우리와 함께 와야 한다. 나는 이점을 고집할 것이다.
+
+[51]
+#You should save some money,it's wise to provide for the future.
+#너는 반드시 돈을 좀 저축해야 한다. 미래를 위해 준비를 하는 것은 현명한 것이다.
+
+[52]
+#You must concentrate your attention on what you are studying.
+#너는 네가 배우고 있는 모든 것에 주의력을 집중해야 한다.
+
+[53]
+#You must restrain your surprise from being visible.
+#너는 될 수 있는 대로 자신의 놀랍고 의아한 마음을 나타내지 말아야 한다.
+
+[54]
+#You must take into account the boy's long illness.
+#너는 이 소년이 오랫동안 완쾌하지 못하고 있다는 상황을 고려해야 한다.
+
+[55]
+#You have to assimilate the facts,not just remember them.
+#
+
+[56]
+#You must work hard to emulate your sister's success.
+#너는 열심히 일해서 누나의 성과를 따라가야 한다.
+
+[57]
+#You must bear with his bad temper: he is very ill.
+#너는 그의 나쁜 성격을 참고 견뎌야 한다.: 그는 병이 아주 심하다.
+
+[58]
+#You must not be absent from the meetings without cause.
+#너는 그 회의에 반드시 참석해야 한다. 이유없이 빠져서는 안 된다.
+
+[59]
+#You must try to discriminate between facts and opinions.
+#너는 사실과 견해를 구별할 방법을 생각해내야 한다.
+
+[60]
+#You must do out your drawer: it's full of waste paper.
+#너는 너의 서랍을 정리해야 한다. 안에 폐지가 가득 쌓였다.
+
+[61]
+#You must either tell the truth or say nothing.
+#너는 솔직히 말하든지 아니면 아무 말도 하지 말아야 한다.
+
+[62]
+#You won't get any current until you connect up the cells of the battery.
+#먼저 전지를 연결해야 전류를 만들 수 있다.
+
+[63]
+#You must choose between death and dishonour.
+#너는 모욕과 죽음 둘 중의 하나를 선택해야 한다.
+
+[64]
+#You must seek redress in the law courts for the damage to your car.
+#너는 법정에서 너의 차가 입은 손해에 대한 배상을 요구해야만 한다.
+
+[65]
+#You must retrace your steps .
+#너는 원래 갔던 길을 다시 돌아와야 한다.
+
+[66]
+#You must obey all the rules and regulations about car insurance.
+#너는 반드시 차 보험에 대한 모든 규칙과 제도를 준수해야 한다.
+
+[67]
+#You won't be able to get away with that story;no one will believe it.
+#너는 이런 황당한 말로는 남을 속일 수가 없다.; 그 말을 믿을 사람이 아무도 없다.
+
+[68]
+#While you're always from the office we will send your salary to Mrs.Jackson.
+#너의 병가기간 동안에 우리는 너의 월급을 잭슨 부인에게 건네줄 것이다.
+
+[69]
+#There is no need to be so cut up at not succeeding this time.
+#너는 이번에 성공하지 못했다고 해서 이렇게 괴로워할 필요는 없다.
+
+[70]
+#You shouldn't try to read in things which aren't there.
+#너는 원래 없던 뜻을 억지로 붙여 넣으려고 시도해서는 안 된다.
+
+[71]
+#You should not degrade yourself by telling such a lie.
+#너는 그렇게 황당한 말을 해서 자신의 인격을 떨어뜨려서는 안 된다.
+
+[72]
+#You shouldn't try to cash in on the fact that he likes you.
+#너는 그가 너를 좋아한다고 해서 이점을 이용하려고 해서는 안 된다.
+
+[73]
+#Don ' t you repent of having wasted your time so foolishly?
+#너는 이렇게 흐리멍텅하게 시간을 낭비하는 것을 후회하지 않니?
+
+[74]
+#You are not leaving us,already are you?.
+#너는 이렇게 일찍 우리들을 떠날 수는 없다. 그렇지?
+
+[75]
+#You will soon realize that London is a very old place.
+#너는 머지않아 런던이 아주 오래된 지방이라는 것을 이해하게 될 것이다.
+
+[76]
+#You must not debase yourself by such behavior.
+#너는 이러한 행동으로 자신의 인격을 떨어뜨려서는 안 된다.
+
+[77]
+#You must not count his inexperience against him.
+#너는 그가 경험이 없기 때문에 그는 안 된다고 여겨서는 안 된다.
+
+[78]
+#You can't equate passing examinations with being educated.
+#너는 시험에 합격하는 것과 교육을 받는다는 것을 동일시 할 수는 없다.
+
+[79]
+#You can't ignore the evidence that makes against your theory.
+#너는 너의 견해와 반대되는 증거를 무시할 수 없다.
+
+[80]
+#You mustn't drive into a street with a "No Entry" sign.
+#너는 "진입금지" 표지가 있는 도로에 운전을 해서 진입해서는 안 된다.
+
+[81]
+#You can't imagine what a miserable life we had before liberation.
+#너는 해방 전에 우리들이 얼마나 비참한 생활을 했는지 상상할 수도 없다.
+
+[82]
+#Can't you learn to behave yourself and stop monkeying about?
+#너는 좀더 성실하게 배우고, 다시는 까불지 않을 수 없니?
+
+[83]
+#You can't make over a personality in one day.
+#네가 하루동안에 다른 사람의 개성을 바꾸어 놓을 수는 없다.
+
+[84]
+#It was very mean of you not to let the children play in the snow.
+#네가 아이들을 눈밭에서 놀지 못하게 하는 것은 아이들을 너무 빡빡하게 다루는 것이다.
+
+[85]
+#You should not appropriate other people's belongings.
+#너는 다른 사람의 소유물을 착복해서는 안 된다.
+
+[86]
+#You shouldn't sniff at such a good offer.
+#너는 이렇게 좋은 제의를 경솔하게 거절해서는 안 된다.
+
+[87]
+#You shouldn't chance all your money at once.
+#
+
+[88]
+#You should not depend on others,and I shouldn't either.
+#너는 다른 사람에게 의지해서는 안 되고, 나 역시 다른 사람에게 의지해서는 안 된다.
+
+[89]
+#What do you want to be when you grow up? Have you decided yet?
+#네가 다 자란 후에 무엇을 할 것인지 결정했니?
+
+[90]
+#That coat will never reach round you ,you have grown too stout.
+#너는 너무 뚱뚱해서 이 코트를 어떤 방법으로도 입을 수가 없다.
+
+[91]
+#Do you admit to taking these books without telling anybody?
+#너는 누구에게도 애기하지 않고 이 책을 가지고 간 것을 인정하느냐?
+
+[92]
+#Do you have any special interests other than you job?
+#너는 직업 이외에 또 다른 특수한 취미가 있습니까?
+
+[93]
+#Your short dress is inappropriate for a formal party.
+#네가 이 짧은 치마를 입고 정식 파티에 참가하는 것은 합당하지 않다.
+
+[94]
+#You look devastating in that new dress.
+#네가 이 원피스를 입고 있으니 정말 너무나 예쁘다.
+
+[95]
+#You look priceless in those big trousers!
+#네가 그 통이 넓은 바지를 입고 있으니 보기에 정말 익살스럽다.
+
+[96]
+#You are never conscious what people think of such conduct.
+#너는 사람들이 이러한 행동에 대해 어떠한 생각을 가지는지 통 생각해본 적이 없다.
+
+[97]
+#When you called me,I was eating dinner.
+#네가 나에게 전화했을 때 나는 한창 저녁을 먹고 있었다.
+
+[98]
+#Give him enough time to get home before you telephone.
+#네가 전화하기 전에 그가 집에 돌아올 수 있는 충분한 시간을 그에게 남겨 주어야 한다.
+
+[99]
+#You may well think so.
+#너는 이렇게 생각할 충분한 이유가 있다.
+
+[100]
+#You could reasonably argue that the store should replace these goods.
+#너는 당연히 이 상점에서 이러한 물건들을 교환해 주어야 한다고 주장할 수 있다.
+
+[101]
+#You feel her everywhere,don't you?
+#너는 도처에서 그녀의 존재를 느낄 수 있다. 그렇지 않니?
+
+[102]
+#You're always sure of a friendly welcome at this hotel.
+#너는 이 호텔에 도착해서 줄곧 극진한 대접을 받았을 것이다.
+
+[103]
+#What class did you get,first,second or third?
+#네가 받은 것은 몇 등급 학위입니까? 1등급, 2등급, 아니면 3등급?
+
+[104]
+#You will have to pay some money on account,say five dollars.
+#너는 얼마의 돈을 계약금으로 지불해야 하는데, 대략 5원 정도면 됩니다.
+
+[105]
+#You should see her go at the job.
+#
+
+[106]
+#You must piece out the full story from your own imagination.
+#너는 자신의 상상에 의거해서 전체 이야기를 이어 맞춰야 한다.
+
+[107]
+#You must find some way of slowing your father down; he is far too busy now.
+#너는 네 아버지를 좀 수월하게 해드릴 방법을 찾아야만 한다. 그는 지금 너무 바쁘다.
+
+[108]
+#Your report is twice as long as it needs to be: it's too verbose.
+#너의 보고서는 실제 필요로 하는 것보다 2배나 길다. 너무 자질구레하다.
+
+[109]
+#You will have to answer for your violent behaviour in court.
+#너의 폭력행위는 반드시 법정에서 처벌을 받을 것이다.
+
+[110]
+#Your unpunctuality crossed up the whole programme.
+#네가 시간을 지키지 않아서 모든 계획을 망쳐버렸다.
+
+[111]
+#Your carelessness was a contributory cause of the fire.
+#너의 부주의가 화재를 조성한 한 원인이다.
+
+[112]
+#Your mistakes necessitate doing the work again.
+#너의 실수로 너는 이 일을 다시 한번 해야만 한다.
+
+[113]
+#You don't have the right answer,but you're on the right lines.
+#너의 답은 틀렸지만 방법은 맞았다.
+
+[114]
+#Your long experience entitles you to the respect of young people.
+#너의 다년간의 경험이 너로 하여금 젊은이들의 존경을 받을만한 자격이 있게 한다.
+
+[115]
+#He's a cheerful little beggar,your son!
+#너의 아들은 아주 활발한 아이구나!
+
+[116]
+#Your room is very untidy; go and put it in order.
+#너의 방이 아주 지저분하구나. 가서 방을 깨끗하게 치워라.
+
+[117]
+#Has your father been put up to serve on the committee?
+#당신의 아버지는 위원회의 성원으로 지명되었습니까?
+
+[118]
+#You play the piano beautifully.How much do you practice every day?
+#너는 피아노를 아주 잘 치는데, 매일 몇 시간씩 연습합니까?
+
+[119]
+#Are you paid in proportion to the number of hours you work?
+#너의 월급은 네가 일한 시간에 따라 지불되어지는 것입니까?
+
+[120]
+#Your work will get by,but try to improve it.
+#너의 일은 그럭저럭 괜찮다. 하지만 향상시킬 방법을 찾아봐야 한다.
+
+[121]
+#When was your driver's license issued to you ?.
+#당신의 운전면허증은 언제 당신에게 교부된 것입니까?
+
+[122]
+#Your explanation sounds plausible; I think I believe it.
+#너의 해석은 들어보니 일리가 있어서 나는 믿을 수 있다고 생각한다.
+
+[123]
+#Your cough ought to be seen to before it gets any worse.
+#너는 기침을 좀 빨리 치료해서 더 심해지는 것을 피해야 한다.
+
+[124]
+#Your trouble is nothing to hers.
+#너의 고민은 그녀의 고민과 비교해 볼 때 아무것도 아니다.
+
+[125]
+#Your Latin vocabulary is good.You speak French easily.
+#너의 라틴어휘는 훌륭하고, 너의 불어는 아주 유창하다.
+
+[126]
+#Your hat and shoes tone in well with your dress.
+#너의 모자와 신은 너의 이 옷과 아주 잘 어울린다.
+
+[127]
+#Your judgments will exercise a great influence on them all.
+#너의 판단은 그들 모두에게 아주 많은 영향을 끼칙 것이다.
+
+[128]
+#What a sight you are,with paint all over your clothes!
+#너의 온몸의 옷이 모두 칠해져 있다. 이런 모습은 얼마나 우스운가!
+
+[129]
+#Your coat,hat,and shoes make an attractive ensemble.
+#너의 상의와 신, 모자 이 모든 옷차림이 사람을 매료시킨다.
+
+[130]
+#Your explanation has clarified this difficult sentence.
+#너의 설명이 이 어려운 구의 뜻을 명확하게 했다.
+
+[131]
+#Your proposal would necessitate changing our plans.
+#너의 제의는 우리들의 계획을 반드시 바꿔놓을 것이다.
+
+[132]
+#Your hair's so tangled that I can't comb it.
+#너의 머리카락이 온통 엉켜서 나는 빗을 수가 없다.
+
+[133]
+#Your news was really confirmation for my beliefs.
+#너의 소식이 실제적으로 나의 신념을 더욱 굳게 했다.
+
+[134]
+#Your little boy looks very sweet in his new coat.
+#너의 작은 아이가 새 옷을 입고 있으니 아주 귀여워 보인다.
+
+[135]
+#Your actions contrast unfavourably with your principles.
+#너의 행동은 너의 처세원칙과 상당히 다르다.
+
+[136]
+#Your eyes are blue and mine dark.
+#너의 눈은 파란색이고 나의 눈은 검은색이다.
+
+[137]
+#Your speech came across very well; everyone liked it.
+#너의 연설은 아주 많은 환영을 받았다. 모두들 아주 좋아한다.
+
+[138]
+#Are your opinions representative of those of the other students?
+#너의 의견이 기타 다른 학생들의 의견을 대표하는 것입니까?
+
+[139]
+#Here's your keys.
+#너의 열쇠가 여기에 있다.
+
+[140]
+#Your support is vital for the success of my plan.
+#너의 지지는 나의 계획의 성공에 없어서는 안될 것이다.
+
+[141]
+#You made one or two small mistakes,but otherwise your work was good.
+#너의 과제는 한두 군데 작은 실 수가 있는데 그것을 제외하면 아주 좋다.
+
+[142]
+#Did you read the article about the rescue of the two fishermen?
+#당신은 두 명의 어부를 구조한다는 것에 관한 문장을 읽어본 적이 있습니까?
+
+[143]
+#You approach it in a different way than I do.
+#이 문제에 대처하는 너의 태도는 나와 다르다.
+
+[144]
+#You will have to be firm with Class Three as they are rather disobedient.
+#너는 3반에게는 반드시 엄격해야 하는데, 그것은 그들이 너무나 말을 안 듣기 때문이다.
+
+[145]
+#I can still vividly recall the impressive scenes you gave.
+#너의 나에 대한 감동적인 애정은 아직도 기억이 새롭다.
+
+[146]
+#Your memories of my father were source of great joy to me.
+#너의 나의 아버지에 대한 추모는 나에게 많은 위안을 주었다.
+
+[147]
+#You made a mistake,but I'll pass the matter by.
+#너는 하나의 실수를 범했으나 나는 추궁하지 않을 것이다.
+
+[148]
+#We received your letter of ...It is gratifying to note that...
+#너희측이 ...월 ...일 보내온 편지를 받았다. ...를 알게 되어 기쁘다.
+
+[149]
+#We received your letter of ...We are under the impression that ...
+#너희측의 ...월 ...일 편지를 받았다. 우리들의 인상은 ...하다.
+
+[150]
+#Your price is 25% higher than that of last year.
+#너희측의 가격은 작년보다 25%나 높아졌다.
+
+[151]
+#Your claim for shortage of weight amounts to 84.82 tons in all.
+#너희측의 중량부족에 대한 클레임은 모두 84.82톤이다.
+
+[152]
+#Your comments on packing have been passed on to our manufacturers for their reference.
+#너희측의 포장에 대한 제의는 이미 우리측 제조공장에 참고하도록 전달했다.
+
+[153]
+#All orders you may give him will receive our immediate and careful attention.
+#너희측이 그에게 준 주문서는 우리측이 제때에 상세히 처리할 것이다.
+
+[154]
+#You will hear from us as soon as possible about the matter.
+#너희측은 즉시 우리들의 이 일에 대한 결정을 받을 수 있을 것이다.
+
+[155]
+#Your price is quite in line,but the time of shipment is too distant.
+#너희측의 가격은 꽤 적당하지만 상품의 인도기일이 너무 길다.
+
+[156]
+#You will find that our products are moderately priced and yet of good quality.
+#너희측은 우리 상품의 가격이 적정하고 질도 
+
+[157]
+#Would you be able to delivery within 5 weeks of receipt of order?
+#너희측 주문서를 받고 5주일 내에 상품을 인도할 수 있습니까?
+
+[158]
+#Any opinions or comments will be entertained with our prompt attention.
+#너희측의 어떠한 의견도 우리는 중시할 것이다.
+
+[159]
+#The goods you ordered are being prepared for shipment.
+#너희측이 주문한 화물은 한창 운송을 준비하고 있다.
+
+[160]
+#Your failure in delivering the goods within the stipulated time has greatly inconvenienced us.
+#너희측이 기일에 맞춰 화물을 인도하지 못해서 우리측에 아주 많은 어려움을 주었다.
+
+[161]
+#You should produce a similar Letter of Guarantee jointly signed by two banks.
+#너희측은 두 개의 은행이 서명한 보증서를 제출해야 한다.
+
+[162]
+#You ought to put your watch forward to the correct time.
+#너는 너의 시계를 정확한 시간에 맞추어야 한다.
+
+[163]
+#Why do you go on at him all the time?He does his best.
+#당신은 왜 늘 그를 책망합니까? 그는 최대의 노력을 다하고 있습니다.
+
+[164]
+#What you have just said does not quite chime in with our views.
+#네가 방금 한 말은 우리들의 견해와 그다지 일치하지 않는다.
+
+[165]
+#What you have just said does not accord with what you told us earlier.
+#네가 방금 한 말은 전에 우리에게 했던 말과 일치하지 않는다.
+
+[166]
+#Have you pumped up the bicycle?
+#당신은 자전거 바퀴에 바람을 넣었습니까?
+
+[167]
+#Your connection with it would put you in a serious position.
+#너와 그 일과의 관련이 너를 곤경에 빠뜨릴 수도 있다.
+
+[168]
+#You'll probably be getting a wedding invitation one of this days.
+#너는 요 며칠 사이에 한 장의 청첩장을 받게 될 것이다.
+
+[169]
+#I know how talented you are and how hard you've worded to attain this goal.
+#너는 아주 재간이 있고 게다가 이 직위를 얻기 위해서 굉장한 노력을 했다.
+
+[170]
+#I resent your suspicions about my motives.
+#네가 나의 동기를 의심하는 것에 대해 나는 매우 화가 난다.
+
+[171]
+#You had better not count on clear weather this afternoon.
+#너는 오늘 오후에는 화창한 날씨가 되리라는 것을 기대하지 않는 것이 좋겠다.
+
+[172]
+#You would be well-advised to see the doctor about that pain.
+#너는 너의 그러한 병으로 인한 고통을 의사에게 찾아가 보이는 것이 좋겠다.
+
+[173]
+#You'd better get over on your own side of the road.
+#
+
+[174]
+#He answered all the questions except the last one.
+#너는 마지막 한 문제만 제외하고 모든 문제에 대답했다.
+
+[175]
+#You'd be hard put to it to make it more cheaply.
+#너는 이 가격보다 더 싸기는 어렵다는 것을 알게 될 것이다.
+
+[176]
+#You'll try it,won't you ?.
+#너는 그것을 시험 삼아 해보겠니?
+
+[177]
+#You will read the news in tomorrow's newspaper.
+#너는 내일 신문에서 이 소식을 보게 될 것이다.
+
+[178]
+#The news of your music scholarship to the University made my day.
+#네가 대학의 음악 장학금을 받았다는 소식이 나를 매우 기쁘게 했다.
+
+[179]
+#Having made a promise,you must carry it through.
+#기왕에 네가 대답했으니 자신의 약속을 이행해야만 한다.
+
+[180]
+#As you have accepted the task,you ought not to think of chickening out.
+#기왕에 네가 이 임무를 받아들였으니 물러나려고 해서는 안 된다.
+
+[181]
+#You know what you are to do,so get with it.
+#네가 무엇을 해야 하는지를 알았으면 시작해 보아라.
+
+[182]
+#Your presumption that I would agree with your plan is false.
+#내가 너의 계획에 동의할 것이라고 가정했다면 그것은 틀린 것이다.
+
+[183]
+#Have you checked your test paper? －－Yes,I have.
+#너는 너의 답안지를 점검해 봤니? 점검해 보았다.
+
+[184]
+#You'd scarcely believe anybody could fall away so rapidly.
+#너는 이렇게 빨리 몸이 여윌 수 있다는 것을 정말 믿기 어려울 것이다.
+
+[185]
+#Did you see that circular from the new local theatre?
+#너는 이곳에 새로 연 극장 광고를 본 적 있니?
+
+[186]
+#If you bargain with them they might reduce the price.
+#네가 흥정을 한다면 그들은 가격을 깎아줄 것이다.
+
+[187]
+#Are you married ? If so,tell me your wife's name.
+#당신은 결혼을 했습니까? 만약 했다면 나에게 당신 부인의 이름을 가르쳐 주십시오.
+
+[188]
+#You aren't yourself today.
+#너는 오늘 약간 비정상적이다.
+
+[189]
+#Did you get your copy of "The News" today?
+#당신은 오늘 당신의 "The News"지를 받았습니까?
+
+[190]
+#You can rest assured that your money is safe with us.
+#너는 안심해도 좋다. 돈은 우리에게 아주 안전하게 있다.
+
+[191]
+#I was very offended that you forgot my birthday.
+#너는 결국 나의 생일을 잊었다. 나는 정말 화가 난다.
+
+[192]
+#It wasn't very tactful of you to tell him in front of others.
+#네가 다른 사람 면전에서 그에게 말을 한 것은 정말 재치있지 못했다.
+
+[193]
+#Do you want to go swimming or not? Come on,decide.
+#너는 도대체 수영을 하러 갈거니 안 갈거니? 빨리 결정을 해라.
+
+[194]
+#I marvel how you managed to do it.
+#네가 도대체 어떻게 그것을 처리했는지 나는 정말 놀랍다.
+
+[195]
+#You're getting warm; you've nearly found the answer!
+#네가 거의 맞추려고 한다. 너는 거의 이미 답을 찾았다.
+
+[196]
+#By your rudeness you've cheapened yourself in everyone's opinion.
+#너는 행동거지가 저속해서 모든 사람들의 마음 속에 있는 너의 이미지에 손상을 입혔다.
+
+[197]
+#You find the tea too strong ? Just put in more water.
+#당신은 이 차가 너무 진하다고 생각되십니까? 물을 조금 더 넣으면 됩니다.
+
+[198]
+#You'll never get him to change his mind; he's so inflexible.
+#너는 절대로 그의 생각을 바꿀 수 없다. 그는 매우 완고하다.
+
+[199]
+#Before you start work I'll show you around the office.
+#네가 일을 시작하기 전에, 내가 너를 데리고 사무실을 한번 둘러보려고 한다.
+
+[200]
+#Have you seen John's photograph in the newspaper?
+#너는 신문에 존의 사진이 시린 것을 보았습니까/
+
+[201]
+#Do you think it will rain? －－Yes,I think so.
+#당신 생각에 비가 올 것 같습니까? 예. 나는 비가 올 거라고 생각합니다.
+
+[202]
+#Did you see either of the boys?.
+#너는 그 두 소년 중에 어느 한 명을 본 적이 있습니까?
+
+

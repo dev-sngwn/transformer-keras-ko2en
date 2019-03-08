@@ -1,0 +1,3983 @@
+[1]
+#I gave the radio a thorough inspection before I bought it.
+#나는 이 라디오를 철저히 훑어본 후에 샀다.
+
+[2]
+#I weighed out half a kilo of flour and added it to the mixture.
+#나는 반 킬로그램의 밀가루를 달아서 혼합물에 넣었다.
+
+[3]
+#After I'd weighed out the apples,I put in another one for good measure.
+#나는 사과의 무게를 달아본 후에 다시 하나를 더 얹었다.
+
+[4]
+#I'm so full I couldn't eat another mouthful.
+#나는 너무 배불리 먹어서 한입도 더 못 먹겠다.
+
+[5]
+#I took a sleeping pill and soon came over drowsy.
+#나는 수면제를 먹고 나자 곧 혼혼하여 졸렸다.
+
+[6]
+#I had no alternative but to accept the offer.
+#나는 이 제의를 받아들이는 것 이외에 다른 선택의 여지가 없다.
+
+[7]
+#I know nothing exceptthat he was there.
+#나는 그가 거기에 있다는 것 외에 기타 다른 상황에 대해서는 아는 바가 없다.
+
+[8]
+#I go through the park and out of it through a gate on the other side.
+#나는 공원을 지나서, 다른 쪽의 대문을 통해 나왔다.
+
+[9]
+#I saw in the paper that another earthquake had occurred in Italy.
+#나는 신문을 통해서 이탈리아에 또 한차례 지진이 발생했다는 것을 알았다.
+
+[10]
+#I have it on unimpeachable authority.
+#나는 아주 믿을만한 권위 있는 곳에서 이 소식을 들었다.
+
+[11]
+#I've never read a more stirring story.
+#나는 이것보다 더 사람의 마음을 감동시키는 이야기를 읽어본 적이 없다.
+
+[12]
+#I've never rowed a boat before,but I don't mind having a bash at it.
+#나는 배를 저어본 적이 없다. 그러나 나도 한번 해봐도 괜찮을 것 같다.
+
+[13]
+#I never realized that someday I would be living in New York.
+#나는 어느날 갑자기 내가 뉴욕에 살게 되리라고 생각해 본 적이 없다.
+
+[14]
+#I never got such bad headaches as I do now.
+#나는 지금처럼 이렇게 심하게 두통을 앓아본 적이 없다.
+
+[15]
+#I netted $2000 from the transaction.
+#나는 그 교역으로 이천 달러의 순이익을 얻었다.
+
+[16]
+#I inferred from what you said that he would make a scholar.
+#나는 네가 말한 바로 추측해 볼 때 그가 장차 학자가 될 것 같다.
+
+[17]
+#I brought her a very nice present from Soochow.
+#나는 소주에서 가져온 아주 좋은 선물을 그녀에게 주었다.
+
+[18]
+#I knew she didn't like it by the look on her face.
+#나는 그녀 얼굴 표정에서 그녀가 그것을 좋아하지 않는다는 것을 알았다.
+
+[19]
+#I had never seen a woman so ruthful.
+#나는 이렇게 동정심이 많은 여자를 본 적이 없다.
+
+[20]
+#I never reflected how difficult it would be to complete this work.
+#나는 이 일을 완성하는데 얼마나 많은 어려움이 있을까 하는 것을 고려해본 적이 없다.
+
+[21]
+#I have never voted for him,nor yet intend to.
+#나는 그에게 표를 주지 않았고 또 그럴 마음도 없다.
+
+[22]
+#She thought it was a scream when I fell off my chair.
+#내가 의자에서 넘어졌을 때, 그녀는 아주 우습다고 생각했다.
+
+[23]
+#I am wrong.Ssimilarly,you are to blame.
+#내가 틀렸다. 똑같이 너도 또한 벌을 받아야 한다.
+
+[24]
+#I promise to return your bicycle in good condition.
+#나는 너의 자전거를 조금도 손상시키지 않고 너에게 돌려줄 것을 약속한다.
+
+[25]
+#I promise we'll be there,rain or shine.
+#나는 날씨가 좋든지 나쁘든지 간에 우리가 거기에 갈 것이라는 것을 약속한다.
+
+[26]
+#I telephoned him that I would visit him this evening.
+#나는 내가 저녁 때 그를 방문하러 갈 것이라고 전화로 알려 주었다.
+
+[27]
+#What were you doing when I called you on the telephone?
+#내가 너에게 전화했을 때 너는 무엇을 하고 있었니?
+
+[28]
+#I've made a bet that my party will win the next election.
+#나는 우리 당이 다음 선거에서 승리할 것이라고 내기를 했다.
+
+[29]
+#I am interested in working towards an MA.degree in the field of Library Science.
+#나는 도서관학 분야의 학사 학위를 열심히 공부할 계획이다.
+
+[30]
+#I'm going to record that television play on my video.
+#나는 나의 비디오로 그 드라마를 녹화하려고 한다.
+
+[31]
+#Father got a bit ratty when I broke those plates.
+#내가 그 접시들을 깨뜨렸을 때 아버지는 좀 화가 나셨다.
+
+[32]
+#I gave a loud yawn,but he just kept on talking.
+#내가 큰소리로 하품을 했지만 그는 여전히 이야기를 계속 해나갔다.
+
+[33]
+#I get into bed at about 11:30,and go right off to sleep.
+#나는 대략 11시 30분에 침대에 올라가 누워서 곧 잠이 들었다.
+
+[34]
+#I'm afraid the car's finally had it.
+#
+
+[35]
+#I'm afraid that the record you asked for is no longer obtainable.
+#나는 네가 원하던 레코드판을 구하기 어렵게 될까 봐 걱정이 된다.
+
+[36]
+#I'm afraid my old grandfather will not hold out through the winter.
+#나는 나의 노조부께서 이 겨울을 견디지 못하실까 봐 걱정이 된다.
+
+[37]
+#I wish she would stop picking at the little girl so much.
+#나는 그녀가 다시는 그 소녀의 흠을 잡지 않기를 바란다.
+
+[38]
+#I would certainly jump at the chance of visiting Yan'an.
+#나는 당연히 연안을 방문할 기회를 놓칠 수 없었다.
+
+[39]
+#Certainly I can pretend to no special knowledge of electronics.
+#나는 당연히 전자학의 전문 지식을 이미 장악했다고 말할 수는 없다.
+
+[40]
+#I wasn't there,but apparently she tried to drown him.
+#나는 당시 그 현장에 없었다. 그러나 그녀가 그를 익사시키려고 한 것이 틀림없다.
+
+[41]
+#I told you at the time that I thought you were being foolish.
+#나는 네가 한 일이 너무 어리석었다고 생각한다는 것을 당시 너에게 말을 했었다.
+
+[42]
+#I went to the National Gallery,where I saw a great many pictures.
+#나는 국립미술관에 가서 많은 그림을 보았다.
+
+[43]
+#I went to the market to buy,not to sell.
+#내가 시장에 간 것은 물건을 사려고 한 것이지, 물건을 팔려고 한 것이 아니다.
+
+[44]
+#I went out on the patio and sat down and enjoyed each page.
+#나는 바깥 뜰에 앉아서 매 페이지를 자세히 감상했다.
+
+[45]
+#I'm here on business,not for pleasure.
+#내가 여기에 온 것은 처리할 일이 있어서지, 놀러 온 것이 아니다.
+
+[46]
+#I must confess that I have not read any of Gorky's novels.
+#나는 아직 고리키의 소설을 본 적이 없다는 것을 인정해야 한다.
+
+[47]
+#I got the job because I came along at the right time.
+#내가 이 일을 얻게 된 것은 때마침 좋은 기회를 만났기 때문이다.
+
+[48]
+#There are certain reasons why I must say no.
+#내가 안 된다고 말해야만 하는 데는 분명한 이유가 있다.
+
+[49]
+#I am to account to my parents for my monthly allowance.
+#나는 매월 지급되는 용돈 상황에 대해 부모님께 보고를 드려야 한다.
+
+[50]
+#I certainly was sorry to hear that you had to go to the hospital.
+#나는 네가 병원에 입원했다는 소식을 알고 매우 슬펐다.
+
+[51]
+#I must be getting on;I have to be back home by five.
+#나는 가야 한다.; 나는 반드시 5시 이전에 집에 돌아가야 한다.
+
+[52]
+#Something has gone wrong with my watch.Could you see to it for me?
+#내 시계가 고장이 났다. 네가 나를 위해 좀 봐줄 수 있겠니?
+
+[53]
+#My watch is bust; I must get it repaired.
+#내 시계가 부숴졌다. 나는 그것을 수리해야 한다.
+
+[54]
+#My car is on the third floor of a multistorey car park.
+#내 차는 다층식 주차장의 4층에 주차되어 있다.
+
+[55]
+#I want $20,000 for my car and won't settle for less.
+#내 차를 이만 달러에 팔려고 한다. 이 가격보다 적게는 팔 수 없다.
+
+[56]
+#The front part of my car was damaged when it hit the tree.
+#나의 차가 나무에 부딪혀서 차 앞부분이 손상되었다.
+
+[57]
+#My shirt was so dirty that I had to use bleach on it.
+#나의 셔츠가 너무나 더럽다. 나는 표백제를 가지고 헹궈야 한다.
+
+[58]
+#My success does not depend on my teachers but on me.
+#나의 성공은 나의 선생님에게 달려 있는 것이 아니라 나 자신에게 달려 있다.
+
+[59]
+#My partner signed off with four spades.
+#나의 파트너는 고의로 4스페이드를 불러서
+
+[60]
+#My ears are still singing from the noise.
+#나의 귀는 그 소음 때문에 계속 옹옹 소리가 난다.
+
+[61]
+#My room was so small that I felt fenced in.
+#나의 방은 아주 작아서 나로 하여금 갇혀 있는 기분이 들게 한다.
+
+[62]
+#My father belongs to Beijing,but my mother belongs to Tianjin.
+#나의 아버지는 북경 사람이지만 어머니는 천진 사람이다.
+
+[63]
+#My father is a teacher,and my mother a factory worker.
+#나의 아버지는 교수이고, 어머니는 노동자이다.
+
+[64]
+#My brother is a member of the faculty.He teaches economics.
+#나의 형은 대학 교수인데, 그는 경제학을 가르친다.
+
+[65]
+#It's always my height that gives me away.
+#나는 키가 커서 종종 사람들이 한눈에 알아본다.
+
+[66]
+#I'm badly behind with my work and am making great efforts to catch up.
+#나의 일이 너무 뒤떨어져서, 나는 따라잡으려고 노력하고 있다.
+
+[67]
+#I have a good-paying job with excellent hours.
+#나의 일은 급료가 아주 높고, 일하는 시간도 매우 이상적이다.
+
+[68]
+#My aunt had the operation this morning and it all went off quite well.
+#나의 고모는 오늘 아침에 수술을 하셨는데, 상태가 아주 양호하다.
+
+[69]
+#My plan came to grief,and I was left penniless.
+#나의 계획이 실패하여서, 나는 무일푼이 되었다.
+
+[70]
+#Mymemory is too bad; I remembered the name of the place wrongly.
+#나는 기억력이 그다지 좋지 않아서 지명을 잘못 기억했다.
+
+[71]
+#My home is in the capital.It's a cosmopolitan city.
+#나의 집은 수도에 있는데, 그것은 하나의 국제적인 도시이다.
+
+[72]
+#I hurt my foot,and had to hobble home.
+#나는 다리를 다쳐서, 절뚝거리며 집으로 돌아갈 수밖에 없다.
+
+[73]
+#I'm better at history than Jean,but worse at French.
+#나는 역사과목은 Jean보다 잘하지만, 불어는 그녀보다 못하다.
+
+[74]
+#My horse has hurt his foot so I can't race him.
+#나의 말이 다리를 다쳐서, 시합에 참가시킬 수가 없다.
+
+[75]
+#May my sister come along to the meeting as well?
+#나의 여동생도 이 모임에 함께 참가해도 괜찮겠습니까?
+
+[76]
+#My sister worked as a secretarry before she got married.
+#나의 여동생은 결혼하기 전에 비서 일을 했다.
+
+[77]
+#My name is Alexander,"Al" for short.
+#나의 이름은 알렉산더인데, 간단하게 "Al"이라고 부른다.
+
+[78]
+#My eye fell upon an interesting article in the newspaper.
+#나의 눈길이 신문상의 한편의 흥미있는 문장에 떨어졌다.
+
+[79]
+#My head's in a whirl; I must sit down and think.
+#나의 머리가 혼란스럽다. 나는 앉아서 잘 생각해봐야겠다.
+
+[80]
+#My daughter importuned me to buy the expensive dress.
+#나의 딸은 나에게 그 비싼 옷을 사라고 재삼 간청했다.
+
+[81]
+#My friends merged into the crowd and I lost sight of them.
+#나의 친구들이 군중 속으로 사라져서 나는 그들을 시야에서 놓쳐버렸다.
+
+[82]
+#My friend reads and writes several languages.
+#나의 친구는 몇 개 언어로 읽고 쓸 줄 안다.
+
+[83]
+#My friend spent his childhood in California.
+#나의 친구는 캘리포니아주에서 그의 어린시절을 보냈다.
+
+[84]
+#My friend said that he had seen the boy there.
+#나의 친구는 그가 거기에서 그 소년을 본 적이 있다고 말했다.
+
+[85]
+#My wallet has dropped out of my pocket.
+#나의 지갑이 주머니에서 떨어졌다.
+
+[86]
+#My wife badgered me to take her to the super market store.
+#나의 아내는 나에게 슈퍼마켓에 가자고 졸라댔다.
+
+[87]
+#My wife bought an article of coat for our daughter this morning.
+#나의 아내는 오늘 아침에 딸에게 코트를 하나 사주었다.
+
+[88]
+#My car wouldn't start after he tampered with it.
+#나의 차는 그에게 함부로 다루어진 이후로 움직이지 않는다.
+
+[89]
+#My car failed its MOT test.
+#나의 차는 아직 MOT 테스트를 하지 않았다.
+
+[90]
+#I want ↔500 for my car and I won't settle for less.
+#내 차의 판매가격은 500파운드이다. 더 싸게는 안 된다.
+
+[91]
+#My car has been turbochargerd so it's very powerful.
+#내 차는 배기 터빈 과급기가 장착되어 있어서 힘이 아주 좋다.
+
+[92]
+#The paintwork was damaged when my car hit the gate.
+#내 차는 대문에 부딪혀서, 차의 칠이 벗겨졌다.
+
+[93]
+#I certainly didn't intend to cause you so much inconvenience.
+#나는 정말로 너에게 이렇게 큰 번거로움을 만들어 주고 싶지 않다.
+
+[94]
+#I do recall that I put the book on a shelf.
+#나는 그 책을 어느 책꽂이에 꽂았는지를 확실히 기억한다.
+
+[95]
+#I don't have my diary to hand,so I'll have to check later.
+#나의 일기가 수중에 없어서, 후에 다시 살펴봐야 하겠다.
+
+[96]
+#I tore my coat on a nail that was sticking out from a wall.
+#나의 코트가 벽에 나와 있는 못에 걸려 찢어졌다.
+
+[97]
+#My life alternated between work and sleep.
+#나의 생활은 바로 일이 끝나면 자고, 자고 나면 또 일하는 것이다.
+
+[98]
+#I'm clean out of food and the shops are shut.
+#나의 음식은 이미 다 먹어버렸고, 상점도 문을 닫았다.
+
+[99]
+#My watch has gone wrong; I'm sending it back to the makers.
+#나의 손목시계가 고장나서, 나는 그것을 제조업자에게로 돌려 보냈다.
+
+[100]
+#One of my suitcases is small,and the other one is medium size.
+#나의 손가방은 하나는 작은 것이고, 또 다른 하나는 중간 크기의 것이다.
+
+[101]
+#My uncle was a pilot with the airlines.He just retired.
+#나의 숙부는 항공회사의 조종사인데, 막 퇴직하셨다.
+
+[102]
+#My personal letters got muddled up with a batch of circulars.
+#나의 개인적인 편지와 통지서들이 한데 섞였다.
+
+[103]
+#My wife is angry with me,but she'll come around soon.
+#나의 아내는 나에게 화를 내지만, 그러나 그녀는 곧 나에게 동의할 것이다.
+
+[104]
+#There were 15 votes in favour of my suggestion,and 23 against.
+#나의 제의는 찬성 15표, 반대 23표를 얻었다.
+
+[105]
+#My weight fluctuates between 106 and 120 pounds.
+#나의 체중은 106에서 120파운드 사이를 왔다갔다한다.
+
+[106]
+#My guess is that he didn't come because he was angry with us.
+#내 추측으로 그는 나에게 화가 났기 때문에 오지 않을 것이다.
+
+[107]
+#My little brother takes a bath before he goes to bed at night.
+#나의 작은 남동생은 밤에 잠자기 전에 늘 목욕을 한다.
+
+[108]
+#My salary averages 1500 dollars a month.
+#나의 월급은 평균적으로 매월 1500달러이다.
+
+[109]
+#My new secretary's a winner.
+#나의 새로운 비서는 유능한 조수가 될 것 같다.
+
+[110]
+#After the accident with my new car,I was ↔500 out of pocket.
+#나의 새 차가 사고를 낸 후 나는 500파운드의 돈을 괜히 썼다.
+
+[111]
+#My mind traveled over the happy days of my boyhood.
+#어린 시절의 그 즐겁던 일들이 마음 속에 뚜렷이 떠오른다.
+
+[112]
+#My brother came in,changed his clothes,and went out again.
+#나의 형제는 들어와서 옷을 갈아입고 또 나갔다.
+
+[113]
+#My btother's in the army.He was just promoted to the rank of major.
+#나의 형제는 군대에서 일하는데, 그는 막 소령으로 진급되었다.
+
+[114]
+#We were turned away from the restaurant because we weren't properly dressed.
+#나의 옷이 단정하지 않다고, 식당에서 들어오지 못하게 했다.
+
+[115]
+#My car corners well even in wet weather.
+#내 차는 비오는 날에도 아주 잘 회전한다.
+
+[116]
+#Would you mind looking over my essay?
+#당신이 나의 문장을 한번 훑어 보아 주시겠습니까?
+
+[117]
+#My nephew is a baseball player.He is a catcher.
+#나의 조카는 야구선수인데, 그는 포수이다.
+
+[118]
+#My immediate family consists of my son and my wife.
+#나의 가장 가까운 가족은 아들과 아내이다.
+
+[119]
+#I underestimated the cost of the journey and now have no money left.
+#나는 여행비용을 너무 낮게 잡아서, 지금 수중에는 남은 돈이 하나도 없다.
+
+[120]
+#I made a bad impression on the teacher by arriving late on my first day.
+#나는 첫날의 수업에 늦어서 선생님께 나쁜 인상을 남겼다.
+
+[121]
+#My younger brother made a great miration about the fish he caught.
+#내 남동생은 그가 잡은 고기를 보고 매우 신기해 했다.
+
+[122]
+#I sent in a subscription to that magazine.It's put out every week.
+#나는 그 잡지를 정기구독하는데, 그것은 주간잡지이다.
+
+[123]
+#I understood the tenor of his speech but not the details.
+#나는 그의 말의 대의는 이해하겠으나 그 세부적인 사항은 이해하지 못하겠다.
+
+[124]
+#I decided it would cost too much to repair the car.
+#나는 이 차를 수리하는 비용이 너무 비싸다고 단정한다.
+
+[125]
+#Our team will play against the front-running Red Leaves next month.
+#우리팀은 다음달에 선두를 달리고 있는 홍엽팀과 시합을 할 것이다.
+
+[126]
+#Our team was knocked out in the first part of the competition.
+#우리팀은 경기 전반전에 강제로 퇴장당했다.
+
+[127]
+#I am very interested in going abroad to obtain an advanced degree.
+#나는 외국에 나가 깊이 연구해서 더 높은 학위를 따는 것에 매우 관심이 있다.
+
+[128]
+#I feel mean for not doing more for my son.
+#나는 아들을 위해 더 많은 일을 해주지 못한 것에 대해 부끄럽게 느낀다.
+
+[129]
+#That's the umpteenth time I've told you not to do that!
+#내가 너에게 그렇게 하지 말라고 몇 번이나 말했는지 모른다.
+
+[130]
+#I told you to get here early,so why are you late?
+#내가 너에게 좀 일찍 오라고 얘기했는데 너는 왜 늦었니?
+
+[131]
+#I'm tired of your everlasting complaints!
+#나는 너의 그 재잘재잘 쉴 새 없이 지껄이는 불평들이 지겹다.
+
+[132]
+#I am personally responsible for the conduct,faults of my servants.
+#나는 하인의 행동이나 잘못을 나 자신이 책임을 진다.
+
+[133]
+#I take my hat off to him for the way he arranged the party.
+#나는 사교모임을 준비한 너의 방식에 대해 감탄을 표한다.
+
+[134]
+#I cannot say enough in praise of his work.
+#나는 그의 일하는 것에 끊임없이 찬양을 표하는데, 어떻게 말을 한다 해도 지나치지 않다.
+
+[135]
+#I said good morning to him but he gave no answer.
+#나는 그에게 아침인사를 했는데 그는 아무 대답이 없었다.
+
+[136]
+#I have some reservations about the truth of his story.
+#나는 그가 말한 일의 진실성에 대해 의심이 든다.
+
+[137]
+#I eased her mind by telling her that her children were safe.
+#나는 그녀에게 그녀의 아이들이 편안히 잘 있다고 말해서 그녀를 안심시켰다.
+
+[138]
+#I have no stomach for sweets.
+#나는 단 음식 먹는 것을 좋아하지 않는다.
+
+[139]
+#i am neither for nor against the proposal.
+#나는 이 제의에 대해서 찬성도 하지 않고 반대도 하지 않는다.
+
+[140]
+#The name simply didn't register with me.
+#나는 이 이름에 대해 전혀 기억이 없다.
+
+[141]
+#My reading of the law is that we needn't pay.
+#
+
+[142]
+#I am responsible to the director for making sure that the company is profitable.
+#
+
+[143]
+#I hooted my horn at the children playing in the road.
+#나는 길에서 놀고 있는 아이들에게 클랙슨을 울렸다.
+
+[144]
+#My son has been pestering me to take him with me.
+#아들은 그를 데리고 함께 가라고 계속 나에게 달라붙어 있다.
+
+[145]
+#My son has been doing electronics at Princeton .
+#나의 아들은 줄곧 프린스톤대학에서 전자학을 열심히 공부하고 있다.
+
+[146]
+#My son had a calling to become a priest.
+#나의 아들은 목사가 되고자 하는 열망이 있다.
+
+[147]
+#Without another word I took his bowl and ladled in some chicken soup.
+#나는 다른 말 없이 그의 그릇을 가져다 닭국을 담았다.
+
+[148]
+#I'm finding it increasingly difficult to live on my wages.
+#나는 내 월급에 의지해 생활하기가 점점 어려워진다는 것을 깨달았다.
+
+[149]
+#I find our new neighbor simpatico in every respect.
+#나는 우리의 새 이웃과 각 방면에서 공존할만하다는 것을 알았다.
+
+[150]
+#I find that Michael has broken a window in your basement.
+#나는 Michael이 너의 지하실 유리창을 깨뜨렸다는 것을 알았다.
+
+[151]
+#I found him sprawled on the bed.
+#나는 그가 두 다리를 벌리고 침대에 누워 있는 것을 발견했다.
+
+[152]
+#I caught him snooping around in my office.
+#나는 그가 나의 사무실에서 여기저기를 기웃거리며 다니는 것을 발견했다.
+
+[153]
+#I saw that she was right,so I had to back down.
+#나는 그녀가 옳다는 것을 알고, 원래의 의견을 포기할 수밖에 없었다.
+
+[154]
+#I was amused to find that he and I were born on the same day.
+#나는 나와 그의 생일이 같은 날이라는 것을 알고 재미있게 생각되었다.
+
+[155]
+#I was annoyed to find a chip in my new table.
+#나는 새 책상이 좀 파손된 것을 발견하고, 불쾌했다.
+
+[156]
+#I found it a great trouble to cook by myself.
+#나는 스스로 요리하는 것이 아주 번거로운 일이라는 것을 알았다.
+
+[157]
+#I felt such a fool when I realized I'd got on the wrong bus.
+#나는 버스를 잘못 탔다는 것을 깨닫고 어리둥절했다.
+
+[158]
+#He raked me over for a mistake I had committed.
+#내가 실수를 범했는데, 그는 나를 회되게 꾸짖었다.
+
+[159]
+#Our packing is standardized in a manner which is approved by foreign clients.
+#우리측 포장은 표준화된 것으로 이미 외국 고객들의 인가를 받았다.
+
+[160]
+#We are holding over these goods,awaiting your anticipated early reply.
+#우리측은 이 물건들을 보존하고 너희측이 빠른 시일 내에 회답하기를 기다리고 있다.
+
+[161]
+#We assure you of our careful attention to your interests at all times.
+#우리측은 언제든지 너희측의 이익을 중시할 것을 보증한다.
+
+[162]
+#We can assure you that all your orders will receive our immediate attention.
+#우리측은 너희측 주문서를 받는 즉시 처리할 것을 보증한다.
+
+[163]
+#We regret that we are unable to see your representative on...
+#우리측은 ...에 너희측 대표를 만날 수 없는 것에 대해 미안하게 생각한다.
+
+[164]
+#Our quotation is strictly net,and the price have been reduced to the limit.
+#우리측이 제시하는 가격은 확실히 최종가격이다. 이미 최대한으로 내렸다.
+
+[165]
+#Out guns were brought to bear on the center of the enemy position.
+#우리측 대표는 일제히 적의 진지 중앙을 향했다.
+
+[166]
+#Our CIF prices are understood to be for sea/land transport to Chicago .
+#
+
+[167]
+#The consignment covering our Order No. ..arrived last week.
+#우리측은 제 ...호 주문서의 물건을 지난주에 이미 운송했다.
+
+[168]
+#We ordered goods of average quality.You have sent us inferior merchandise.
+#우리측이 주문한 것은
+
+[169]
+#We regret that we are unable to supply you with the small quantity you require.
+#우리측은 당신측이 요구하는 적은 수량은 공급하기 어렵다.
+
+[170]
+#We regret we cannot accept "cash against documents on arrival of goods at destination".
+#
+
+[171]
+#We will pack exactly according to your instructions.
+#우리측은 완전히 당신측의 요구에 따라 포장할 것입니다.
+
+[172]
+#Our prices are in force only if you order by return mail.
+#우리측이 제시한 가격은 당신측이 빨리 우편으로 회답하여 주문해야만 효력이 있다.
+
+[173]
+#We will try our best to advance shipment,but we cannot commit ourselves.
+#우리측은 날짜를 당겨 선적하도록 노력하겠지만, 확실히 보장할 수는 없습니다.
+
+[174]
+#We will do our best to expedite shipment to meet your requirements in time.
+#우리측은 가능한 한 빨리 선적하여서 제때에 당신들이 요구를 만족시킬 것입니다.
+
+[175]
+#We shall take particular care to keep strictly to your specifications.
+#우리측은 아주 엄격하게 너희측이 규정한 요구에 따를 것이다.
+
+[176]
+#Our trading terms and conditions have been widely accepted by our suppliers abroad.
+#우리측의 교역 조건은 이미 국외 공급상들에게 광범위하게 채용되었다.
+
+[177]
+#Holding the mountain pass,our intercepting platoon blazed away at the enemy.
+#우리측 저격대는 산 입구를 점거하고 계속해서 적에게 사격을 가했다.
+
+[178]
+#We confirm cabled estranged as per copies( cable confirmation) herewith attached.
+#우리측은 서로 교환한 전보를 확인하고 동봉한 문건을 참고한다.
+
+[179]
+#We confirm telegrams recently estranged between us and are pleased to say that ...
+#우리측은 최근 교환한 전보를 확인하고 기쁘게 ...를 알린다.
+
+[180]
+#We acknowledge receipt of your telegram of today's date,which reads as follows:
+#우리측은 너희측이 오늘 발송한 전보를 받았다.
+
+[181]
+#We have an inquiry in hand for a large quantity of Bitter Apricot Kernels.
+#지금 우리측 수중에는 대량의 행인을 구입하고자 하는 문의서가 한 장 있다.
+
+[182]
+#We very much regret that we are unable to supply what you require just now.
+#우리측은 너희측이 현재 필요로 하는 물건을 공급할 수 없습니다. 매우 죄송합니다.
+
+[183]
+#The shipment date of our L/C has been extended to the end of ...as requested.
+#우리측 신용장의 선적시기가 이미 요구에 의해 연장되었다.
+
+[184]
+#Our insurance coverage is for 110% of invoice value up to the port of destination only.
+#
+
+[185]
+#We await with deep interest to receive your immediate reply.
+#우리측은 깊은 관심을 가지고 귀사의 빠른 대답을 기다리겠습니다.
+
+[186]
+#I am well acquainted with local conditions and have excellent business connections.
+#나는 현지 상황을 아주 잘 알고 있고, 또 아주 좋은 업무관계를 가지고 있다.
+
+[187]
+#She loves old Humphrey Bogard films.
+#나는 오랜 배우인 험프리 보가트가 주연한 영화를 매우 좋아한다.
+
+[188]
+#That old overcoat of my father's was much worn.
+#아버지의 그 오래된 오버코트는 이미 아주 오랫동안 입었다.
+
+[189]
+#My father impressed on me the value of hard work.
+#아버지는 나에게 열심히 일하는 것의 가치를 강조하셨다.
+
+[190]
+#It's time my father eased up on his work a bit; he's getting old.
+#아버지는 일을 좀 늦추셔야 한다. 그는 이미 연세가 점점 많아지고 있다.
+
+[191]
+#My father has just gone for a walk,but he'll be back in half an hour.
+#나의 아버지는 방금 산책을 나가셨는데, 30분 후면 돌아오실 것이다.
+
+[192]
+#Most people of my father's generation have experienced war.
+#우리 아버지 세대의 사람들은 거의 전쟁을 경험했다.
+
+[193]
+#My father always fumed about the slowness of the buses.
+#아버지는 늘 버스가 느리게 다닌다고 화를 내신다.
+
+[194]
+#I append a list of those shops which sell our products.
+#우리 상품을 판매하는 상점의 명단을 동봉한다.
+
+[195]
+#Which shoes shall I wear,the red ones or the brown ones?
+#내가 어떤 신을 신어야 하겠니, 빨간색 아니면 갈색?
+
+[196]
+#I do my work and the others do theirs.
+#나는 내 일을 하고 다른 사람들은 그들 자신의 일을 한다.
+
+[197]
+#I'm not feeling well,I must have picked up a bug somewhere.
+#나는 몸이 불편하다. 아마도 무슨 병에 걸린 것 같다.
+
+[198]
+#I felt sick but succeeded in keeping the food down.
+#나는 구역질이 났지만 간신히 먹은 음식을 토하지는 않았다.
+
+[199]
+#I feel guilty because I haven't written her lately.
+#나는 근래에 줄곧 그녀에게 편지를 보내지 않아서 양심의 가책을 느낀다.
+
+[200]
+#Feeling a cold coming on,I took two tablets.
+#나는 감기에 걸린 것 같아서 약을 두 알 먹었다.
+
+[201]
+#I feel called on to draw your attention to certain facts.
+#나는 너희들이 어떤 사실에 주의하도록 요구할 책임이 있다고 느낀다.
+
+[202]
+#I have just received a letter pressing for a prompt answer.
+#나는 방금 신속한 답장을 요하는 편지를 한 통 받았다.
+
+[203]
+#I glimpsed her among the crowd just before she disappeared from sight.
+#나는 방금 군중들 속에서 그녀를 언뜻 보았다. 그러나 그녀는 돌연 사라졌다.
+
+[204]
+#I had just poured myself a glass of beer when the phone rang.
+#내가 막 스스로에게 맥주를 한 잔 따랐을 때, 전화벨이 울렸다.
+
+[205]
+#I've just been paid,so I'm feeling quite flush.
+#나는 방금 월급을 받아서 돈주머니가 꽉 찬 것처럼 느껴진다.
+
+[206]
+#I've just come across an old friend I haven't seen for years.
+#나는 방금 몇 년 동안 만나지 못했던 옛 친구를 우연히 만났다.
+
+[207]
+#I'm glad to see the two girls hitting it off so well.
+#나는 이 두 소녀가 아주 사이 좋게 지내는 것을 기쁘게 바라보았다.
+
+[208]
+#It is for your own welfare that I tell you this.
+#내가 너에게 이 일을 말해 주는 것은 너의 행복을 위해서이다.
+
+[209]
+#I told the driver to pull up,and I got out.
+#나는 기사에게 차를 세우라고 말하고, 차에서 내렸다.
+
+[210]
+#I told them of my adventures in the mountains.
+#나는 그들에게 나의 산에서의 그 평범하지 않은 경력을 말해주었다.
+
+[211]
+#I told him how I had read it in the papers.
+#나는 그에게 내가 신문에서 그 사건을 보았다고 말했다.
+
+[212]
+#I hope you will pardon me for having caused you so much trouble.
+#내가 너를 이렇게 많이 번거롭게 하였는데, 네가 나를 용서하기를 바란다.
+
+[213]
+#I gave my wife a call but she was out.
+#나는 아내에게 전화를 했으나, 그녀는 나갔다.
+
+[214]
+#I wash his face and hands,and then I dress him.
+#나는 그의 얼굴과 손을 씻어준 후 그에게 옷을 입혀 주었다.
+
+[215]
+#I value it highly.
+#나는 그것의 가치를 높이 평가한다.
+
+[216]
+#I recognized the man from the description in the newspaper.
+#나는 신문상의 묘사에 근거해서 그 남자를 분간해냈다.
+
+[217]
+#I paired up with a very efficient young man in carrying out the order.
+#나는 아주 유능한 청년과 함께 이 명령을 수행한다.
+
+[218]
+#The trouble with my job is that it is all work and no play.
+#
+
+[219]
+#We must really insist upon greater promptitude in regard to deliveries.
+#우리 회사는 신중하게 주장을 해서 반드시 기일 내에 물건을 인도할 것이다.
+
+[220]
+#We are not willing to accept goods which differ from your samples.
+#우리 회사는 너의 견본과 다른 상품은 받지 않을 것이다.
+
+[221]
+#General catalogues and special leaflets are being airmailed under separate cover.
+#
+
+[222]
+#The responsible members and sales representatives of this Corporation will be there to receive you.
+#우리 회사의 책임자와 해외 판매원이 광주에서 너희들을 접대할 것이다.
+
+[223]
+#One of our important customers intends to build a leather-tanning factory.
+#우리 회사의 중요 고객 한 명이 제혁공장을 건설할 계획이다.
+
+[224]
+#The company is in the position to indemnify them for the loss.
+#우리 회사는 이번 손실에 대해 모두 책임을 지고 또 보상할 것이다.
+
+[225]
+#I reckon that business of over forty million France can be done.
+#나는 사천 만 프랑 이상의 무역액을 달성하리라 예상한다.
+
+[226]
+#Most of our gold reserves have drained away to foreign countries.
+#우리나라 대부분의 황금이 국외로 보내질 준비가 되었다.
+
+[227]
+#Our country has grown rich because of its commerce with other nations.
+#우리나라는 다른 나라와의 무역을 통해서 부강해졌다.
+
+[228]
+#Without the slightest hesitation,I gave him a heavy dose of morphia.
+#나는 조금도 주저하지 않고 그에게 대량의 모르핀을 주사했다.
+
+[229]
+#The article fired me up like nothing else I'd read for a long time.
+#나는 아주 오랫동안 이렇게 나를 감동시키는 문장을 읽지 못했었다.
+
+[230]
+#Mr.Burke joins me in sending best wishes for your speedy recovery.
+#나와 Burke 선생은 네가 건강을 빨리 회복하기를 바란다.
+
+[231]
+#Jim and I want to thank you for the beautiful salad bowl set.
+#나와 Jim은 네가 예쁜 샐러드 그릇을 보내준 것에 매우 감사한다.
+
+[232]
+#Judy and I appreciate your congratulations and good wishes.
+#나와 Judy는 너의 축하와 좋은 축원에 매우 감사한다.
+
+[233]
+#David and I are going to be married on Friday morning,June the twentieth.
+#나와 David는 6월 20일 금요일 오전에 결혼하기로 했다.
+
+[234]
+#I agree with you that his acting is simply marvelous.
+#나와 너와 같이 그의 연기가 정말 훌륭한 것에 동감한다.
+
+[235]
+#I've had dealings with him,but I don't know him very well.
+#나는 그와 상업적으로 왕래를 하지만, 그러나 나는 그를 썩 잘 알지는 못한다.
+
+[236]
+#I concur with him in many points.
+#나와 그는 많은 논점에서 의견이 일치한다.
+
+[237]
+#Tom and I are both very eager to have you here,so don't disappoint us!
+#나와 톰은 네가 올 수 있기를 바라니, 절대로 우리를 실망시키지 말아라!
+
+[238]
+#I'm sorry I forgot your birthday; it completely slipped my mind.
+#너의 생일을 잊어서 정말 미안하다. 내가 완전히 기억하지 못했다.
+
+[239]
+#I'm very glad you've finally come to terms with the climate in the mountains.
+#너희들이 끝내 산지 기후에 적응을 해서 나는 매우 기쁘다.
+
+[240]
+#I'm glad I've studied to learn all this stuff.
+#나는 이미 이러한 것들을 배워서 매우 기쁘다.
+
+[241]
+#I have pleasure in recording here my grateful acknowl-edgement to the society.
+#나는 여기에서 이 협회에 사의를 표하게 되어 아주 기쁘다.
+
+[242]
+#I went to sleep immediately and slept soundly all night.
+#나는 아주 빨리 잠이 들었을 뿐 아니라 밤새 아주 푹 잤다.
+
+[243]
+#I would do it with pleasure,only I am too busy.
+#나는 아주 기꺼이 그 일을 한다. 단지 내가 너무 바쁘다.
+
+[244]
+#I'm rather tired.I've been playing basketball since breakfast.
+#나는 매우 피곤하다. 아침식사 이후 줄곧 농구를 하고 있다.
+
+[245]
+#I have the honor to reply for the guests at this dinner.
+#나는 이 연회에 참가할 내빈을 대표하여 답사를 하게 되어 매우 영광이다.
+
+[246]
+#I enjoyed the cricked match; it was a good day's play.
+#나는 그 크리켓 경기가 너무 재미있어서 온종일 했다.
+
+[247]
+#I liked this shirt,but the collar has worn.
+#나는 이 셔츠를 아주 좋아하는데, 옷깃이 벌써 헤졌다.
+
+[248]
+#I'd like to go with you; however,my hands are full.
+#나는 너와 함께 가고 싶다. 그러나 너무 바빠서 겨를이 없다.
+
+[249]
+#I want to go very much but,nevertheless,I do not care to go through the rain.
+#나는 매우 가고 싶다. 하지만 비를 무릅쓰고 갈 수는 없다.
+
+[250]
+#I'd like to stop for a longer talk,but I'm rather pushed today.
+#
+
+[251]
+#I'd like a new car but I haven't the wherewithal to pay for it.
+#나는 새 차를 한대 갖고 싶지만, 차를 살 재력이 없다.
+
+[252]
+#I wonder if she knows we're here.
+#나는 그녀가 우리들이 여기에 있다는 것을 아는지 궁금하다.
+
+[253]
+#I admire Jane; she's a really together person.
+#나는 Jane이 아주 마음에 든다. 그녀는 정말 조리정연하다.
+
+[254]
+#Fortunately,I was admitted to the Department of Anthropology,Beijing University.
+#나는 운이 좋게도 북경대학 인류학과에 합격되었다.
+
+[255]
+#I hate him and I won't pretend otherwise.
+#나는 그가 싫다. 뿐만 아니라 그를 싫어하지 않는 것처럼 가장하고 싶지도 않다.
+
+[256]
+#I grabbed a sandwich and a cup of coffee.
+#나는 샌드위치를 하나 정신없이 먹고, 커피 한 잔을 마셨다.
+
+[257]
+#I remember the story as if I had just read it.
+#나는 그 이야기를 방금 다 읽은 것처럼 아직도 기억하고 있다.
+
+[258]
+#He flung off before I could say a word.
+#내가 말을 한마디 하기도 전에 그는 급히 뛰어갔다.
+
+[259]
+#I can't swing a house of my own yet.
+#나는 아직도 내 자신에게 속해 있는 집을 손에 넣지 못하고 있다.
+
+[260]
+#Before I had finished the tea,the host filled up my cup again.
+#내가 아직 차를 다 마시지도 않았는데, 주인은 또 나에게 한 잔 가득 따라 주었다.
+
+[261]
+#He'd buggered off before I had a chance to get a word in.
+#내가 그에게 한마디 건네기도 전에 그는 가버렸다.
+
+[262]
+#I haven't decided what to do; I'm mulling it over.
+#나는 아직 어떻게 해야할 지 결정을 못하고 곰곰히 고려해 보고 있다.
+
+[263]
+#Also I would like to know how much money I myself shall have to prepare for a year.
+#나는 내 자신이 매년 얼마의 돈을 준비해야 하는지 알고 있다.
+
+[264]
+#I need one more stamp before my collection is completed.
+#한 장의 우표가 더 있어야 비로소 완전한 한 세트가 된다.
+
+[265]
+#I should like to add that we are pleased with the result.
+#나는 우리들이 결과에 대해 만족한다고 덧붙여 말하고 싶다.
+
+[266]
+#I'll try to sandwich the interview inaf ter lunch.
+#나는 면담을 점심식사 후에 하려고 한다.
+
+[267]
+#I'll satisfy him of my grasp of the matter.
+#나는 그 일과 관련해서 내가 장악한 상황을 그에게 이해시킬 것이다.
+
+[268]
+#I am able to take dictation in English and transcribe them rapidly into Chinese.
+#나는 영어로 기록할 수 있고, 또 그것을 즉시 중국어로 바꿔 쓸 수 있다.
+
+[269]
+#When I hit him he reeled back and almost fell.
+#내가 그를 때려서 그는 뒤로 비틀거리며, 거의 쓰러질 뻔했다.
+
+[270]
+#I offered him still more,and yet he was not satisfied.
+#설령 내가 그에게 더 많은 것을 준다고 해도 그는 만족하지 않을 것이다.
+
+[271]
+#I could hardly translate my thoughts into words.
+#나는 나의 생각을 말로 표현해낼 수가 없다.
+
+[272]
+#I sent my sympathies on the death of Mr.Smith.
+#나는 조문을 보내서 스미스 선생의 별세를 애도했다.
+
+[273]
+#I can't remember what John was doing yesterday afternoon.
+#나는 어제 오후에 John이 무엇을 하고 있었는지 기억나지 않는다.
+
+[274]
+#I don't remember exactly what he said,but I shall try to recall it.
+#나는 그가 무슨 말을 했었는지 확실히 기억나지 않는다. 그러나 나는 더듬어 생각해보려고 한다.
+
+[275]
+#I remember the war but not the preceding years.
+#나는 그 전쟁을 기억한다. 그러나 전쟁 전의 세월은 기억나지 않는다.
+
+[276]
+#I remember her face,but I can't recall where I met her.
+#나는 그녀의 얼굴은 기억이 나는데, 그녀를 어디에서 만났었는지는 생각나지 않는다.
+
+[277]
+#I remember having shown them all the new books.
+#내 기억으로는 이미 그들에게 새 책 모두를 보여 주었다.
+
+[278]
+#I was acting on the supposition that what he told me was true.
+#나는 그가 나에게 말한 것들이 정말 행동으로 옮겨지리라고 가정한다.
+
+[279]
+#When I checked my shopping list I found I'd forgotten to buy eggs.
+#구입할 물건의 목록을 훑어보니, 계란 사는 것을 잊었다는 것을 알았다.
+
+[280]
+#I picked up the old book and it just came apart in my hands.
+#내가 그 오래된 책을 집어 들었으나, 책은 내 손에서 찢어져 흩어졌다.
+
+[281]
+#I cut out the article and pasted it in my scrapbook.
+#나는 그 문장을 오려서 나의 스크랩북에 붙였다.
+
+[282]
+#I've seen bad work,but this is the worst.
+#나는 아주 형편없이 일하는 것을 본 적이 있다. 그러나 이것이 가장 형편없는 것이다.
+
+[283]
+#May I suggest that you cut the quantity of your order by half?
+#나는 네가 주문서의 수량을 반으로 줄였으면 하는데, 어떻습니까?
+
+[284]
+#I suggest that you tear up the letter and start over again.
+#나는 네가 이 편지를 찢어버리고 처음부터 다시 쓸 것을 제의한다.
+
+[285]
+#I suggest the agency contract should be initially made for a trial period of one year.
+#나는 계약을 대행하기 시작하는 기한을 1년으로 할 것을 제안한다.
+
+[286]
+#I'll go over the explanation of how it works.
+#나는 그것의 사용에 관한 설명을 다시 한번 보려고 한다.
+
+[287]
+#I'll call round at my brother's to pick up the dictionary.
+#나는 그 사전을 가지고 오기 위해서 형제집에 한번 가려고 한다.
+
+[288]
+#I'll ring them around to find out who's unable to come.
+#나는 그들에게 각각 전화를 해서 누가 올 수 없는지를 알아보려고 한다.
+
+[289]
+#I'm looking forward to two marvelous weeks with my sister and her husband!.
+#나는 언니와 자형과 함께 즐거운 이 주일을 보낼 것이다.
+
+[290]
+#I'll come with you,and we'll split the cost of the petrol.
+#나는 너와 함께 오려고 하는데, 우리는 기름값을 분담할 것이다.
+
+[291]
+#I'll try to get round him to lend us his camera.
+#나는 그가 우리들에게 카메라를 빌려주도록 설득할 것이다.
+
+[292]
+#I'll try to climb through,but it's a tight fit.
+#나는 기어가려고 노력할 것이나 몸이 쉽게 통과되지 않는다.
+
+[293]
+#I'm going to pick out a few books to send to some friends in South China.
+#나는 몇 권의 책을 골라서 화남에 있는 몇 명의 친구에게 보내주려고 한다.
+
+[294]
+#I'll notify my lawyer to write out the agreement.
+#나는 이 합의서를 써서 나의 변호사에게 통지하려고 한다.
+
+[295]
+#I will conclude my remarks with a request for a contribution to the club.
+#나는 손해액을 클럽에 청구하는 것으로 나의 말을 끝맺을 것이다.
+
+[296]
+#I shall never forget all the favours you have bestowed on me.
+#나는 네가 나에게 베풀어준 은혜를 영원히 잊지 못할 것이다.
+
+[297]
+#I shall manage with what tools I have.
+#나는 현재 있는 공구로 그럭저럭 해볼 생각이다.
+
+[298]
+#I shall recoup my travelling expenses from my employers.
+#나는 고용주에게 나의 여행비용을 청구할 것이다.
+
+[299]
+#I'll finish working at 5:30 and get home by 6 o'clock.
+#나는 5시 30분에 퇴근해서 6시에 집에 돌아올 것이다.
+
+[300]
+#I told him to come,and right enough he arrived the next morning.
+#내가 그에게 오라고 했는데, 이튿날 오전에 과연 그가 왔다.
+
+[301]
+#I've tried to persuade him to change his mind but he's adamant.
+#나는 그에게 생각을 바꾸라고 간절히 충고했지만 그는 조금도 흔들리지 않는다.
+
+[302]
+#I wish to take this opportunity to express my heartfelt gratitude to you again.
+#나는 이 기회를 빌어 다시 한번 여러분에게 진심으로 감사를 표합니다.
+
+[303]
+#When will you repay me the ↔5 I lent you?
+#내가 너에게 빌려준 5파운드를 너는 언제 갚을 거니?
+
+[304]
+#I'm going to the dentist's today to have some artificial teeth fitted; I'll be glad to get it over.
+#나는 오늘 이를 해넣으러 가려고 하는데 순조롭게 잘 끝냈으면 좋겠다.
+
+[305]
+#I checked out three books from the library this morning.
+#나는 오늘 아침에 도서관에서 수속에 따라 세 권의 책을 빌렸다.
+
+[306]
+#I've had a foul morning; everything's gone wrong.
+#나는 오늘 아침에 아주 재수가 없다. 모든 일이 다 순조롭지 못하다.
+
+[307]
+#second to him,I am the fastest runner on our team.
+#
+
+[308]
+#I always thought it was such a sweet way to announce it.
+#나는 이런 방식으로 알리는 것이 얼마나 재미있는가 하고 늘 생각한다.
+
+[309]
+#I feel so uncomfortable that I won't go to school.
+#나는 몸이 매우 안 좋아서 학교에 가지 않았다.
+
+[310]
+#I feel ghastly about it.
+#나는 그러한 것이 매우 지겹다고 느낀다.
+
+[311]
+#I don't think that chair's firm enough to stand on.
+#나는 그 의자가 위에 올라서지 못할 정도로 불안정하다고 생각한다.
+
+[312]
+#I find all the characters in his new play very real.
+#나는 그의 새 연극에 나오는 모든 인물들이 매우 진실하다고 생각한다.
+
+[313]
+#I felt the truth of his words.
+#나는 그가 말하는 것이 진실이라고 생각한다.
+
+[314]
+#I found the conclusion of her book very exciting.
+#나는 그녀의 그 책의 결말이 사람을 매우 감동시킨다고 생각한다.
+
+[315]
+#I thought that something had happened to my brain.
+#나는 나의 머리 속에 무언인가가 떠올랐다고 생각했다.
+
+[316]
+#This government seems to me no better than any of its predecessor.
+#나는 이번 정부가 이전의 어떤 정부보다 나았다고 생각하지 않는다.
+
+[317]
+#I felt constrained to do what he told me.
+#나는 나 자신이 그가 하라는 일을 억지로 하고 있다고 느꼈다.
+
+[318]
+#I decided to channel my ability into something useful.
+#나는 내 자신의 능력을 유용한 일에 쓰겠다고 결심했다.
+
+[319]
+#I decided to clear all the old clothes that we never wear.
+#나는 입지 않는 오래된 옷들을 정리해 버리기로 결심했다.
+
+[320]
+#All our supplies have to come up by this single railway.
+#우리 군의 보급품은 모두 이 유일한 철로에 의지해 전방으로 운송해야 한다.
+
+[321]
+#Our army brushed aside the enemy defences and advanced south.
+#우리 군은 적의 방어망을 쓸어버리고, 남쪽으로 밀고 나갔다.
+
+[322]
+#It won't put me out a bit if I drive you all home.
+#내가 차를 운전해서 너희들 모두를 집에 데려다 주어도 불편할 거 없다.
+
+[323]
+#I was late for the meeting so they started without me.
+#내가 모임에 늦었기 때문에 그들은 먼저 시작했다.
+
+[324]
+#I started a new hobby.I got tired of working in the garden.
+#나는 새로운 취미가 생겼다. 꽃 기르는 것에는 이미 물렸다.
+
+[325]
+#I think Model NK-400E conforms with your specifications.
+#나는 NK-400E형이 당신이 제시하는 규격에 부합되는 것이라고 봅니다.
+
+[326]
+#I don't see the point of letting him go without permission.
+#
+
+[327]
+#I can't relate those two ideas.
+#나는 그 두 가지 관점 사이에 무슨 관계가 있는지 구별하지 못하겠다.
+
+[328]
+#I see no reason why they should not make a happy couple.
+#나는 그들이 행복한 부부가 되지 못하는 이유를 모르겠다.
+
+[329]
+#I don't respect people who are too compliant.
+#나는 시키면 시키는 대로 복종하고, 무조건 순종하는 그러한 사람을 무시한다.
+
+[330]
+#I have seen through you and won't be dictated to any more.
+#나는 너를 간파했다. 다시는 네 마음대로 지휘하게 하지 않겠다.
+
+[331]
+#On the bed I saw a new dress ready for me to put on.
+#나는 침대 위에 내가 언제든지 입을 수 있도록 제공되어진 새 옷이 하나 놓여있는 것을 보았다.
+
+[332]
+#I read to the bottom of the page and decided to stop there.
+#나는 그 페이지의 끝까지 읽고 쉬기로 결정했다.
+
+[333]
+#I cried out in horrors as I saw the car crash.
+#나는 차가 서로 부딪히는 것을 보았을 때 놀라서 소리를 질렀다.
+
+[334]
+#I saw the ball on the tree,but it was too high for me to come at.
+#나는 나무 위에 공이 있는 것을 보았으나, 너무 높아서 내릴 수가 없었다.
+
+[335]
+#I saw a man bolt out of our backyard.
+#나는 한 남자가 우리집 뒤뜰에서 도망치는 것을 보았다.
+
+[336]
+#I could see he had some misgivings about lending me his car.
+#나는 그가 나에게 차를 빌려주는 것에 대해 좀 걱정한다는 것을 알 수 있었다.
+
+[337]
+#I saw a tall farmerly fellow walking down the street.
+#나는 키가 큰 농민 같은 사람이 길에서 걷고 있는 것을 보았다.
+
+[338]
+#I don't think you could ever drink away the memory.
+#나는 네가 술을 마시는 것으로 이 일을 잊어버릴 수 있다고 생각하지 않는다.
+
+[339]
+#I see no reason for you to blow this minor issue up into a major one.
+#나는 네가 이 작은 일을 과장해서 중대한 사건으로 만들 이유가 없다고 본다.
+
+[340]
+#When I look at my watch,it's a signal for us to leave.
+#내가 시계를 보는 것이 바로 우리가 떠나야 한다는 신호이다.
+
+[341]
+#I doubt if the divorced couple will come together again.
+#나는 이미 이혼한 부부가 다시 좋아질 수는 없다고 본다.
+
+[342]
+#I looked at the map to refresh my memory of the road.
+#나는 지도를 보면서 그 길을 기억해 내려고 하였다.
+
+[343]
+#May I take the opportunity to express my thanks?.
+#내가 이 기회를 이용해서 나의 감사의 마음을 표해도 되겠습니까?
+
+[344]
+#I can bring forward more cases to illustrate my argument.
+#나는 더 많은 사례를 들어서 나의 논점을 설명할 수 있다.
+
+[345]
+#I can see that there really isn't any doubt in your mind about taking the examinations.
+#나는 너의 마음 속에 응시에 대한 어떤 의심이나 불안이 없다는 것을 볼 수 있다.
+
+[346]
+#I can stay here,if you want .
+#만일 네가 그렇게 하기를 원한다면 나는 여기에 남을 수 있다.
+
+[347]
+#I can ask him if he remembers posting a letter for you.
+#나는 그에게 너를 대신해서 편지 부치는 것을 기억하고 있는지 물어볼 수 있다.
+
+[348]
+#May I bring Comrade Li round to see you on Sunday?
+#내가 일요일에 이 동지를 데리고 당신을 만나러 가도 되겠습니까?
+
+[349]
+#I'm sure she'll pass the test; I've got great faith in her.
+#나는 그녀가 시험에 합격하리라고 확신한다, 나는 그녀에 대해 강한 믿음이 있다.
+
+[350]
+#I'm sure I've forgotten something,but it's too late now.
+#내가 분명히 뭔가를 잊어버렸는데 이제는 이미 너무 늦었다.
+
+[351]
+#I'm afraid that this shipment was not up to your own standard.
+#나는 이 물건들이 당신들의 표준에 미치지 못할까 봐 걱정이 된다.
+
+[352]
+#Let me help with your kit- bag ; you might fag your-self out!
+#내가 너를 도와서 공구상자를 들겠다. 네가 너무 힘들텐데!
+
+[353]
+#I'll race you to the end of the road.
+#나는 너와 도로 끝까지 누가 먼저 뛰어가는지 시합을 하려고 한다.
+
+[354]
+#Let me advise you on technical matters.
+#내가 너에게 기술적인 문제에 관한 의견을 주겠다.
+
+[355]
+#I fiddled away the whole afternoon doing nothing.
+#나는 오후시간을 아무 일도 못하고 모두 낭비했다.
+
+[356]
+#I was tired.This explains why I fell asleep quickly.
+#나는 피곤하다. 이것이 왜 내가 빨리 잠을 자야 하는가에 대한 설명이다.
+
+[357]
+#I understand the concept but I'm not sure about the details.
+#나는 이 개념은 이해를 했지만 상세한 내용은 잘 모르겠다.
+
+[358]
+#I identified the coat at once; it was my brother's.
+#나는 즉시 그 코트를 구별해냈다. 그것은 나의 형 것이다.
+
+[359]
+#I'll be back soon.Meanwhile follow on.
+#나는 곧 돌아올 것입니다. 당신은 계속 하고 있으면 됩니다.
+
+[360]
+#I bought these sweets loose,not in a box.
+#내가 산 이 사탕은 덜어서 포장된 것이지 상자로 포장된 것이 아니다.
+
+[361]
+#I bought an awning to go over the doorway.
+#나는 문에 걸 수 있는 범포 덮개를 하나 샀다.
+
+[362]
+#I bought this bag as a souvenir of my visit to London.
+#나는 런던을 방문한 기념품으로 이 가방을 샀다.
+
+[363]
+#Cost is an important consideration for me when I buy new clothes.
+#내가 새 옷을 살 때 가격은 아주 중요한 요인으로 고려된다.
+
+[364]
+#I haven't read this book,and neither has my brother.
+#나는 이 책을 읽어본 적이 없는데 나의 남동생도 역시 읽어본 적이 없다.
+
+[365]
+#I can't get all these books into the bag.
+#나는 이 책들을 가방에 모두 넣을 방법이 없다.
+
+[366]
+#I haven't seen the latest issue of the magazine.Is it out yet?
+#나는 이 잡지의 최근호를 보지 못했는데, 이미 출판되었습니까?
+
+[367]
+#I didn't read the whole paper.I just glanced at the headlines.
+#나는 신문을 다 보지 않고, 단지 큰 표제만을 훑어 보았다.
+
+[368]
+#I don't have much time,so tell me quickly.
+#나에게 그렇게 많은 시간이 없으니, 빨리 말해 주세요.
+
+[369]
+#I missed the meeting.Can you give me the rundown ?.
+#나는 회의에 참가하지 못했다. 당신이 회의의 개요를 말씀해 주실 수 있겠습니까?
+
+[370]
+#I haven't any money; can I give you an IOU for ↔5?
+#나는 돈이 없다. 내가 당신에게 5파운드를 빌렸다는 차용증서를 줘도 되겠습니까?
+
+[371]
+#I haven't got a hammer,but this stone should serve my purpose.
+#나는 망치가 없다. 그러나 이 돌을 아쉬운 대로 쓸 수 있겠다.
+
+[372]
+#I haven't read this book,and my brother hasn't either.
+#나는 이 책을 읽어본 적이 없는데, 동생도 역시 그렇다.
+
+[373]
+#I've got no clean shirts; they're all in the wash.
+#나는 세탁소에 모두 보내서 깨끗한 옷이 없다.
+
+[374]
+#I hadn't reckoned with the possibility of his turning up so soon.
+#나는 그가 이렇게 빨리 올 수 있으리라고는 생각하지 못했다.
+
+[375]
+#I didn't catch your meaning ,Will you please go over it again?
+#내가 당신의 뜻을 파악하지 못했으니, 다시 한번 말씀해 주시겠습니까?
+
+[376]
+#I must offer her an apology for not going to her party.
+#나는 그녀의 파티에 참가하지 않아서, 반드시 그녀에게 미안한 뜻을 표해야 한다.
+
+[377]
+#I don't have time to do more than skim through the book.
+#나는 시간이 없어서 이 책을 대충 읽어볼 수밖에 없다.
+
+[378]
+#I have heard nothing that predisposes me to dislike her.
+#나는 나로 하여금 그녀를 싫어하게 할 수 있는 그 무엇도 들어본 적이 없다.
+
+[379]
+#I have no choice; I must do as he tells me.
+#나는 선택의 여지가 없이, 단지 그가 말하는 대로 해야 한다.
+
+[380]
+#I didn't ask him to go; he went of his own volition.
+#나는 그에게 가라고 요구한 적이 없다. 그 자신이 바란 것이다.
+
+[381]
+#I was slow in latching on to the joke.
+#나는 그 농담의 항의를 금방 이해하지 못했다.
+
+[382]
+#I am not bound to please you with my service.
+#나는 네가 만족하도록 대접해야 할 의무가 없다.
+
+[383]
+#I'm afraid I can't answer your question off the cuff.
+#나는 준비가 안 되어서 너의 질문에 대답하지 못할까 봐 걱정이다.
+
+[384]
+#Not having done the experiment right,I tried again and succeeded.
+#나는 실험을 잘하지 못해서 다시 한번 해 보았는데 결국은 성공했다.
+
+[385]
+#Every time I got my car started the engine cut out.
+#나는 매번 차에 시동을 걸 때마다 엔진을 꺼뜨린다.
+
+[386]
+#Each morning I get up and do the chore before I go out.
+#나는 매일 아침 일어나서 가사일을 좀 하고 외출한다.
+
+[387]
+#I seem to spend more and more money on food every week!
+#나는 매주 식사에 쓰는 비용이 점점 많아지고 있다.
+
+[388]
+#We drew in to the side of the road to allow a lorry to pass us.
+#나는 차를 길 한쪽으로 비켜서 트럭 한 대가 우리를 추월하게 했다.
+
+[389]
+#We turned the boat round and pulled for the shore.
+#우리는 뱃머리를 돌려서 기슭으로 몰아갔다.
+
+[390]
+#We repainted the bodywork of the bus.
+#우리는 대형버스의 외부를 다시 칠했다.
+
+[391]
+#We parked the car by the sea and it got covered in spray.
+#우리가 차를 해변에 세워두어서 차에 온통 물보라가 튀었다.
+
+[392]
+#We bore back the crowd to let the ambulance pass.
+#우리는 군중을 뒤로 밀어서, 구급차를 지나가게 했다.
+
+[393]
+#We inclined towards the speaker to hear more clearly.
+#우리는 더 확실히 들리도록 몸을 발언자에게로 바짝 붙였다.
+
+[394]
+#We blanch almonds by soaking off their skins in boiling water.
+#우리는 행인을 끓는 물에 담가서 껍질이 하얗게 되도록 하였다.
+
+[395]
+#We told him our idea but he just stamped on it.
+#우리는 그에게 의견을 말했으나 그는 무턱대고 거절하였다.
+
+[396]
+#We carried the victims of the accident to the hospital.
+#우리는 의외의 사고를 당한 조난자를 병원으로 옮겼다.
+
+[397]
+#Let's square up; how much is the bill?
+#우리 깨끗이 계산을 합시다. 계산서에 모두 얼마입니까?
+
+[398]
+#We look up to the old worker as our teacher.
+#우리는 이 노인 노동자를 우리의 스승으로 존경한다.
+
+[399]
+#We record our thoughts and experiences in diaries.
+#우리는 자신의 생각과 경험을 일기에 기록한다.
+
+[400]
+#Mrs.Hurst was not at home when I called on her.
+#우리가 Hurst부인을 방문했을 때 그녀는 집에 없었다.
+
+[401]
+#Our class calls for a debate on the subject.
+#우리반은 이 문제에 대해 변론을 하라고 요구한다.
+
+[402]
+#We can't move the machinery ,because it is iced in.
+#그 기계들이 얼음으로 뒤덮여서 우리는 옮길 수가 없다.
+
+[403]
+#We assure you of our best attention to any inquiries from you.
+#우리는 당신측이 가격을 문의한 것에 대해 충분한 주의를 기울일 것을 확신합니다.
+
+[404]
+#We were fogbound at London Airport for 12 hours.
+#우리는 짙은 안개로 런던 비행장에서 12시간이나 시달렸다.
+
+[405]
+#We were cast away on an island without food or water.
+#우리는 음식도 없고, 물도 없는 작은 섬에 내던져졌다.
+
+[406]
+#We've been gallied at a terrible affliction.
+#우리는 무섭고 불행한 일로 놀랐다.
+
+[407]
+#We hoped to have included your name in the list.
+#우리는 너의 이름이 명단에 들어가기를 바란다.
+
+[408]
+#We are bound to each other by a close friendship.
+#우리는 친밀한 우정으로 서로 연결되어 있다.
+
+[409]
+#We must generate electric energy as we use it.
+#우리는 반드시 사용하는 상황에 따라 전기에너지를 생산해야 한다.
+
+[410]
+#We must prune away some of our surplus staff.
+#우리는 일부 남아도는 인원을 정리해야 한다.
+
+[411]
+#We must stock up with food for the holiday.
+#우리는 식품을 좀 사서 휴가 동안의 필요에 준비해야 한다.
+
+[412]
+#We must take steps to prevent such crimes.
+#우리는 절차를 밟아서 이러한 범죄행위를 방지해야 한다.
+
+[413]
+#We must take effective measures to prevent the dike from going out.
+#우리는 효과있는 조치를 취해서 제방이 무너지는 것을 막아야 한다.
+
+[414]
+#We must take action before it is too late.
+#우리는 늦기 전에 행동을 취해야 한다.
+
+[415]
+#We must optimize the opportunities for better understanding.
+#우리는 기회를 십분 이용해서 더 나은 이해를 해야 한다.
+
+[416]
+#We must resist the corrosive influence of bourgeois ideology.
+#우리는 자산 계급 사상의 침투를 배척해야 한다.
+
+[417]
+#We must keep this secret from them.
+#우리는 그들에게 이 일의 비밀을 지켜야만 한다.
+
+[418]
+#We must screen this room against flies.
+#우리는 이 방에 망사창을 설치해서 파리를 막아야 한다.
+
+[419]
+#We must judge this plan on its own merits.
+#우리는 계획 자체의 좋고 나쁨에 근거해서 그것을 판단해야 한다.
+
+[420]
+#We must redouble our efforts to make up for lost time.
+#우리는 더 열심히 노력해서 잃어버린 시간을 보충해야 한다.
+
+[421]
+#We must hang out until help arrives.
+#우리는 원조를 얻어낼 때가지 계속 고수해 나가야 한다.
+
+[422]
+#We must come to some arrangement about sharing expenses.
+#우리는 비용을 균등하게 분담하는 어떤 방법을 상의하여 결정해야 한다.
+
+[423]
+#We must allow for jhim being late.
+#우리는 그가 늦을 가능성에 대해서도 고려해야 한다.
+
+[424]
+#We must allow for delays caused by bad weather.
+#우리는 나쁜 날씨로 인해서 시기를 놓치게 되는 상황도 고려해야 한다.
+
+[425]
+#We must consider how to put the business forward.
+#우리는 어떻게 이 일의 진전을 가속시킬 수 있는지를 고려해야 한다.
+
+[426]
+#We must do our best to push the matter through in a few days.
+#우리는 며칠 내에 이 일을 완성하도록 노력해야 한다.
+
+[427]
+#We must clear away such ideas among ourselves.
+#우리는 우리들 사이의 이러한 사상을 깨끗이 없애야 한다.
+
+[428]
+#We have to get in a mechanic to repair the tractor.
+#우리는 기술공을 청해서 이 트랙터를 수리해야 한다.
+
+[429]
+#We must ask you to replace them with good salable ones.
+#
+
+[430]
+#We must bring him around to our point of view.
+#우리는 그가 방향을 바꾸어 우리들의 관점을 지지하도록 권고해야 한다.
+
+[431]
+#We must fit our plans in with theirs.
+#우리는 우리의 계획을 그들의 계획에 맞추어야 한다.
+
+[432]
+#We must sound him about his willingness to help us.
+#우리는 그가 우리를 도와줄 뜻이 있는지 없는지를 타진해 봐야 한다.
+
+[433]
+#We must stop farming out the information to others.
+#우리는 다른 사람에게 이 소식을 퍼뜨리는 것을 멈춰야 한다.
+
+[434]
+#We have to strive forwhat we want.
+#우리는 우리가 원하는 것을 얻기 위해 노력해야 한다.
+
+[435]
+#We must devise a scheme for earning money during the vacation.
+#우리는 방학 동안에 돈을 벌 계획을 생각해야 한다.
+
+[436]
+#We must beware how we approach them.
+#우리는 어떻게 그들에게 접근할 것인지를 세심하게 주의해야 한다.
+
+[437]
+#We must put our heads together and decide what to do.
+#우리는 함께 상의해서 어떻게 할 것인지를 결정해야 한다.
+
+[438]
+#We must always hold on to the Marxist- Leninist Principles.
+#우리는 마르크스 레닌주의 원칙을 영원히 견지해야 한다.
+
+[439]
+#We must face up to the problem with courage and foresight.
+#우리는 용감하고 원대한 식견으로 이 문제를 대해야 한다.
+
+[440]
+#We must study history from a Marxist viewpoint.
+#우리는 마르크스주의의 관점으로 역사를 연구해야 한다.
+
+[441]
+#We must practise full democracy both inside and outside the Party.
+#우리는 당내외적으로 완전한 민주주의를 실행해야 한다.
+
+[442]
+#We must act on the premise that the worst can happen.
+#우리는 최악의 사태가 발생할 가능성의 전제아래서 행동해야 한다.
+
+[443]
+#We must finish up this business in a day or two.
+#우리는 하루이틀 내에 이 일을 끝내버려야 한다.
+
+[444]
+#We must figure in occasional expenses in the budget.
+#우리는 예산에 임시 비용도 계산해 넣어야 한다.
+
+[445]
+#We must put the newcomers up to their duties.
+#우리는 새로운 사람을 지도해서 그들의 직책에 익숙하도록 해야 한다.
+
+[446]
+#We must depend mainly on our own efforts in accomplishing the task,
+#우리는 자신의 노력에 의지해 이 임무를 완성해야 한다.
+
+[447]
+#We must beware of ( forming) hasty generalizations.
+#우리는 경솔한 추론을 내리지 않도록 주의해야 한다.
+
+[448]
+#We must be careful not to confuse velocity and distance.
+#우리는 속도와 거리를 헷갈리지 않도록 주의해야 한다.
+
+[449]
+#We must take care not to be carried away by our achievements.
+#우리는 자기의 성적으로 인해 이성을 잃지 않도록 주의해야 한다.
+
+[450]
+#We must see to it that Party policies are implemented.
+#우리는 당의 정책이 집행될 수 있도록 해야 한다.
+
+[451]
+#We must buckle to and get the work done in time.
+#우리는 일을 바짝 다잡아서, 제때에 완성해야 한다.
+
+[452]
+#We must keep to the main point and not talk about side issues.
+#우리는 요점을 다잡아서, 지엽적인 문제를 논하지 말아야 한다.
+
+[453]
+#We have to cross the line by the foot bridge.
+#우리는 하는 수 없이 인도교에서 철로선을 건넜다.
+
+[454]
+#We had to break off our discussion because it was getting late.
+#우리는 시간이 점점 늦어져서 하는 수 없이 토론을 중단했다.
+
+[455]
+#We might dust off these machines.
+#우리는 이 기계들을 한번 손질해서 사용에 대비한다.
+
+[456]
+#We shouldn't hold his past mistakes against him.
+#우리는 그의 과거의 잘못으로 인해 그를 경시해서는 안 된다.
+
+[457]
+#We will not grant any democratic rights to the reactionaries.
+#우리는 보수파에게 어떠한 민주 권리도 주지 않을 것이다.
+
+[458]
+#We must not try to play off the boy troubled with a stammer.
+#우리는 이 말더듬하는 결점이 있는 소년을 놓쳐서는 안 된다.
+
+[459]
+#Whatever we do ought to accord with the interests of the people.
+#우리가 무엇을 하든지 국민의 이익에 부합되어야 한다.
+
+[460]
+#Can't we begin from today,and face things together?
+#우리는 오늘부터 시작해서 모든 것을 함께 대면할 수 없습니까?
+
+[461]
+#We cannot waive this rule except in case of illness.
+#병을 제외하고는 이 규정을 철회할 수 없다.
+
+[462]
+#We can't rule out the possibility that he'll change his mind.
+#우리는 그가 생각을 바꿀 가능성을 배제할 수 없다.
+
+[463]
+#We should not send him on because he is not feeling well tonight.
+#오늘밤은 그가 몸이 안 좋기 때문에 우리는 그를 보내 출전시킬 수 없다.
+
+[464]
+#We had no patience with quibbling criticism.
+#우리는 그러한 생트집 잡는 비평을 참을 수 없다.
+
+[465]
+#We can't make that kind of delivery.It's company policy.
+#우리는 이러한 종류로 인도할 수 없습니다. 이것은 우리회사의 방침입니다.
+
+[466]
+#We're not going to Suzhou---- the whole thing's fallen through.
+#우리는 소주에 가지 않을 것이다. 모든 계획이 다 허사가 되었다.
+
+[467]
+#We will not be lorded over.
+#우리는 다른 사람이 우리 머리 위에서 세도 부리는 것을 용납하지 않을 것이다.
+
+[468]
+#We are not such fools as to believe him.
+#우리가 그를 믿을 만큼 그렇게 멍청한 사람은 아니다.
+
+[469]
+#We didn't hire you for your beaux yeux.
+#우리는
+
+[470]
+#We didn't like him,as he always fawned on the rich.
+#그는 늘 돈 있는 사람에게 아첨을 하기 때문에 우리는 그를 싫어한다.
+
+[471]
+#We needn't test everyone; we'll just make spot checks.
+#우리는 매 사람을 시험할 필요는 없고 단지 추출 검사를 하면 된다.
+
+[472]
+#We mustn't hold against him that he has been in prison.
+#그가 과거에 감옥살이를 했다고 해서 그에게 편견을 가져서는 안 된다.
+
+[473]
+#We mustn't catch the speaker up by so many questions.
+#우리는 이렇게 많은 문제로 발언하는 사람의 말을 끊어서는 안 된다.
+
+[474]
+#We often stay in one another's houses.
+#우리는 늘 서로 왕래하며 상대방의 집에 잠시 머물곤 한다.
+
+[475]
+#The mill where we often labor is a paper mill.
+#우리가 늘 일하는 그 공장은 제지공장이다.
+
+[476]
+#Our hearts went out to all the victims of the earthquake in Tang-shan.
+#우리는 당산 지진 중에 희생된 자들을 침통하게 애도했다.
+
+[477]
+#The sun was just above the horizon when we set out.
+#우리가 출발할 때 태양이 막 지평선으로 나왔다.
+
+[478]
+#The children always lag behind when we go for a walk.
+#우리가 산책을 나가면 아이들은 늘 뒤에 처진다.
+
+[479]
+#We have forty days of vacation exclusive of the regular holidays.
+#우리는 규정된 휴일 외에 40일의 휴가가 있다.
+
+[480]
+#We're in trouble; this is no time for contention.
+#지금은 상황이 아주 어렵다. 쟁론이나 하고 있을 때가 아니다.
+
+[481]
+#We're having dinner just now; come back later.
+#우리는 지금 식사를 하고 있으니, 잠시 후에 다시 오십시오.
+
+[482]
+#We gathered up from various sources a great amount of firsthand data.
+#우리는 각종 근원지로부터 대량의 기초 자료를 수집한다.
+
+[483]
+#We looked down from a great height to the town below.
+#우리는 아주 높은 곳에서 아래의 도시를 내려다 보았다.
+
+[484]
+#We have never known him to behave so badly.
+#우리는 그의 행동이 이처럼 악한지 전혀 몰랐다.
+[485]
+#We used to live in Bristol but now we live in London.
+#우리는 예전에 Bristol에 살았는데, 지금은 런던에 살고 있다.
+[486]
+#We pumped the full story out of him.
+#우리는 그로부터 모든 일의 경과를 추궁해냈다.
+[487]
+#The firm in question has never had an account with us.
+#우리는 당신이 조회하는 회사와 교섭한 적이 없다.
+[488]
+#We can see into the house from the hill.
+#우리는 언덕 위에서 집의 내부를 볼 수 있다.
+[489]
+#From our perch up there on top of the cliff we can see the whole town.
+#우리는 절벽 꼭대기의 높은 곳에서 도시의 전경을 볼 수 있다.
+[490]
+#Where do we go from here?.
+#우리는 여기에서 어디로 갑니까? 우리는 계속해서 무엇을 합니까?
+[491]
+#We misestimated his character and underestimated his ability.
+#우리는 그의 품격을 잘못 평가했고 아울러 그의 능력을 과소평가했다.
+[492]
+#We sweetened him with the promise of a toy and he stopped crying.
+#우리가 그에게 장난감을 사주겠다고 대답하자 그는 비로소 울지 않고 달래졌다.
+[493]
+#By appealing to his better nature,we persuaded him to give some money to school.
+#우리는 그의 선심을 감동시켜서 그가 학교에 돈을 좀 기부하도록 설득했다.
+[494]
+#It was intended as a stopgap.
+#우리는 그것을 임시변통물로 삼을 생각이다.
+[495]
+#We plan on visiting your city next month.
+#우리는 다음달에 너희 도시를 방문할 계획이다.
+[496]
+#We all set to and soon built a rough hut.
+#우리는 크게 해서, 아주 빨리 간단한 오두막을 하나 세웠다.
+[497]
+#Let's all cooperate to get the work done quickly.
+#우리 모두 함께 협력해서 빨리 일을 끝냅시다.
+[498]
+#When we reach the harbour,we 'll put in there for a bit.
+#우리는 항구에 도착한 후, 거기에서 시간을 좀 보내려고 한다.
+[499]
+#By the time we got there,the play had alread begun.
+#우리가 거기에 도착했을 때 극은 이미 시작되었다.
+[500]
+#Darkness of evening was crowding in when we arrived at the inn.
+#우리가 작은 여관에 도착했을 때 날이 어두워지기 시작했다.
+[501]
+#When we arrived at the city,a myriad of lights were coming on.
+#우리가 이 도시에 도착했을 때, 도시는 이미 불빛으로 온통 환했다.
+
+[502]
+#I'll give you a good hiding when we get home!
+#집에 도착하면 나는 너를 호되게 때릴 것이다!
+
+[503]
+#It was after dark when we got back,and we were all tired.
+#우리가 집에 도착했을 때 날은 이미 어두웠고, 우리는 모두 매우 피곤했다.
+
+[504]
+#We'll have to upend the cupboard to get it through the door.
+#우리는 찬장을 거꾸로 해야만 이 문을 통과할 수 있다.
+
+[505]
+#We had to stand the table on end to get it through the door.
+#책상을 세워야만 이 짝으로 된 문을 통과할 수 있다.
+
+[506]
+#We have to made clear the material this transistor is made of.
+#우리는 이 트랜지스터에 필요한 재료를 확실하게 제조해야 한다.
+
+[507]
+#We've got to write an essay on the war with Napoleon.
+#우리는 나폴레옹과 같은 전투와 관련된 문장을 한 편 써야 한다.
+
+[508]
+#Our office has removed to Bristol from London.
+#우리 사무실은 이미 런던에서 브리스톨로 옮겼다.
+
+[509]
+#As we have quoted you our rock-bottom price,we cannot give you any more discount.
+#우리들이 제시한 가격은 최저가격이어서 더 이상 할인을 해 줄 수 없다.
+
+[510]
+#Our frontier guards held up under fierce enemy attack.
+#우리의 변방의 전사들은 적의 맹렬한 진공아래서도 끄떡하지 않는다.
+
+[511]
+#Our troops are moving in on the enemy-held bridge.
+#우리 부대는 적이 점령한 다리를 향해 나아가고 있다.
+
+[512]
+#Our ship soon raised land.
+#우리의 배는 곧 육지가 보이는 곳에 도착했다.
+
+[513]
+#Our ship rode out the storm in safety.
+#우리 배는 폭풍우를 안전하게 견디어 냈다.
+
+[514]
+#Our next port of call is Lisbon.
+#우리 배가 다음에 정박할 항구는 리스본이다.
+
+[515]
+#All our errors have sprung from carelessness.
+#우리의 실수는 모두 부주의로 인해 생긴 것이다.
+
+[516]
+#Our representatives met with several heads of state.
+#우리 대표는 몇 분의 국가원수를 회견했다.
+
+[517]
+#Our representative,Mr. ...will visit your town next week.
+#우리의 대리는 ...선생은 다음주에 당신의 도시를 방문할 것입니다.
+
+[518]
+#Our first child died a month after he was born.
+#우리의 첫째 아이는 태어난 지 한 달 만에 죽었다.
+
+[519]
+#Our holiday plans are still at an indeterminate stage.
+#우리의 휴가 계획은 아직도 여전히 결정되지 않은 상태이다.
+
+[520]
+#Our foreign trade is spreading out in all directions.
+#우리의 대외무역은 각 방면으로 한창 발전하고 있다.
+
+[521]
+#Our policy should rest on our own strength.
+#우리의 방침은 자신의 역량에 기초를 두어야 한다.
+
+[522]
+#Our house was built sometime around 1905.
+#우리집은 1905년을 전후해서 건설되었다.
+
+[523]
+#Our work included training men and shaking down the ships.
+#우리의 일에는 인원 훈련과 배를 시운전하는 것이 포함되어 있다.
+
+[524]
+#Our firm is now fully established in France.
+#우리의 회사는 이미 프랑스에 완전한 토대를 마련하였다.
+
+[525]
+#Our firm has branches in many cities.
+#우리 회사는 많은 도시에 분점이 있다.
+
+[526]
+#Our company recently consolidated with a Japanese company.
+#우리 회사는 최근 한 일본 회사와 합병하였다.
+
+[527]
+#Our dog lost his sight in a road accident.
+#우리 개는 교통사고로 눈이 멀었다.
+
+[528]
+#Our state sovereignty and territorial integrity should by no means be impinged on.
+#우리나라의 주권과 영토는 절대로 침범을 용납하지 않는다.
+
+[529]
+#Our garden flames with red tulips.
+#우리 정원은 빨간 튤립으로 타는 듯 불게 물들었다.
+
+[530]
+#Our counter-offer is in line with the price in the international market.
+#우리의 카운터오퍼는 국제 시장 가격에 부합되는 것이다.
+
+[531]
+#Our genetic make up predisposes us to certain diseases.
+#우리의 유전자 구조가 우리를 어떤 질병에 걸리게 한다.
+
+[532]
+#Our plan certainly paid off; it was a great idea.
+#우리의 계획은 당연히 성공했다. 그것은 아주 좋은 생각이었다.
+
+[533]
+#Our family is no different from the average family.
+#우리 가정은 일반적인 가정과 다를 것이 없다.
+
+[534]
+#Our price is much lower than that in the international market.
+#우리의 가격은 현재 국제 시장 가격보다 훨씬 낮다.
+
+[535]
+#I'm afraid we can't reduce our price to the level you have indicated.
+#우리는 가격을 너희측이 제시하는 수준까지 내릴 수 없다.
+
+[536]
+#Our prices were calculated without insurance against any extraneous risks.
+#우리의 가격은 어떤 부가적인 위험에 대한 보험금은 계산해 넣지 않은 것이다.
+
+[537]
+#Our work on the new bridge went ahead like wildfire.
+#우리의 다리 건설공정은 왕성한 기세로 전개되고 있다.
+
+[538]
+#Our church has three services each Sunday.
+#우리 교회는 매주 일요일마다 세 차례의 예배의식을 거행한다.
+
+[539]
+#Our club is affiliated to a national organization of similar clubs.
+#우리 클럽은 같은 클럽의 전국 조직에 가입하였다.
+
+[540]
+#Our truck crashed into a freight train.
+#우리 트럭이 쿵소리를 내며 화물운송 기차에 부딪혔다.
+
+[541]
+#Our visitors came at an awkward time.
+#손님이 우리가 아주 불편한 때에 왔다.
+
+[542]
+#Three unidentified planes were locked on by our radar.
+#우리의 레이더에 국적불명의 비행기 3대가 뚜렷이 포착되었다.
+
+[543]
+#The sea gradually calmed down as we steamed out.
+#우리의 배가 출발하자 해면은 점점 잔잔해졌다.
+
+[544]
+#We broke our journey to Rome at Venice.
+#우리의 로마행은 베니스에서 중단되었다.
+
+[545]
+#Our fates are inextricably joined.
+#우리의 운명은 벗어날 수 없이 함께 연결되어 있다.
+
+[546]
+#Our battery fired off many rounds of shot at the enemy.
+#우리의 포병은 적을 향해 계속해서 많은 폭탄을 발사했다.
+
+[547]
+#Our car broke down only two miles short of where we wanted to go.
+#우리 차는 목적지에서 겨우 2마일 떨어진 곳에서 고장이 나 멈춰 섰다.
+
+[548]
+#Our team disputed the victory until the very end of the game.
+#우리 팀은 경기가 끝날 때까지 우승을 다투었다.
+
+[549]
+#Have you read our leaflet?
+#당신은 우리의 상품 판매 설명서를 보셨겠지요?
+
+[550]
+#Our cattle are branded with the letter B.
+#우리의 가축들에게 모두 'B'라는 기호가 찍혔다.
+
+[551]
+#Our field of vision is limited by that tall building.
+#그 고층 건축물에 의해서 우리의 시야가 가려졌다.
+
+[552]
+#Our thoughts centre on the girl who had died.
+#우리의 생각은 온통 이미 죽은 딸아이에게로 집중되었다.
+
+[553]
+#Our conversation rolled chiefly on political subjects.
+#우리의 대화는 주로 정치문제에 집중되었다.
+
+[554]
+#Our discussions led to complete unanimity.
+#우리는 토론으로 완전한 의견의 일치를 이끌어냈다.
+
+[555]
+#Our correspondent reported on the development of the situation from time to time.
+#우리들의 통신원은 사태의 발전에 관해 수시로 보도를 했다.
+
+[556]
+#Our literature and art ought to cater to popular taste.
+#우리들의 문학과 예술은 대중의 환영을 받아야 한다.
+
+[557]
+#Our house sits back from the road.
+#우리집은 큰길에서 일정한 거리가 떨어져 있는 곳에 위치해 있다.
+
+[558]
+#It is our desire to let our customer have exactly what they require.
+#우리의 희망은 고객으로 하여금 필요한 상품을 얻을 수 있게 하는 것이다.
+
+[559]
+#Our small boat was tossed about in the heavy sea.
+#우리의 작은 배가 거친 바다에서 흔들리고 있다.
+
+[560]
+#Our boat rocked in the wash of a large ship.
+#우리의 작은 배는 큰 배가 지나간 흔들렸다.
+
+[561]
+#Our little company can be likened to a big family.
+#우리의 작은 회사는 하나의 큰 가정에 비유할 수 있다.
+
+[562]
+#Our new maid is a treasure.
+#우리의 새 하녀는 쉽게 얻을 수 없는 보조원이다.
+
+[563]
+#Our new comrades are breaking in well.
+#우리의 새 동지들이 정대하게 서서히 일에 적응하고 있다.
+
+[564]
+#Our new doctor is much younger than his predecessor.
+#우리의 새 의사는 전임자보다 훨씬 젊다.
+
+[565]
+#Our choices come down to going or staying.
+#우리의 선택은 가든지 아니면 머무는 것으로 귀결될 것이다.
+
+[566]
+#Our study group gets together twice a week.
+#우리의 학습 그룹은 매주 두 차례 집중적으로 활동한다.
+
+[567]
+#Our baby's cutting her first teeth so she needs something to bite on.
+#우리 아이는 이가 나기 시작해서 무엇인가를 씹는 것을 필요로 한다.
+
+[568]
+#Our teams have notched up a number of wins in the tournament.
+#우리 팀은 이번 리그전에서 빈번히 승리했다.
+
+[569]
+#Our magazines try to cater for all opinions.
+#우리 잡지는 가능한 한 각종 의견을 영합하려고 한다.
+
+[570]
+#Our tents were irregularly spaced out on the leeside of the hill.
+#우리들의 텐트는 작은 산에 바람을 등지고 불규칙적으로 흩어져 있다.
+
+[571]
+#Our politics are debilitated by the virus of cagey noncommitment ..
+#우리의 정치 입장이 약해진 것은 중립을 엄수하는 해를 받아서이다.
+
+[572]
+#Our chairman has left,so Peter will take over his job.
+#우리의 회장이 갔기 때문에, 피터가 그의 일을 인수 받을 것이다.
+
+[573]
+#Our organization will tend to the improvement of society.
+#우리 조직은 사회기풍을 개선하기 위해 공헌을 할 것이다.
+
+[574]
+#We aim for the completion of the task by the end of the year.
+#우리의 최종목적은 늦어도 연말까지는 이 일을 완성하는 것이다.
+
+[575]
+#We waited half an hour,but the bus failed to arrive.
+#우리는 30분을 기다렸는데도 버스가 오지 않았다.
+
+[576]
+#We had a long wait,but it was worthwhile because we got the tickets.
+#우리는 아주 오래 기다렸지만 그래도 표를 손에 넣을 수 있으니 기다릴 만하다.
+
+[577]
+#Our first atomic reactor was built in 1958.
+#우리의 첫번째 원자로는 1958년에 건설되었다.
+
+[578]
+#We've replaced the old adding machine with a computer.
+#우리는 컴퓨터로 구식 계산기를 대신한다.
+
+[579]
+#We inquired into his story,and found it was true.
+#우리는 그가 이야기한 일을 조사해 보았는데 그것이 사실과 일치한다는 것을 발견했다.
+
+[580]
+#How would you pack the goods we have ordered?
+#우리가 주문한 이 물건들을 당신들은 어떻게 포장할 것입니까?
+
+[581]
+#We started so early as to get there in time.
+#우리가 좀 일찍 출발해서 제때에 거기에 도착하게 되었다.
+
+[582]
+#A few minutes after we started ,the fog began to pass off.
+#우리가 출발하고 몇 분이 지나자 안개가 걷히기 시작했다.
+
+[583]
+#We must all obey the law,not excepting the king.
+#우리들 모두는 반드시 법을 준수해야 하고, 국왕도 예외는 아니다.
+
+[584]
+#We all miss you and shall be happy when you return.
+#우리들 모두는 네가 무척 그립다. 네가 돌아오면 우리는 너무나 기쁠 것이다.
+
+[585]
+#We all long for the day when the communist society will be achieved.
+#우리는 모두 공산주의 사회가 실현되는 그날을 갈망하고 있다.
+
+[586]
+#We all looked at the combat hero with admiration.
+#우리는 모두 존경의 눈빛으로 그 전쟁영웅을 바라보고 있다.
+
+[587]
+#We grieved at the news of his death.
+#우리 모두는 그가 별세했다는 소식을 듣고 비통해 했다.
+
+[588]
+#We are all bound up in the study of Lenin's State and Revolution.
+#우리 모두는 레닌의 <국가와 혁명>을 열심히 공부하고 있다.
+
+[589]
+#I bet on the wrong hores--it lost the race!
+#우리가 돈을 잘못 걸었다. 그 말이 시합에서 졌다.
+
+[590]
+#Have you made the reservations for our holiday?
+#당신은 우리들이 휴가를 보내는데 필요한 예약을 다 했습니까?
+
+[591]
+#Our team is batting this morning and will be fielding in the afternoon.
+#우리 팀은 오늘 오전에는 타격을, 오후에는 포구를 할 것이다.
+
+[592]
+#There seems to be a jinx on our team,because we always lose.
+#우리 팀에게 악운이 따르는 것 같은데 왜냐하면 우리가 계속 지기 때문이다.
+
+[593]
+#We proceeded with the examination of the applications for two hours.
+#우리는 신청서에 대해서 두 시간 동안 검열을 진행했다.
+
+[594]
+#We didn't find it strange that no one would take the money.
+#우리는 누구도 이 돈을 원하지 않는다는 것을 이상하게 생각하지 않는다.
+
+[595]
+#We have no questions about the terms.
+#우리는 이 조항에 대해서 아무런 의견도 없다.
+
+[596]
+#We are fed up with that same old sermon of his.
+#우리는 그의 늘 같은 설교에 대해 매우 지루하게 느낀다.
+
+[597]
+#We greatly appreciate your enthusiasm to cooperate with us.
+#우리는 당신측이 우리와 합작하기를 원하는 그 열정에 감사를 표합니다.
+
+[598]
+#We're getting to have a better understanding of the problem.
+#우리는 이 문제에 대해 점점 깊이 이해하고 있다.
+
+[599]
+#We've been having a friendly argument on politics.
+#우리는 정치문제에 대해 우호적으로 논쟁을 하였다.
+
+[600]
+#We perceived that we were unwelcome and left.
+#우리는 자신이 환영을 받지 못한다는 것을 알고 즉시 떠났다.
+
+[601]
+#We found the children safe and sound after their dangerous adventure.
+#우리는 아이들이 그 위험을 경험한 후 안전 무고하다는 것을 알았다.
+
+[602]
+#We found the car of which the suspect is the owner.= We found the car the owner of which is the suspect.
+#우리는 차 주인이 바로 용의자
+
+[603]
+#Out of the sixty cases,about 50% were found to be leaking.
+#우리는 60상자 중에서 50% 정도가 샌다는 것을 발견했다.
+
+[604]
+#We find each cask leaks more or less.
+#우리는 모든 통이 많게든 적게든 새고 있다는 것을 안다.
+
+[605]
+#We found the room chocked up with useless old furniture.
+#우리는 그 방에 못쓰는 고가구들이 가득 쌓여 있는 것을 발견했다.
+
+[606]
+#We found the missing girl wandering about the woods.
+#우리는 그 실종된 여자아이가 숲속에서 배회하고 있는 것을 발견했다.
+
+[607]
+#We find everything here well developed.
+#우리는 이곳의 모든 것이 잘 발전했다는 것을 발견했다.
+
+[608]
+#We love your new wife and our new daughter.
+#우리는 너의 새 아내와 새로 얻은 딸을 매우 사랑한다.
+
+[609]
+#I have much pleasure in placing an order with you as following:
+#우리는 당신 회사에 아래와 같은 상품을 주문하게 되어 매우 기쁘다.
+
+[610]
+#Is our security against theft adequate?.
+#우리의 도둑에 대한 방비 대책이 충분히 되었습니까?
+
+[611]
+#We should start earlier so as to get there in time.
+#우리는 제때에 그곳에 도착하도록 좀 일찍 출발해야 한다.
+
+[612]
+#We had to brace the walls when we put the new roof on.
+#우리가 지붕을 새로 덮을 때 벽게 받침대를 더해야 한다.
+
+[613]
+#When we are working or running,we need more air.
+#우리들이 일을 하거나 달리기를 할 때, 많은 공기가 필요하다.
+
+[614]
+#We anticipated our competitors by getting our book into the shops first.
+#
+
+[615]
+#We felt an intangible presence in the room.
+#우리는 방에 만질 수 없는 무엇이 있다는 것을 느꼈다.
+
+[616]
+#We thank you for your letter of ...informing us that ...
+#우리는 당신측의 ...월 ...일의 편지에 감사 드립니다.
+
+[617]
+#We had hardly gathered in the wheat when it began to rain.
+#우리가 막 밀 수확을 끝내자 비가 내리기 시작했다.
+
+[618]
+#It is inconsiderate of you to disturb our pleasure.= You are inconsiderate to disturb our pleasure.
+#우리가 한창 기쁠 때 네가 방해를 하다니, 정말 다른 사람을 배려하지 않는구나.
+
+[619]
+#We are each boxed off from the others in our own little offices.
+#우리는 각자 자신의 작은 사무실 안에 격리되어 있다.
+
+[620]
+#We have named her Polly Lyn,and Joe and I have let her take over our lives.
+#
+
+[621]
+#We put pressure on the government to change this law.
+#우리는 정부에 압력을 가해서 이 법률을 개정하도록 요구했다.
+
+[622]
+#We conferred with them on ( about) matters of mutual concern.
+#우리는 그들과 공동 관심사를 협의했다.
+
+[623]
+#We followed the marks that the car had left in the grass.
+#우리는 차가 초지 위에 남겨 놓은 흔적을 따라갔다.
+
+[624]
+#The cadres of our commune persevere in participation in collective productive labour.
+#우리 코뮌의 간부는 단체 생산 노동에 참가할 것을 고수한다.
+
+[625]
+#Our company is ahead of other makers of soap.
+#우리 회사는 비누를 제조하는데 있어서 다른 회사보다 앞선다.
+
+[626]
+#The town came into sight as we turned the corner.
+#우리가 코너를 돌자 산간 도시가 우리의 시야에 들어왔다.
+
+[627]
+#Our suggestions for change have met with approval from the school authorities.
+#개혁에 관한 우리의 건의가 학교측의 찬성을 얻어냈다.
+
+[628]
+#We used to play in this playground every day.
+#우리는 과거에 매일 이 운동장에서 놀곤 했다.
+
+[629]
+#We used to have a lot of interesting friends.
+#우리는 전에 줄곧 많은 재미있는 친구들을 사귀곤 했다.
+
+[630]
+#We came round several times and finally got to port safely.
+#우리는 몇 차례나 항행 방향을 바꾸어, 마침내는 안전하게 입항했다.
+
+[631]
+#We have checked out all these figures and found them to be correct.
+#우리는 모든 숫자를 대조해 보고 그것들이 모두 정확하다는 것을 알았다.
+
+[632]
+#We'll get in touch with the manufacturers and see what they have to say.
+#우리는 제작자와 연계해서 그들의 의견을 들을 것이다.
+
+[633]
+#We concluded an agreement with the enemy and soon made peace.
+#우리는 적과 합의를 이루어, 곧 평화가 실현되었다.
+
+[634]
+#We have contracted that firm for the job.
+#우리는 그 회사와 이 일의 계약을 맺었다.
+
+[635]
+#We arranged with him to meet him at the hotel at one o'clock.
+#우리는 그와 1시에 여관에서 만나기로 약속했다.
+
+[636]
+#We are very happy to appoint you as our representative.
+#우리는 아주 기쁘게 당신을 우리측의 업무대리로 임명한다.
+
+[637]
+#We'll send Comrade Li along to collect opinions.
+#우리는 즉시 이 동지를 의견을 모아 오도록 보낼 것이다.
+
+[638]
+#We easily climbed down the side of the cliff.
+#우리는 아주 쉽게 낭떠러지로부터 기어 내려왔다.
+
+[639]
+#We were careful not to come within gunshot of the enemy.
+#우리는 적의 사정거리 안으로 들어가지 않도록 아주 조심했다.
+
+[640]
+#We're lucky that the local water is quite soft.
+#그 지방의 물에 광물질이 함유되어 있지 않다니 우리는 운이 매우 좋다.
+
+[641]
+#We regret to inform you that the goods are not in accordance with your samples.
+#우리는 도착한 물건과 견본이 상당한 차이가 있다는 것을 알리게 되어 매우 유감스럽다.
+
+[642]
+#We regret to inform you that the goods forwarded to us are in unsatisfactory state.
+#우리는 매우 유감스럽게도 당신에게 통지합니다.: 도착한 물건에 우리는 만족할 수 없습니다.
+
+[643]
+#we looked at each other wondering who he was alluding to.
+#그가 가르친 것이 누구인지 몰라서 우리는 서로 쳐다보았다.
+
+[644]
+#We spent weeks mapping out our holiday.
+#우리는 어떻게 휴가를 보낼 것인지를 계획하는데 몇 주일을 보냈다.
+
+[645]
+#We have a herbaceous border round our garden.
+#우리 정원의 사방에는 초본식물의 화단이 있다.
+
+[646]
+#We looked with a sense of awe at the enormous ancient buildings.
+#우리는 경외의 감정을 품고 웅장한 고건축물들을 관람하였다.
+
+[647]
+#We welcomed the watchless nights of peacetime.
+#우리는 방위가 없는 태평시대의 밤을 즐겁게 맞아 들였다.
+
+[648]
+#We needn't leave yet; what's all the rush?
+#우리는 아직 출발할 필요가 없는데 왜 그렇게 조급해 합니까?
+
+[649]
+#We have still a long way to go before we can attain to a certain proficiency in the subject.
+#우리는 아직 많은 일을 해야만 비로소 이 분야를 장악할 수 있다.
+
+[650]
+#We haven't got time to go into particulars about the accident.
+#우리는 아직 그 사고의 상세한 상황을 조사할 시간이 없다.
+
+[651]
+#We'd better stop at a filling station soon and gas up.
+#우리는 곧 주유소에 멈춰서 기름을 넣는 것이 좋겠다.
+
+[652]
+#We still need 900 yuan to make up the required sum.
+#우리는 아직도 900원이 더 있어야 필요한 경비를 채울 수 있다.
+
+[653]
+#We need another 5,000 pieces.Are you able to make such a delivery?
+#우리는 아직 5000척이 더 필요한데 당신들이 물건을 인도해 줄 수 있습니까?
+
+[654]
+#We have an hour's leeway to catch the express.
+#우리는 그 급행열차를 타는데 아직 1시간의 여유시간이 있다.
+
+[655]
+#It is strange we should meet here.
+#우리가 여기에서 우연히 만나다니, 정말 상상도 못했다.
+
+[656]
+#We've been planning this visit for months.
+#우리는 몇 개월 동안 이 방문을 계획해 왔다.
+
+[657]
+#We visited both New York and London.
+#우리는 뉴욕 뿐만 아니라 런던도 방문했다.
+
+[658]
+#We kept on till the work was finished.
+#우리는 이 일을 끝낼 때까지 계속해 나갑시다.
+
+[659]
+#Our family has lived in this house for over a hundred years.
+#우리 가족은 이 집에서 백 년 이상을 살아오고 있다.
+
+[660]
+#We hold that at lest 2% discount should be allowed.
+#우리는 적어도 2%의 할인을 해줄 것을 고수한다.
+
+[661]
+#We stood firmly against hegemonism and expansionism.
+#우리는 패권주의와 팽창주의를 단호히 반대한다.
+
+[662]
+#We firmly stand by the fundamental principles of Marxism-Leninism.
+#우리는 막스 레닌주의이 기본 원칙을 단호히 수호한다.
+
+[663]
+#We firmly back up the just struggles of the oppressed people of the world.
+#우리는 세게의 압박받는 사람들의 정의로운 투쟁을 강력히 지지한다.
+
+[664]
+#I shall use the instrument in such a way as he used it.
+#우리는 그가 사용하는 방법에 따라 이 측정기구를 사용할 것이다.
+
+[665]
+#We'll bring the date of the meeting forward from the 20th to the 18th.
+#우리는 회의 날짜를 20일에서 18일로 앞당기려고 한다.
+
+[666]
+#We'll burn off that plot of land.
+#우리는 그 땅의 초목을 모두 제거할 것이다.
+
+[667]
+#We are going to pass out the pamphlets to the members of this group.
+#우리는 소책자를 이 그룹의 성원들에게 나누어 주려고 한다.
+
+[668]
+#We'll leave the job over until next week.
+#우리는 이 일을 남겨두었다가 다음주에 하려고 한다.
+
+[669]
+#We'll take measures to fence off the consequences of a severe earthquake.
+#우리는 강렬한 지진의 결과를 제거하기 위해 조치를 취할 것이다.
+
+[670]
+#We will be paid according to the amount of work we do.
+#우리는 우리가 한 일의 양에 따라 보수를 받게 될 것이다.
+
+[671]
+#We will check up as soon as possible and let you know the result.
+#우리는 가능한 한 빨리 조사를 해서 결과를 너에게 통지하겠다.
+
+[672]
+#We couple the name of Agatha Christie with Hercule Poirot.
+#우리는 Christie의 이름과 Poirot을 같이 연상한다.
+
+[673]
+#We shall be pleased to go further into the matter with you and give you our full cooperation.
+#우리는 기꺼이 합작할 뿐만 아니라 더 발전된 회담을 준비할 것이다.
+
+[674]
+#We'll break through all the difficulties with our own hard work.
+#우리는 자신의 고된 일을 통해서 모든 어려움을 극복할 것이다.
+
+[675]
+#We are going to pipe the water up from the valley.
+#우리는 파이프를 이용해서 물을 계곡으로 끌어오려고 한다.
+
+[676]
+#We start for Shanghai about 3 o'clock in the night.
+#우리는 밤 3시를 전후해서 상해로 출발하려고 한다.
+
+[677]
+#Where shall we change for Taiyuan?
+#우리는 어디에서 차를 갈아타고 태원에 가는 것입니까?
+
+[678]
+#We shall see to it that your interest is well taken care of at all times.
+#우리는 당신측의 이익이 언제라도 보호받을 수 있도록 주의할 것입니다.
+
+[679]
+#Let's make friends,instead of wasting our time on recriminations.
+#우리 서로 비난하느라 시간을 낭비하지 말고, 친구 합시다.
+
+[680]
+#We told him to consult a doctor,which advice he took.
+#우리는 그에게 의사를 만나 보라고 했는데, 그가 이 충고를 받아들였다.
+
+[681]
+#We are receiving large inquiries for TV from abroad.
+#우리는 해외로부터 TV와 관련된 대량의 문의 편지를 받았다.
+
+[682]
+#We have been notified that there will be an exam next Monday.
+#우리는 다음주에 시험이 있다는 소식을 입수해 알렸다.
+
+[683]
+#We feasted for weeks on the deer that daddy shot.
+#우리는 연달아 몇 주 동안 아버지가 사냥해 온 사슴 고기로 포식을 하였다.
+
+[684]
+#We must look over all the accounts today.
+#우리는 오늘 모든 장부의 항목을 검열해야 한다.
+
+[685]
+#We shall be eating in tonight,so please prepare a big meal.
+#우리는 오늘 저녁에 집에서 밥을 먹을 것이니, 음식을 좀 많이 준비하십시오.
+
+[686]
+#We are entangling ourselves in matters alien from our subjeet.
+#우리는 우리의 논제와 무관한 문제로 분쟁을 일으켰다.
+
+[687]
+#We disputed with them about the subject for hours.
+#우리는 이 문제로 그들에게 몇 시간 동안 변론했다.
+
+[688]
+#We rejected his submission that this be done at once.
+#우리는 이 일을 즉시 하자는 그의 제안을 거절했다.
+
+[689]
+#We are not going to allow a little difficulty like that to put us off.
+#우리는 결코 그렇게 작은 어려움 때문에 우리를 놀라 자빠지게 할 수는 없다.
+
+[690]
+#We will not tolerate any invasion of our motherland.
+#우리는 우리 조국에 대한 어떠한 침범도 결코 용납하지 않을 것이다.
+
+[691]
+#We decided to delay our holiday until next month.
+#우리는 휴가 기간을 다음 달까지 연기하기로 결정했다.
+
+[692]
+#We appointed the place and time for the next meeting.
+#우리는 다음 모임의 장소와 시간을 결정했다.
+
+[693]
+#We decided to reconstitute the committee under a new chairman.
+#우리는 새 의장의 영도아래 위원회를 재조직하기로 결정했다.
+
+[694]
+#We are determined to reckon with every difficulty on our road of advance.
+#우리는 전진하는 길에 닥쳐오는 모든 어려움을 극복하겠다고 결심했다.
+
+[695]
+#We shot the enemy out of their hiding places.
+#우리는 총을 쏴서 적을 숨어 있는 장소로부터 쫓겨나오게 했다.
+
+[696]
+#When we moved up,the battle had come to an end.
+#우리가 올라가기 시작했을 때, 전투는 이미 끝났다.
+
+[697]
+#We began to appreciate the value of cooperation among socialist enterprises.
+#우리는 사회주의 기업간의 협작의 중요성을 느끼기 시작했다.
+
+[698]
+#When we began to march ,silence fell on us.
+#우리가 행진하기 시작했을 때 모두 한마디 말도 하지 않았다.
+
+[699]
+#We saw rocks and stones hurtling down the mountain.
+#우리는 바위가 나는 듯이 빠른 속도로 굴러내려 오는 것을 보았다.
+
+[700]
+#Every object that we see and feel possesses heat energy.
+#우리가 보고 느끼는 모든 물체는 열에너지를 가지고 있다.
+
+[701]
+#We knew spring was coming as we had seen a robin.
+#우리는 물새를 보고, 봄이 왔다는 것을 안다.
+
+[702]
+#We saw them buzzing about in the corridor.
+#우리는 그들이 바쁘게 복도를 뛰어왔다 뛰어갔다 하는 것을 보았다.
+
+[703]
+#We saw a vulture gorging on some rotting carcase.
+#우리는 한 마리의 독수리가 썩은 시체를 게걸스럽게 쪼아먹고 있는 것을 보았다.
+
+[704]
+#We saw a documentary about Yorkshire coal miners.
+#우리는 요코셔탄광 광부와 관련된 기록영화를 한 편 보았다.
+
+[705]
+#We are thinking of putting Comrade li in for the 100 metres.
+#우리는 이 동지를 지명하여 100m달리기에 참가시킬 것을 고려하고 있다.
+
+[706]
+#We mustn't be stampeded into doing anything foolish.
+#우리는 결코 벌집을 쑤신 것처럼 어떤 바보 같은 일을 해나가서는 안 된다.
+
+[707]
+#There's a possibility we'll go,but it all depends on the weather.
+#우리는 갈 수 있다. 그러나 이것은 완전히 날씨를 보고 결정할 일이다.
+
+[708]
+#We can reduce his statement to three simple facts.
+#우리는 그의 진술을 세 가지 간단한 사실로 귀납할 수 있다.
+
+[709]
+#We might cut the book down to a little over a hundred pages.
+#우리는 이 책을 백 페이지보다 조금 많게 줄일 수 있다.
+
+[710]
+#We can fly to London and thence to Paris.
+#우리는 비행기를 타고 런던에 갈 수 있고 거기에서 다시 파리로 간다.
+
+[711]
+#We can assume all the mass of the body to be concentrated at its centre of gravity.
+#우리는 물체의 질량은 모두 그 무게중심에 집중된다고 가정할 수 있다.
+
+[712]
+#We could see the ship lying off the harbour.
+#우리는 항구 밖에 정박해 있는 그 배를 볼 수 있었다.
+
+[713]
+#We could hear the children's voices in the garden.
+#우리는 정원에 있는 아이들의 소리를 들을 수 있었다.
+
+[714]
+#We can curtain off each bed in the hospital.
+#우리는 커튼을 이용해서 병원 내의 병상을 막아 분리할 수 있다.
+
+[715]
+#We are bound to prosper beyond other countries.
+#우리는 기타 다른 나라보다 더 왕성하고 번영하리라는 것을 확신한다.
+
+[716]
+#We urge that you make this settlement with our delay.
+#우리는 이 부분에 대해서 속히 결산해 주시기를 간절히 바랍니다.
+
+[717]
+#Let's rearrange the furniture in the room.
+#우리 방안의 가구들을 다시 배치합시다.
+
+[718]
+#Our teacher always preaches at me about being late for school.
+#우리 선생님은 학교수업에 늦는 것에 대해 늘 우리를 훈계하신다.
+
+[719]
+#Our teacher reminded us how important it was to study English.
+#우리 선생님은 우리들에게 영어 공부의 중요성을 깨우쳐 주셨다.
+
+[720]
+#We left that anchorage and stood away towards the northeast.
+#우리는 정박지를 떠나서 동북 방향으로 운전해 간다.
+
+[721]
+#There have been many such uprisings in our history.
+#우리 역사상 이러한 의거는 여러 번 발생해 왔다.
+
+[722]
+#The friendly contacts between our two peoples go back to the Tang Dynasty.
+#우리 양국간의 우호적인 왕래는 당조로 거슬러 올라갈 수 있다.
+
+[723]
+#At last there can be reasonable dialogue between our governments.
+#우리 양국 정부는 결국 합리적인 대화를 진행할 수 있게 되었다.
+
+[724]
+#It's been a pleasure living next door to you and your family the past seven years.
+#우리 두 가족이 선린 우호관계가 된지 이미 7년이 되었다.
+
+[725]
+#We anticipated that the enemy would cross the river and so we destroyed the bridge.
+#우리는 적이 강을 건널 것이라고 사료되어 다리를 먼저 파괴하였다.
+
+[726]
+#We made p a bed on the floor for the unexpected guest.
+#우리는 뜻밖에 오신 손님을 위해서 임시로 바닥에 자리를 깔았다.
+
+[727]
+#We've ordered such a large quantity that a discount,no matter how little,should.
+#우리가 이렇게 많은 물건을 샀으니 좀 깎아주든지 아니면 조금 더 줘도 되잖아요.
+
+[728]
+#Time ran out before we could score another touch down.
+#
+
+[729]
+#Whenever we see him,we speak to him.
+#우리는 그를 만날 때마다 결국 그와 몇 마디를 나눈다.
+
+[730]
+#We worked eight hours a day in three shifts.
+#우리는 매일 8시간씩 3교대로 일한다.
+
+[731]
+#We reckon with our banks once a month.
+#우리는 우리가 거래하는 은행과 매월 한차례 결산을 한다.
+
+[732]
+#Can we dredge the river to make it deeper?
+#우리가 이 강물을 좀 깊게 준설해도 되겠습니까?
+
+[733]
+#Can we pay for our imports in RMB?
+#우리가 RMB로 이 물건값을 지불해도 됩니까?
+
+[734]
+#We could see up into the loft from the bottom of the stairs.
+#우리는 계단 밑에서 다락방 안을 바라다 볼 수 있다.
+
+[735]
+#We can tailor our design to meet your request.
+#우리는 우리의 설계를 너의 요구에 맞게 조정할 수 있다.
+
+[736]
+#We can resolve the problem into more elementary items.
+#우리는 이 문제를 더욱 기본적인 세목으로 분석할 수 있다.
+
+[737]
+#We can quite easily understand what a transformer is.
+#우리는 변압기가 무엇인지 아주 쉽게 이해할 수 있다.
+
+[738]
+#We can put through the job before dark.
+#우리는 날이 어둡기 전에 이 일을 끝낼 수 있다.
+
+[739]
+#We can easily show this gas to be different from air.
+#우리는 이러한 종류의 기체와 공기가 다르다는 것을 아주 쉽게 증명할 수 있다.
+
+[740]
+#We could see the top of the high mountain fairly well.
+#우리는 그 높은 산의 봉우리를 아주 선명하게 볼 수 있었다.
+
+[741]
+#We can increase the efficienty of machines by reducing friction.
+#우리는 마찰을 줄이는 방법으로 기계의 효율을 높일 수 있다.
+
+[742]
+#With this time draft in our possession,we'll be in a position to arrange for a loan from our state bank.
+#우리는 이 약속어음으로 국가은행에 상품 대금을 신청할 수 있다.
+
+[743]
+#We'll give a 2% commission as an exception.This is the best we can do.
+#우리는 전례를 깨고 2%의 커미션을 지급할 것입니다.
+
+[744]
+#We'll be looking for you,Aunt Kate,on the twelfth!
+#우리는 당신이 12일에 올 거라고 기대하고 있습니다. Kate고모!
+
+[745]
+#We anticipate much pleasure from our school excursion.
+#우리는 학교 단체여행이 아주 재미있을 거라고 기대하고 있다.
+
+[746]
+#We look forward to establishing a friendly relationship with you shortly.
+#우리는 곧 너희측과 우호적인 관계를 맺을 수 있으리라 기대합니다.
+
+[747]
+#We await your further esteemed commands.
+#우리는 금후 귀사가 더욱 배려해 주시기를 바랍니다.
+
+[748]
+#Our journey by camel was quite an experience.
+#우리가 낙타를 타고 여행한 것은 정말 흔치 않은 경험이었다.
+
+[749]
+#We threw the house open for the party.
+#우리는 손님을 집으로 청해서 파티를 열었다.
+
+[750]
+#We requested that they send a delegation to our country.
+#우리는 그들이 우리나라에 대표단을 파견할 것을 간절히 바란다.
+
+[751]
+#We asked his permission to use the car.
+#우리는 그가 우리들이 그 차를 사용하도록 허락해 줄 것을 요구했다.
+
+[752]
+#We asked him to join us in singing ,but he stood aloof.
+#우리는 그에게 함께 노래를 부르자고 청했지만 그는 함께 하지 않았다.
+
+[753]
+#When we went to Paris I took my sister along with me.
+#우리가 파리에 갈 때 나는 여동생을 데리고 함께 갔다.
+
+[754]
+#Our neighbour is minding our dog while we're on holiday.
+#우리가 휴가를 보내는 동안 이웃이 우리의 개를 돌보아 준다.
+
+[755]
+#We are bound for the movies.Do you want to go with us?
+#우리는 영화 보러 가는데, 너도 원한다면 우리와 함께 가겠니?
+
+[756]
+#We went to see Comrade Wang,who gave us a hearty welcome.
+#우리는 왕 동지를 만나러 갔는데, 그는 따뜻하게 우리를 맞아 주었다.
+
+[757]
+#Do you think we should call at Bob's when we go to London?
+#너는 우리가 런던에 갔을 때 Bob을 찾아가 만나기를 원하니?
+
+[758]
+#We went to the hospital to reassure ourselves about his condition.
+#우리는 병원에 가서 그의 병세를 알아보고 안심을 하였다.
+
+[759]
+#We were drenched to the skin.
+#우리는 온몸이 흠뻑 젖었다.; 우리는 물에 빠진 생쥐가 되었다.
+
+[760]
+#If we bypass the town we'll miss all traffic.
+#우리가 교외로 우회해서 간다면, 교통 혼잡을 피할 수 있을 것이다.
+
+[761]
+#Let's go around the town,not through it.
+#우리 이 도시를 질러서 가지 말고 돌아서 갑시다.
+
+[762]
+#We think it necessary that theory be combined with practice.
+#우리는 이론과 실제가 서로 결합하는 것이 필요하다고 생각한다.
+
+[763]
+#We sized up the lecturer as an empty talker.
+#우리는 그 강연자가 공염불이나 하는 사람이라고 생각한다.
+
+[764]
+#We consider Shakespeare a great poet.
+#우리는 세익스피어가 위대한 시인이라고 생각한다.
+
+[765]
+#He is,as we all know,a splendid chap.
+#우리는 그가 확실히 걸출한 청년이라고 생각한다.
+
+[766]
+#If we can't go over the mountain we must go round it.
+#우리가 만약에 이 산을 넘어갈 수 없다면, 돌아서 가야 한다.
+
+[767]
+#If we really put our back into the job we can finish it today.
+#만약에 우리가 더 열심히 일을 한다면, 오늘 그것을 끝낼 수 있다.
+
+[768]
+#How shall we coordinate,coordinate these two plans ?.
+#우리가 어떻게 이 두 계획을 조화시킬 수 있겠습니까?
+
+[769]
+#We visited museums filled with antiquitys.
+#우리는 옛 물건이 많이 있는 박물관을 참관했다.
+
+[770]
+#We paid our last respects to the scholar.
+#우리는 이 학자의 임종 고별의식에 참가했다.
+
+[771]
+#We're trying to anticipate what questions we'll be asked in the examination.
+#우리는 시험에 어떤 문제가 나올 것인지를 예측하려고 노력한다.
+
+[772]
+#We went swimming at midnight just for the hell of it.
+#우리가 한밤중에 수영을 하는 것은 순전히 재미를 위한 것일 뿐이다.
+
+[773]
+#We trust that you will favour us with a share of your esteemed orders.
+#우리는 귀사가 다소간 우리를 고려해 줄 것이라고 굳게 믿는다.
+
+[774]
+#Our production brigade has set aside ample reserve grain.
+#우리 생산대대는 이미 충분한 비축식량을 남겨 두었다.
+
+[775]
+#Seventy per cent of out production team's income derives from agricultural produce.
+#우리 생산팀 수입의 70%는 농산품에서 오는 것이다.
+
+[776]
+#We haven't much money left,so we shall have to make it spin out.
+#우리가 남겨둔 돈이 많지 않기 때문에 최대한 절약해야 한다.
+
+[777]
+#We deeply appreciate your good wishes and congratulations.
+#우리는 당신의 축하와 좋은 축원에 매우 감사 드립니다.
+
+[778]
+#What the combat hero said many years ago often comes back to us.
+#우리는 자주 그 전투영웅이 오래 전에 한 말을 생각한다.
+
+[779]
+#Do we have to wear evening dress for this party?
+#우리는 반드시 예복을 입고 이 파티에 참가해야 하는 것입니까?
+
+[780]
+#Aren't we going to clear up before we go out?
+#우리가 외출하기 전에 물건을 정리해야 합니까?
+
+[781]
+#Shall we keep the fire in or let it out?
+#우리가 난로의 불을 계속 피워야 합니까 아니면 그것을 꺼야 합니까?
+
+[782]
+#We do business on a commission basis.
+#우리는 커미션을 받아서 상업활동을 하는 것이다.
+
+[783]
+#We made the decision in consultation with the others on the committee.
+#우리는 동위원회의 기타 위원들과 협상하여 결정한 것이다.
+
+[784]
+#We are bound up by a revolutionary friendship.
+#우리는 혁명적인 우의로 긴밀하게 맺어졌다.
+
+[785]
+#We got it on hp.
+#우리는 정기분할 지불방식으로 산 것이다.
+
+[786]
+#We have tried our utmost to supply you with 500 cases.
+#우리는 500상자를 공급하기 위해서 특별한 노력을 하였다.
+
+[787]
+#We tried in vain to make him change his mind.
+#우리는 그로 하여금 생각을 바꾸도록 시도해 보았지만, 결과는 허사였다.
+
+[788]
+#We were deluged with applications.
+#우리는 홍수처럼 밀려드는 신청서를 받았다.
+
+[789]
+#We received a report dating from Beijing.
+#우리는 북경으로부터 온, 날짜를 밝힌 보도를 받았다.
+
+[790]
+#We picked up signals for help from the burning plane.
+#우리는 불이 난 비행기에서 보내온 구호신호를 받았다.
+
+[791]
+#We listened in to that model worker.
+#우리는 그 모범 노동자의 방송 연설을 들었다.
+
+[792]
+#We got the children safely over first.
+#우리는 먼저 아이들을 안전하게 건넸다.
+
+[793]
+#We first cut the link between the two cities.
+#우리는 먼저 두 도시간의 연락을 끊었다.
+
+[794]
+#We have vanilla,chocolate,and strawberry.
+#우리는 딸기맛, 초코렛맛, 바닐라맛을 판다.
+
+[795]
+#None of us could divine what would happen next.
+#우리는 누구도 바로 다음에 무슨 일이 발생할 것인지 예언할 수 없다.
+
+[796]
+#We laughed away the time when we were together.
+#우리는 우리가 함께 있는 그 시간을 이야기로 웃음꽃을 피우며 보냈다.
+
+[797]
+#We don't make much money,but we are able to keep our heads above water.
+#우리가 비록 돈을 많이 벌지는 않았지만, 그런대로 유지는 하고 있다고 할 수 있다.
+
+[798]
+#The metal we need requires the following particular properties.
+#우리가 필요로 하는 금속은 아래와 같은 특성을 갖추어야 한다.
+
+[799]
+#He froze up when we mentioned his debts.
+#우리가 그의 부채에 관해 이야기하자, 그는 표정이 굳어졌다.
+
+[800]
+#After we had chatted for a little time,she went to see about the lunch.
+#잠시 이야기를 한 후, 그녀는 점심을 준비하러 갔다.
+
+[801]
+#Let's talk of something else.You are always harping on this subject.
+#우리 다른 얘기하자! 너는 늘 이 문제만 이야기 하는구나.
+
+[802]
+#We discussed what to do and where we should go.
+#우리는 우리가 무슨 일을 하고 어디에 갈 것인지를 토론했다.
+
+[803]
+#He listened in while we were discussing this question.
+#우리가 이 문제를 토론할 때 그는 옆에서 듣고 있었다.
+
+[804]
+#we are writing to you with a desire to open an account with you.
+#우리는 당신측과 관계를 맺고자 삼가 편지를 드립니다.
+
+[805]
+#We have brought forward a plan to reform the curricula of our department.
+#우리는 우리 과의 학과과정에 설정되어 있는 계획에 관해 하나의 개혁을 제시했다.
+
+[806]
+#We proposed a vote of thanks to the speaker for his talk.
+#우리는 모두 강연자가 우리에게 강연을 해준 것에 대해 박수로 감사하자고 제의했다.
+
+[807]
+#We live in daily fear of an enemy attack.
+#우리는 매일 적이 공격해 올까 봐 두려워 마음이 조마조마하다.
+
+[808]
+#We heard the windows rattling in the strong wind.
+#우리는 강풍으로 인해 창문이 덜커덕거리는 소리를 들었다.
+
+[809]
+#We heard a bump in the next room.
+#우리는 옆방에서 나는 탕하고 부딪치는 소리를 들었다.
+
+[810]
+#We heard him tramping about overhead.
+#우리는 위층에서 그가 무거운 발걸음으로 왔다갔다하는 소리를 들었다.
+
+[811]
+#We were reassured that the ship was safe and sound.
+#우리는 이 배가 안전 무사하다는 소리를 듣고 안심이 되었다.
+
+[812]
+#We listened to her strange revelations about her past.
+#우리는 그녀가 과거에 그러한 이상한 경험을 했다고 토로하는 소리를 들었다.
+
+[813]
+#We usually classify types of character as good or bad.
+#우리는 보통 성격의 유형을 선과 악으로 나눈다.
+
+[814]
+#Our customary terms of payment as by letter of credit.
+#우리가 통상 사용하는 지불조건은 신용장에 의거한 지불방식이다.
+
+[815]
+#We usually take the children to school in the car.
+#우리는 통상 차로 아이들을 학교까지 데려다 준다.
+
+[816]
+#We know about magnetism by the way magnets act.
+#우리는 자석의 작용을 통해서 자성이 어떤 것인가를 안다.
+
+[817]
+#We have connections with a firm in Zurich.
+#우리는 취리히의 한 회사와 업무 거래가 있다.
+
+[818]
+#We agree to joint participation with you in Chinese arts and crafts.
+#우리는 너희와 중국 공예품을 합자경영하는 것에 동의한다.
+
+[819]
+#We saw the comings and goings of the visitors from our bedroom window.
+#우리는 침실의 창문을 통해서 손님들이 들어오고 나가는 것을 보았다.
+
+[820]
+#We tramped through the Lake District.
+#우리는 잉글랜드 서북부의 호수지역을 도보로 여행했다.
+
+[821]
+#We combated with them for our rights.
+#우리는 자신의 권리를 위해서 그들과 투쟁한다.
+
+[822]
+#Why don't we tax the rich more heavily?
+#우리는 왜 돈이 많은 사람들에게 더 많은 세금을 징수하지 않는 것입니까?
+
+[823]
+#We cheered the news that he was elected governor.
+#우리는 그가 주 의장에 당선되었다는 소식에 환호했다.
+
+[824]
+#We are proud of our great socialist motherland.
+#우리는 위대한 사회주의 조국을 위해 자부심을 느낀다.
+
+[825]
+#Our future plans are unsettled; everything is in a state of flux.
+#우리의 미래의 계획이 아직 정해지지 않았다. 모든 것이 예측할 수 없이 변한다.
+
+[826]
+#We would be glad to know what you propose to do in the matter,as we cannot use them for our purpose.
+#우리가 이 물건을 사용할 수 없으니, 당신측은 어떻게 처리할 것인지 말씀해 주십시오.
+
+[827]
+#We cannot relate these two phenomena.
+#우리는 이 두 종류 현상 사이의 관계를 설명할 방법이 없다.
+
+[828]
+#There is no need to immerge further into this topic.
+#우리는 이 테마에 관해서 더 깊이 토론할 필요가 없다.
+
+[829]
+#We hoped that the off-hour traffic would be lighter.
+#우리는 퇴근 후의 교통이 너무 복잡하지 않기를 바란다.
+
+[830]
+#We shall hope to see you Friday,the 14th,about four o'clock.
+#우리는 14일 금요일 오후 4시에 당신을 만날 수 있기를 바랍니다.
+
+[831]
+#We hope this information may be of use to you.
+#우리는 이 정보가 귀사에 쓸모가 있기를 바랍니다.
+
+[832]
+#To enable us to complete our records,we should like to have this information.
+#우리는 이 자료를 얻기를 원해서 우리측 문서를 완벽히 준비했다.
+
+[833]
+#We are interested in discussing arts and crafts business with you.
+#우리는 당신과 공예품 분야의 업무에 관해 이야기하기를 바란다.
+
+[834]
+#We hope they will come round tomorrow evening to watch our rehearsal.
+#우리는 그들이 내일 저녁에 우리의 리허설을 보러 올 수 있기를 바란다.
+
+[835]
+#We hope there will be a peaceful transition to the new system.
+#우리는 새 제도가 평화적으로 이행될 수 있기를 바란다.
+
+[836]
+#We hope to get the report out before the end of the month.
+#우리는 월말이 되기 전에 이 보고를 공포할 수 있기를 바란다.
+
+[837]
+#We hope that we can do substantial business with you in this line.
+#우리는 이 방면에 너희와 많은 거래가 성립되기를 원한다.
+
+[838]
+#We hope your suggestion will contribute to solving the problem.
+#우리는 너의 제안이 이 문제를 해결하는데 도움이 되기를 바란다.
+
+[839]
+#We hope you'll fully settle our claim.
+#우리는 너희측이 우리측의 클레임을 모두 해결해 주기를 희망한다.
+
+[840]
+#We hope you will accept D/P payment terms.
+#우리는 너희가 DP 지불방식을 받아들여 주기를 바란다.
+
+[841]
+#We hope you will call forth all your energies in doing this work.
+#우리는 너희들이 이 일을 할 때 전력을 다해주기를 바란다.
+
+[842]
+#I hope you will behave with decorum at the funeral.
+#우리는 네가 장례에 걸맞는 예의있는 행동을 해주기를 바란다.
+
+[843]
+#We hope that the design and the colour will suit European taste.
+#우리는 디자인과 색이 유럽인들의 구미에 적합하기를 바란다.
+
+[844]
+#We're hoping for a large sale of our new product.
+#우리는 신제품의 총판매액이 아주 많을 것이라고 희망한다.
+
+[845]
+#We hoped to scour the enemy out during the coming offensive.
+#우리는 곧 개시할 공세중에 적을 섬멸해 버리기를 바란다.
+
+[846]
+#We are hoping for an alliance between government and industry.
+#우리는 정부와 공업계가 연맹을 결성할 수 있기를 바란다.
+
+[847]
+#Let us know definitely when we may expect settlement.
+#우리는 언제 이 상품대금을 확실히 청산할 수 있는지 알고 싶다.
+
+[848]
+#We conventionally consider the electric current to flow from the positive to the negative terminal.
+#우리는 습관적으로 전류는 양극에서 음극으로 흐른다고 생각한다.
+
+[849]
+#We enjoyed driving along the new expressway.
+#우리는 새로 건설한 고속도로를 따라 운전하는 것을 좋아한다.
+
+[850]
+#We shall ride over to see you next week.
+#우리는 다음주에 말이나 자전거를 타고 너를 만나러 올 것이다.
+
+[851]
+#I'll tell you the answer when we next meet.
+#우리가 다음에 만날 때, 내가 너에게 답을 알려주겠다.
+
+[852]
+#Let's break for a meal and begin again afterwards.
+#우리 우선 멈추고 밥을 먹자. 밥을 먹고 다시 시작하다.
+
+[853]
+#We looked away in revulsion from the scene of the accident.
+#우리는 혐오감을 느끼기 싫어서 시선을 돌려 사고현장을 보지 않았다.
+
+[854]
+#We must now put our plans into practice.
+#우리는 지금 우리의 계획을 실행에 부쳐야 한다.
+
+[855]
+#We'll eat some of the fish now and keep the rest of it for dinner.
+#우리는 지금 생선을 좀 먹고, 나머지는 저녁식사 때 먹을 것이다.
+
+[856]
+#We can hardly calculate on the matter as settled now.
+#우리는 현재 이 일이 이미 다 해결되었다고 말할 수는 없다.
+
+[857]
+#We're now in a position to dictate our own demands to our employer.
+#우리는 지금 우리의 요구를 받아들이도록 고용주를 강요할 수 있다.
+
+[858]
+#We'll stop now and resume working at two o'clock.
+#우리는 지금 일을 멈췄는데 2시에 다시 시작한다.
+
+[859]
+#We trust that we may be favoured with a continuance of your valued orders.
+#우리는 금후에도 계속 귀사의 주문을 받을 수 있으리라고 믿는다.
+
+[860]
+#We trust that you are able to fill the order at a low price.
+#우리는 너희가 낮은 가격으로 물건을 제공해 줄 수 있으리라 믿는다.
+
+[861]
+#It,we believe,would be greatly in your interest to make a trial of these articles.
+#우리는 이 물건들을 시험적으로 주문하는 것이 너희측에 유리할 것이라고 믿는다.
+
+[862]
+#We believed that this happy state of affairs can be attributed to two causes.
+#우리는 이런 상황을 조성한 요인이 두 가지 있다고 믿는다.
+
+[863]
+#We're depending on you to finish the job by Friday.
+#우리는 네가 금요일 전까지 이 일을 완성할 수 있으리라고 믿는다.
+
+[864]
+#We are sure that they will reach you in good order.
+#우리는 그것들이 너희측에 도달할 때까지 양호한 상태가 유지되리라고 확신한다.
+
+[865]
+#We believe this revolutionary tradition will carry through from generation to generation.
+#우리는 이러한 혁명전통이 대대로 전해 내려가리라고 믿는다.
+
+[866]
+#We sifted the evidence for pertinent facts.
+#우리는 유관한 진상을 얻어서 증거를 상세히 조사했다.
+
+[867]
+#We'd like to renew our sole agency agreement for another two years.
+#우리는 우리 사이의 총대리점을 2년 연장하는 일에 관해 협의하고 있다.
+
+[868]
+#we'd like to know what steps should be taken to engage in a joint venture with you.
+#우리는 너희측의 합자경영방식에 대해 좀 알고 싶다.
+
+[869]
+#We should like to purchase Shanghai printed pure silk fabrics.
+#우리는 상해에서 생산된 날염 견직물을 사고 싶다.
+
+[870]
+#We willed him to stop,but he just drove past.
+#우리는 그에게 차를 멈추도록 했지만, 그는 계속 운전해 지나갔다.
+
+[871]
+#We prefer to have the China National Chartering Corporation take care of the shipping.
+#우리는 중국 용선회사로 하여금 용선 선적을 책임지도록 하고 싶다.
+
+[872]
+#We should like to go over the house before deciding to rent it.
+#우리는 먼저 집을 보고, 빌릴 것인지를 결정하려고 한다.
+
+[873]
+#Wishing to fill up with water,we stood in.
+#우리는 담수를 가득 채우고 싶어서 해안쪽으로 운전해 갔다.
+
+[874]
+#We pressed forward to get a better look at the exhibits.
+#우리는 전시품을 더 확실히 보기 위해서 앞으로 나아갔다.
+
+[875]
+#We mentioned you to him,and he would like to talk to you.
+#우리가 그에게 너에 대해서 언급을 했더니, 그가 너와 이야기를 해보고 싶다고 말했다.
+
+[876]
+#We know that he is a keyhole investigator.
+#우리는 그가 비밀리에 물어보는 조사원이라는 것을 안다.
+
+[877]
+#We had a fieldday talking about our school days.
+#우리는 신바람이 나서 학생시절의 일을 즐겁게 이야기했다.
+
+[878]
+#That we need more equipment is quite obvious.
+#우리가 더 많은 준비를 해야 한다는 것은 아주 분명한 것이다.
+
+[879]
+#We need someone with real vision to lead the party.
+#우리는 이 당을 영도할 확실한 소견을 가진 사람이 필요하다.
+
+[880]
+#We need a replacement for the secretary who left.
+#우리는 이미 그만둔 비서를 대신할 사람이 한 명 필요하다.
+
+[881]
+#We need an instrument the size of which must be small.
+#우리는 크기가 반드시 아주 작은 실험기구가 한 대 필요하다.
+
+[882]
+#To enable us to complete our records,we need to have this information.
+#우리는 공문서를 완성하기 편리하도록 하기 위해서 이 상황을 알아야 할 필요가 있다.
+
+[883]
+#Our school is gearing up for an increased intake of pupils.
+#우리 학교는 더 많은 학생을 받아들이기 위해 한창 준비를 하고 있다.
+
+[884]
+#We followed the path zigzagging up the steep slope.
+#우리는 작은 길을 따라 고불고불 험한 비탈길을 올라갔다.
+
+[885]
+#We followed a well-beaten path through the forest.
+#우리는 아주 평평한 길을 따라 숲을 지나갔다.
+
+[886]
+#We invited thirty people,but only a handful of them came.
+#우리는 30명을 초청했다. 그러나 소수의 몇 명만이 왔다.
+
+[887]
+#We invited him to tea and he stopped for supper!
+#우리는 그를 차 마시자고 초대했는데 그는 남아서 저녁까지 먹었다.
+
+[888]
+#We should do all we can to prevent any defective parts slipping through.
+#우리는 온갖 방법으로 흠이 있는 부품이 빠져나가지 않도록 해야 한다.
+
+[889]
+#We'll get through that undergrowth somehow.
+#우리는 그 큰 나무 밑의 관목을 통과할 방법을 세워야 한다.
+
+[890]
+#We asked him to stop idling about and do something useful.
+#우리는 그에게 다시는 건들건들하지 말고, 유익한 일을 하라고 했다.
+
+[891]
+#Shall we sit at a table or at the counter ?.
+#우리가 책상에 앉을까요 아니면 카운터 옆에 앉을까요?
+
+[892]
+#We may be able to help you in some way.
+#아마도 우리가 어떤 방면으로든 너를 도울 수 있을 것이다.
+
+[893]
+#On our graduation we'll go where our motherland needs us most.
+#우리는 졸업하자마자 조국이 가장 필요로 하는 곳으로 갈 것이다.
+
+[894]
+#We can surely get over all difficulties that may come up.
+#우리는 발생할 가능성이 있는 모든 어려움을 능히 극복할 수 있다.
+
+[895]
+#We shall certainly be able to ride out every difficulty and go on fighting.
+#우리는 반드시 일체의 어려움을 견디고, 계속 싸울 수 있을 것이다.
+
+[896]
+#We must make sure we arrive in time to get a good seat.
+#우리는 반드시 제때에 가서 좋은 자리를 잡아야 한다.
+
+[897]
+#We'll certainly set up a complete modern industrial system.
+#우리는 반드시 완전히 현대화된 공업체계를 세울 것이다.
+
+[898]
+#We must peg him down to a definite date for completion.
+#우리는 반드시 그로 하여금 완성 날짜를 확정하게 해야 한다.
+
+[899]
+#As soon as we entered the park,we heard various birds calling to one another.
+#우리가 공원에 들어서자마자 각종 새들이 서로 지저귀는 소리를 들었다.
+
+[900]
+#We clapped the door to as soon as we came in.
+#우리가 들어오자마자 문을 펑하고 잠갔다.
+
+[901]
+#We've been waiting for hours for you to show up!
+#우리는 네가 오기를 몇 시간째 줄곧 기다리고 있다.
+
+[902]
+#We've always regretted selling the farm.
+#우리는 농장을 팔아버린 것을 줄곧 후회하고 있다.
+
+[903]
+#By relying on the masses we can get round all sorts of difficulties.
+#우리는 군중에 의지해서 각종 어려움을 극복하고 있다.
+
+[904]
+#The days when we had to rely on "foreign oil" are gone forever.
+#우리가 수입 석유에 의지하던 때는 이미 영원히 사라졌다.
+
+[905]
+#We regret to inform you that you owe the bank ↔1000.
+#우리는 유감스럽게 네가 은행에 1000파운드의 빚이 있다는 것을 통지한다.
+
+[906]
+#We have transmitted a bill of lading to Messrs.Tokuda ＆ Co.,Kobe,by the vessel.
+#우리는 선하증권을 이미 Messrs. Tokuda 회사에 이 기선으로 전달했다.
+
+[907]
+#We have sent you the sample,price-list,and catalogs by separate cover.
+#우리는 견본품, 가격표 그리고 카탈로그를 이미 각각 부쳤다.
+
+[908]
+#We are booked through to Chengdu.
+#우리는 이미 청도까지의 차표를 예매했다.
+
+[909]
+#We've fixed on the 14th of April for the wedding.
+#우리는 이미 4월 14일에 결혼식을 거행하기로 결정했다.
+
+[910]
+#We have searched out all the facts you need.
+#우리는 이미 네가 필요로 하는 모든 사실의 진상을 명료하게 밝혔다.
+
+[911]
+#We have lined up a speaker for the meeting.
+#우리는 이미 이 모임을 위해서 한 명의 발언인을 물색했다.
+
+[912]
+#We intimate to you that we have issued a commercial letter of credit.
+#우리는 이미 상업신용장을 개설해서 삼가 통지한다.
+
+[913]
+#We have opened a confirmed credit in your favour.
+#우리는 이미 너희측을 수익인으로 하는 신용장을 개설했다.
+
+[914]
+#We have overcome all the difficulties in our path.
+#우리는 이미 진로상의 각종 어려움을 극복하였다.
+
+[915]
+#We've worked 24 hours without a break.
+#우리는 이미 24시간을 쉬지 않고 계속 일했다.
+
+[916]
+#We have verified that he is entitled to the estate.
+#우리는 그가 그 유산을 계승할 권리가 있다는 것을 확인했다.
+
+[917]
+#There were long periods when we had no news of him.
+#우리는 이미 오랫동안 그에 관한 소식을 못 들었다.
+
+[918]
+#We have found ourselves a beautiful exurban retreat.
+#우리는 도시 외곽에서 아름답고 조용한 곳을 찾았다.
+
+[919]
+#We've settled with him on the question of time.
+#우리는 시간 문제에 있어서 이미 그와 협의를 이루었다.
+
+[920]
+#We bought this washing machine in instalments.
+#우리는 정기분할 지불방식으로 이 세탁기를 샀다.
+
+[921]
+#We won the rugby game by 12 points to 3.
+#우리는 그 럭비시합에서 12:3으로 이겼다.
+
+[922]
+#We won the game with a score of 5 to zero.
+#우리는 이 경기에서 5:0으로 이겼다.
+
+[923]
+#Our emergentyear is the year of the birth of Jesus Christ.
+#우리는 예수 그리스도가 나신 그 해를 기원으로 삼는다.
+
+[924]
+#We were quite exhausted with the toil.
+#우리는 그 힘든 일 때문에 매우 피곤하다.
+
+[925]
+#Certain responsibilities accrue to us from our use of public facilities.
+#우리는 공공시설을 사용하기 때문에 어떤 책임을 져야만 한다.
+
+[926]
+#We think all the terms should meet with common agreement.
+#우리는 마땅히 모든 조항에 대한 통일된 하나의 인식이 있어야 한다.
+
+[927]
+#We should approach this matter with great care.
+#우리는 이 문제를 매우 신중하게 처리해야 한다.
+
+[928]
+#There is growing recognition that we should abolish segregation.
+#종족 격리를 폐지하는 일은 갈수록 중요시 받아야 한다.
+
+[929]
+#We should do away with all fetishes and superstitions and emancipate the mind.
+#우리는 일체의 미신을 버리고 사상을 해방해야 한다.
+
+[930]
+#It is arguable that we should destroy all weapons.
+#우리가 모든 무기를 파괴해야 한다는 이 점은 근거가 있는 것이다.
+
+[931]
+#We ought to phase these less successful products out.
+#우리는 이러한 저질의 상품을 생산하는 것을 차츰차츰 멈춰야 한다.
+
+[932]
+#We dispose of enough strength to hold off any attack.
+#우리가 가지고 있는 충분한 역량으로 어떠한 공격도 격퇴한다.
+
+[933]
+#The meter with which we check power is a wattmeter.
+#우리가 공률을 검사하는데 사용하는 기구는 와트계이다.
+
+[934]
+#We used the money to purchase a lovely lamp for our living room.
+#우리는 그 돈으로 예쁜 등을 사서 침실에 놓았다.
+
+[935]
+#Our difficulties passed away when we dealt with them in the proper way.
+#우리가 합당한 방법으로 어려움을 대처하여 어려움은 곧 제거되었다.
+
+[936]
+#We prettied the place up a bit with a few flowers.
+#우리는 꽃으로 이곳을 예쁘게 장식했다.
+
+[937]
+#The energy that we apply to move something is mechanical energy.
+#우리가 어떤 사물을 이동할 때 쓰는 에너지가 기계화 에너지이다.
+
+[938]
+#We are building socialism with our own hands.
+#우리는 우리 스스로의 두 손으로 사회주의를 건설하고 있다.
+
+[939]
+#We built the plant at maximum speed.
+#우리는 가장 빠른 속도록 이 공장을 건설했다.
+
+[940]
+#We waited for their decision with a great deal of apprehension.
+#우리는 근심 걱정에 쌓여서 그들의 결정을 기다리고 있다.
+
+[941]
+#Shall we drive overland or fly to California?.
+#우리는 캘리포니아에 육로로 차를 운전해서 갑니까 아니면 비행기를 타고 갑니까?
+
+[942]
+#We made a rather amateur job of painting the house.
+#우리는 이 집을 페인트칠하는 일이 아주 익숙치 않다.
+
+[943]
+#We have good grounds for thinking that she stole the money.
+#우리는 그녀가 돈을 훔쳤다고 생각하는 충분한 이유가 있다.
+
+[944]
+#We are sufficiently prepared to be able to fight a long war.
+#우리는 장기간의 전쟁을 견뎌낼 만한 충분한 준비를 하였다.
+
+[945]
+#We have two more postponed matches to play off next week.
+#두 차례나 연기되었던 시합이 다음주에 치러진다.
+
+[946]
+#We have a queen,but it is the prime minister and cabinet who govern.
+#우리에게 여왕이 있으나, 국가를 치리하는 것은 수상과 내각이다.
+
+[947]
+#We have a margin of 5 minutes to catch the train.
+#우리는 5분 정도 여유시간을 가지고 기차에 올랐다.
+
+[948]
+#We've got five children but one's still a baby.
+#우리에게는 5명의 아이가 있는데, 한 명은 아직 아기이다.
+
+[949]
+#We have a set of Dickens' works in 24 volumes.
+#우리는 24권으로 된 디킨스의 저작집 한 질을 가지고 있다.
+
+[950]
+#We have a few kitchen things and a dining toom set.
+#우리는 얼마간의 취사도구와 식당 설비를 가지고 있다.
+
+[951]
+#We have enough coal to see the winter out.
+#우리는 겨울을 날 수 있는 충분한 석탄이 있다.
+
+[952]
+#We have enough money; don't worry on that score.
+#우리는 충분한 돈이 있다. 이 점을 걱정하지 않아도 된다.
+
+[953]
+#We had adequate food for a week's journey.
+#우리는 일주일 동안 여행할 수 있는 충분한 음식이 있다.
+
+[954]
+#Again we failed,and this failure lay with me.
+#우리는 또 실패했다. 게다가 이번 실패는 나의 책임이다.
+
+[955]
+#Before we can accept the firm's offer we must consult with the workers.
+#우리는 노동자들과 상의한 후에야 비로소 회사의 조건을 받아들일 수 있다.
+
+[956]
+#Our relations with Japan needed a reappraisal.
+#우리는 일본과의 관계에 있어서 새로운 평가를 내릴 필요가 있다.
+
+[957]
+#We have met with some unexpected difficulties.
+#우리는 예상하지 못했던 어려움을 만났다.
+
+[958]
+#We met one of the engineers over at the television station.
+#우리는 텔레비전 방송국에서 일하는 기술자를 우연히 만났다.
+
+[959]
+#We expect to finish the delivery of your order in about three months.
+#우리는 이 주문이 3개월 내에 모두 인도될 수 있으리라고 예상한다.
+
+[960]
+#We are not anticipating trouble when the factory opens again.
+#우리는 공장이 새롭게 문을 연 후에는 번거로운 일이 없을 것이라고 예상한다.
+
+[961]
+#Our mere acquaintance ripened into friendship.
+#우리는 본래 얼굴이나 아는 사이였으나 지금은 이미 친구가 되었다.
+
+[962]
+#We are willing to pay an additional fee for immediate delivery.
+#우리는 즉시 물건을 인도하기 위해서 정액 외의 비용을 지불하기를 바란다.
+
+[963]
+#We'll never do that again.He was so offended.
+#우리가 다시는 이렇게 해서는 안 된다. 그는 정말 화가 났다.
+
+[964]
+#We can no longer afford the upkeep of a large house.
+#우리는 더 이상 이 큰집의 수리 비용을 감당할 수가 없다.
+
+[965]
+#We concluded the meeting at eight o'clock with a vote of thanks.
+#우리는 8시에 감사의 말을 하고, 이로써 회의를 끝냈다.
+
+[966]
+#We lay by during the heat of the dat.
+#우리는 낮의 가장 더울 때 멈추고 휴식을 한다.
+
+[967]
+#While we were having breakfast,John was talking on the telephone.
+#우리가 아침을 먹고 있을 때 John은 전화를 하고 있었다.
+
+[968]
+#While we were having lunch,the phone rang.
+#우리가 점심을 먹고 있을 때 전화벨이 울렸다.
+
+[969]
+#The iron ore which we find in the earth is not pure.
+#우리가 지구상에서 발견한 철광석은 순수하지 않은 것이다.
+
+[970]
+#We shook down a straw mattress as an improvised bed.
+#우리는 땅에 돗자리를 깔아서 임시 침대보로 삼았다.
+
+[971]
+#We were cut off in the middle of our telephone conversation.
+#우리가 전화로 반 정도 이야기했는데 전화가 끊겼다.
+
+[972]
+#We sealed up our windows in winter with slips of paper.
+#겨울에 우리는 창문 틈을 종이 테이프로 밀봉한다.
+
+[973]
+#We're renting a villa in the south of France for the summer holidays.
+#우리는 여름 휴가를 보내기 위해서 프랑스 남부의 한 별장을 빌렸다.
+
+[974]
+#We expended much time and effort on the experiment.
+#우리는 이 실험에 적지 않은 시간과 정력을 들였다.
+
+[975]
+#We were steamrollered into adopting the plan.
+#우리는 강압 수단의 위협아래에서 이 계획을 채용하도록 강요당하고 있다.
+
+[976]
+#We have been chalking up more victories on all fronts.
+#우리는 각각의 전선에서 더 많은 승리를 얻고 있다.
+
+[977]
+#We came by several villages on our way back.
+#우리는 돌아오는 길에 몇 개의 마을 곁을 지났다.
+
+[978]
+#We have taken a cottage by the sea for the holidays.
+#우리는 해변에서 휴가를 위해 제공되는 작은 별장을 하나 빌렸다.
+
+[979]
+#We grow vegetables in the back garden,and flowers in the front garden.
+#우리는 뒤뜰에는 야채를 심고, 앞뜰에는 화초를 심었다.
+
+[980]
+#On the way back home,we had a flat tire.
+#우리가 집에 돌아오는 길에 차의 타이어가 빵꾸났다.
+
+[981]
+#In our first-aid class we practiced on one another.
+#우리는 수업시간에 서로 실습을 맡아서 할 상대를 급히 구하고 있다.
+
+[982]
+#What happened to us on holiday is a case in point.
+#우리가 휴가기간 동안에 맞닥뜨렸던 일들이 오히려 좋은 본보기가 되었다.
+
+[983]
+#We put away the tools before we leave the workshop.
+#우리는 작업장을 떠나기 전에 공구를 잘 정리한다.
+
+[984]
+#We were lost in the maze for several hours.
+#우리는 미궁에서 몇 시간 동안을 뱅뱅 돌며 빠져 나오지 못했다.
+
+[985]
+#We may be able to help you out in some way.
+#우리는 어떤 방면에서든지 아마도 너를 도울 수 있을 것이다.
+
+[986]
+#The snowy weather lasted the whole time we were there.
+#우리가 거기에 있는 기간 동안 계속 눈이 오는 날씨였다.
+
+[987]
+#When we worked in the countryside,we ate and lived with the peasants.
+#우리가 농촌에서 일할 때, 농민과 같이 먹으며 함께 생활했다.
+
+[988]
+#We had several rests on the way to our destination.
+#우리는 목적지를 가는 도중에 몇 차례 쉬었다.
+
+[989]
+#We saw the show on its first night.
+#우리는 첫공연을 하는 날 저녁에 연기를 보았다.
+
+[990]
+#It is fitting that we should remember him on his birthday.
+#우리가 그의 생일에 그를 축하하는 것은 당연한 것이다.
+
+[991]
+#We went to Lake Tahoe for aweek,and we had a ball.
+#우리는 태호에서 일주일을 놀고, 또한 무도회에도 참가했다.
+
+[992]
+#We saw a shape through the mist but we couldn't see who it was.
+#우리는 안개 속에서 사람의 그림자를 보았으나 누군지 확실히는 보이지 않았다.
+
+[993]
+#We went on a guided tour round the castle.
+#우리는 가이드의 안내에 따라 그 성루를 유람했다.
+
+[994]
+#We saw some quadruped tracks near our camp.
+#우리는 주둔지 부근에서 네 발 짐승의 발자국을 보았다.
+
+[995]
+#We are safe from attack here.
+#우리가 여기에 있으면 공격을 받을 위험이 없을 것이다.
+
+[996]
+#We need the sanction of the law to hunt in this place.
+# 우리가 여기에서 사냥을 하려면 법률적인 허가가 필요하다.
+
+[997]
+#We were dogged by bad luck the whole journey.
+# 우리가 여행중에 만난 것은 전부가 재수없는 일이었다.
+
+[998]
+#We're slowly getting settled in our apartment.
+# 우리는 자신의 아파트에서 서서히 자리를 잡아 갔다.
+
+[999]
+#We agreed with his contention that the dam was unsafe.
+#우리는 이 댐이 안전하지 않다고 여기는 그의 견해에 동의한다.
+
+[1000]
+#We always knew you'd pick a good one!
+#나는 네가 좋은 아내를 고르리라는 것을 진작부터 알았다.
+

@@ -1,0 +1,5382 @@
+[1]
+#I missed the lesson and John told on me.
+#내가 수업을 빠졌는데 존이 나를 고자질했다.
+
+[2]
+#I hate to see those who work dispiritedly.
+#나는 일할 때 의욕이 없는 사람을 보면 싫어한다. 
+
+[3]
+#I dislike any form of exercise.
+#나는 어떤 방식의 운동도 싫어한다.
+
+[4]
+#I am averse from any sort of fuss.
+#나는 어떤 가치없는 혼란을 싫어한다.
+
+[5]
+#I sicken at his dilly-dallying.
+#나는 그가 빈둥빈둥 시간을 낭비하는 것을 싫어한다.
+
+[6]
+#I hate the way he hogs down his food.
+#나는 그의 게걸스럽게 먹는 모습이 싫다.
+
+[7]
+#I am offfish.
+#나는 어류가 싫어서 안 먹는다.
+
+[8]
+#I dislike these constant arguments.
+#나는 이런 끊임없는 언쟁을 싫어한다.
+
+[9]
+#I hereby declare her elected.
+#나는 이상 선포합니다. 그녀가 당선되었습니다.
+
+[10]
+#I made a cake specially for you.
+#나는 특별히 너를 위해 케익을 만들었다.
+
+[11]
+#My offer of help still stands.
+#내가 도움을 주자는 건의는 여전히 유효하다.
+
+[12]
+#I told you David would want a drink.
+#데이빗이 한잔 하고 싶어한다고 내가 너에게 말한 적이 있다.
+
+[13]
+#I propose that we drink to his health.
+#나는 그의 건강을 위해 건배하자고 건의했다.
+
+[14]
+#I move that we support the introduction of this law.
+#우리들이 이 법률을 채용하는 것을 지지한다고 나는 건의 했다.
+
+[15]
+#I heard something scraping along outside the window.
+#나는 창문 밖에서 어떤 것이 스쳐가는 것을 들었다.
+
+[16]
+#I heard the children's voices at the back of the house.
+#나는 집뒤에서 아이들의 소리가 전해오는 것을 들었다.
+
+[17]
+#I heard the scurry of feet in the hall.
+#나는 거실에서 급히 걸어가는 걸음 소리를 들었다.
+
+[18]
+#I've heard rumblings that she is going to be married.
+#나는 그녀가 곧 결혼한다는 소문을 들었다.
+
+[19]
+#I was relieved to hear it.
+#나는 이 일을 듣고 안심했다.
+
+[20]
+#I heard a clump on the stairs.
+#나는 계단에서 무거운 발자국 소리를 들었다.
+
+[21]
+#I am sorry to hear it.
+#나는 그 일을 듣고 힘들었다.
+
+[22]
+#It distresses me to hear that news.
+#나는 그 소식을 듣고 슬펐다.
+
+[23]
+#My mind reeled at the news.
+#나는 그 소식을 듣고 현기증을 느꼈다.
+
+[24]
+#I've heard of him,but I haven't met him.
+#나는 그에 대해 들었으나 아직 그를 본적이 없다.
+
+[25]
+#I am very surprised to hear of his failure.
+#나는 그가 실패했다는 것을 듣고 놀랐다.
+
+[26]
+#I could hear him pounding on the drum.
+#나는 그가 둥둥 북을 치는 것을 들었다.
+
+[27]
+#I heard the scurry of feet outside.
+#나는 밖에서 허둥지둥 걷는 발자국 소리를 들었다.
+
+[28]
+#I heard birds calling in the wood.
+#나는 작은 새가 나무에서 지저귀는 것을 들었다.
+
+[29]
+#I heard a girl calling.
+#나는 한 소녀가 크게 소리치는 것을 들었다.
+
+[30]
+#I hear favourable accounts of your work.
+#나는 너의 일에 대한 약간의 호평을 들었다.
+
+[31]
+#I've heard whispers about her divorce.
+#나는 그의 이혼과 유관한 사의를 들었다.
+
+[32]
+#I heard someone tap at the door.
+#나는 어떤 사람이 문을 두드리는 소리를 들었다.
+
+[33]
+#I heard somebody calling out to me from downstairs.
+#나는 어떤 사람이 아랫층에서 나를 부르는 소리를 들었다.
+
+[34]
+#I heard someone banging on the door with his hand.
+#나는 어떤 사람이 손으로 문을 세게 두드리는 것을 들었다.
+
+[35]
+#I was amazed at the news.
+#나는 이 소식을 듣고 아주 놀랐다.
+
+[36]
+#I heard some owls screeching in the trees.
+#나는 부엉이가 숲에서 가늘게 울고 있는 것을 들었다.
+
+[37]
+#I quivered with fear at the sound.
+#나는 그 소리를 듣고 놀라 몸을 떨었다.
+
+[38]
+#I jumped up when she called.
+#나는 그녀가 소리치고 몸을 뛰는 것을 보았다.
+
+[39]
+#I head that you and Gayle become engaged last night.
+#나는 너가 Gayle와 어제 정혼했다는 것을 들었다.
+
+[40]
+#I hear that his brother has left home.
+#나는 그의 형제가 이미 집을 떠난다고 들었다.
+
+[41]
+#I can usually recognize him by his walk.
+#나는 통상적으로 그의 걷는 모습에서 그를 알아 보았다.
+
+[42]
+#I used to wake up early and get up at 7 o'clock.
+#나는 자주 일찍 일어나는데 7시에 일어난다.
+
+[43]
+#I usually go to bed at about midnight.
+#나는 자주 한밤중에 잠을 잔다.
+
+[44]
+#The chances that I will pass the exam are remote .
+#나의 시험에 통과하는 희망은 아득하다.
+
+[45]
+#I watched the racing through my binoculars.
+#나는 쌍원경을 통해 이 경기를 보았다.
+
+[46]
+#I notified him to bring me the document.
+#나는 그에게 이 문서를 나에게 갖다 달라고 통지했다.
+
+[47]
+#I feel the same way about Alan!.
+#나는 Alan은 내가 만든 것을 같이 느꼈다.
+
+[48]
+#I agree to the terms concerning the packing and shipping marks.
+#나는 포장과 배달에 관한 조항에 동의했다.
+
+[49]
+#I agree with you in recommending the said course of action.
+#나는 너가 상술 방법을 추천하는 것에 동의 한다.
+
+[50]
+#I could not help crying with pain.
+#나는 아픔을 참을 수 없어 크게 소리 쳤다.
+
+[51]
+#I detest people who deceive and tell lies.
+#나는 그런 사기와 거짓말 하는 사람을 미워한다.
+
+[52]
+#I gave myself a good sloosh with cold water.
+#나는 시원하게 냉수 목욕을 했다.
+
+[53]
+#I'm sorry to say that we have failed.
+#우리들은 이미 실패했다고 나는 비통하게 선언했다.
+
+[54]
+#I had a headache so I went to bed.
+#나는 머리가 아파서 침대에서 잠을 잤다.
+
+[55]
+#I am indisposed with a headache.
+#나는 머리가 아파서 불편함을 느꼈다.
+
+[56]
+#He jumped at my unexpected entry.
+#내가 갑자기 뛰어들어가 그는 아주 놀랬다.
+
+[57]
+#It suddenly hit me that the shops would be closed.
+#나는 그 상점들이 문을 닫았을 거라고 갑자기 생각했다.
+
+[58]
+#The idea of switching off all the lights popped up in my mind.
+#나는 모든 등을 꺼야 한다는 것을 갑자기 생각했다.
+
+[59]
+#Suddenly the words of the song came to me.
+#나는 그 노래의 가사를 갑자기 떠올랐다.
+
+[60]
+#I frightened the bird away by moving suddenly.
+#나는 갑자기 한번 움직여 새를 놀라 달아나게 했다.
+
+[61]
+#I do not conjecture an immediate drop in demand.
+#나는 요구를 곧 낮출 수 없다고 예측했다.
+
+[62]
+#I declare off;you're not playing the game.
+#나는 물러났다. 너희들은 경기규칙을 준수하지 않았다.
+
+[63]
+#Don't trouble to write when I'm gone.
+#내가 밖에 나갈 때 너는 나에게 편지쓰는 것을 번거로워 할 필요없다.
+
+[64]
+#Her words convey no meaning to me.
+#나는 그녀의 말이 나타내는 뜻을 완전히 이해할 수 없다.
+
+[65]
+#I am diametrically opposed to his ideas.
+#나는 그의 생각에 완전히 동의하지 않는다.
+
+[66]
+#I had no conception that it was such a complex matter.
+#나는 그 일이 얼마나 복잡한지 전혀 모른다.
+
+[67]
+#I have no idea how to get there.
+#나는 어떻게 그곳에 가야 할지 전혀 모른다.
+
+[68]
+#I was in complete ignorance of his intentions.
+#나는 그의 의도를 전혀 모른다.
+
+[69]
+#I have no conception what it is like.
+#나는 그것이 어떤 모습인지 전혀 모른다.
+
+[70]
+#I fully assent to your critical remarks on my article.
+#나는 나의 문장에 대한 너의 평가에 전혀 동의한다.
+
+[71]
+#I did it solely for his sake.
+#나는 완전히 그를 위해 비로소 그 일을 했다.
+
+[72]
+#I went to bed at 11:30 p.m.
+#나는 저녁 11시 반에 잠을 잤다.
+
+[73]
+#You are the last person I expected to see here.
+#내가 여기서 너를 만날지는 전혀 생각치 못했다.
+
+[74]
+#I've forgotten what he said his address was.
+#나는 그가 그의 주소를 말한 것을 잊었다.
+
+[75]
+#I forget who it was who said it.
+#나는 이 말을 누가 한 말인지 까먹었다.
+
+[76]
+#It slipped my mind that I was visiting him today.
+#나는 오늘 방문해야 하는 일을 잊었다.
+
+[77]
+#I had forgotten that you don't like coffee.
+#나는 네가 커피를 싫어하는 것을 잊었다.
+
+[78]
+#I forgot whether he would come on Monday or Tuesday.
+#나는 그가 월요일이나 화요일에 온다는 것을 잊었다.
+
+[79]
+#I threatened him with public exposure.
+#나는 대중적인 폭로로 그를 위협하였다.
+
+[80]
+#I threatened to expose him to the police.
+#나는 경찰에게 그를 고발한다고 위협했다.
+
+[81]
+#I am such a tiny thing that I am of little use to you.
+#나는 보잘것없어, 힘쓸 수 없다.
+
+[82]
+#I was angry with him for being late.
+#나는 그의 지각으로 화가 났다.
+
+[83]
+#I've done it for his benefit.
+#나는 그가 좋아서 이 일을 했다.
+
+[84]
+#I left the position with the desire of improving my position.
+#나는 더 좋은 직장을 찾기 위해 직장을 떠났다.
+
+[85]
+#I am apprehensive for my sister's safety.
+#나는 여동생의 안전이 걱정된다.
+
+[86]
+#I've got the jitters about that examination.
+#나는 그 시험으로 긴장하고 불안했다.
+
+[87]
+#I'm glad you've completed the work.
+#나는 네가 이 일을 완성해서 기쁘다.
+
+[88]
+#I wasted a lot of time for him.
+#나는 그를 위해 많은 시간을 썼다.
+
+[89]
+#I felt her death keenly.
+#나는 그녀의 사망으로 매우 비통했다.
+
+[90]
+#I was annoyed at her rejection of my offer.
+#나는 그녀가 나의 제의에 거절해서 불쾌했다.
+
+[91]
+#I paid ten dollars for this cap.
+#나는 이 모자에 10달러를 지불했다.
+
+[92]
+#I was very excited by the news.
+#나는 이 소식으로 매우 흥분했다.
+
+[93]
+#I felt bad about not being able to come last night.
+#나는 어제 저녁 올 수 없어서 미안했다.
+
+[94]
+#I have never sailed across the English Channel.
+#나는 잉글랜드 해협을 아직 건너간 적이 없다.
+
+[95]
+#I smell something burning.
+#나는 어떤 것에서 탄내가 나는지 맡았다.
+
+[96]
+#I could smell that the milk wasn't fresh.
+#나는 우유는 신선하지 않음을 맡을 수 있었다.
+
+[97]
+#I asked him whether he knew your address.
+#나는 그가 너의 주소를 아는지 모르는지 물어본 적이 있다.
+
+[98]
+#I asked you a question and you didn't answer.
+#나는 너에게 한 문제를 물었지만 넌 대답하지 않았다.
+
+[99]
+#I asked if he'd come and see me immediately.
+#나는 그에게 곧 나를 보러 올 수 있는지 물었다.
+
+[100]
+#I asked him if I should shut the window.
+#나는 창문을 닫아야 할지 말지 그에게 물었다.
+
+[101]
+#I asked him how the matter was going on.
+#나는 이 일이 어떻게 진행되고 있는지 물었다.
+
+[102]
+#I asked her where to put it.
+#나는 그녀에게 그것을 어디에 두어야 하는지 물었다.
+
+[103]
+#I asked her about her job.
+#나는 그녀의 일과 유관한 상황을 그녀에게 물었다.
+
+[104]
+#I told him outright about it.
+#나는 보류하지 않고 이 일을 그에게 알렸다.
+
+[105]
+#I can't relate what he does to what he says.
+#나는 그의 언행을 연결시킬 수 없다.
+
+[106]
+#I can't make the cover of the tin fit on.
+#나는 이 깡통의 덮개를 덮을 방법이 없다.
+
+[107]
+#I can't vouch for the accuracy of my memory.
+#나는 나의 기억이 정확한지 아닌지 보장할 수 없다.
+
+[108]
+#I cannot tell whether it is true .
+#나는 그것이 진실인지 아닌지 판단할 수 없다.
+
+[109]
+#I can't afford three weeks away from work.
+#나는 3주 동안 일을 포기할 방법이 없다.
+
+[110]
+#I can't give you a hundred-percent answer.
+#나는 너에게 한 정확한 답안을 줄 수 없다.
+
+[111]
+#I can't explain why it's so.
+#나는 그것이 왜 그런지 해석할 수 없다.
+
+[112]
+#I can't say with certainty what my plans are.
+#나는 나의 계획 내용을 분명히 말할 수 없다.
+
+[113]
+#I can't understand that man's psychology.
+#나는 그 사람의 심리를 이해할 수 없다.
+
+[114]
+#I can't go,because I catch a cold.
+#나는 감기에 걸렸기  때문에 갈 수 없다.
+
+[115]
+#I can't tell the two boys apart.
+#나는 이 두 아이들을 구분할 수 없다.
+
+[116]
+#I can't tolerate bad manners.
+나는 무례한 행동을 참을 수 없다.
+
+[117]
+#I can't get it through to him that he must rest.
+#나는 그에게 반드시 쉬어야 한다고 이해시킬 수 없다.
+
+[118]
+#I was unable to assure her that I loved her.
+#나는 내가 그녀를 사랑한다고 그녀에게 믿게 할 수 없었다.
+
+[119]
+#I couldn't persuade him that she was a liar.
+#나는 그녀가 거짓말장이라고 그에게 믿도록 설복시킬 수 없다.
+
+[120]
+#It is incredible to me that there should be an afterlife.
+#나는 내세의 이 일이 있다는 것을 믿을 수 없다.
+
+[121]
+#I cannot fancy a life without books.
+#나는 책이 없는 생활은 상상할 수 없다.
+
+[122]
+#I cannot fancy him doing such a thing.
+#나는 그가 그런 일을 했다고 상상할 수 없다.
+
+[123]
+#I cannot conceive how he made this mistake.
+#나는 그가 어떻게 이런 착오를 범했는지 상상할 수 없다.
+
+[124]
+#I can't imagine how the thief got in.
+#나는 도둑이 어떻게 들어왔는지 상상할 수 없다.
+
+[125]
+#I can't see her lending me any money.
+#나는 그녀가 나에게 돈을 빌려줄지 상상할 수 없다.
+
+[126]
+#No words can convey my feelings.=I cannot convey my feelings in words.
+#나는 언어로 나의 감정을 표현할 수 없다.
+
+[127]
+#I could not bring myself to believe it.
+#나는 자신이 이 일을 믿을 수 없다.
+
+[128]
+#I cannot put up with such treatment any longer.
+#나는 더 이상 이러한 대우를 참을 수 없다.
+
+[129]
+#I can go for no such proposal as this.
+#나는 이러한 건의를 지지할 수 없다.
+
+[130]
+#I must finish this work anyhow ..
+#나는 어쨌든 반드시 이 일을 완성해야 한다.
+
+[131]
+#I wouldn't hurt her for the world.
+#나는 어쨌든 그녀를 다치게 할 수 없다.
+
+[132]
+#I cannot possibly do it.
+#나는 어쨌든 그 일을 할 수 없다.
+
+[133]
+#I had no notion of risking my money.
+#나는 무심결에 돈을 들고 모험했다.
+
+[134]
+#I came across some old letters.
+#나는 뜻밖에 몇 장의 오래된 편지를 찾았다.
+
+[135]
+#I had the mistaken idea that it would be quicker to take the train.
+#나는 기차를 타고 더 빨리 가려고 착각했던 것이 착오다.
+
+[136]
+#I hope you aren't feeling any worse.
+#나는 네가 불편함을 느끼지 않았으면 희망한다.
+
+[137]
+#I hope you will grant my wish.
+#나는 네가 나의 요구에 대답하길 희망한다.
+
+[138]
+#I hope you will partake of our joy.
+#나는 네가 우리들의 기쁨을 향유하길 희망한다.
+
+[139]
+#I hope you will sleep better tonight than you did last night.
+#나는 네가 오늘 밤은 어젯밤보다 푹 자기를 희망한다.
+
+[140]
+#I want your advice on this work.
+#나는 네가 이 일로 나에게 충고해 주길 희망한다.
+
+[141]
+#I hope we will have the pleasure of your company at dinner.
+#나는 네가 우리들과 같이 저녁을 먹으러 가는데 즐겁게 바란다.
+
+[142]
+#I hope it won't inconvenience you.
+#나는 그것이 너에게 번거로움을 주지 않기를 희망한다.
+
+[143]
+#I want my trousers ironed out.
+#나는 나의 바지가 잘 다려지길 바란다.
+
+[144]
+#I'd like the money returned soon.
+#나는 이 돈을 빨리 갚기를 희망한다.
+
+[145]
+#I want the work done at once.
+#나는 이 일이 곧 완성되길 희망한다.
+
+[146]
+#I hope to chase him up and get some opinion from him.
+#나는 그를 찾아 그의 의견을 듣길 희망한다.
+
+[147]
+#I hope to check in for the next flight.
+#나는 다음 비행기를 타려고 등록하길 희망한다.
+
+[148]
+#I hope the two edges of that broken bone will knit smoothly.
+#나는 절단된 뼈의 두 개가 잘 접합되길 바란다.
+
+[149]
+#I hope I'll make the sale today.
+#나는 오늘 그것을 팔기를 희망한다.
+
+[150]
+#I hope that you will allow me to come and study with you.
+#나는 내가 귀교에 가서 공부하는데 동의하기를 희망한다.
+
+[151]
+#I 'd like you to color the place up a bit.
+#나는 네가 이 곳을 좀 신선하게 가꾸길 희망한다.
+
+[152]
+#I wish you'd stop nagging!
+#나는 네가 다시 시끄럽게 떠들지 않길 바란다.
+
+[153]
+#I wish you would not interfere with my plans.
+#나는 네가 나의 계획에 간섭하지 않길 바란다.
+
+[154]
+#I hope the new job works out for you.
+#나는 너의 새 직장이 너에게 유익하길 희망한다.
+
+[155]
+#I want you to lay aside these useless prejudices.
+#나는 네가 이러한 무익한 편견을 버리길 바란다.
+
+[156]
+#I hope you'll get over being angry.
+#나는 네가 자제하고 화 내지 않길 희망한다.
+
+[157]
+#I hope he will be adequate to the job.
+#나는 그가 이 일에 적당하기를 희망한다.
+
+[158]
+#I wish they'd get off my back.
+#나는 그들이 다시 나를 괴롭히지 않길 바란다.
+
+[159]
+#I expect he will be able to cater for your particular needs.
+#나는 그가 너의 특별한 요구에 만족하길 바란다.
+
+[160]
+#I hope I haven't spoken out of turn?
+#나는 내가 이렇게 말하는 것이 말 참견이 아니길 바란다.
+
+[161]
+#I hope we've not put you to any trouble.
+#나는 우리들이 너에게 어떤 번거로움을 안주기 바란다.
+
+[162]
+#I hope I can drive the tractor like you do.
+#나는 너처럼 트랙터를 운전하길 바란다.
+
+[163]
+#I hope the weather clears up before Sunday.
+#나는 일요일 전날 날씨가 개길 희망한다.
+
+[164]
+#I want a bedroom to myself.
+#나는 침대가 있는 독방이 있었으면 한다.
+
+[165]
+#I hope this coffee sobers him up.
+#나는 이 커피가 그를 깨우길 바란다.
+
+[166]
+#I expect this situation to hang over till Saturday.
+#나는 이런 국면이 토요일까지 계속되길 바란다.
+
+[167]
+#Chemistry,not art,is my cupoftea.
+#내가 좋아하는 것은 화학이지 예술이 아니다.
+
+[168]
+#I like her soft lilied fingers.
+#나는 그녀의 백합같은 가는 손가락을 좋아한다.
+
+[169]
+#I love the morning dimness before the sun rises.
+#나는 태양이 뜨기 전의 몽롱한 아침 햇살을 좋아한다.
+
+[170]
+#The girl I like won't go with me to the movies.
+#내가 좋아하는 여자애는 나와 영화 보러 가려 하지 않는다.
+
+[171]
+#I prefer dogs to cats.
+#나는 개를 좋아하고 고양이는 아주 좋아하지 않는다.
+
+[172]
+#I like my hamburgers cooked American-style.
+#나는 미국식 햄버거를 좋아한다.
+
+[173]
+#I like the shape of that table.
+#나는 그 책상의 모양을 좋아한다.
+
+[174]
+#I love you in that dress.
+#나는 네가 그 옷을 입고 있는 것을 좋아한다.
+
+[175]
+#I like the arrangement of furniture in your apartment.
+#나는 너의 아파트안 가구의 배치를 좋아한다.
+
+[176]
+#I prefer beer above all other drinks.
+#나는 다른 음료수보다 맥주를 더 좋아한다.
+
+[177]
+#I like his dry humour.
+#나는 그의 썰렁한 유머를 좋아한다.
+
+[178]
+#I like his brand of humor.
+#나는 그의 그런 독특한 유머를 좋아한다.
+
+[179]
+#I enjoy socializing after work.
+#나는 근무시간 이외의 여가시간에 사교활동에 참가하길 좋아한다.
+
+[180]
+#I like my coffee milky.
+#나는 커피에 우유 넣어 먹는 것을 좋아한다.
+
+[181]
+#I prefer the latter picture to the former.
+#나는 앞 그림보다 뒷 그림을 더 좋아한다.
+
+[182]
+#I like to curl up with a story book.
+#나는 웅크리고 누워 책 보는 것을 좋아한다.
+
+[183]
+#I'm always tired when I come home from work.
+#나는 퇴근 후 집에 갈때 언제나 피곤하다.
+
+[184]
+#I'll expand on this problem next time.
+#나는 다음에 더 자세히 이 문제를 이야기 하겠다.
+
+[185]
+#I shall be twenty years old next month.
+#나는 다음달에 20세가 된다.
+
+[186]
+#When I went downstairs,they were eating breakfast.
+#나는 아랫층에 내려갈 때 그들은 아침을 먹고 있었다.
+
+[187]
+#I'll pay you a visit next week.
+#나는 다음주에 방문하려 한다.
+
+[188]
+#My schedule for next week is very tight.
+#나는 다음주에 하려고 예정된 일이 매우 긴박하다.
+
+[189]
+#Terror rooted me to the spot.
+#나는 놀라 멍하니 움직이지 않았다.
+
+[190]
+#I'll have fish,with fruit to follow.
+#나는 먼저 고기를 다음에 다시 과일을 원한다.
+
+[191]
+#I'm worried about the appearance of the floor.I need to wax it.
+#나는 바닥이 보기 흉한 것이 싫어서 왁스를 먹이려 한다.
+
+[192]
+#I must change down now.
+#나는 지금 차 속도를 늦추어야 한다.
+
+[193]
+#I must now determine whether to meet him or not.
+#나는 지금 그를 봐야 할지 결정을 해야 한다.
+
+[194]
+#I can't sing now,but I could when I was young.
+#나는 지금 노래를 부를 수 없다. 그러나 젊었을 때 불렀다.
+
+[195]
+#I can't come out now; we have guests.
+#나는 지금 나올 수 없다. 우리들은 손님이 있다.
+
+[196]
+#I don't feel up to talking with anybody else now.
+#나는 현재 다른 사람과 말을 하고 싶지 않다.
+
+[197]
+#I have become very fond of that boy.
+#나는 현재 그 아이를 매우 좋아한다.
+
+[198]
+#I shall now enter inmediasres.
+#나는 현재 본론으로 들어가 서술한다.
+
+[199]
+#Can I go home now,Miss?
+#나는 지금 집에 돌아가도 됩니까? 아가씨?
+
+[200]
+#I've no time to talk to you just now.
+#나는 지금 너와 말할 시간이 없다.
+
+[201]
+#I am studying in Grade Three at Nankai Junior Middle School.
+#나는 지금 남개중학교 초등3급반에서 배우고 있다.
+
+[202]
+#I am now well and fit for work.
+#나는 지금 몸이 건강해서 일에 적당하다.
+
+[203]
+#I am now living in a very pleasant flat.
+#나는 현재 한 편안한 아파트에 살고 있다.
+
+[204]
+#I envy those students who always get good marks.
+#나는 단지 점수가 좋은 그 학생들이 부러울뿐이다.
+
+[205]
+#I restrict myself to smoking two cigarettes a day.
+#나는 스스로 매일 단지 담배 2개피만 피기로 한정했다.
+
+[206]
+#I'm sure the new agency will be a great success.
+#나는 새 회사가 반드기 성황할거라고 믿는다.
+
+[207]
+#I rely on getting my money back in due time.
+#나는 때가 되면 내 돈을 받을 수 있을거라고 믿는다.
+
+[208]
+#I believe the converse of what you are saying.
+#내가 믿는 것은 너와 말한 것이 바로 반대이다.
+
+[209]
+#I know I can count on you.
+#나는 너희들이 반드시 돌아올 것이라고 믿는다.
+
+[210]
+#I am sure you would get along very well with him.
+#나는 네가 반드시 그와 서로 잘 맞을 거라고 믿는다.
+
+[211]
+#I'm confident you've made the right choice.
+#나는 네가 이미 정확한 선택을 했다고 믿는다.
+
+[212]
+#I believe every word he says.
+#나는 그가 말한 말들을 믿는다.
+
+[213]
+#I am sure he will bear me out in what I have said.
+#나는 그가 반드시 내가 말한 것이 옳다고 증명해 줄 것을 믿는다.
+
+[214]
+#I'm sure she'll have finished by now.
+#나는 그녀가 지금 대략 이미 일을 다 했다고 믿는다.
+
+[215]
+#I know we'll get lots of use out of it,especially since it has growing room.
+#나는 우리들이 그것을 잘 이용할 수 있다고 믿는다.
+
+[216]
+#I believe I will be reincarnated as a snake.
+#나는 내가 죽은뒤 뱀으로 환생된다고 믿는다.
+
+[217]
+#I believe in the existence of discarnate spirits.
+#나는 무형의 유령의 존재를 믿는다.
+
+[218]
+#I want to write down what you just said.
+#나는 네가 방금 말한 것을 쓰고 싶다.
+
+[219]
+#I want to convert some dollars into pounds.
+#나는 약간의 달러를 파운드로 바꾸고 싶다.
+
+[220]
+#I want to get this package off at once.
+#나는 이 소포를 곧 우편으로 부치고 싶다.
+
+[221]
+#I can't imagine how you dare tell me such things.
+#나는 네가 결국 나에게 이런 일을 알릴지 생각치 못했다.
+
+[222]
+#I can't quite place that man.
+#나는 그 사람이 누군지 결국 생각치 못했다.
+
+[223]
+#I cannot recall what was said then.
+#나는 그때 무엇을 말했는지 생각나지 않는다.
+
+[224]
+#I cannot remember where I met him.
+#나는 어디에서 그를 본적이 있는지 생각나지 않았다.
+
+[225]
+#My endeavors to bring about a settlement were ended in vain.
+#화해하려는 나의 노력은 허사로 되돌아갔다.
+
+[226]
+#I'd like to ask about the matter of commission.
+#나는 수수료 문제를 묻고 싶었다.
+
+[227]
+#I shudder to think what might happen.
+#나는 발생 할 수 있는 일을 생각하자 몸이 떨렸다.
+
+[228]
+#It came across my mind that he might be waiting for me there.
+#나는 그가 그곳에서 날 기다릴거라고 생각했다.
+
+[229]
+#I imagine I'll do some work instead of going to the movies.
+#나는 일을 하고 싶다. 영화는 보고 싶지 않다. 
+
+[230]
+#I'd like to discuss the matter of discount with you.
+#나는 너희들과 절감 문제를 상의하고 싶다.
+
+[231]
+#Let me talk with you about a problem I have.
+#나는 너와 내가 부딪혔던 문제를 상의하고 싶다.
+
+[232]
+#I'd like to talk with you about five tons short weight of sugar.
+#나는 너와 5톤의 설탕 중량에 대한 문제를 이야기 하고 싶다.
+
+[233]
+#I want to keep up my subscription to that magazine.
+#나는 그 잡지를 계속 구독하고 싶다.
+
+[234]
+#I'd like to exchange this shirt for one a size larger.
+#나는 이 와이셔츠를 큰것으로 바꾸고 싶다.
+
+[235]
+#I want to get married and settle down.
+#나는 결혼으로 안정된 생활을 하고 싶다.
+
+[236]
+#It will be fine today,I hope.
+#나는 오늘 좋은 날씨가 될 것 같다.
+
+[237]
+#I think the cops are onto us.
+#나는 경찰이 이미 우리의 음모를 눈치챈 것 같다.
+
+[238]
+#The girl,I think,will write you letters.
+#나는 그 아가씨가 너에게 편지를 쓸거라고 생각한다.
+
+[239]
+#I think you should go out for some fresh air.
+#나는 네가 신선한 공기를 마시러 방밖으로 나가야 된다고 생각한다.
+
+[240]
+#I presume you will fall in with his views.
+#나는 네가 그의 생각에 동의할거라고 생각한다.
+
+[241]
+#I assume you've decided against buying a new car.
+#나는 네가 이미 새 차를 사지 않기로 결정했다고 생각한다.
+
+[242]
+#I think you might find them nice.
+#나는 네가 그것은 매우 듣기 좋다고 여길 거라고 생각한다.
+
+[243]
+#It occurred to me that I had left my keys behind.
+#나는 내가 열쇠를 잊었다는 것이 생각났다.
+
+[244]
+#I thought of those days when I was in the countryside.
+#나는 내가 농촌에서의 그러한 생활을 기억했다.
+
+[245]
+#I'd like you to meet my folks.
+#나는 너에게 나의 가족을 보러 오라고 청하고 싶다.
+
+[246]
+#I'd like you to read this over for me.
+#나는 나 대신 이 문장을 한번 읽어 달라고 너에게 청하고 싶다.
+
+[247]
+#I want to claim a 5rebate on my tax.
+#나는 5%의 세금삭감을 신청하고 싶다.
+
+[248]
+#I think he will agree,but I am not sure.
+#나는 그가 동의할거라고 생각하지만, 확실하지는 않다.
+
+[249]
+#I thought he'd do that; and sure enough,he did.
+#나는 그가 그 일을 할 수 있다고 생각했다. 과연 그는 했다.
+
+[250]
+#more than anyone I think she deserves the prize.
+#나는 그녀가 어떤 사람보다 더 이 상을 받아야 한다고 생각한다.
+
+[251]
+#I don't know that I will attend the party.
+#나는 내가 이 집회에 참석할 수 없다고 생각한다.
+
+[252]
+#I think we shall have to alter our plan.
+#나는 우리들이 반드시 우리들의 계획을 수정해야 한다고 생각한다.
+
+[253]
+#I suppose I had better be going,hadn't I?
+#나는 내가 걷는 것이 좋다고 생각한다. 그렇지?
+
+[254]
+#I've cracked my voice trying to speak too loud.
+#나는 큰소리로 말을 하고 싶었지만 목소리가 쉬었다.
+
+[255]
+#I'd like to see you do it.
+#나는 네가 이 일을 하는 것을 보고 싶다.
+
+[256]
+#I desire to stay here until my death.
+#나는 이곳에서 내가 죽을때까지 머물고 싶다.
+
+[257]
+#I essayed to speak,but he cut me off with a gesture.
+#나는 말하고 싶었다. 그러나 그는 손짓으로 나를 저지했다.
+
+[258]
+#I want to dissociate myself from my companions.
+#나는 나의 동료와 관계를 끊고 싶었다.
+
+[259]
+#I am desirous to know further details.
+#나는 더 많은 세부부분을 알고 싶다.
+
+[260]
+#I don't think a glass of beer will sew you up.
+#나는 맥주 한잔이 너를 취해서 쓰러지게 할리 없다고 생각한다.
+
+[261]
+#I'd like to make an appointment to see Mr.Cooper.
+#나는 쿠퍼선생님을 보러 갈 시간을 정했으면 좋겠다.
+
+[262]
+#I'd like a second helping; I'm still hungry!
+#나는 다시 한번 먹고 싶다. 나는 아직도 배부르지 않다.
+
+[263]
+#I want to cover 100 miles before it gets dark.
+#나는 날이 어두워지기 전에 100마일을 가려 한다.
+
+[264]
+#I think this kind of thing comes under the jurisdiction of the Foreign Office.
+#나는 이 일은 반드시 외교부에서 관리해야 한다고 생각한다.
+
+[265]
+#I wonder what happened.
+#나는 무슨 일이 발생했는지 알고 싶다.
+
+[266]
+#I should be interested to hear how the play ended.
+#나는 이 연극의 결과가 어떠한지 알고 싶다.
+
+[267]
+#I wonder what really happened.
+#나는 도대체 무슨 일이 발생 했는지 알고 싶다.
+
+[268]
+#I wonder why he refused.
+#나는 왜 그가 거절 했는지 알고 싶다.
+
+[269]
+#I tried to catch the bird,but it got away.
+#나는 그 새를 잡고 싶지만, 새가 날아갔다.
+
+[270]
+#I'll chew it over for a few days and then let you have my answer.
+#나는 며칠동안 자세히 고려한 후 너에게 다시 회신을 보내려 한다.
+
+[271]
+#I enjoyed every minute of the concert.
+#나는 음악회의 매 분을 즐긴다.
+
+[272]
+#I lodged a complaint against him with the police.
+#나는 경찰에게 고소장을 올려 그를 고소했다.
+
+[273]
+#I complained to the police about my neighbor's dog.
+#나는 경찰에게 이웃집의 개를 고소했다.
+
+[274]
+#I contributeed a long story to a magazine.
+#나는 어떤 잡지사에 긴 장편의 이야기를 투고했다.
+
+[275]
+#I'll warrant you that he's not there!
+#나는 너에게 그가 그곳에 없다고 장담한다.
+
+[276]
+#You have my assurance that the job will be finished on time.
+#나는 너에게 이 일은 제때에 완성될 꺼라고 보장한다.
+
+[277]
+#I assure you I'll be back at three.
+#나는 너에게 내가 3시에 반드시 여기에 돌아올 것을 장담한다.
+
+[278]
+#I rent a room from Mrs Jones.
+#나는 존스부인에게 방을 세들었다.
+
+[279]
+#I hinted to him that I was dissatisfied with his work.
+#나는 그의 일에 만족하지 않는다고 그에게 암시했다.
+
+[280]
+#I inquireed about buses to the station.
+#나는 그에게 정거장 까지 가는 버스를 물었다.
+
+[281]
+#I inquired of him about the address of his brother.
+#나는 그에게 그의 형의 주소를 물었다.
+
+[282]
+#I asked them for the loan of the money.
+#나는 그들에게 그 돈을 빌려 달라고 요구했다.
+
+[283]
+#I placed an order with them for 500 pairs of shoes.
+#나는 그들에게 500개의 신발을 주문했다.
+
+[284]
+#I am responsible to her for the safety of her family.
+#나는 그녀에게 그녀 가족의 안전을 책임진다고 했다.
+
+[285]
+#I knew that he didn't want to lunch with me.
+#나는 그가 결코 나와 함께 식사하길 원치 않는다고 여겼다.
+
+[286]
+#I learned it at my mother's knee.
+#나는 어릴적에 어머니와 이 일을 배웠다.
+
+[287]
+#I reached out gingerly to touch the snake.
+#나는 조심스럽게 손을 뻗어 그 뱀을 만졌다.
+
+[288]
+#I wrote five applications for jobs but got nothing.
+#나는 5통의 구직서를 썼다. 그러나 아무 소득이 없었다.
+
+[289]
+#I've had no answer to my letter yet.
+#내가 보낸 편지에 아직 회신이 없다.
+
+[290]
+#My diaries cover twenty-five years.
+#나는 일기를 쓴지 25년이 된다.
+
+[291]
+#I took his advice kindly.
+#나는 의연하게 그의 충고를 받아들였다.
+
+[292]
+#I relished that simple family life.
+#나는 그 소박한 가정 생활을 감상했다.
+
+[293]
+#Hope shot up within me.
+#나의 마음은 잠시 희망이 있다고 여겼다.
+
+[294]
+#I woke up early and got up at 6 o'clock.
+#나는 일찍 일어났는데 6시에 일어났다.
+
+[295]
+#When I woke up,I found myself in hospital.
+#내가 깨어났을 때 내가 병원에 있다는 것을 알았다.
+
+[296]
+#I felt rested and refreshed.
+#나는 쉴때 정신이 상쾌함을 느꼈다.
+
+[297]
+#I need my coat mended.
+#나는 다른 사람에게 겉옷을 꿰매달라고 부탁해야 겠다.
+
+[298]
+#I declare William Jones elected.
+#나는 윌리암이 당선되었다고 선포했다.
+
+[299]
+#I elected Japanese history as a minor.
+#나는 일본사를 과목으로 배우려고 선택했다.
+
+[300]
+#There are two thousand students in my school.
+#우리 학교안에 2000명의 학생이 있다.
+
+[301]
+#I'm learning French as well as English.
+#나는 영어를 배우는 것 이외에 불어를 배운다.
+
+[302]
+#The sound of hammering led me to the hut.
+#나는 목소리 따라서 나무집으로 걸어갔다.
+
+[303]
+#I quickly withdrew my hand from the stove.
+#나는 빠르게 손을 난로에서 움추렸다.
+
+[304]
+#I crushed the empty beer can in my hand.
+#나는 손안의 빈맥주 깡통을 눌러 뭉갰다.
+
+[305]
+#I hate to squabble with my wife about money.
+#나는 돈 때문에 아내와 싸우는 일을 싫어한다.
+
+[306]
+#I asked her over to my cottage .
+#나는 그녀에게 나의 별장에 오라고 초대했다.
+
+[307]
+#I must give the windows a good clean.
+#나는 창문을 잘 닦으려 한다.
+
+[308]
+#I have to catch up on my work so I can't come out.
+#나는 일을 더 해야만 해서 나갈 수 없다.
+
+[309]
+#I'll set my watch back (by) five minutes.
+#나는 나의 시계를 5분 늦게 돌려 놓겠다.
+
+[310]
+#I'll assign you my property.
+#나는 나의 재산을 너에게 양보하겠다.
+
+[311]
+#I'll check this suitcase to Chicago.
+#나는 이 손가방을 시카고까지 운반하겠다.
+
+[312]
+#I want to get into good shape for the exam.
+#나는 시험을 준비하려고 좋은 몸은 유지해야겠다.
+
+[313]
+#I'll keep this for future use.
+#나는 이것을 나중에 이용하려고 보존하겠다.
+
+[314]
+#I will take the train which departs at eight.
+#나는 8시에 떠나는 기차를 타려 한다.
+
+[315]
+#I'll plump for noodles rather than buns.
+#나는 면을 먹지 빵을 먹지 않겠다.
+
+[316]
+#I will go round to his office and have a talk to him.
+#나는 그의 사무실로 가서 그와 이야기를 좀 하려 한다.
+
+[317]
+#I'll call in at the library to return a book.
+#나는 책을 반납하러 도서관에 가려 한다.
+
+[318]
+#I wish to express my appreciation for your kindness.
+#나는 너의 호의에 감사를 표하겠다.
+
+[319]
+#I want to leave this dead-end job.
+#나는 이 전도 없는 일을 포기하겠다,
+
+[320]
+#I'll nip out and buy a newspaper.
+#나는 빨리 신문을 한 부 팔러 나가겠다.
+
+[321]
+#I'll teach you to meddle in my affairs.
+#나는 너에게 내 일에 관여 말라고 경고를 주어야 겠다.
+
+[322]
+#I'll buy you all a round of drinks!
+#나는 너희들 각자에게 음료수를 사주겠다.
+
+[323]
+#I'll halve expenses with you.
+#나는 너와 함께 평균적으로 비용을 분담하겠다.
+
+[324]
+#I will follow you wherever you go.
+#나는 네가 가려는 어떤 곳이든지 너 따라 하겠다.
+
+[325]
+#I haven't finished with you yet.
+#나는 너와 하려던 말이 아직 다 안 끝났다.
+
+[326]
+#I'll carry on with my writing till the bell rings.
+#나는 종이 울릴때 까지 계속 써 내려 가겠다.
+
+[327]
+#I'll do all I possibly can.
+#나는 자신의 최선을 다해 하겠다.
+
+[328]
+#Whenever I buy something,I pay down.
+#내가 사려는 물건은 언제나 현금으로 지불한다.
+
+[329]
+#I like boys to be cheerful.
+#나는 유쾌한 남자아이가 필요하다.
+
+[330]
+#I want you to have nothing to do with that man.
+#나는 네가 그 남자와 왕래 하지 않았으면 좋겠다.
+
+[331]
+#I want a firm undertaking that you won't be late again.
+#나는 네가 다시 늦지 않겠다고 단호하게 보장했으면 한다.
+
+[332]
+#I'd like to direct your attention to this fact.
+#나는 너희들이 이 사실을 주의하길 원한다.
+
+[333]
+#I have a favor to ask of you.
+#나는 당신에게 도움을 청합니다. 
+
+[334]
+#I asked for the ball and he kicked it over.
+#나는 공이 필요하다. 그는 공을 발로 찼다.
+
+[335]
+#I asked the spectators to keep back from the sideline.
+#나는 사람들에게 경계선 가까이 걷지 말라고 요구했다.
+
+[336]
+#I'm going and you can't stop me.
+#나는 갈것이고, 당신은 나를 막을 수 없다.
+
+[337]
+#I'm going to London,and John's going as well.
+#나는 런던에 갈 것이다. 존도 갈 것이다.
+
+[338]
+#I'll just make sure that the car's locked.
+#나는 차가 잘 잠겨져 있는지 확인하려 가려 한다.
+
+[339]
+#I'm going to the post-office Are you coming with me?
+#나는 우체국에 갈건데 너는 나와 같이 갈 수 있니?
+
+[340]
+#I want draught beer,not bottled beer!
+#나는 생맥주를 원합니다. 병맥주는 원치 않습니다.
+
+[341]
+#If I should see her,I would tell her to wait.
+#나는 그녀를 보게 된다면 나는 그녀에게 더 기다리라고 할 것이다.
+
+[342]
+#I wish I hadn't told it to her.
+#나는 그녀에게 알리지 않았으면 한다.
+
+[343]
+#If I am free,I shall join you.
+#나는 일이 없다면 곧 참가하겠다.
+
+[344]
+#If I were you,I would have married.
+#내가 너라면 나는 일찍 결혼했을 것이다.
+
+[345]
+#I should go to bed if I were you.
+#내가 너라면 일찍 잠자러 갔을 것이다.
+
+[346]
+#If I had money,I would buy the dictionary.
+#나는 돈이 있다면 이 자전거를 샀을 것이다.
+[347]
+#I missed the lesson and John told on me.
+#내가 수업을 빠졌는데 존이 나를 고자질했다.
+
+[348]
+#I hate to see those who work dispiritedly.
+#나는 일할 때 의욕이 없는 사람을 보면 싫어한다. 
+
+[349]
+#I dislike any form of exercise.
+#나는 어떤 방식의 운동도 싫어한다.
+
+[350]
+#I am averse from any sort of fuss.
+#나는 어떤 가치없는 혼란을 싫어한다.
+
+[351]
+#I sicken at his dilly-dallying.
+#나는 그가 빈둥빈둥 시간을 낭비하는 것을 싫어한다.
+
+[352]
+#I hate the way he hogs down his food.
+#나는 그의 게걸스럽게 먹는 모습이 싫다.
+
+[353]
+#I am offfish.
+#나는 어류가 싫어서 안 먹는다.
+
+[354]
+#I dislike these constant arguments.
+#나는 이런 끊임없는 언쟁을 싫어한다.
+
+[355]
+#I hereby declare her elected.
+#나는 이상 선포합니다. 그녀가 당선되었습니다.
+
+[356]
+#I made a cake specially for you.
+#나는 특별히 너를 위해 케익을 만들었다.
+
+[357]
+#My offer of help still stands.
+#내가 도움을 주자는 건의는 여전히 유효하다.
+
+[358]
+#I told you David would want a drink.
+#데이빗이 한잔 하고 싶어한다고 내가 너에게 말한 적이 있다.
+
+[359]
+#I propose that we drink to his health.
+#나는 그의 건강을 위해 건배하자고 건의했다.
+
+[360]
+#I move that we support the introduction of this law.
+#우리들이 이 법률을 채용하는 것을 지지한다고 나는 건의 했다.
+
+[361]
+#I heard something scraping along outside the window.
+#나는 창문 밖에서 어떤 것이 스쳐가는 것을 들었다.
+
+[362]
+#I heard the children's voices at the back of the house.
+#나는 집뒤에서 아이들의 소리가 전해오는 것을 들었다.
+
+[363]
+#I heard the scurry of feet in the hall.
+#나는 거실에서 급히 걸어가는 걸음 소리를 들었다.
+
+[364]
+#I've heard rumblings that she is going to be married.
+#나는 그녀가 곧 결혼한다는 소문을 들었다.
+
+[365]
+#I was relieved to hear it.
+#나는 이 일을 듣고 안심했다.
+
+[366]
+#I heard a clump on the stairs.
+#나는 계단에서 무거운 발자국 소리를 들었다.
+
+[367]
+#I am sorry to hear it.
+#나는 그 일을 듣고 힘들었다.
+
+[368]
+#It distresses me to hear that news.
+#나는 그 소식을 듣고 슬펐다.
+
+[369]
+#My mind reeled at the news.
+#나는 그 소식을 듣고 현기증을 느꼈다.
+
+[370]
+#I've heard of him,but I haven't met him.
+#나는 그에 대해 들었으나 아직 그를 본적이 없다.
+
+[371]
+#I am very surprised to hear of his failure.
+#나는 그가 실패했다는 것을 듣고 놀랐다.
+
+[372]
+#I could hear him pounding on the drum.
+#나는 그가 둥둥 북을 치는 것을 들었다.
+
+[373]
+#I heard the scurry of feet outside.
+#나는 밖에서 허둥지둥 걷는 발자국 소리를 들었다.
+
+[374]
+#I heard birds calling in the wood.
+#나는 작은 새가 나무에서 지저귀는 것을 들었다.
+
+[375]
+#I heard a girl calling.
+#나는 한 소녀가 크게 소리치는 것을 들었다.
+
+[376]
+#I hear favourable accounts of your work.
+#나는 너의 일에 대한 약간의 호평을 들었다.
+
+[377]
+#I've heard whispers about her divorce.
+#나는 그의 이혼과 유관한 사의를 들었다.
+
+[378]
+#I heard someone tap at the door.
+#나는 어떤 사람이 문을 두드리는 소리를 들었다.
+
+[379]
+#I heard somebody calling out to me from downstairs.
+#나는 어떤 사람이 아랫층에서 나를 부르는 소리를 들었다.
+
+[380]
+#I heard someone banging on the door with his hand.
+#나는 어떤 사람이 손으로 문을 세게 두드리는 것을 들었다.
+
+[381]
+#I was amazed at the news.
+#나는 이 소식을 듣고 아주 놀랐다.
+
+[382]
+#I heard some owls screeching in the trees.
+#나는 부엉이가 숲에서 가늘게 울고 있는 것을 들었다.
+
+[383]
+#I quivered with fear at the sound.
+#나는 그 소리를 듣고 놀라 몸을 떨었다.
+
+[384]
+#I jumped up when she called.
+#나는 그녀가 소리치고 몸을 뛰는 것을 보았다.
+
+[385]
+#I head that you and Gayle become engaged last night.
+#나는 너가 Gayle와 어제 정혼했다는 것을 들었다.
+
+[386]
+#I hear that his brother has left home.
+#나는 그의 형제가 이미 집을 떠난다고 들었다.
+
+[387]
+#I can usually recognize him by his walk.
+#나는 통상적으로 그의 걷는 모습에서 그를 알아 보았다.
+
+[388]
+#I used to wake up early and get up at 7 o'clock.
+#나는 자주 일찍 일어나는데 7시에 일어난다.
+
+[389]
+#I usually go to bed at about midnight.
+#나는 자주 한밤중에 잠을 잔다.
+
+[390]
+#The chances that I will pass the exam are remote .
+#나의 시험에 통과하는 희망은 아득하다.
+
+[391]
+#I watched the racing through my binoculars.
+#나는 쌍원경을 통해 이 경기를 보았다.
+
+[392]
+#I notified him to bring me the document.
+#나는 그에게 이 문서를 나에게 갖다 달라고 통지했다.
+
+[393]
+#I feel the same way about Alan!.
+#나는 Alan은 내가 만든 것을 같이 느꼈다.
+
+[394]
+#I agree to the terms concerning the packing and shipping marks.
+#나는 포장과 배달에 관한 조항에 동의했다.
+
+[395]
+#I agree with you in recommending the said course of action.
+#나는 너가 상술 방법을 추천하는 것에 동의 한다.
+
+[396]
+#I could not help crying with pain.
+#나는 아픔을 참을 수 없어 크게 소리 쳤다.
+
+[397]
+#I detest people who deceive and tell lies.
+#나는 그런 사기와 거짓말 하는 사람을 미워한다.
+
+[398]
+#I gave myself a good sloosh with cold water.
+#나는 시원하게 냉수 목욕을 했다.
+
+[399]
+#I'm sorry to say that we have failed.
+#우리들은 이미 실패했다고 나는 비통하게 선언했다.
+
+[400]
+#I had a headache so I went to bed.
+#나는 머리가 아파서 침대에서 잠을 잤다.
+
+[401]
+#I am indisposed with a headache.
+#나는 머리가 아파서 불편함을 느꼈다.
+
+[402]
+#He jumped at my unexpected entry.
+#내가 갑자기 뛰어들어가 그는 아주 놀랬다.
+
+[403]
+#It suddenly hit me that the shops would be closed.
+#나는 그 상점들이 문을 닫았을 거라고 갑자기 생각했다.
+
+[404]
+#The idea of switching off all the lights popped up in my mind.
+#나는 모든 등을 꺼야 한다는 것을 갑자기 생각했다.
+
+[405]
+#Suddenly the words of the song came to me.
+#나는 그 노래의 가사를 갑자기 떠올랐다.
+
+[406]
+#I frightened the bird away by moving suddenly.
+#나는 갑자기 한번 움직여 새를 놀라 달아나게 했다.
+
+[407]
+#I do not conjecture an immediate drop in demand.
+#나는 요구를 곧 낮출 수 없다고 예측했다.
+
+[408]
+#I declare off;you're not playing the game.
+#나는 물러났다. 너희들은 경기규칙을 준수하지 않았다.
+
+[409]
+#Don't trouble to write when I'm gone.
+#내가 밖에 나갈 때 너는 나에게 편지쓰는 것을 번거로워 할 필요없다.
+
+[410]
+#Her words convey no meaning to me.
+#나는 그녀의 말이 나타내는 뜻을 완전히 이해할 수 없다.
+
+[411]
+#I am diametrically opposed to his ideas.
+#나는 그의 생각에 완전히 동의하지 않는다.
+
+[412]
+#I had no conception that it was such a complex matter.
+#나는 그 일이 얼마나 복잡한지 전혀 모른다.
+
+[413]
+#I have no idea how to get there.
+#나는 어떻게 그곳에 가야 할지 전혀 모른다.
+
+[414]
+#I was in complete ignorance of his intentions.
+#나는 그의 의도를 전혀 모른다.
+
+[415]
+#I have no conception what it is like.
+#나는 그것이 어떤 모습인지 전혀 모른다.
+
+[416]
+#I fully assent to your critical remarks on my article.
+#나는 나의 문장에 대한 너의 평가에 전혀 동의한다.
+
+[417]
+#I did it solely for his sake.
+#나는 완전히 그를 위해 비로소 그 일을 했다.
+
+[418]
+#I went to bed at 11:30 p.m.
+#나는 저녁 11시 반에 잠을 잤다.
+
+[419]
+#You are the last person I expected to see here.
+#내가 여기서 너를 만날지는 전혀 생각치 못했다.
+
+[420]
+#I've forgotten what he said his address was.
+#나는 그가 그의 주소를 말한 것을 잊었다.
+
+[421]
+#I forget who it was who said it.
+#나는 이 말을 누가 한 말인지 까먹었다.
+
+[422]
+#It slipped my mind that I was visiting him today.
+#나는 오늘 방문해야 하는 일을 잊었다.
+
+[423]
+#I had forgotten that you don't like coffee.
+#나는 네가 커피를 싫어하는 것을 잊었다.
+
+[424]
+#I forgot whether he would come on Monday or Tuesday.
+#나는 그가 월요일이나 화요일에 온다는 것을 잊었다.
+
+[425]
+#I threatened him with public exposure.
+#나는 대중적인 폭로로 그를 위협하였다.
+
+[426]
+#I threatened to expose him to the police.
+#나는 경찰에게 그를 고발한다고 위협했다.
+
+[427]
+#I am such a tiny thing that I am of little use to you.
+#나는 보잘것없어, 힘쓸 수 없다.
+
+[428]
+#I was angry with him for being late.
+#나는 그의 지각으로 화가 났다.
+
+[429]
+#I've done it for his benefit.
+#나는 그가 좋아서 이 일을 했다.
+
+[430]
+#I left the position with the desire of improving my position.
+#나는 더 좋은 직장을 찾기 위해 직장을 떠났다.
+
+[431]
+#I am apprehensive for my sister's safety.
+#나는 여동생의 안전이 걱정된다.
+
+[432]
+#I've got the jitters about that examination.
+#나는 그 시험으로 긴장하고 불안했다.
+
+[433]
+#I'm glad you've completed the work.
+#나는 네가 이 일을 완성해서 기쁘다.
+
+[434]
+#I wasted a lot of time for him.
+#나는 그를 위해 많은 시간을 썼다.
+
+[435]
+#I felt her death keenly.
+#나는 그녀의 사망으로 매우 비통했다.
+
+[436]
+#I was annoyed at her rejection of my offer.
+#나는 그녀가 나의 제의에 거절해서 불쾌했다.
+
+[437]
+#I paid ten dollars for this cap.
+#나는 이 모자에 10달러를 지불했다.
+
+[438]
+#I was very excited by the news.
+#나는 이 소식으로 매우 흥분했다.
+
+[439]
+#I felt bad about not being able to come last night.
+#나는 어제 저녁 올 수 없어서 미안했다.
+
+[440]
+#I have never sailed across the English Channel.
+#나는 잉글랜드 해협을 아직 건너간 적이 없다.
+
+[441]
+#I smell something burning.
+#나는 어떤 것에서 탄내가 나는지 맡았다.
+
+[442]
+#I could smell that the milk wasn't fresh.
+#나는 우유는 신선하지 않음을 맡을 수 있었다.
+
+[443]
+#I asked him whether he knew your address.
+#나는 그가 너의 주소를 아는지 모르는지 물어본 적이 있다.
+
+[444]
+#I asked you a question and you didn't answer.
+#나는 너에게 한 문제를 물었지만 넌 대답하지 않았다.
+
+[445]
+#I asked if he'd come and see me immediately.
+#나는 그에게 곧 나를 보러 올 수 있는지 물었다.
+
+[446]
+#I asked him if I should shut the window.
+#나는 창문을 닫아야 할지 말지 그에게 물었다.
+
+[447]
+#I asked him how the matter was going on.
+#나는 이 일이 어떻게 진행되고 있는지 물었다.
+
+[448]
+#I asked her where to put it.
+#나는 그녀에게 그것을 어디에 두어야 하는지 물었다.
+
+[449]
+#I asked her about her job.
+#나는 그녀의 일과 유관한 상황을 그녀에게 물었다.
+
+[450]
+#I told him outright about it.
+#나는 보류하지 않고 이 일을 그에게 알렸다.
+
+[451]
+#I can't relate what he does to what he says.
+#나는 그의 언행을 연결시킬 수 없다.
+
+[452]
+#I can't make the cover of the tin fit on.
+#나는 이 깡통의 덮개를 덮을 방법이 없다.
+
+[453]
+#I can't vouch for the accuracy of my memory.
+#나는 나의 기억이 정확한지 아닌지 보장할 수 없다.
+
+[454]
+#I cannot tell whether it is true .
+#나는 그것이 진실인지 아닌지 판단할 수 없다.
+
+[455]
+#I can't afford three weeks away from work.
+#나는 3주 동안 일을 포기할 방법이 없다.
+
+[456]
+#I can't give you a hundred-percent answer.
+#나는 너에게 한 정확한 답안을 줄 수 없다.
+
+[457]
+#I can't explain why it's so.
+#나는 그것이 왜 그런지 해석할 수 없다.
+
+[458]
+#I can't say with certainty what my plans are.
+#나는 나의 계획 내용을 분명히 말할 수 없다.
+
+[459]
+#I can't understand that man's psychology.
+#나는 그 사람의 심리를 이해할 수 없다.
+
+[460]
+#I can't go,because I catch a cold.
+#나는 감기에 걸렸기  때문에 갈 수 없다.
+
+[461]
+#I can't tell the two boys apart.
+#나는 이 두 아이들을 구분할 수 없다.
+
+[462]
+#I can't tolerate bad manners.
+나는 무례한 행동을 참을 수 없다.
+
+[463]
+#I can't get it through to him that he must rest.
+#나는 그에게 반드시 쉬어야 한다고 이해시킬 수 없다.
+
+[464]
+#I was unable to assure her that I loved her.
+#나는 내가 그녀를 사랑한다고 그녀에게 믿게 할 수 없었다.
+
+[465]
+#I couldn't persuade him that she was a liar.
+#나는 그녀가 거짓말장이라고 그에게 믿도록 설복시킬 수 없다.
+
+[466]
+#It is incredible to me that there should be an afterlife.
+#나는 내세의 이 일이 있다는 것을 믿을 수 없다.
+
+[467]
+#I cannot fancy a life without books.
+#나는 책이 없는 생활은 상상할 수 없다.
+
+[468]
+#I cannot fancy him doing such a thing.
+#나는 그가 그런 일을 했다고 상상할 수 없다.
+
+[469]
+#I cannot conceive how he made this mistake.
+#나는 그가 어떻게 이런 착오를 범했는지 상상할 수 없다.
+
+[470]
+#I can't imagine how the thief got in.
+#나는 도둑이 어떻게 들어왔는지 상상할 수 없다.
+
+[471]
+#I can't see her lending me any money.
+#나는 그녀가 나에게 돈을 빌려줄지 상상할 수 없다.
+
+[472]
+#No words can convey my feelings.=I cannot convey my feelings in words.
+#나는 언어로 나의 감정을 표현할 수 없다.
+
+[473]
+#I could not bring myself to believe it.
+#나는 자신이 이 일을 믿을 수 없다.
+
+[474]
+#I cannot put up with such treatment any longer.
+#나는 더 이상 이러한 대우를 참을 수 없다.
+
+[475]
+#I can go for no such proposal as this.
+#나는 이러한 건의를 지지할 수 없다.
+
+[476]
+#I must finish this work anyhow ..
+#나는 어쨌든 반드시 이 일을 완성해야 한다.
+
+[477]
+#I wouldn't hurt her for the world.
+#나는 어쨌든 그녀를 다치게 할 수 없다.
+
+[478]
+#I cannot possibly do it.
+#나는 어쨌든 그 일을 할 수 없다.
+
+[479]
+#I had no notion of risking my money.
+#나는 무심결에 돈을 들고 모험했다.
+
+[480]
+#I came across some old letters.
+#나는 뜻밖에 몇 장의 오래된 편지를 찾았다.
+
+[481]
+#I had the mistaken idea that it would be quicker to take the train.
+#나는 기차를 타고 더 빨리 가려고 착각했던 것이 착오다.
+
+[482]
+#I hope you aren't feeling any worse.
+#나는 네가 불편함을 느끼지 않았으면 희망한다.
+
+[483]
+#I hope you will grant my wish.
+#나는 네가 나의 요구에 대답하길 희망한다.
+
+[484]
+#I hope you will partake of our joy.
+#나는 네가 우리들의 기쁨을 향유하길 희망한다.
+
+[485]
+#I hope you will sleep better tonight than you did last night.
+#나는 네가 오늘 밤은 어젯밤보다 푹 자기를 희망한다.
+
+[486]
+#I want your advice on this work.
+#나는 네가 이 일로 나에게 충고해 주길 희망한다.
+
+[487]
+#I hope we will have the pleasure of your company at dinner.
+#나는 네가 우리들과 같이 저녁을 먹으러 가는데 즐겁게 바란다.
+
+[488]
+#I hope it won't inconvenience you.
+#나는 그것이 너에게 번거로움을 주지 않기를 희망한다.
+
+[489]
+#I want my trousers ironed out.
+#나는 나의 바지가 잘 다려지길 바란다.
+
+[490]
+#I'd like the money returned soon.
+#나는 이 돈을 빨리 갚기를 희망한다.
+
+[491]
+#I want the work done at once.
+#나는 이 일이 곧 완성되길 희망한다.
+
+[492]
+#I hope to chase him up and get some opinion from him.
+#나는 그를 찾아 그의 의견을 듣길 희망한다.
+
+[493]
+#I hope to check in for the next flight.
+#나는 다음 비행기를 타려고 수속하길 희망한다.
+
+[494]
+#I hope the two edges of that broken bone will knit smoothly.
+#나는 절단된 뼈의 두 개가 잘 접합되길 바란다.
+
+[495]
+#I hope I'll make the sale today.
+#나는 오늘 그것을 팔기를 희망한다.
+
+[496]
+#I hope that you will allow me to come and study with you.
+#나는 내가 귀교에 가서 공부하는데 동의하기를 희망한다.
+
+[497]
+#I 'd like you to color the place up a bit.
+#나는 네가 이 곳을 좀 신선하게 가꾸길 희망한다.
+
+[498]
+#I wish you'd stop nagging!
+#나는 네가 다시 시끄럽게 떠들지 않길 바란다.
+
+[499]
+#I wish you would not interfere with my plans.
+#나는 네가 나의 계획에 간섭하지 않길 바란다.
+
+[500]
+#I hope the new job works out for you.
+#나는 너의 새 직장이 너에게 유익하길 희망한다.
+
+[501]
+#I want you to lay aside these useless prejudices.
+#나는 네가 이러한 무익한 편견을 버리길 바란다.
+
+[502]
+#I hope you'll get over being angry.
+#나는 네가 자제하고 화 내지 않길 희망한다.
+
+[503]
+#I hope he will be adequate to the job.
+#나는 그가 이 일에 적당하기를 희망한다.
+
+[504]
+#I wish they'd get off my back.
+#나는 그들이 다시 나를 괴롭히지 않길 바란다.
+
+[505]
+#I expect he will be able to cater for your particular needs.
+#나는 그가 너의 특별한 요구에 만족하길 바란다.
+
+[506]
+#I hope I haven't spoken out of turn?
+#나는 내가 이렇게 말하는 것이 말 참견이 아니길 바란다.
+
+[507]
+#I hope we've not put you to any trouble.
+#나는 우리들이 너에게 어떤 번거로움을 안주기 바란다.
+
+[508]
+#I hope I can drive the tractor like you do.
+#나는 너처럼 트랙터를 운전하길 바란다.
+
+[509]
+#I hope the weather clears up before Sunday.
+#나는 일요일 전날 날씨가 개길 희망한다.
+
+[510]
+#I want a bedroom to myself.
+#나는 침대가 있는 독방이 있었으면 한다.
+
+[511]
+#I hope this coffee sobers him up.
+#나는 이 커피가 그를 깨우길 바란다.
+
+[512]
+#I expect this situation to hang over till Saturday.
+#나는 이런 국면이 토요일까지 계속되길 바란다.
+
+[513]
+#Chemistry,not art,is my cupoftea.
+#내가 좋아하는 것은 화학이지 예술이 아니다.
+
+[514]
+#I like her soft lilied fingers.
+#나는 그녀의 백합같은 가는 손가락을 좋아한다.
+
+[515]
+#I love the morning dimness before the sun rises.
+#나는 태양이 뜨기 전의 몽롱한 아침 햇살을 좋아한다.
+
+[516]
+#The girl I like won't go with me to the movies.
+#내가 좋아하는 여자애는 나와 영화 보러 가려 하지 않는다.
+
+[517]
+#I prefer dogs to cats.
+#나는 개를 좋아하고 고양이는 아주 좋아하지 않는다.
+
+[518]
+#I like my hamburgers cooked American-style.
+#나는 미국식 햄버거를 좋아한다.
+
+[519]
+#I like the shape of that table.
+#나는 그 책상의 모양을 좋아한다.
+
+[520]
+#I love you in that dress.
+#나는 네가 그 옷을 입고 있는 것을 좋아한다.
+
+[521]
+#I like the arrangement of furniture in your apartment.
+#나는 너의 아파트안 가구의 배치를 좋아한다.
+
+[522]
+#I prefer beer above all other drinks.
+#나는 다른 음료수보다 맥주를 더 좋아한다.
+
+[523]
+#I like his dry humour.
+#나는 그의 썰렁한 유머를 좋아한다.
+
+[524]
+#I like his brand of humor.
+#나는 그의 그런 독특한 유머를 좋아한다.
+
+[525]
+#I enjoy socializing after work.
+#나는 근무시간 이외의 여가시간에 사교활동에 참가하길 좋아한다.
+
+[526]
+#I like my coffee milky.
+#나는 커피에 우유 넣어 먹는 것을 좋아한다.
+
+[527]
+#I prefer the latter picture to the former.
+#나는 앞 그림보다 뒷 그림을 더 좋아한다.
+
+[528]
+#I like to curl up with a story book.
+#나는 웅크리고 누워 책 보는 것을 좋아한다.
+
+[529]
+#I'm always tired when I come home from work.
+#나는 퇴근 후 집에 갈때 언제나 피곤하다.
+
+[530]
+#I'll expand on this problem next time.
+#나는 다음에 더 자세히 이 문제를 이야기 하겠다.
+
+[531]
+#I shall be twenty years old next month.
+#나는 다음달에 20세가 된다.
+
+[532]
+#When I went downstairs,they were eating breakfast.
+#나는 아랫층에 내려갈 때 그들은 아침을 먹고 있었다.
+
+[533]
+#I'll pay you a visit next week.
+#나는 다음주에 방문하려 한다.
+
+[534]
+#My schedule for next week is very tight.
+#나는 다음주에 하려고 예정된 일이 매우 긴박하다.
+
+[535]
+#Terror rooted me to the spot.
+#나는 놀라 멍하니 움직이지 않았다.
+
+[536]
+#I'll have fish,with fruit to follow.
+#나는 먼저 고기를 다음에 다시 과일을 원한다.
+
+[537]
+#I'm worried about the appearance of the floor.I need to wax it.
+#나는 바닥이 보기 흉한 것이 싫어서 왁스를 먹이려 한다.
+
+[538]
+#I must change down now.
+#나는 지금 차 속도를 늦추어야 한다.
+
+[539]
+#I must now determine whether to meet him or not.
+#나는 지금 그를 봐야 할지 결정을 해야 한다.
+
+[540]
+#I can't sing now,but I could when I was young.
+#나는 지금 노래를 부를 수 없다. 그러나 젊었을 때 불렀다.
+
+[541]
+#I can't come out now; we have guests.
+#나는 지금 나올 수 없다. 우리들은 손님이 있다.
+
+[542]
+#I don't feel up to talking with anybody else now.
+#나는 현재 다른 사람과 말을 하고 싶지 않다.
+
+[543]
+#I have become very fond of that boy.
+#나는 현재 그 아이를 매우 좋아한다.
+
+[544]
+#I shall now enter inmediasres.
+#나는 현재 본론으로 들어가 서술한다.
+
+[545]
+#Can I go home now,Miss?
+#나는 지금 집에 돌아가도 됩니까? 아가씨?
+
+[546]
+#I've no time to talk to you just now.
+#나는 지금 너와 말할 시간이 없다.
+
+[547]
+#I am studying in Grade Three at Nankai Junior Middle School.
+#나는 지금 남개중학교 초등3급반에서 배우고 있다.
+
+[548]
+#I am now well and fit for work.
+#나는 지금 몸이 건강해서 일에 적당하다.
+
+[549]
+#I am now living in a very pleasant flat.
+#나는 현재 한 편안한 아파트에 살고 있다.
+
+[550]
+#I envy those students who always get good marks.
+#나는 단지 점수가 좋은 그 학생들이 부러울뿐이다.
+
+[551]
+#I restrict myself to smoking two cigarettes a day.
+#나는 스스로 매일 단지 담배 2개피만 피기로 한정했다.
+
+[552]
+#I'm sure the new agency will be a great success.
+#나는 새 회사가 반드기 성황할거라고 믿는다.
+
+[553]
+#I rely on getting my money back in due time.
+#나는 때가 되면 내 돈을 받을 수 있을거라고 믿는다.
+
+[554]
+#I believe the converse of what you are saying.
+#내가 믿는 것은 너와 말한 것이 바로 반대이다.
+
+[555]
+#I know I can count on you.
+#나는 너희들이 반드시 돌아올 것이라고 믿는다.
+
+[556]
+#I am sure you would get along very well with him.
+#나는 네가 반드시 그와 서로 잘 맞을 거라고 믿는다.
+
+[557]
+#I'm confident you've made the right choice.
+#나는 네가 이미 정확한 선택을 했다고 믿는다.
+
+[558]
+#I believe every word he says.
+#나는 그가 말한 말들을 믿는다.
+
+[559]
+#I am sure he will bear me out in what I have said.
+#나는 그가 반드시 내가 말한 것이 옳다고 증명해 줄 것을 믿는다.
+
+[560]
+#I'm sure she'll have finished by now.
+#나는 그녀가 지금 대략 이미 일을 다 했다고 믿는다.
+
+[561]
+#I know we'll get lots of use out of it,especially since it has growing room.
+#나는 우리들이 그것을 잘 이용할 수 있다고 믿는다.
+
+[562]
+#I believe I will be reincarnated as a snake.
+#나는 내가 죽은뒤 뱀으로 환생된다고 믿는다.
+
+[563]
+#I believe in the existence of discarnate spirits.
+#나는 무형의 유령의 존재를 믿는다.
+
+[564]
+#I want to write down what you just said.
+#나는 네가 방금 말한 것을 쓰고 싶다.
+
+[565]
+#I want to convert some dollars into pounds.
+#나는 약간의 달러를 파운드로 바꾸고 싶다.
+
+[566]
+#I want to get this package off at once.
+#나는 이 소포를 곧 우편으로 부치고 싶다.
+
+[567]
+#I can't imagine how you dare tell me such things.
+#나는 네가 결국 나에게 이런 일을 알릴지 생각치 못했다.
+
+[568]
+#I can't quite place that man.
+#나는 그 사람이 누군지 결국 생각치 못했다.
+
+[569]
+#I cannot recall what was said then.
+#나는 그때 무엇을 말했는지 생각나지 않는다.
+
+[570]
+#I cannot remember where I met him.
+#나는 어디에서 그를 본적이 있는지 생각나지 않았다.
+
+[571]
+#My endeavors to bring about a settlement were ended in vain.
+#화해하려는 나의 노력은 허사로 되돌아갔다.
+
+[572]
+#I'd like to ask about the matter of commission.
+#나는 수수료 문제를 묻고 싶었다.
+
+[573]
+#I shudder to think what might happen.
+#나는 발생 할 수 있는 일을 생각하자 몸이 떨렸다.
+
+[574]
+#It came across my mind that he might be waiting for me there.
+#나는 그가 그곳에서 날 기다릴거라고 생각했다.
+
+[575]
+#I imagine I'll do some work instead of going to the movies.
+#나는 일을 하고 싶다. 영화는 보고 싶지 않다. 
+
+[576]
+#I'd like to discuss the matter of discount with you.
+#나는 너희들과 절감 문제를 상의하고 싶다.
+
+[577]
+#Let me talk with you about a problem I have.
+#나는 너와 내가 부딪혔던 문제를 상의하고 싶다.
+
+[578]
+#I'd like to talk with you about five tons short weight of sugar.
+#나는 너와 5톤의 설탕 중량에 대한 문제를 이야기 하고 싶다.
+
+[579]
+#I want to keep up my subscription to that magazine.
+#나는 그 잡지를 계속 구독하고 싶다.
+
+[580]
+#I'd like to exchange this shirt for one a size larger.
+#나는 이 와이셔츠를 큰것으로 바꾸고 싶다.
+
+[581]
+#I want to get married and settle down.
+#나는 결혼으로 안정된 생활을 하고 싶다.
+
+[582]
+#It will be fine today,I hope.
+#나는 오늘 좋은 날씨가 될 것 같다.
+
+[583]
+#I think the cops are onto us.
+#나는 경찰이 이미 우리의 음모를 눈치챈 것 같다.
+
+[584]
+#The girl,I think,will write you letters.
+#나는 그 아가씨가 너에게 편지를 쓸거라고 생각한다.
+
+[585]
+#I think you should go out for some fresh air.
+#나는 네가 신선한 공기를 마시러 방밖으로 나가야 된다고 생각한다.
+
+[586]
+#I presume you will fall in with his views.
+#나는 네가 그의 생각에 동의할거라고 생각한다.
+
+[587]
+#I assume you've decided against buying a new car.
+#나는 네가 이미 새 차를 사지 않기로 결정했다고 생각한다.
+
+[588]
+#I think you might find them nice.
+#나는 네가 그것은 매우 듣기 좋다고 여길 거라고 생각한다.
+
+[589]
+#It occurred to me that I had left my keys behind.
+#나는 내가 열쇠를 잊었다는 것이 생각났다.
+
+[590]
+#I thought of those days when I was in the countryside.
+#나는 내가 농촌에서의 그러한 생활을 기억했다.
+
+[591]
+#I'd like you to meet my folks.
+#나는 너에게 나의 가족을 보러 오라고 청하고 싶다.
+
+[592]
+#I'd like you to read this over for me.
+#나는 나 대신 이 문장을 한번 읽어 달라고 너에게 청하고 싶다.
+
+[593]
+#I want to claim a 5rebate on my tax.
+#나는 5%의 세금삭감을 신청하고 싶다.
+
+[594]
+#I think he will agree,but I am not sure.
+#나는 그가 동의할거라고 생각하지만, 확실하지는 않다.
+
+[595]
+#I thought he'd do that; and sure enough,he did.
+#나는 그가 그 일을 할 수 있다고 생각했다. 과연 그는 했다.
+
+[596]
+#more than anyone I think she deserves the prize.
+#나는 그녀가 어떤 사람보다 더 이 상을 받아야 한다고 생각한다.
+
+[597]
+#I don't know that I will attend the party.
+#나는 내가 이 집회에 참석할 수 없다고 생각한다.
+
+[598]
+#I think we shall have to alter our plan.
+#나는 우리들이 반드시 우리들의 계획을 수정해야 한다고 생각한다.
+
+[599]
+#I suppose I had better be going,hadn't I?
+#나는 내가 걷는 것이 좋다고 생각한다. 그렇지?
+
+[600]
+#I've cracked my voice trying to speak too loud.
+#나는 큰소리로 말을 하고 싶었지만 목소리가 쉬었다.
+
+[601]
+#I'd like to see you do it.
+#나는 네가 이 일을 하는 것을 보고 싶다.
+
+[602]
+#I desire to stay here until my death.
+#나는 이곳에서 내가 죽을때까지 머물고 싶다.
+
+[603]
+#I essayed to speak,but he cut me off with a gesture.
+#나는 말하고 싶었다. 그러나 그는 손짓으로 나를 저지했다.
+
+[604]
+#I want to dissociate myself from my companions.
+#나는 나의 동료와 관계를 끊고 싶었다.
+
+[605]
+#I am desirous to know further details.
+#나는 더 많은 세부부분을 알고 싶다.
+
+[606]
+#I don't think a glass of beer will sew you up.
+#나는 맥주 한잔이 너를 취해서 쓰러지게 할리 없다고 생각한다.
+
+[607]
+#I'd like to make an appointment to see Mr.Cooper.
+#나는 쿠퍼선생님을 보러 갈 시간을 정했으면 좋겠다.
+
+[608]
+#I'd like a second helping; I'm still hungry!
+#나는 다시 한번 먹고 싶다. 나는 아직도 배부르지 않다.
+
+[609]
+#I want to cover 100 miles before it gets dark.
+#나는 날이 어두워지기 전에 100마일을 가려 한다.
+
+[610]
+#I think this kind of thing comes under the jurisdiction of the Foreign Office.
+#나는 이 일은 반드시 외교부에서 관리해야 한다고 생각한다.
+
+[611]
+#I wonder what happened.
+#나는 무슨 일이 발생했는지 알고 싶다.
+
+[612]
+#I should be interested to hear how the play ended.
+#나는 이 연극의 결과가 어떠한지 알고 싶다.
+
+[613]
+#I wonder what really happened.
+#나는 도대체 무슨 일이 발생 했는지 알고 싶다.
+
+[614]
+#I wonder why he refused.
+#나는 왜 그가 거절 했는지 알고 싶다.
+
+[615]
+#I tried to catch the bird,but it got away.
+#나는 그 새를 잡고 싶지만, 새가 날아갔다.
+
+[616]
+#I'll chew it over for a few days and then let you have my answer.
+#나는 며칠동안 자세히 고려한 후 너에게 다시 회신을 보내려 한다.
+
+[617]
+#I enjoyed every minute of the concert.
+#나는 음악회의 매 분을 즐긴다.
+
+[618]
+#I lodged a complaint against him with the police.
+#나는 경찰에게 고소장을 올려 그를 고소했다.
+
+[619]
+#I complained to the police about my neighbor's dog.
+#나는 경찰에게 이웃집의 개를 고소했다.
+
+[620]
+#I contributeed a long story to a magazine.
+#나는 어떤 잡지사에 긴 장편의 이야기를 투고했다.
+
+[621]
+#I'll warrant you that he's not there!
+#나는 너에게 그가 그곳에 없다고 장담한다.
+
+[622]
+#You have my assurance that the job will be finished on time.
+#나는 너에게 이 일은 제때에 완성될 꺼라고 보장한다.
+
+[623]
+#I assure you I'll be back at three.
+#나는 너에게 내가 3시에 반드시 여기에 돌아올 것을 장담한다.
+
+[624]
+#I rent a room from Mrs Jones.
+#나는 존스부인에게 방을 세들었다.
+
+[625]
+#I hinted to him that I was dissatisfied with his work.
+#나는 그의 일에 만족하지 않는다고 그에게 암시했다.
+
+[626]
+#I inquireed about buses to the station.
+#나는 그에게 정거장 까지 가는 버스를 물었다.
+
+[627]
+#I inquired of him about the address of his brother.
+#나는 그에게 그의 형의 주소를 물었다.
+
+[628]
+#I asked them for the loan of the money.
+#나는 그들에게 그 돈을 빌려 달라고 요구했다.
+
+[629]
+#I placed an order with them for 500 pairs of shoes.
+#나는 그들에게 500개의 신발을 예약했다.
+
+[630]
+#I am responsible to her for the safety of her family.
+#나는 그녀에게 그녀 가족의 안전을 책임진다고 했다.
+
+[631]
+#I knew that he didn't want to lunch with me.
+#나는 그가 결코 나와 함께 식사하길 원치 않는다고 여겼다.
+
+[632]
+#I learned it at my mother's knee.
+#나는 어릴적에 어머니와 이 일을 배웠다.
+
+[633]
+#I reached out gingerly to touch the snake.
+#나는 조심스럽게 손을 뻗어 그 뱀을 만졌다.
+
+[634]
+#I wrote five applications for jobs but got nothing.
+#나는 5통의 구직서를 썼다. 그러나 아무 소득이 없었다.
+
+[635]
+#I've had no answer to my letter yet.
+#내가 보낸 편지에 아직 회신이 없다.
+
+[636]
+#My diaries cover twenty-five years.
+#나는 일기를 쓴지 25년이 된다.
+
+[637]
+#I took his advice kindly.
+#나는 의연하게 그의 충고를 받아들였다.
+
+[638]
+#I relished that simple family life.
+#나는 그 소박한 가정 생활을 감상했다.
+
+[639]
+#Hope shot up within me.
+#나의 마음은 잠시 희망이 있다고 여겼다.
+
+[640]
+#I woke up early and got up at 6 o'clock.
+#나는 일찍 일어났는데 6시에 일어났다.
+
+[641]
+#When I woke up,I found myself in hospital.
+#내가 깨어났을 때 내가 병원에 있다는 것을 알았다.
+
+[642]
+#I felt rested and refreshed.
+#나는 쉴 때 정신이 상쾌함을 느꼈다.
+
+[643]
+#I need my coat mended.
+#나는 다른 사람에게 겉옷을 꿰매달라고 부탁해야 겠다.
+
+[644]
+#I declare William Jones elected.
+#나는 윌리암이 당선되었다고 선포했다.
+
+[645]
+#I elected Japanese history as a minor.
+#나는 일본사를 과목으로 배우려고 선택했다.
+
+[646]
+#There are two thousand students in my school.
+#우리 학교안에 2000명의 학생이 있다.
+
+[647]
+#I'm learning French as well as English.
+#나는 영어를 배우는 것 이외에 불어를 배운다.
+
+[648]
+#The sound of hammering led me to the hut.
+#나는 목소리 따라서 나무집으로 걸어갔다.
+
+[649]
+#I quickly withdrew my hand from the stove.
+#나는 빠르게 손을 난로에서 움추렸다.
+
+[650]
+#I crushed the empty beer can in my hand.
+#나는 손안의 빈맥주 깡통을 눌러 뭉갰다.
+
+[651]
+#I hate to squabble with my wife about money.
+#나는 돈 때문에 아내와 싸우는 일을 싫어한다.
+
+[652]
+#I asked her over to my cottage .
+#나는 그녀에게 나의 별장에 오라고 초대했다.
+
+[653]
+#I must give the windows a good clean.
+#나는 창문을 잘 닦으려 한다.
+
+[654]
+#I have to catch up on my work so I can't come out.
+#나는 일을 더 해야만 해서 나갈 수 없다.
+
+[655]
+#I'll set my watch back (by) five minutes.
+#나는 나의 시계를 5분 늦게 돌려 놓겠다.
+
+[656]
+#I'll assign you my property.
+#나는 나의 재산을 너에게 양보하겠다.
+
+[657]
+#I'll check this suitcase to Chicago.
+#나는 이 손가방을 시카고까지 운반하겠다.
+
+[658]
+#I want to get into good shape for the exam.
+#나는 시험을 준비하려고 좋은 몸은 유지해야겠다.
+
+[659]
+#I'll keep this for future use.
+#나는 이것을 나중에 이용하려고 보존하겠다.
+
+[660]
+#I will take the train which departs at eight.
+#나는 8시에 떠나는 기차를 타려 한다.
+
+[661]
+#I'll plump for noodles rather than buns.
+#나는 면을 먹지 빵을 먹지 않겠다.
+
+[662]
+#I will go round to his office and have a talk to him.
+#나는 그의 사무실로 가서 그와 이야기를 좀 하려 한다.
+
+[663]
+#I'll call in at the library to return a book.
+#나는 책을 반납하러 도서관에 가려 한다.
+
+[664]
+#I wish to express my appreciation for your kindness.
+#나는 너의 호의에 감사를 표하겠다.
+
+[665]
+#I want to leave this dead-end job.
+#나는 이 전도 없는 일을 포기하겠다,
+
+[666]
+#I'll nip out and buy a newspaper.
+#나는 빨리 신문을 한 부 팔러 나가겠다.
+
+[667]
+#I'll teach you to meddle in my affairs.
+#나는 너에게 내 일에 관여 말라고 경고를 주어야 겠다.
+
+[668]
+#I'll buy you all a round of drinks!
+#나는 너희들 각자에게 음료수를 사주겠다.
+
+[669]
+#I'll halve expenses with you.
+#나는 너와 함께 평균적으로 비용을 분담하겠다.
+
+[670]
+#I will follow you wherever you go.
+#나는 네가 가려는 어떤 곳이든지 너 따라 하겠다.
+
+[671]
+#I haven't finished with you yet.
+#나는 너와 하려던 말이 아직 다 안 끝났다.
+
+[672]
+#I'll carry on with my writing till the bell rings.
+#나는 종이 울릴때 까지 계속 써 내려 가겠다.
+
+[673]
+#I'll do all I possibly can.
+#나는 자신의 최선을 다해 하겠다.
+
+[674]
+#Whenever I buy something,I pay down.
+#내가 사려는 물건은 언제나 현금으로 지불한다.
+
+[675]
+#I like boys to be cheerful.
+#나는 유쾌한 남자아이가 필요하다.
+
+[676]
+#I want you to have nothing to do with that man.
+#나는 네가 그 남자와 왕래 하지 않았으면 좋겠다.
+
+[677]
+#I want a firm undertaking that you won't be late again.
+#나는 네가 다시 늦지 않겠다고 단호하게 보장했으면 한다.
+
+[678]
+#I'd like to direct your attention to this fact.
+#나는 너희들이 이 사실을 주의하길 원한다.
+
+[679]
+#I have a favor to ask of you.
+#나는 당신에게 도움을 청합니다. 
+
+[680]
+#I asked for the ball and he kicked it over.
+#나는 공이 필요하다. 그는 공을 발로 찼다.
+
+[681]
+#I asked the spectators to keep back from the sideline.
+#나는 사람들에게 경계선 가까이 걷지 말라고 요구했다.
+
+[682]
+#I'm going and you can't stop me.
+#나는 갈것이고, 당신은 나를 막을 수 없다.
+
+[683]
+#I'm going to London,and John's going as well.
+#나는 런던에 갈 것이다. 존도 갈 것이다.
+
+[684]
+#I'll just make sure that the car's locked.
+#나는 차가 잘 잠겨져 있는지 확인하려 가려 한다.
+
+[685]
+#I'm going to the post-office Are you coming with me?
+#나는 우체국에 갈건데 너는 나와 같이 갈 수 있니?
+
+[686]
+#I want draught beer,not bottled beer!
+#나는 생맥주를 원합니다. 병맥주는 원치 않습니다.
+
+[687]
+#If I should see her,I would tell her to wait.
+#나는 그녀를 보게 된다면 나는 그녀에게 더 기다리라고 할 것이다.
+
+[688]
+#I wish I hadn't told it to her.
+#나는 그녀에게 알리지 않았으면 한다.
+
+[689]
+#If I am free,I shall join you.
+#나는 일이 없다면 곧 참가하겠다.
+
+[690]
+#If I were you,I would have married.
+#내가 너라면 나는 일찍 결혼했을 것이다.
+
+[691]
+#I should go to bed if I were you.
+#내가 너라면 일찍 잠자러 갔을 것이다.
+
+[692]
+#If I had money,I would buy the dictionary.
+#나는 돈이 있다면 이 자전거를 샀을 것이다.
+
+[693]
+#If I had left a little earlier,I would not have been late.
+#내가 좀 일찍 출발했다면 늦지 않았을 것이다.
+
+[694]
+#If I had known it,I should have told it to you.
+#내가 알고 있었다면 나는 일찍 너에게 알렸을 것이다.
+
+[695]
+#I asked him to have a try,but he hung back.
+#나는 그에게 한번 해보도록 했다. 그러나 그는 망설이고 결정하지 못했다.
+
+[696]
+#I will pray to God for your safety.
+#나는 너의 안전을 위해 하느님께 기도하겠다.
+
+[697]
+#I will drum up an excuse for coming to see you next week.
+#나는 다음주에 너를 보러 올 핑계를 생각해냈다.
+
+[698]
+#I will inquire how to get there.
+#나는 어떻게 해야 그곳에 갈 수 있는지 묻겠다.
+
+[699]
+#I will defer going till I have more money.
+#나는 나에게 더 많은 돈이 있어 갈 수 있을때까지 연기하겠다.
+
+[700]
+#I want a salary adequate to support my family.
+#나는 충분히 가족을 부양할 월급이 필요하다.
+
+[701]
+#I want a double room with a view.
+#나는 풍경이 보이는 2인용침실을 원한다.
+
+[702]
+#I need some lanolated hand cream.
+#나는 라놀린이 있는 핸드크림이 필요하다.
+
+[703]
+#I'll run you in to the station.
+#나는 차로 너를 정거장까지 데려다 주겠다.
+
+[704]
+#I'll bed down on these chairs.
+#나는 이러한 의자에서 한숨 푹 자려 한다.
+
+[705]
+#How can I ever repay you?.
+#나는 어떻게 해야 너에게 대답할 수 있니?
+
+[706]
+#How can I get to the police station?.
+#나는 어떻게 해야 경찰서까지 갈 수 있죠?,
+
+[707]
+#I'll look for something cheaper.
+#나는 더 싼 물건을 찾아야겠다.
+
+[708]
+#I want this agreement in black and white.
+#나는 이 협의를 흰 종이에 검은 글씨로 쓰겠다.
+
+[709]
+#I want all the juicy details.
+#나는 재미있는 모든 상세한 줄거리를 알고 싶다.
+
+[710]
+#I will beware of strong tea at night.
+#나는 저녁에 농차를 안 마시도록 주의하겠다.
+
+[711]
+#I may pop in to see you next month.
+#나는 아마 다음달에 너를 보러 올 것이다.
+
+[712]
+#I don't see the JoeMiller of it.
+#나는 그것이 조금도 웃기지 않다.
+
+[713]
+#I didn't have a glimmer of what he meant.
+#나는 그가 말한 뜻을 조금도 이해 하지 못한다.
+
+[714]
+#I don't feel a bit sorry for Helen.
+#나는 헬렌 때문에 조금도 힘들지 않았다.
+
+[715]
+#I don't give a damn what you think.
+#나는 네가 어떻게 생각하는지 조금도 개의치 않는다.
+
+[716]
+#I don't care a rap for his opinion.
+#나는 그의 의견에 조금도 개의치 않는다.
+
+[717]
+#I don't give a damn what they say.
+#나는 그들이 무엇을 말하는지 조금도 개의치 않는다.
+
+[718]
+#I shall bring you that book without fail.
+#나는 반드시 그 책을 너에게 갖다 주겠다.
+
+[719]
+#I will score up that remark against you.
+#나는 반드시 너의 그 말을 기억하겠다.
+
+[720]
+#I will hold this fair kingdom for him.
+#나는 반드시 그를 위해 이 아름다운 왕국을 유지하겠다.
+
+[721]
+#I must have this room swept .
+#나는 반드시 사람을 시켜 이 방을 청소하게 하겠다.
+
+[722]
+#I must stand by what I have said.
+#나는 반드시 내가 했던 말은 준수하겠다.
+
+[723]
+#I haven't a sou.
+#나는 일푼도 없다. 내 몸은 무일푼이다.
+
+[724]
+#I'll set about opening an L/C as soon as I arrive home.
+#나는 돌아가자 마자 신용장 개설 처리를 착수할 것이다.
+
+[725]
+#I'll be ready in a moment; I'm dressing.
+#나는 잠시 뒤 준비를 다 한다. 나는 옷 입는 중이다.
+
+[726]
+#The instant I saw him I knew he was angry.
+#나는 그를  보자마자 그가 화났다는 것을 알았다.
+
+[727]
+#I can't resist chocolate cake.
+#나는 초코렛케익을 보자마자 먹고 싶은 것을 참을 수 없었다.
+
+[728]
+#I came directly I got your message.
+#나는 너의 편지를 받고 곧 왔다.
+
+[729]
+#I remarked the unpleasant odor as soon as I entered the house.
+#나는 방에 들어서자 곧 이상한 냄새를 맡았다.
+
+[730]
+#I recognized the actor the minute that I saw him.
+#나는 그 배우를 보자마자 곧 그를 알아 차렸다.
+
+[731]
+#I recognized him the moment that I saw him.
+#나는 그를 보고 곧 알아차렸다.
+
+[732]
+#I raised the alarm as soon as I saw the smoke.
+#나는 연기를 보자마자 경찰을 불렀다.
+
+[733]
+#I can't stay any longer.
+#나는 잠시도 더 머물 수 없다.
+
+[734]
+#I can't endure that noise a moment longer.
+#나는 잠시도 그 소음을 참을 수 없다.
+
+[735]
+#Scarcely had I left than it began to rain.
+#내가 떠나자 마자 곧 비가 내리기 시작했다.
+
+[736]
+#I was so angry I hung up on her.
+#나는 화가 나서 전화를 끊었다.
+
+[737]
+#I got the bird first shot.
+#나는 한방에 그 새를 쏘았다.
+
+[738]
+#I hit him fair and square on the nose.
+#나는 마침 한 주먹에 그의 코를 때렸다.
+
+[739]
+#I can't carry it on my own; it's too heavy.
+#나 혼자는 들 수 없다. 이 물건은 너무 무겁다.
+
+[740]
+#My hand slipped and I spilt my drink on my leg.
+#나는 실수로 음료수를 다리에 쏟았다.
+
+[741]
+#I did it by mistake.
+#나는 잠시 잘못해서 이렇게 했다.
+
+[742]
+#I can't fetch up his name at the moment.
+#나는 잠시 그의 이름이 떠오르지 않았다.
+
+[743]
+#She clammed up when I mentioned the police.
+#내가 경찰을 거론하자 그녀는 곧 소리치지 않았다.
+
+[744]
+#I came immediately I heard the news.
+#나는 이 소식을 듣고 곧 쓰기 시작했다.
+
+[745]
+#When I give the word,start writing.
+#나는 단어를 주면 너희들은 곧 쓰기 시작했다.
+
+[746]
+#I used to set my alarm clock for exactly 7 a.m.
+#나는 줄곧 알람시계를 오전 7시 정각에 맞추었다.
+
+[747]
+#I have always regarded him with the greatest admiration.
+#나는 항상 그에게 극찬을 했다.
+
+[748]
+#I've always valued your friendship.
+#나는 언제나 너와의 우정을 중시 여긴다.
+
+[749]
+#I have three piano practices a week.
+#나는 일주일에 3번 피아노를 연습한다.
+
+[750]
+#I spotted him at once as an American.
+#나는 한눈에 그가 미국인임을 알아챘다.
+
+[751]
+#I did not know it until quite recently.
+#나는 최근에서야 이 일을 알았다.
+
+[752]
+#I've been busy with the spring cleaning.
+#나는 봄맞이 대청소로 바쁘다.
+
+[753]
+#I have been looking forward to seeing your mother.
+#나는 너의 모친을 볼 수 있기를 줄곧 바랬다.
+
+[754]
+#I've been hoping I'd have a chance to see the film.
+#나는 이 영화를 볼 기회가 있길 줄곧 바랬다.
+
+[755]
+#I've been meaning to ask you--how's your mother?
+#나는 너의 어머니가 잘 계신지 줄곧 묻고 싶었다.
+
+[756]
+#I've been slaving away in the office.
+#나는 줄곧 사무실에서 열성적으로 일에 몰두했다.
+
+[757]
+#I have been reflecting on what you said.
+#나는 네가 한 말을 줄곧 생각했다.
+
+[758]
+#I've been watching for him to do that.
+#나는 그가 그 일을 하는 것을 줄곧 주의하며 기다렸다.
+
+[759]
+#He did all sorts of mischief immediately my back was turned.
+#내가 몸을 돌리자 그는 온갖 못된 장난을 했다.
+
+[760]
+#I copied the letter faithfully.
+#나는 한글자도 틀리지 않고 이 편지를 베꼈다.
+
+[761]
+#I depended on the map,but it was wrong.
+#나는 지도에 의존했으나 지도가 틀렸다.
+
+[762]
+#I have trusted her with this matter.
+#나는 이미 이 일을 그녀에게 처리하도록 부탁했다.
+
+[763]
+#I've put my luggage on the train.
+#나는 이미 여행짐을 기차에 놓았다.
+
+[764]
+#I have made all the reservations for my trip.
+#나는 이미 여행의 모든 예정을 잘 처리했다.
+
+[765]
+#I no longer count him among my friends.
+#나는 이미 다시는 그를 나의 친구로 생각하지 않는다.
+
+[766]
+#I have had a working permit from the immigration office.
+#나는 이미 이민국에서 노동 허가를 얻었다.
+
+[767]
+#I have committed myself to sitting on two committees.
+#나는 이미 두 위원회의 위원을 담당할 것을 대답했다.
+
+[768]
+#I have subscribed for the encyclopedia.
+#나는 이미 그 백과사전을 예약했다.
+
+[769]
+#I've told you any number of times not to do that.
+#나는 이미 여러차례 너에게 그렇게 하지말라고 경고했다.
+
+[770]
+#I have not seen him for a weekofSundays.
+#나는 이미 오랫동안 너를 보지 못했다.
+
+[771]
+#I've laid out your overcoat on the bed.
+#나는 이미 너의 겉옷을 침대에 걸쳤다.
+
+[772]
+#I've quit my job.
+#나는 이미 나의 일을 그만두었다.
+
+[773]
+#I've promised this book to Susan.
+#나는 이미 이 책을 수잔에게 주기로 대답했다.
+
+[774]
+#I haven't seen him for the better part of a month!
+#나는 이미 대략 반 개월 동안 그녀를 보지 못했다.
+
+[775]
+#I've ordered you a beer.
+#나는 이미 너에게 맥주 한잔을 시켜주었다.
+
+[776]
+#I have told you twenty times.
+#나는 이미 너와 여러차례 이야기 한 적이 있다.
+
+[777]
+#I have seen something of his work.
+#나는 이미 그의 몇 작품을 본 적이 있다.
+
+[778]
+#I was left no choice.= No choice was left for me.
+#나는 이미 선택할 여지가 없다.
+
+[779]
+#I'm hip to your little tricks,baby.
+#나는 이미 너의 수작을 간파했다.
+
+[780]
+#I have nailed him down to coming at six.
+#나는 이미 그에게 6시에 올 것을 동의하도록 했다.
+
+[781]
+#Your name has slipped my mind .
+#나는 이미 너의 이름을 잊었다.
+
+[782]
+#I have delegated him to serve in my place.
+#나는 이미 나의 대표로 그를 보냈다.
+
+[783]
+#We've been researching for three years with no result.
+#나는 이미 3년을 연구했다. 그러나 아무 결과가 없었다.
+
+[784]
+#I've invited her to speak on American politics.
+#나는 이미 그녀에게 미국의 정치를 강연해 줄 것을 초청했다.
+
+[785]
+#I've decided to let the matter drop.
+#나는 이미 이 일을 포기하기로 결정했다.
+
+[786]
+#I've decided on going to America for my holidays.
+#나는 이미 미국에 가서 보내기로 결정했다.
+
+[787]
+#I've decided on buying a new car.
+#나는 이미 새 차를 사기로 했다.
+
+[788]
+#I've definitely decided to go to California.
+#나는 이미 분명히 캘리포니아에 가겠다.
+
+[789]
+#I've been on the dole for six months.
+#나는 이미 6개월의 실업보조금을 받았다.
+
+[790]
+#I inform you that I have moved to a new.
+#나는 이미 새 곳으로 이사갔음을 특히 알려드립니다.
+
+[791]
+#I've forgotten when to start.
+#나는 이미 언제 출발해야 할지 잊었다.
+
+[792]
+#I have arranged a taxi for us.
+#나는 이미 우리들을 위해 택시 한대를 마련했다.
+
+[793]
+#I've written too much and had better sign off.
+#나는 이미 너무 많이 썼다. 그래서 여기서 끝내자.
+
+[794]
+#I've arranged with her to meet at five.
+#나는 이미 그녀와 5시에 만나기로 상의 결정했다.
+
+[795]
+#I've been asked out for the evening.
+#나는 이미 만찬에 참가하라는 요청에 응했다.
+
+[796]
+#I have turned the matter over and over in my mind.
+#나는 이미 마음속으로 이 일을 반복적으로 생각했다.
+
+[797]
+#I've been waiting here for hours.
+#나는 이미 여기서 많은 시간을 기다렸다.
+
+[798]
+#I heated myself by rapid walking.
+#나는 빠른 발걸음 때문에 몸이 따뜻해졌다.
+
+[799]
+#I'm speaking in my capacity as minister of trade.
+#나는 무역부장의 신분으로 이야기했다.
+
+[800]
+#I've never been out this late before.
+#나는 이전에 밖에서 이렇게 늦게 기다려 본 적이 없다.
+
+[801]
+#I paid him back in kind for hitting me.
+#나는 같은 방법으로 그에게 감사했다.
+
+[802]
+#I thought the branch would go every minute.
+#나는 그 가지를 언제든지 꺾을 수 있다고 생각했다.
+
+[803]
+#I thought you would not approve of the plan.
+#나는 네가 이 계획에 동의할리 없다고 생각했다.
+
+[804]
+#I thought he would have finished his work at dinner time.
+#나는 그가 저녁때 그의 일을 완성할거라고 생각했다.
+
+[805]
+#I thought I should have died.
+#나는 내가 죽을 수 있다고 생각했다.
+
+[806]
+#I sold him my car for $500.
+#나는 내차를 500달러에 그에게 팔았다.
+
+[807]
+#I gave it to him for $5.
+#나는 50달러 가격으로 그것을 그에게 팔았다.
+
+[808]
+#I bought it for $50.
+#나는 50달러에 그것을 샀다.
+
+[809]
+#I hold myself back from saying a word.
+#나는 스스로 한 마디도 안 하려고 억제했다.
+
+[810]
+#I felt giddy from the unaccustomed exercise.
+#나는 습관되지 않은 운동으로 멀미가 났다.
+
+[811]
+#I apologized to her for stepping on her foot.
+#나는 그녀의 발을 밟아서, 그녀에게 사과를 했다.
+
+[812]
+#I am tired with that long walk.
+#나는 장기간 여행으로 매우 피로했다.
+
+[813]
+#I felt much the better for the work.
+#나는 일했지만 오히려 편했다.
+
+[814]
+#I delayed answering you owing to pressure of work.
+#나는 일이 바빠서 제때 그에게 대답하지 못했다.
+
+[815]
+#The length of the meeting tired me.
+#나는 회의가 너무 길어서 피곤했다.
+
+[816]
+#I drew on Ton for my immediate expenses.
+#나는 급히 돈이 필요해 톰에게 돈을 빌렸다.
+
+[817]
+#I have been away from the office and only just returned.
+#나는 가까운 시일동안 줄곧 밖에 있었는데 방금 되돌아왔다.
+
+[818]
+#I was hindered from finishing my work by illness.
+#나는 병으로 아직 일을 다 할 수 없다.
+
+[819]
+#I am tired with hours of toil.
+#나는 몇 시간의 노동으로 피로했다.
+
+[820]
+#I got mad with him for being late.
+#나는 그가 늦게 와서 노발 대발했다.
+
+[821]
+#I pity her for her helplessness.
+#나는 그녀의 도움의 없어 그녀가 불쌍했다.
+
+[822]
+#I was left helpless with pain and fever.
+#나는 통증과 고열로 온몸에 힘이 없게 되었다.
+
+[823]
+#I wasted my time by listening to his idle talk.
+#나는 그의 쓸데없는 말을 듣느라 시간을 낭비했다.
+
+[824]
+#I got hollered at for not doing my homework.
+#나는 공부를 하지 않아 혼났다.
+
+[825]
+#I was unalbe to attend the wedding because of a prior engagement.
+#나는 먼저 약속이 있어서 결혼식에 참가할 수 없었다.
+
+[826]
+#I make out a bamboo thicket over there.
+#나는 어렴풋이 그쪽에 대나무가 있는 것을 보았다.
+
+[827]
+#Sould I go this way,or that way?
+#나는 이쪽에서 가야 합니까? 저쪽에서 가야 합니까?
+
+[828]
+#I bought it at the request of my father.
+#나는 아버지의 요구에 따라 이것을 샀다.
+
+[829]
+#Mr.Huang requested me to write this letter of recommendation.
+#나는 황선생님의 요청에 응해 이 추천서를 썼다.
+
+[830]
+#I cannot repay you for all your kindnesses.
+#나는 너의 다방면의 호의에 완전히 보답할 수 없다.
+
+[831]
+#I shall never understand the workings of an engine.
+#나는 발동기의 작업원리를 영원히 이해할 수 없다.
+
+[832]
+#I can never nail her down to anything.
+#나는 영원히 그녀에게 일하라고 재촉할 방법이 없다.
+
+[833]
+#I never get to drive the car.
+#나는 영원히 이 차를 운전한 것을 배울 수 없다.
+
+[834]
+#I'll run you over to the office.
+#나는 차로 너를 사무실까지 데려다 주겠다.
+
+[835]
+#I'll run you across to your mother's house.
+#나는 차로 너를 너의 어머니집 까지 데려다 주겠다.
+
+[836]
+#I cut myself free with my axe.
+#나는 도끼로 끈을 잘랐다. 스스로 느슨하게 했다.
+
+[837]
+#I reached for a floating log with my foot.
+#나는 발로 떠다니고 있는 나무 토막하나를 건졌다.
+
+[838]
+#I used three scoops of flour and oneof sugar.
+#나는 세 숟가락의 밀가루와 한 숟가락의 설탕을 이용했다.
+
+[839]
+#I'll run you out to see them.
+#나는 차로 그들을 볼 수 있게 너를 데려다 주겠다.
+
+[840]
+#I bought this dictionary for ten dollars.
+#나는 10원으로 이 사전을 샀다.
+
+[841]
+#I signaled to them with a flashlight.
+#나는 수전통으로 그들에게 신호를 보냈다.
+
+[842]
+#I gestured for him to keep quiet.
+#나는 손짓으로 그에게 조용하라고 표시했다.
+
+[843]
+#I scraped the skin off the vegetables with a knife.
+#나는 작은 칼로 야채의 껍질을 벗겼다.
+
+[844]
+#I'll swap you this for that.
+#나는 너와 이것을 저것으로 교환하자.
+
+[845]
+#I scorched the shirt with the iron.
+#나는 다리미로 이 와이셔츠를 태웠다.
+
+[846]
+#I have it on good authority.
+#나는 믿을 만한 방면으로 이 일을 알게 되었다.
+
+[847]
+#My voice is going because of my cold.
+#나는 감기로 목소리가 쉬었다.
+
+[848]
+#I was overjoyed at this news.
+#나는 이 소식을 듣고 매우 기뻤다.
+
+[849]
+#I sincerely hope you'll pass the exam.
+#나는 네가 시험에 통과할 수 있도록 진심으로 바란다.
+
+[850]
+#I met him by a happy chance.
+#나는 운이 좋아서 그를 만났다.
+
+[851]
+#I have happy recollections of my visit to your house.
+#나는 너의 집을 방문했을 때의 아름다운 기억이 있다.
+
+[852]
+#I have every reason to believe that he is innocent.
+#나는 그가 무고하다고 믿을만한 충분한 이유가 있다.
+
+[853]
+#I sort of thought you might say that.
+#나는 네가 아마 그렇게 말했을 거라고 약간 짐작했다.
+
+[854]
+#I have a good doctor attending me.
+#나는 나를 돌봐주는 좋은 의사가 있다.
+
+[855]
+#I had a happy boyhood.
+#나는 즐거웠던 소년시절이 있었다.
+
+[856]
+#I have fifty things to tell you.
+#나는 너에게 알릴 많은 일이 있다.
+
+[857]
+#I have very happy news to share with you.
+#나는 너에게 알릴 기쁜 소식이 있다.
+
+[858]
+#I have half a mind to undertake the work.
+#나는 좀 이 일을 받아들이고 싶다.
+
+[859]
+#I have some brothers,but not any sisters.
+#나는 몇 명의 형제가 있는데 자매는 없다.
+
+[860]
+#I'll be happy to meet him when I have time.
+#나는 시간이 있을때 즐겁게 그와 만난다.
+
+[861]
+#I have a presentiment that something bad will happen.
+#나는 어떤 불미스런 일이 발생하거라는 예감이 있다.
+
+[862]
+#I have a wife and two children to support.
+#나는 부양할 처자와 두 아이가 있다.
+
+[863]
+#May I have the pleasure of the next dance ?
+#제가 당신과 함께 춤 출 영광을 가져도 됩니까?
+
+[864]
+#I had thirty men under my command.
+#나는 나의 지휘를 따르는 30인의 사람이 있다.
+
+[865]
+#I was bursting with things to tell him.
+#나는 그에게 알릴 많은 일이 있다.
+
+[866]
+#I've got a pile of examination papers to mark.
+#나는 평점할 시험지 한 뭉치가 있다.
+
+[867]
+#I have a huge pile of letters to deal with.
+#나는 처리할 편지 한 뭉치가 있다.
+
+[868]
+#I have a hard time getting pills down.
+#나는 힘든 하루였다. 약을 먹어야 한다.
+
+[869]
+#I had an urge to visit Europe.
+#나는 유럽으로 여행갈 충동이 있었다.
+
+[870]
+#I've got some good news for you.
+#나는 너에게 알릴 좋은 소식이 있다.
+
+[871]
+#I have a few old scores to settle with him.
+#나는 그와 정확하게 계산해야 할 오래된 영수증이 있다.
+
+[872]
+#I have fallen behind with my correspondence.
+#나는 제때에 부치지 못한 약간의 편지가 있다.
+
+[873]
+#I have a suspicion that he's right.
+#나는 한 가지 추측이 있는데 그가 맞는 것 같다.
+
+[874]
+#I had a suspicion that he was there.
+#나는 그가 거기에 있다는 느낌이 든다.
+
+[875]
+#I am prepared for anything.
+#나는 어떤 일도 대응할 심리적 준비가 있다.
+
+[876]
+#I had a hunch that the plan would end in success.
+#나는 이 계획이 성공할거라는 예감이 있다.
+
+[877]
+#I've misplaced my glasses again.
+#나는 또 안경을 아무데다 놓고 지금은 찾을 수 없다.
+
+[878]
+#I've found still another mistake.
+#나는 또 다른 잘못을 발견했다.
+
+[879]
+#Another of my faults.Chalk it up.
+#나는 또 저질렀다. 그것을 기억하자.
+
+[880]
+#I asked for a second opinion from another doctor.
+#나는 또 의사선생님에게 한번 더 진료를 부탁했다.
+
+[881]
+#I parted from Bob after lunch.
+#나는 점심을 먹은 뒤 밥과 헤어졌다.
+
+[882]
+#I have a concern in the business.
+#나는 이 사업과 이익과 손해관계가 있다.
+
+[883]
+#I palled up with another hiker.
+#나는 다른 한 도보여행자와 좋은 친구가 되었다.
+
+[884]
+#I discussed the problem with my friends.
+#나는 친구들과 이 문제를 토론했다.
+
+[885]
+#I swam him 800 meters.
+#나는 그와 800미터 수영경기를 했다.
+
+[886]
+#I met a woman whom I know.
+#나는 내가 알고 있는 한 부인을 만났다.
+
+[887]
+#She was walking towards town when I met her.
+#내가 그녀를 만났을 때 그녀는 마을쪽으로 걸어가고 있었다.
+
+[888]
+#I met a man from across the street.
+#나는 거리에 살고 있는 한 사람을 만났다.
+
+[889]
+#I predict it will outmode overnight.
+#나는 그것은 시대에 뒤떨어질거라고 예측한다.
+
+[890]
+#I foreboded that I might fail.
+#나는 자신이 실패할거라고 예감했다.
+
+[891]
+#I calculate upon earning 5000 pounds a year.
+#나는 1년에 500파운드는 벌 수 있다고 견적한다.
+
+[892]
+#I visualize having to fire some of the workers.
+#나는 반드시 몇 명의 노동자를 해고해야 한다고 예상한다.
+
+[893]
+#I meant you to have these flowers.
+#나는 원래 생화들을 너에게 보내려 했다.
+
+[894]
+#I needn't' have put on this thick coat.
+#나는 원래 이런 두꺼운 외투를 입을 필요없다.
+
+[895]
+#I forgave the boy for stealing it.
+#나는 그 사내가 그 물건을 훔친 것을 용서해 주었다.
+
+[896]
+#I had intended to make a cake,but I ran out of time.
+#나는 원래 케익을 만들고 싶었다. 그러나 시간이 없다.
+
+[897]
+#I refuse to go there,on principle.
+#나는 원칙상 그곳에 가는 걸 거절했다.
+
+[898]
+#I will share in the cost with you.
+#나는 너와 함께 이 비용을 부담하고 싶다.
+
+[899]
+#I will give it to you for nothing.
+#나는 공연히 그것을 너에게 주고 싶다.
+
+[900]
+#I'll play you a set of tennis.
+#나는 너와 테니스 한 게임을 쳤으면 한다.
+
+[901]
+#I am willing to accept your offer to act as your sales agent.
+#나는 너의 쪽 판매인이 되는 것을 받아들이고 싶다.
+
+[902]
+#I'd be happy to help you in any way I can.
+#나는 가능하다면 널 도우러 오고 싶다.
+
+[903]
+#I'm willing to risk losing everything.
+#나는 수단을 잃은 위험에서 빠져나오길 원한다.
+
+[904]
+#I'd like to go,but I'm unable to.
+#나는 가길 원하다. 그러나 나는 갈 수 없다.
+
+[905]
+#I'll make you an offer of ↔5 for it.
+#나는 너에게 그것을 살 수 있도록 5파운드를 주고 있다.
+
+[906]
+#My wife's father is an engineer and so am I.
+#나의 숙부는 엔지니어다. 나도 역시 그렇다.
+
+[907]
+#My wife's mother is staying with us.
+#나의 숙모는 우리 있는 곳에 산다.
+
+[908]
+#I permitted her to enter my room.
+#나는 그녀가 나의 방에 들어가도록 허락했다.
+
+[909]
+#Once agsin I felt that she chose her words with care.
+#나는 그녀가 말하는 것이 매우 조심스럽다고 다시 느꼈다.
+
+[910]
+#I'll be through in a few minutes.
+#나는 다시 잠시 후 다 할 것이다.
+
+[911]
+#yet once more I forbid you to go with him.
+#나는 네가 그와 가지 말라고 다시 한번 말했다.
+
+[912]
+#I won't stand for his unreasonable demands any longer.
+#나는 그의 무례한 요구를 더 이상 참을 수 없다.
+
+[913]
+#I am not going to stand for that kind of behavior.
+#나는 더 이상 그런 행동은 참을 수 없다.
+
+[914]
+#I'm knitting a pair of socks.
+#나는 너에게 양말을 짜주고 있다.
+
+[915]
+#I've had a heavy day at the office.
+#나는 사무실에서 피로한 하루를 보냈다.
+
+[916]
+#I read an article about that in the papers.
+#나는 신문에서 그 일과 유관한 문장을 읽었다.
+
+[917]
+#I saw your photograph in the paper.
+#나는 신문에서 너의 사진을 보았다.
+
+[918]
+#I felt a little queasy on the ship.
+#나는 배에서 좀 어지러워 구토하고 싶었다.
+
+[919]
+#I spent the whole day in bed.
+#나는 침대에 하루종일 누워 있었다.
+
+[920]
+#I spent three years at university.
+#나는 대학에서 3년을 보냈다.
+
+[921]
+#I have studied in the university above three years.
+#나는 대학에서 이미 3년여를 배웠다.
+
+[922]
+#I saw it on the telly.
+#나는 TV에서 이 일을 보았다.
+
+[923]
+#I have a lot of trouble with pronunciation.
+#나는 발음에 많은 문제가 있다.
+
+[924]
+#I routed him out at dawn.
+#나는 새벽에 그를 침대에서 깨웠다.
+
+[925]
+#I have 50,000 shares in the steel company.
+#나는 이 철도회사에 주식 5만주를 갖고 있다.
+
+[926]
+#I'm just putting the finishing touches to the cake.
+#나는 케익을 준 뒤 더 돋보이게 했다.
+
+[927]
+#By the way,Who are you waiting for?
+#나는 남미주의 한 친구에게 편지를 썼다.
+
+[928]
+#I saw him on the bus.
+#나는 버스정거장에서 그를 보았다.
+
+[929]
+#She chanced to be in the park when I was there.
+#내가 공원에 있을때 우연히 그녀도 그곳에 있었다.
+
+[930]
+#I am corresponding with an American schoolboy.
+#나는 미국에 있는 남학생과 통신하고 있다.
+
+[931]
+#I observed a flash of lightning in the dark.
+#나는 어둠 속에서 번개를 보았다.
+
+[932]
+#I saw a form in the dark.
+#나는 어둠속에서 사람의 그림자를 보았다.
+
+[933]
+#I fumbled about trying to find my spectacles in the dark.
+#나는 어둠속에서 나의 안경을 찾아 더듬거렸다.
+
+[934]
+#I went along,feeling about in the dark.
+#나는 어둠속에서 더듬거리며 전진했다.
+
+[935]
+#I'll speak to that point later.
+#나는 뒤에 아직도 그 점을 이야기 할것이다.
+
+[936]
+#I walked in the garden,breathing the smell of the fresh air.
+#나는 화원에서 산보하며 신선한 공기를 마셨다.
+
+[937]
+#I've mucked up my shirt by working in the garden.
+#나는 화원에서 일하는데 옷을 더럽혔다.
+
+[938]
+#I spent the afternoon pottering about in the garden.
+#나는 화원에서 빈둥거리며 오후를 보냈다.
+
+[939]
+#I met him on the way home.
+#나는 집에 돌아가는 길에 그를 만났다.
+
+[940]
+#I'll call by at the shops on the way home.
+#나는 집에 돌아가는 길에 상점에 들려 구경할 것이다.
+
+[941]
+#I met up with an old friend on the train.
+#나는 기차 안에서 한 오래된 친구를 만났다.
+
+[942]
+#In my hurry I bumped into a man.
+#나는 바쁜 와중에 사람과 부딪혔다.
+
+[943]
+#I am anxiously awaiting your reply.
+#나는 긴박하게 너의 답신을 기다린다.
+
+[944]
+#I've an idea for a new book.
+#나는 계획에 새 책을 한권 썼다.
+
+[945]
+#I knocked into him on the street.
+#나는 거리에서 우연히 그를 만났다.
+
+[946]
+#I'm trying to think how to get there.
+#나는 어떻게 그곳에 가야 할지 열심히 생각했다.
+
+[947]
+#I saw it in today's newspaper.
+#나는 오늘의 신문에서 이 일을 보았다.
+
+[948]
+#My appearance at the party was not very welcome.
+#내가 집회에 나타나면 매우 환영받지 못한다.
+
+[949]
+#I'm pondering what to do next.
+#나는 다음에 어떻게 해야할지 생각중이다.
+
+[950]
+#I used to room with a friend in London.
+#나는 런던에서 친구와 같은 방을 썼다.
+
+[951]
+#I always get the collywobbles before an interview.
+#나는 면담 전에 언제나 마음이 불안하다.
+
+[952]
+#Where can I change my English money for dollars?
+#저는 어디에서 파운드를 달러로 바꿀수 있지요?
+
+[953]
+#I wondered to see you there.
+#나는 그곳에서 네가 놀라는 것을 보았다.
+
+[954]
+#I met with an old friend at the meeting.
+#나는 그 회의에서 오래된 한 친구를 만났다.
+
+[955]
+#I've wasted a lot of money on that car.
+#나는 그 차안에서 쓸데없이 많은 돈을 썼다.
+
+[956]
+#I had once been in England before that time.
+#나는 그전에 영국에 한번 들렀다.
+
+[957]
+#So was I engaged,when the telephone rang.
+#나는 그렇게 할 때 전화벨이 울렸다.
+
+[958]
+#When I was very young,I had the misfortune to lose my father.
+#나는 어린 시절에 불행히 아버지를 여의었다.
+
+[959]
+#I spotted my friend at once among the crowd.
+#나는 사람들 틈에서 한눈에 나의 친구를 알아보았다.
+
+[960]
+#I work by day and study by night.
+#나는 낮에 일하고 밤에 공부한다.
+
+[961]
+#I found a hair in the gravy.
+#나는 고깃국에서 머리카락 하나를 발견했다.
+
+[962]
+#I squared my account at the store.
+#나는 상점에서 장부를 깨끗히 결산했다.
+
+[963]
+#I'm getting a strong response on the sonar.
+#나는 수중 음파 탐지기로 강력한 반응을 측량하고 있다.
+
+[964]
+#I cannot rest until the matter is settled.
+#나는 일을 다 해결하기 전에 마음을 놓을 수 없다.
+
+[965]
+#I heard the election results on the radio.
+#나는 녹음기로 선거결과를 들었다.
+
+[966]
+#I found him in his study.
+#나는 그의 책방에서 그를 찾았다.
+
+[967]
+#I live at 3 Shanghai Road,Taipei,Taiwan.
+#나는 대만 대북 상해로 3호에서 머물렀다.
+
+[968]
+#I am packing my things up for the long journey.
+#나는 이 긴 여행을 위해 짐을 정리했다.
+
+[969]
+#I grow potatoes on my little plot of land.
+#나는 나의 작은 땅에 감자를 심었다.
+
+[970]
+#I finish working at 5:45 p.m.
+#나는 오후 5시 45분에 일을 끝냈다.
+
+[971]
+#I was thinking about what was left of him in the room.
+#나는 방에 그가 남긴 물건을 생각하고 있다.
+
+[972]
+#I was debating whether to go or not.
+#나는 마음으로 갈지 말지 따졌다.
+
+[973]
+#I mentioned your name to him in my letter.
+#나는 편지에 그에게 너의 이름을 제시했다.
+
+[974]
+#I enclosed some photographs in my letter.
+#나는 편지에 몇장의 사진을 봉했다.
+
+[975]
+#I am inferior to others in many respects.
+#나는 많은 방면에서 다른 사람보다 뒤떨어진다.
+
+[976]
+#I'm learning German,but I still can't speak it properly.
+#나는 독어를 배우고 있다. 그러나 아직 잘 못한다.
+
+[977]
+#I got bitten in a mail order swindle.
+#나는 한번 우편으로 사기를 당했다.
+
+[978]
+#I hit her in a fit of anger.
+#나는 화가 대단히 나서 그녀를 때렸다.
+
+[979]
+#I was in the hospital for several weeks.
+#나는 병원에서 몇 주일을 보냈다.
+
+[980]
+#I'm leaving you ↔5v ad [T] in my will.
+#나는 유언으로 너에게 500파운드를 남겨 줄것다.
+
+[981]
+#I am listening,but I hear nothing.
+#나는 귀 기울여 들었다. 그러나 어떤 것도 들리지 않았다.
+
+[982]
+#I ate breakfast and dinner but nothing between.
+#나는 아침과 점심 사이에 음식을 먹지 않는다.
+
+[983]
+#I've lived here for five years.
+#나는 여기에서 이미 5년을 살았다.
+
+[984]
+#I'm banking on you (to help us).
+#나는 네가 우리들을 돕기를 바라고 있다.
+
+[985]
+#I was absorbed in a book and didn't hear you call.
+#나는 전심으로 책을 읽고 있으나 아직 너의 부르는 소리를 듣지 못했다.
+
+[986]
+#I read it in yesterday's newspaper.
+#나는 어제 신문에서 그 소식을 들었다.
+
+[987]
+#I saw her at yesterday's meeting.
+#나는 어제 회의에서 그녀를 보았다.
+
+[988]
+#I am in favor of giving everyone a day off.
+#나는 사람들에게 하루의 휴가를 주는데 찬성했다.
+
+[989]
+#I agree with you in all your views.
+#나는 너의 모든 의견에 찬성한다.
+
+[990]
+#I'm in favour of plain honest dealing.
+#나는 소박하고 정직하게 사람을 대하는 태도에 찬성한다.
+
+[991]
+#I agree with some of what he said.
+#나는 그가 말한 밀부분을 찬성한다.
+
+[992]
+#I'll probably have eggs and toast for breakfast.
+#나의 아침은 아마 계란과 토스트일것이다.
+
+[993]
+#Knowing John,he'll be late.
+#나는 존이 늦을 거라는 것을 일찌기 알았다.
+
+[994]
+#I called him this morning but he was out.
+#나는 아침에 그에게 전화를 걸었다. 그러나 그는 나갔다.
+
+[995]
+#How could I ask you to love me?
+#내가 어떻게 네가 나를 좋아하라고 요구하겠니?
+
+[996]
+#How can I repair the wrong I have done her?
+#내가 어떻게 그녀에 대한 원망을 풀어주겠냐?
+
+[997]
+#How can I persuade you of my sincerity!
+#내가 어떻게 너에게 나의 성의를 믿게 할수 있니?
+
+[998]
+#How can I get rid of the flies in the kitchen?
+#내가 어떻게 주방의 파리를 없앨 수 있니?
+
+[999]
+#I cannot lick the fault out of him.
+#내가 어떻게 그를 때려도 그의 단점은 고칠 수 없다.
+
+[1000]
+#I can hardly demand money from him.
+# 내가 어떻게 해도 그에게 돈을 요구할 수 없다.
+
+[1001]
+#Often had I intended to speak of it.
+#나는 일찍이 여러차례 그 일을 이야기 하려고 했다.
+
+[1002]
+#I expected the worst.
+#나는 나쁜 일이 생길거라고 일찍이 예감했다.
+
+[1003]
+#I stood watching for the signal to change to green.
+#나는 교통신호등이 파랗게 바뀔때까지 서서 기다렸다.
+
+[1004]
+#My husband teaches at a local school.
+#나의 남편은 그 지역의 한 학교에서 공부한다.
+
+[1005]
+#I can't quite put my finger on what's wrong.
+#나는 어디가 틀렸는지 찾아낼 수 없다.
+
+[1006]
+#I can't find that wretched umbrella!
+#나는 그 고장난 우산을 찾을 수 없다.
+
+[1007]
+#I can't trace the letter you sent me.
+#나는 제가 나에게 보낸 편지를 찾을 수 없다.
+
+[1008]
+#I can't carry all my stuff in this bag.
+#나는 이 가방에 모든 물건을 담을 수 없다.
+
+[1009]
+#I'm eighty dollars in the hole this month.
+#나는 이번 달에 80달러가 적자이다.
+
+[1010]
+#I just can't shake this cold off.
+#나의 이번 감기는 치료할 수 없다. 
+
+[1011]
+#This old coat of mine is falling to pieces.
+#나의 이 오래된 외투가 찢어지기 시작했다.
+
+[1012]
+#I'm warning you for the last time.
+#이것은 내가 너에게 주는 마지막 경고이다.
+
+[1013]
+#My bad leg is playing me up.
+#나의 병이 있는 다리가 통증이 있다.
+
+[1014]
+#I did it from force of habit.
+#내가 이렇게 하는 것은 노력으로 습관들은 것이다.
+
+[1015]
+#I regret that you should have been caused inconvenience.
+#내가 너에게 번거로움을 주어서 정말 미안하다.
+
+[1016]
+#How can I ever thank you ?.
+#나는 어떻게 너에게 감사해야 할지 정말 모르겠다.
+
+[1017]
+#I sincerely hope that you will be well again soon.
+#나는 네가 빨리 회복되기를 진실로 희망한다.
+
+[1018]
+#Is it really necessary for me to attend the meeting?
+#나는 이 회의에 반드시 참가해야 합니까?
+
+[1019]
+#I'm not really attuned to his way of thinking.
+#나는 그의 사고방식에 정말 맞지 않다.
+
+[1020]
+#Was I really speeding,officer?
+#내가 정말 과속했습니까? 경찰관님!
+
+[1021]
+#I wish I could find out about the situation there.
+#나는 그곳의 상황을 알기를 정말 희망한다.
+
+[1022]
+#I wish she wouldn't act so cheap.
+#나는 그녀가 자신을 이렇게 낮게 평가하지 않길 정말 바란다.
+
+[1023]
+#I'd like to give that man a punch on the nose.
+#나는 정말 그 사람의 코에 한대 때리고 싶었다
+
+[1024]
+#I was so shocked I could hardly speak.
+#나는 놀라 거의 말이 나오지 않았다.
+
+[1025]
+#My sense of humor was shocked out of me.
+#나는 놀라 유머감각을 잃었다.
+
+[1026]
+#I rallied all my energy for further effort.
+#나는 정신을 차리고 다시 노력을 했다.
+
+[1027]
+#I am tired of doing nothing.
+#나는 온종일 일 없이 빈둥거렸다. 정말 무료하다.
+
+[1028]
+#I got dressed in three minutes flat!
+#나는 마침 3분동안 옷을 다 입었다.
+
+[1029]
+#I'm trying to get in touch with my brother.
+#나는 나와 형제와 연결할 방법을 모색한다.
+
+[1030]
+#I'll just rinse out these shirts.
+#나는 이 몇 벌의 와이셔츠를 깨끗하게 행구고 싶다.
+
+[1031]
+#I'm taking this parcel to the post office.
+#나는 마침 이 소포를 우체국에 보내려 한다.
+
+[1032]
+#I'm just going to unpack my clothes.
+#나는 마침 옷가방에서 나의 옷을 꺼내려 한다.
+
+[1033]
+#I'm just going to unpack my case.
+#나는 마침 상자를 열어 안의 물건을 꺼내려 한다.
+
+[1034]
+#I was just going to speak,when the bell rang.
+#나는 마침 말을 했을 때 벨이 울렸다.
+
+[1035]
+#I'm thinking about killing two birds with one stone.
+#나는 일거양득의 계획을 생각하고 있다.
+
+[1036]
+#I'm trying to start up a swimming club.
+#나는 한 수영클럽을 세우려고 노력하고 있다.
+
+[1037]
+#I am preparing to come to enroll in early September.
+#나는 9월초에 와서 보고하려고 준비를 하고 있다.
+
+[1038]
+#I'm just wondering where to spend the weekend.
+#나는 어디가서 주말을 보낼까 생각하고 있다.
+
+[1039]
+#I am learning how to go it.
+#나는 어떻게 그것을 할까 공부하고 있다.
+
+[1040]
+#I was looking for something cheaper.
+#나는 비교적 싼 물건을 찾고 있다.
+
+[1041]
+#I am neaten the books on the low bookshelf.
+#나는 낮은 책꽂이의 책을 정리하고 있다.
+
+[1042]
+#I am saving money for a holiday.
+#나는 휴가를 보낼 비용으로 돈을 모으고 있다.
+
+[1043]
+#I am reckoning on you to support me in this matter.
+#나는 네가 이 일로 나를 지지하길 바란다.
+
+[1044]
+#I'm sitting in my room and looking through my old record albums.
+#나는 방에 앉아 오래된 음반을 살펴보고 있다.
+
+[1045]
+#I understand that you're on duty tomorrow night from 5 till midnight.
+#나는 내일 저녁5시에서 밤까지 네가 당직이라고 알고 있다.
+
+[1046]
+#I know the things whereat you are displeased.
+#나는 네가 어떤것에 불쾌한지 알고 있다.
+
+[1047]
+#I know you're busy; I won't keep you.
+#나는 네가 바쁘다는 것을 안다. 나는 너를 번거롭게 하고 싶지 않다.
+
+[1048]
+#I understand you're coming to work for us.
+#나는 우리일을 도우러 올 거라고 알고 있다.
+
+[1049]
+#I know him to be a great reader.
+#나는 그가 많은 책을 읽은 사람이라고 알고 있다.
+
+[1050]
+#I see the justice of his remark.
+#나는 그가 말한 것이 정확하다고 알고 있다.
+
+[1051]
+#I was aware of what he was aiming at.
+#나는 그가 어떤 생각을 하는지 알고 있다.
+
+[1052]
+#I know that she was once a singer.
+#나는 그녀가 이전에 가수였다는 것을 안다.
+
+[1053]
+#I knew that something was going to happen,and I was very jumpy.
+#나는 일이 일어나려는 것을 알고 놀라 심장이 뛰었다.
+
+[1054]
+#I know of a place where we can swim.
+#나는 한 수영할 수 있는 곳을 안다.
+
+[1055]
+#I was assigned the lobstershift ,from midnight until eight in the morning.
+#나는 오후부터 아침 8시까지 야근했다.
+
+[1056]
+#I am designating you to act for me while I am away.
+#나는 네가 내가 없을 때 나를 대표하라고 지정했다.
+
+[1057]
+#I appointed Mr.White as my successor.
+#나는 화이트선생에게 나의 교제자가 되라고 지시했다.
+
+[1058]
+#I instructed him to buy the house for us.
+#나는 그에게 우리들을 위해 그 집을 사러 가라고 지시했다.
+
+[1059]
+#I'll just run through the main points of the subject.
+#나는 단지 이 문제의 요점을 한번 이야기 했다.
+
+[1060]
+#I waited for only two minutes before I was called in .
+#나는 단지 2분을 기다려 불리어져 나갔다.
+
+[1061]
+#I've only read Tolstoy's books in translation.
+#나는 단지 톨스토이 작품의 번역본을 읽은 적이 있다.
+
+[1062]
+#I can only just lift it.
+#나는 단지 그것을 제시할 수 밖에 없다.
+
+[1063]
+#I only get the odd moment to read.
+#나는 단지 짜투리 시간으로 책을 읽었다.
+
+[1064]
+#I only caught a glimpse of the speeding car.
+#나는 단지 그 질주하는 차를 주시했다.
+
+[1065]
+#I just threw the meal together.
+#나는 단지 급히 이 밥을 했다.
+
+[1066]
+#I haven't exchanged more than a few words with him.
+#나는 단지 그와 몇 마디를 나누었다.
+
+[1067]
+#I just play at tennis .
+#나는 단지 취미로 테니스를 친다.
+
+[1068]
+#I just took it for granted that you knew.
+#나는 단지 당연히 너는 알것이라 여겼다.
+
+[1069]
+#I'm just the dogsbody in this office.
+#나는 단지 이 사무실 안에서 잡일을 하는 사람이다.
+
+[1070]
+#It was my birthday I wanted to forget!
+#나는 단지 나의 생일을 잊고 싶었다.
+
+[1071]
+#I've only got fivers.
+#나는 액면 5장의 수표가 있다.
+
+[1072]
+#Without your financial aid I couldn't manage to come.
+#나는 너의 도움하에서 올 수 있다.
+
+[1073]
+#I've a rough idea where it is.
+#나는 단지 그것이 대략 어디에 있는지 알고 있다.
+
+[1074]
+#I hope to be honored with your permission.
+#나는 너와의 약속을 애타게 기대했다.
+
+[1075]
+#I contrived to arrive in time after all.
+#나는 마침내 제 때에 도착할 방법을 강구했다.
+
+[1076]
+#Let me make you a fresh pot of tea.
+#나는 다시 너에게 차를 한잔 주겠다.
+
+[1077]
+#I freely admit that what I said was wrong.
+#나는 방금 한 말이 틀렸다고 주동적으로 승인했다.
+
+[1078]
+#My main concern is for the safety of my family.
+#내가 주로 관심 있는 것은 우리 가족의 안전이다.
+
+[1079]
+#The place where I live is near the sea.
+#내가 사는 곳은 바다와 가깝다.
+
+[1080]
+#I live on the ground floor of a block of flats.
+#나는 아파트의 저층에 산다.
+
+[1081]
+#I live at 1203 Washington street.
+#나는 워싱턴 1203호에 산다.
+
+[1082]
+#I live in a flat in Liveppool.
+#나는 리버풀의 한 아파트에 산다.
+
+[1083]
+#I watched them studying English.
+#나는 그들이 영어를 공부하고 있는지 주시했다.
+
+[1084]
+#I noticed he was regarding me curiously .
+#나는 그가 호기심으로 나를 응시하는지 주의했다.
+
+[1085]
+#I noticed her standing by the window.
+#나는 그녀가 창가 옆에 서 있는 것을 주의했다.
+
+[1086]
+#I took the opportunity of seeing the minister.
+#나는 그 부장을 참견할 기회를 잡았다.
+
+[1087]
+#The money I earn is used to support my family.
+#내가 번 돈은 가족을 부양하는데 쓰인다.
+
+[1088]
+#I am going to rub up the chromium on the car.
+#나는 차의 크롬도금 조립부분을 깨끗하게 닦으려 한다.
+
+[1089]
+#I'm going to give the house a good cleanup.
+#나는 방을 깨끗이 청소하려 한다.
+
+[1090]
+#I'm going to call the employment agency for a job.
+#나는 직장을 신청하러 직업 소개소에 가려 한다.
+
+[1091]
+#I'm going to read you some of my poems.
+#나는 너에게 나의 시들을 읽어 주려한다.
+
+[1092]
+#I'm writing to say that I'll be spending Christmas with you.
+#나는 너희들와 함께 성탄절을 보내려 한다.
+
+[1093]
+#I am now writing to apply for admission to your language school.
+#나는 너희 영어학교에 공부를 신청하러 가려한다.
+
+[1094]
+#I scanned my pocket for change.
+#나는 자세히 주머니 안의 동전을 살폈다.
+
+[1095]
+#I pondered on what my father had said.
+#나는 아버지가 한 말을 자세히 생각했다.
+
+[1096]
+#I confess to being proud of my son's success.
+#나는 아들의 성공이 영광이라고 여겼다.
+
+[1097]
+#I fell that I am competent to meet the requirements which you have specified.
+#나는 귀사에서 열거한 조건에 부합된다고 믿는다.
+
+[1098]
+#I did it on my own responsibility.
+#나는 적극적으로 이 일을 했다.
+
+[1099]
+#I'll manage to scratch some money up somehow.
+#나는 돈을 벌어 야 될 방법을 강구해야 한다.
+
+[1100]
+#I feel that some disaster is impending.
+#나는 어떤 재난이 임박했다고 언제나 느낀다.
+
+[1101]
+#I always imagined him as a soldier.
+#나는 언제나 그를 군인으로 상상한다.
+
+[1102]
+#I always used to ask him a lot of questions.
+#나는 언제나 그에게 많은 문제를 물어본다.
+
+[1103]
+#I've always tried not to interfere in your affairs.
+#나는 언제나 너의 일을 최대한 간섭하지 않는다.
+
+[1104]
+#I used to have dinner at 7:30 and go to bed early.
+#나는 언제나 7시 반에 저녁을 먹고 일찍 잠을 잔다.
+
+[1105]
+#I've always denied myself for others.
+#나는 언제나 다른 사람을 위해 자신을 희생한다.
+
+[1106]
+#I always rejoice in my comrades' achievements.
+#나는 언제나 동지들의 성공으로 기쁘다.
+
+[1107]
+#I cannot recollect the exact circumstance.
+#나는 언제나 확실한 상황이 떠오르지 않는다.
+
+[1108]
+#I always ground my arguments on facts.
+#나는 언제나 사실을 내 이론의 근거로 삼는다.
+
+[1109]
+#I always used to leave for work at 8:30.
+#나는 언제나 8시 30분에 일하러 집을 나선다.
+
+[1110]
+#I waded through that long report at last.
+#나는 그 지루한 문장의 보고를 다 쓴다.
+
+[1111]
+#I managed to get out at the right station.
+#나는 목적지에서 차에서 내리려 한다.
+
+[1112]
+#I've always thought photography would be an interesting hobby.
+#나는 언제나 촬영은 재미있는 기호라고 여긴다.
+
+[1113]
+#I'll do it yet !
+#나는 언제나 하루에 그 일을 할 수 있다.
+
+[1114]
+#I walked so fast that I tired him out.
+#나는 빨리 걸어서 그의 근육이 풀리도록 피곤했다.
+
+[1115]
+#I passed by without his seeing me.
+#나는 그의 옆으로 걸어갔지만 그에게 보여지지 않았다.
+
+[1116]
+#She swivelled round as I came into the room.
+#내가 방에 걸어 들어 갔을때 그녀는 몸을 돌려 왔다.
+
+[1117]
+#I rede you not to stay here when I am gone.
+#나는 떠난 후 이곳에서 머물지 말라고 너에게 권한다.
+
+[1118]
+#My grandfather got married in 1921.
+#나의 조부는 1921년에 결혼했다.
+
+[1119]
+#I haven't met him for the past two months.
+#나는 최근 2개월동안 그를 보지 못했다.
+
+[1120]
+#I like this best and that next.
+#나는 이것을 제일 좋아한다. 다음이 저것이다.
+
+[1121]
+#I hate his paternal attitude.
+#나는 그의 간섭하기 좋아하는 태도를 제일 싫어한다.
+
+[1122]
+#I'll be home by five at the soonest.
+#나는 가장 이른 아침에도 5시가 되서야 집에 간다.
+
+[1123]
+#I have given up smoking on my doctor's orders.
+#나는 의사의 분부에 따라 담배를 피지 않았다.
+
+[1124]
+#The news only reached me yesterday.
+#나는 어제서야 이 소식을 들었다.
+
+[1125]
+#Did you post that letter I gave you yesterday?
+#내가 어제 너에게 준 편지를 넌 부쳤니?
+
+[1126]
+#I ran up against an old friend yesterday.
+#나는 어제 우연히 한 오래된 친구를 만났다.
+
+[1127]
+#I dropped across Little Tom yesterday.
+#나는 어제 우연히 어린 탐을 만났다.
+
+[1128]
+#I left there secretly yesterday.
+#나는 어제 몰래 그곳을 떠났다.
+
+[1129]
+#Last night I heard her sing French songs.
+#나는 어제 저녁에 그녀가 프랑스 노래 부르는 것을 들었다.
+
+[1130]
+#My father frowned when I came home late last night.
+#나는 어제밤에 돌아 왔을때 아버지는 눈썹을 찡그렸다.
+
+[1131]
+#I did that which I ought to do.
+#나는 내가 해야 할 일을 했다.
+
+[1132]
+#I shouldn't dream of doing such a thing.
+#나는 꿈에도 이 일을 할 줄 몰랐다.
+
+[1133]
+#never did I dream that he had told a lie.
+#나는 꿈에도 그가 거짓말을 할 줄 몰랐다.
+
+[1134]
+#I did it with good intentions.
+#내가 그 일을 하는 것은 선의를 나타낸 것이다.
+
+[1135]
+#I waved him to a chair.
+#나는 손짓을 해서 그에게 의자에 앉으라 했다.
+
+[1136]
+#After I had finished doing my lesson,I went to bed.
+#나는 공부를 한 이후에 곧 잠을 잤다.
+
+[1137]
+#I'm beat after all that work!
+#나는 모든 일을 한 후 아주 피곤했다.
+
+[1138]
+#I am answerable to the government for any decision I make.
+#내가 내린 어떤 결정도 정부에게 책임진다.
+
+[1139]
+#I had a sore seat after sitting so long.
+#나는 그렇게 오래 앉은 후 엉덩이가 아팠다.
+
+[1140]
+#I sat down to recover from my agitation.
+#나는 앉아 스스로 안정시켰다.
+
+[1141]
+#I was sitting in the garden enjoying the sunshine.
+#나는 화원에 앉아서 햇빛을 즐겼다
+
+[1142]
+#My past life rushed into my memory.
+#나는 과거의 생활을 갑자기 떠올렸다.
+
+[1143]
+#I pressed the button,and a bell rang.
+#내가 단추를 살짝 누르자 벨이 울렸다.
+
+[1144]
+#I repent having offended my sister.
+#나는 동생의 감정을 상한게 한 것을 후회했다.
+
+[1145]
+#I regret having been so careless.
+#나는 자신이 그렇게 덤벙댄 것을 후회했다.
+
+[1146]
+#Hold tight to the handle bars and be careful you don't fall off.
+#손을 꽉 잡아라. 넘어질까 조심해라.
+
+[1147]
+#The Walkers have 20 pounds coming in weekly.
+#워커가족은 매주 20파운드 수입이 있다.
+
+[1148]
+#The witches were found to sit at a table with the black man.
+#무당은 귀신과 함께 한 책상에 앉아 있는 것을 발견되었다.
+
+[1149]
+#The turtle doesn't run so quickly as the hare.
+#거북이는 토끼보다 빠르지 않다.
+
+[1150]
+#The wings of the crow cannot blot out the golden rays of the sun.
+#까마귀의 날개는 태양의 빛을 가릴 수 없다.
+
+[1151]
+#Crows crawk as they are flying over the field.
+#까마귀가 광야로 날아갈 때 울면서 날아갔다.
+
+[1152]
+#The crow pecked out the eyes of the dead sheep.
+#까마귀는 그 죽은 양의 눈을 쪼았다.
+
+[1153]
+#Black smoke mushroomed over the warehouse.
+#검은 연기는 창고 위로 퍼졌다.
+
+[1154]
+#Dark clouds cannot hide for long the bright rays of the sun.
+#먹구름은 오랫동안 찬란한 태양을 가릴 수 없다.
+
+[1155]
+#Dark clouds were brooding over the city.
+#먹구름은 그 도시의 상공을 덮었다.
+
+[1156]
+#Dark clouds massed,and we expected rain.
+#먹구름이 가득하다. 우리들은 비가 올거라고 예측했다.
+
+[1157]
+#The dark clouds announced the coming his return.
+#먹구름은 비바람이 오려는 징조이다.
+
+[1158]
+#Dark clouds hint at the storm to come.
+#먹구름은 폭풍우가 내릴것을 예시했다.
+
+[1159]
+#The dirt was deeply ground into the floor.
+#쓰레기가 깊이 마루바닥 안으로 눌렸다.
+
+[1160]
+#Pollution control has cleared the air.
+#오염관제가 이미 공기를 정화했다.
+
+[1161]
+#The muddy river cleared gradually.
+#오염된 하류는 점점 깨끗해졌다.
+
+[1162]
+#The roof slants upwards from left to right.
+#지붕은 왼쪽에서 오른쪽으로 위를 향해 경사졌다.
+
+[1163]
+#The weight of the roof sways the pillars to one side.
+#지붕이 중량은 기둥 한쪽으로 기울여졌다.
+
+[1164]
+#When did the roof cave in?
+#지붕은 언제 붕괴되었니?
+
+[1165]
+#The roof collapsed under the weight of the snow.
+#지붕은 쌓인 눈의 중압으로 무너졌다.
+
+[1166]
+#The roof has leaks in it,and a dresser for the bedroom.
+#지붕에 새는 구멍이 있어 앞의 층계를 보수해야 한다.
+
+[1167]
+#There was a policeman watching outside the house.
+#집밖에 감시하는 한 경찰이 있다.
+
+[1168]
+#I was bowed out by the master of the house.
+#집의 주인은 허리를 굽혀 나를 전송하였다.
+
+[1169]
+#The house soon filled with children.
+#집안은 곧 아이들로 가득 찼다.
+
+[1170]
+#The house burnt up before the firemen got there.
+#집은 소방대원들이 오기 전에 타버렸다.
+
+[1171]
+#Children unaccompanied by an adult will not be admitted.
+#성인을 동반하지 않은 아이들은 안에 들어갈 수 없다.
+
+[1172]
+#The fort can't be defended against an air attack.
+#공습을 이겨내지 못하고 토치카에 머무를 방도가 없다.
+
+[1173]
+#There was no inducement for her to behave better.
+#그녀에게 행동을 주의하라고 유도할 방법이 없다.
+
+[1174]
+#no smoke without fire.
+#불이 없이 연기가 나지 않고 바람없이 파도가 치지 않는다.
+
+[1175]
+#Compulsive eating is bad for one's health.
+#제제할 수 없는 과식은 신체의 건강에 해롭다.
+
+[1176]
+#I shall go,come what may.
+#어떤 일이 생기든 나는 반드시 가겠다.
+
+[1177]
+#I am ready for whatever comes.
+#어떤 일이 발생하든 나는 모두 준비하겠다.
+
+[1178]
+#Wherever you go,I go too.
+#네가 어디에 가든 나도 간다.
+
+[1179]
+#Whatever you do,don't keep him waiting!
+#네가 무엇을 하든 그를 오래 기다리게 하지 마라.
+
+[1180]
+#He is anything but madest.
+#어쨋든 그는 겸허하지 않다.
+
+[1181]
+#At all events we should listen to his opinion.
+#어쨋든 우리들은 그의 의견을 들어야 한다.
+
+[1182]
+#It doesn't see anyway good for him.
+#어쨋든 이것은 그에게 좋은 점이 없다.
+
+[1183]
+#The attack had to be pressed forward under all circumstances.
+#어쨋든 반드시 계속 진격해야 한다.
+
+[1184]
+#I had to do it,willynilly.
+#어쨋든 나는 해야 한다.
+
+[1185]
+#We must catch the next train at all costs.
+#어쨋든 우리들은 반드시 퇴근 기차를 타야 한다.
+
+[1186]
+#I will go home at once anyway.
+#어쨋든 나는 곧 집에 돌아가야 한다.
+
+[1187]
+#Get the money,regardless!
+#어쨋든 돈을 손에 넣어야 한다.
+
+[1188]
+#Come whenever you will.
+#언제든지 네가 오고 싶을 때 와라.
+
+[1189]
+#No one man can do it.
+#누구든지 혼자 할 수 없다.
+
+[1190]
+#I will accept whosesoever help is offered.
+#누가 협조를 제공하든 나는 받아들일 수 있다.
+
+[1191]
+#No matter what he says,don't go.
+#그가 어떻게 말하든 가지마라.
+
+[1192]
+#Admittedly,he is rather foolish.
+#그가 상당히 바보라고 부정하는 사람은 없다.
+
+[1193]
+#No harm done.
+#다치는 사람없이 온몸이 평안하고 무사하길.
+
+[1194]
+#No one knows whose dictionary this is.
+#이것이 누구의 사전인지 아는 사람은 없다.
+
+[1195]
+#There's nothing to corroborate your story.
+#너의 말을 확정할 수 있는 어떤 것도 없다.
+
+[1196]
+#An atheist never believes in God.
+#무신론자는 원래 하느님을 믿지 않는다.
+
+[1197]
+#spin out a project indefinitely
+#무기한으로  공사를 연장하다.
+
+[1198]
+#undoubtedly he did it.
+#의심할 필요없이 그는 그 일을 했다.
+
+[1199]
+#A man without a longhead would regret what he has done.
+#멀리 보지않는 사람은 자신이 한 일을 후회하게 된다.
+
+[1200]
+#anarchy reigned for many years.
+#무정부상태는 몇년동안 계속되었다.
+
+[1201]
+#Wuhan lies where the Yangtze and the Han River meet.
+#무한은 장강과 한수가에서 합쳐진 곳에 있다.
+
+[1202]
+#Our armed forces do us credit.
+#무장부대는 우리들의 명목을 세웠다.
+
+[1203]
+#Five men were shipped off to the Far East.
+#다섯 명은 원동으로 유배됐다.
+
+[1204]
+#Five trees fell over in the storm.
+#다섯 그루의 나무는 폭풍우중에 쓰러졌다.
+
+[1205]
+#Would five yuan help you out ?
+#5원으로 네가 문제를 해결하는데 도울수 있니?
+
+[1206]
+#Five soldiers were killed and twenty wounded.
+#5명의 전사가 사망하고 20명이 부상당했다.
+
+[1207]
+#Prices doubled in five years.
+#5년 동안 물가가 2배로 상승했다.
+
+[1208]
+#Children five or under were admitted free.
+#5세와 만5세가 안된 아이들은 입장무료이다.
+
+[1209]
+#Your favor of 24 May has been received.
+#5월24일날 소포를 받았다.
+
+[1210]
+#Cheating disennobles a man.
+#부정행위는 한 사람의 인격을 낮춘다.
+
+[1211]
+#The dancer moves very gracefully.
+#무용가는 매우 우아하게 걸음을 이동하고 있다.
+
+[1212]
+#Dancers need good coordination.
+#무용단원은 각 부분의 근육협조가 필요하다.
+
+[1213]
+#We'll have dancing from eight until eleven.
+#댄스는 8시에 시작되어 11시에 끝난다.
+
+[1214]
+#There were some dogs performing on the stage.
+#무대에 몇마리의 개가 쇼를 부린다.
+
+[1215]
+#Price increases hit everyone's pocket.
+#물가상승은 사람들의 돈 주머니에 충격을 주었다.
+
+[1216]
+#The effect of rising prices has snowballed.
+#물가상승의 영향은 끊임없이 신속하게 퍼졌다.
+
+[1217]
+#Rising prices were the company's downfall.
+#물가상승은 그 회사 부도의 원인이다.
+
+[1218]
+#Price increases trigger off demands for wage increases.
+#물가상승은 월급 인상의 요구를 유도했다.
+
+[1219]
+#Things command a higher price when they are scarce.
+#물품이 부족할 때 반드시 좋은 가격에 팔수 있다.
+
+[1220]
+#Materials: 10 different kinds of cables
+#물자 : 10가지 다른 규격의 케이블.
+
+[1221]
+#Keep your hands off!
+#손으로 만지거나 간섭하지 말것.
+
+[1222]
+#Be sure to hand in your compositions this afternoon.
+#반드시 오늘 오후에 작문을 제출해야 한다.
+
+[1223]
+#Do come and join us.
+#반드시 와서 우리와 같이 하자.
+
+[1224]
+#Spain is our favourite holiday spot.
+#스페인은 우리가 가장 좋아하는 여행지다.
+
+[1225]
+#Spain was unified in the 16th century.
+#스페인은 16세기에 통일되었다.
+
+[1226]
+#The western sky glowed with purple and crimson.
+#서쪽의 하늘에서 자홍색의 광휘가 나왔다.
+
+[1227]
+#Too much smoking is prejudicial to health.
+#담배를 많이 피면 건강에 해롭다.
+
+[1228]
+#Is there a link between smoking and lung diseases?
+#담배는 폐부의 질환과 관계가 있습니까?
+
+[1229]
+#Smoking can be a dangerous addiction.
+#담배는 일종의 위험한 기호이다.
+
+[1230]
+#The argument that smoking is injurious has become accepted.
+#담배의 해로운 설명은 이미 들은 적이 있다.
+
+[1231]
+#Attractive wrapping would help us sell the goods.
+#매력적인 포장은 우리들이 물건을 판매하는데 유리하다.
+
+[1232]
+#Hope deferred makes the heart sick.
+#현실적으로 번거롭지 않게 너그러워지길 바란다.
+
+[1233]
+#I hope you will respect my wishes.
+#네가 나의 소원을 고려하길 바란다.
+
+[1234]
+#Hebrew has sublinear vowel sign.
+#유대인은 선아래에 있는 모음부호를 이용한다.
+
+[1235]
+#The Greeks dedicated a shrine to the god.
+#그리스인은 한 묘당을 신에게 봉헌했다.
+
+[1236]
+#Greece was the cradle of Western civilization.
+#그리스는 서구문명의 발원지다.
+
+[1237]
+#Greek is a difficult language to master.
+#그리스어는 배우기 어려운 언어의 한 가지이다.
+
+[1238]
+#We hope to hear from you that we are awarded the contract.
+#곧 낙찰소식이 있길 희망한다.
+
+[1239]
+#We hope to have your confirmation on the above.
+#상술사항을 확인할 귀 공사의 답신을 바랍니다.
+
+[1240]
+#We hope you will carefully consider our proposal and let us have your early reply.
+#귀 공사는 열심히 고려한 뒤 빠른 답신을 바랍니다.
+
+[1241]
+#We look forward to an even larger order than the one you favored us with last year.
+#귀공사가 예약한 물건은 작년보다 많아지길 희망합니다.
+
+[1242]
+#We solicit your specific inquiry.
+#너희들의 구체적인 질문을 받길 바란다.
+
+[1243]
+#Will you let us have your order as soon as possible.
+#아주 빨리 귀 공사이 주문서를 받길 바랍니다.
+
+[1244]
+#We appreciate your immediate attention to this matter.
+#네가 이 일을 곧 관조하길  바란다.
+
+[1245]
+#Your careful reconsideration of this matter is invited.
+#네가 다시 진지하게 고려해보길 바란다.
+
+[1246]
+#I wish you would be so kind as to bear with him a little longer.
+#네가 다시 끈기있게 그가 말하는 것을 듣길 바란다.
+
+[1247]
+#We hope they will have got the crops in by the end of the week.
+#그들이 주말까지 농작물을 수확하길 바란다.
+
+[1248]
+#I hope she grows up to be everything you want he to be.
+#그녀가 여러가지로 네가 원하는 뜻대로 자라주길 바란다.
+
+[1249]
+#I hope to come round the next time I'm in town.
+#다음에 시내에 갈 때 너희들을 볼 수 있길 바란다.
+
+[1250]
+#Your acceptance is awaited.
+#신속하게 너희들의 회답을 얻길 바란다.
+
+[1251]
+#Who designed the Sydney Opera House?
+#신디극장은 누가 설계했니?
+
+[1252]
+#The light from the setting sun glanced off the oil tanks.
+#석양의 석조는 석유통에서 반사되었다.
+
+[1253]
+#As the sun went down the whole sky became suffused with a red glow.
+#석양은 서쪽으로 지고 온 천지는 붉게 물들었다.
+
+[1254]
+#The colour of the sky deepened as the sun went down.
+#석양은 서쪽으로 지고 하늘의 빛은 점점 어두워졌다.
+
+[1255]
+#The valley was hidden from view in the mist.
+#계곡은 안개속에 감추어져 보이지 않았다.
+
+[1256]
+#The stream peters out between the rocks.
+#계곡물은 암벽사이에서 서서히 사라진다.
+
+[1257]
+#The boy who likes to sing can speak two languages.
+#노래를 좋아하는 소년은 두 가지 언어를 할 줄 안다.
+
+[1258]
+#mothers who like to show their babies off
+#자신의 아이를 뽐내길 좋아하는 어머니들
+
+[1259]
+#A hot bath will refresh you.
+#더운물로 목욕을 하면 정신이 맑아질 것이다.
+
+[1260]
+#soak the blanket before you wash it.
+#양탄자를 빨기 전에 먼저 그것을 물에 담그었다.
+
+[1261]
+#The importance of washing one's hands is that it prevents infection.
+#손을 씻는 중요성은 감염의 방지에 있다.
+
+[1262]
+#The laundryman calls once a week.
+#세탁소의 직원은 매주 한번 온다.
+
+[1263]
+#Which do you like better,music or drama?
+#연극과 음악에서 너는 비교적 어떤 것을 좋아하니?
+
+[1264]
+#Theatre tickets must be used on the stated date.
+#극장표는 반드시 지정된 날짜에 사용해야 한다.
+
+[1265]
+#Tickets may be bought on application to the theatre.
+#극장표는 극장에서 예매할 수 있다.
+
+[1266]
+#The usherette conducted me to a seat.
+#극장의 여자직원은 나를 자리로 인도했다.
+
+[1267]
+#The lights in the theatre began to dim.
+#극장안의 등은 어두워지기 시작했다.
+
+[1268]
+#After the theater let out the street was at once thronged with people.
+#극장이 끝난 뒤 거리에 잠시 사람들이 꽉 찼다.
+
+[1269]
+#The test for bacteria was negative.
+#세균 검사의 결과는 음성이다.
+
+[1270]
+#Germs are too small to be seen with a naked eye.
+#세균이 너무 작아서 육안으로 볼 수 없다.
+
+[1271]
+#Bacteria are too small to see with the naked eye.
+#세균이 너무 작아서 육안으로 보이지 않는다.
+
+[1272]
+#The skin of a soft fruit bruises easily.
+#연한 과일껍질은 쉽게 터진다.
+
+[1273]
+#The loop of string makes a handle for the parcel.
+#가는 끈으로 연결된 고리로 꾸러미의 손잡이를 만들었다.
+
+[1274]
+#Watch what I do and how I do it.
+#내가 무엇을 어떻게 하는지 자세히 봐라.
+
+[1275]
+#The canyon walls echoed back the shot.
+#계곡의 암벽에 총소리가 울렸다.
+
+[1276]
+#He often rapped with me after work.
+#퇴근 후 그는 자주 나와 이야기 한다.
+
+[1277]
+#Out of hours,telephone 01-347-6521.
+#퇴근 후 01-347-6521번으로 돌려주세요.
+
+[1278]
+#The next installment will fall in on Friday.
+#차후 분기 납부기간은 목요일이다.
+
+[1279]
+#Be sure to look in on us next time you're in town.
+#다음에 시내에 갈때 반드시 우리들을 보러 와라.
+
+[1280]
+#Next time don't loll out your tongue out.
+#다음에 혀를 내밀어 사람들을 놀리지 마라.
+
+[1281]
+#Drop in and see us when you're next in London!
+#다음에 런던에 올 때 놀러 와라.
+
+[1282]
+#The next postal delivery is at 2 o'clock.
+#다음에 우편물 보내는 시간은 2시이다.
+
+[1283]
+#When shall we meet next?.
+#다음에 우리들은 언제 볼 수 있니.?
+
+[1284]
+#I'll dilate on this subject next time.
+#다음에 나는 이 문제를 자세히 말하겠다.
+
+[1285]
+#They're doing a gig in London next month.
+#다음 달에 그들은 연출하러 런던에 가려 한다.
+
+[1286]
+#Please hand in your books at the end of the lesson.
+#수업이 끝나고 너희들은 노트를 제출해라.
+
+[1287]
+#The rain has laid the dust.
+#한 차례 비가 내리자 먼지는 다시 날리지 않았다.
+
+[1288]
+#Did you notice the statement below?
+#아래의 성명을 넌 주의했니?
+
+[1289]
+#The next 20 miles will be an easy coast.
+#다음의 20마일은 쉬운 코스이다.
+
+[1290]
+#When does the next mail leave?.
+#다음 우편물은 언제 보내지니?
+
+[1291]
+#Afternoon dragged on into evening.
+#오후에 완연히 지나가고 황혼으로 변했다.
+
+[1292]
+#A great deal of work has been planned for next week.
+#다음주의 대량 작업은 이미 잘 안배했다.
+
+[1293]
+#Come along and visit us next week.
+#다음주에 우리가 있는 곳에 놀러와라.
+
+[1294]
+#I'll try to get over to see you sometime next week.
+#다음주 언제 나는 너를 보러 가려고 방법을 강구한다.
+
+[1295]
+#Dropround one evening next week.
+#다음주 일요일 저녁에 편한 시간에 와라.
+
+[1296]
+#The new law is applicable to everybody from next Monday.
+#다음주 월요일부터 새법률이 유효하다. 
+
+[1297]
+#will we see you again next term ?.
+#다음 학기에 우리들은 너를 다시 볼수 있니?
+
+[1298]
+#Next you should cancel out all the noughts.
+#다음에 너는 모든 0을 없애야 한다.
+
+[1299]
+#The next step was for him to find the weight of an equal volume of water.
+#다음에 그에게 체적물의 중량을 구하도록 했다.
+
+[1300]
+#It rests with you to make the next move.
+#다음에 어떻게 해야 할지 너에게 달려있다.
+
+[1301]
+#It will be six months before the next meeting rolls round.
+#다음은 반년 이후에야 열리게 될 것이다.
+
+[1302]
+#The next event will be the 100 metres race.
+#다음 항목은 100미터 경주이다.
+
+[1303]
+#The next flight connects with a flight for Paris.
+#다음 비행기는 파리로 가는 비행기와 연결되어 있다.
+
+[1304]
+#What time does the next class begin?
+#다음 과목은 언제 시작하니?
+
+[1305]
+#In the rain people were sheltering in the doorways of shops.
+#비가 올 때 사람은 상가의 문가에 숨는다.
+
+[1306]
+#The rain has worsened our difficulties.
+#비는 우리들의 어려움을 더 심각하게 한다.
+
+[1307]
+#Slacken up the tent ropes before it rains.
+#비가 내리기 전에 천막의 끈을 느슨하게 했다.
+
+[1308]
+#After the rain the whole cellar was afloat.
+#비가 온 후 지하실 전부 물이 들어갔다.
+
+[1309]
+#The beach was touristy in summer.
+#여름의 해안은 관광객들이 좋아한다.
+
+[1310]
+#The heat of summer afternoon invites sleep.
+#여름날 오후의 열기는 사람을 졸리게 한다.
+
+[1311]
+#Summer follows spring.
+#여름은 봄에 이어서 온다.
+
+[1312]
+#Would you consider going north this summer?
+#여름에 너는 북방에 가려고 생각하니?
+
+[1313]
+#Beat the eggs then add the flour.
+#먼저 계란을 깨고 다시 밀가루와 섞는다.
+
+[1314]
+#Fasten up your coat first ;don't catch cold.
+#먼저 너의 웃도리를 잘 잠궈라. 감기걸리지 않게.
+
+[1315]
+#Wash it well before you dry it.
+#먼저 철저하게 씻은 후 말려라.
+
+[1316]
+#first come,first served.
+#먼저 행동이 민첩한 사람이 먼저 목적을 달성한다.
+
+[1317]
+#Thanks ever so much for your interest,Mr.Kimball,and for your very kind offer.
+#선생님 저에 대한 호의와 관심에 감사드립니다.
+
+[1318]
+#May I help you,sir?.
+#선생님 네가 뭘 도와드릴 수 있을까요?
+
+[1319]
+#May we go now,sir?
+#선생님 우리들은 지금 갈 수 있습니까?
+
+[1320]
+#Mr.A was a judge at the Cannes Film Festival.A.
+#선생님은 영화전시회의 평가위원을 맡았다.
+
+[1321]
+#Mr.A was replaced as prime minister by Mr.B.B.
+#선생님은 A선생을 대신해 우두머리가 되었다.
+
+[1322]
+#Allen called.Wants a meeting tomorrow at 11.
+#선생에게 내일 오전 11시에 회의를 한다고 전화가 왔다.
+
+[1323]
+#Mr.A occupies a high position in society.A.
+#선생은 회의에서 아주 높은 위치에 있다.
+
+[1324]
+#Listen and repeat.
+#먼저 들은 후에 다시 한번 이야기 했다.
+
+[1325]
+#Bright red was the predominant colour in the room.
+#선홍색은 이 방의 주요 색조이다.
+
+[1326]
+#Fresh salmon doesn't come in before February,does it?
+#잉어는 2월에 시장에 나옵니까? 
+
+[1327]
+#The briny air gave a foretaste of the nearby sea.
+#공기가 짠 것은 곧 바다에 근접했다는 전조이다.
+
+[1328]
+#The salted fish is frizzling up in the sun.
+#절인 고기를 태양 아래에서 말렸다.
+
+[1329]
+#Great minds think alike.
+#현자는 생각이 비슷하다.
+
+[1330]
+#The microscope is a scientific instrument.
+#현미경은 일종의 과학 도구이다.
+
+[1331]
+#We are making you the following offer,subject to your reply reaching here within five days.
+#현재 아래와 같이 보도되었다. 5일 이내에 대답하기 어렵다.
+
+[1332]
+#Off-the-peg clothes are usually cheaper than clothes made-to-measure.
+#기성복은 통상적으로 맞춤복보다 싸다.
+
+[1333]
+#Nowadays there is too much sex on television.
+#지금 TV에서 성범람의 양상을 띤다.
+
+[1334]
+#There are many kinds of modern communication systems.
+#현대화의 통신시스템은 다양하다.
+
+[1335]
+#The mass of modern people are swayed by advertising.
+#현대인의 다반수는 좌우로 광고된다.
+
+[1336]
+#Enclosed find samples of barley,which we should like you to examine.
+#지금 보리 견본품을 동봉해 보내드리니 받아 주세요.
+
+[1337]
+#Now,Let us invite Ms Jeanne to address us.
+#지금 지니 여사님 우리에게 이야기해주세요.
+
+[1338]
+#Water must now be rationed.
+#지금 물을 반드시 제한선까지 제공해야 한다.
+
+[1339]
+#This is the wrong time to ask for a pay rise.
+#지금은 월급인상을 요구할 때가 아니다.
+
+[1340]
+#Mr.Brown will now say a few words.
+#현재 브라운선생은 몇 마디 하려고 한다.
+
+[1341]
+#Now,resume reading where you left off.
+#지금 네가 멈춘 곳에서 계속 읽어나가라.
+
+[1342]
+#It is time for us to start.
+#지금 우리가 출발할 때다.
+
+[1343]
+#It's high time we went.
+#지금은 우리가 갈때다.
+
+[1344]
+#It's time the dogs were chained up for the night.
+#지금은 사슬로 개를 밤새도록 묶어야 한다.
+
+[1345]
+#It's time to take a fresh look at this subject.
+#지금 이 문제를 다시 고려해야 했다.
+
+[1346]
+#Now,to come back to what I was saying a moment ago.
+#지금 내가 방금 말한 곳으로 돌아왔다.

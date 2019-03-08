@@ -1,0 +1,4025 @@
+[1]
+#You're not the banker type.
+#너는 은행업자 타입이 아니다.
+
+[2]
+#You don't say so?
+#네가 이렇게 말한 것이 아니겠지?
+
+[3]
+#You are unfit for business.
+#너는 장사하기에 부적합하다.
+
+[4]
+#It ill suits you to criticize me.
+#너는 나를 비평할 처지가 아니다.
+
+[5]
+#It was irresponsible of you not to lock the door.= You were irresponsiblenot to lock the door.
+#네가 문을 잠그지 않은 것은 너의 책임이 아니다.
+
+[6]
+#Wouldn't you like some coffee?
+#당신 커피 좀 마시고 싶지 않습니까?
+
+[7]
+#You should refrain your tongue from backbiting.
+#등 뒤에서 사람을 비난하지 말라.
+
+[8]
+#Won't you have some cookies?
+#과자 좀 먹지 않을래요?
+
+[9]
+#You should not be absent from class.
+#너는 수업에 빠져서는 안 된다.
+
+[10]
+#You should not resign to your fate.
+#너는 운명을 하늘에만 맡겨서는 안 된다.
+
+[11]
+#You shouldn't laugh at him.
+#너는 그를 비웃어서는 안 된다.
+
+[12]
+#You should not waste your time.
+#너는 시간을 낭비해서는 안 된다.
+
+[13]
+#You're not supposed to smoke in here.
+#이곳에서 담배를 피워서는 안 된다.
+
+[14]
+#You should not put on pressure.
+#너는 압력을 가해서는 안 된다.
+
+[15]
+#You should not tell lies.
+#거짓말을 해서는 안 된다.
+
+[16]
+#You have no need to be ashamed.
+#부끄러워할 필요 없다.
+
+[17]
+#You needn't stand; please sit down.
+#서있지 말고 앉으세요.
+
+[18]
+#She is desolated without you.
+#네가 없으니까 그녀가 외로워 한다.
+
+[19]
+#You don't know how much I love you.
+#내가 얼마나 너를 사랑하는지 너는 모른다.
+
+[20]
+#You are not allowed to come here.
+#네가 여기에 오는 것을 허락하지 않는다.
+
+[21]
+#Can you guess at the price?
+#당신은 가격이 얼마인지 추측할 수 있습니까?
+
+[22]
+#How much do you reckon that she earns?
+#당신은 그녀의 수입이 얼마인지 짐작이 갑니까?
+
+[23]
+#Have you suffered agonies with toothache?
+#당신은 이가 아파본 적이 있습니까?
+
+[24]
+#You are not singing in tune .
+#너는 박자도 어긋나게 서툴게 노래를 부른다.
+
+[25]
+#You eat more than she.
+#네가 그녀보다 많이 먹는다.
+
+[26]
+#What kind of breakfast did you have?
+#아침으로 무엇을 드셨습니까?
+
+[27]
+#Have you finished your breakfast?.
+#아침식사 다 하셨습니까?
+
+[28]
+#The time has arrived for you to start.
+#네가 출발할 시간이 되었다.
+
+[29]
+#Don't leave the light on when you go out.
+#외출할 때 불을 꼭 꺼주십시오.
+
+[30]
+#Where were you born?
+#당신은 어디에서 태어났습니까?
+
+[31]
+#What size shoes do you wear?
+#당신이 신은 신발은 사이즈가 얼마입니까?
+
+[32]
+#Which size do you wear?
+#너는 어떤 사이즈를 입는가?
+
+[33]
+#You never take my advice.
+#너는 줄곧 나의 충고를 듣지 않았다.
+
+[34]
+#Where did you get that idea ?
+#당신은 어디에서 그런 생각을 얻었습니까?
+
+[35]
+#Make your exit through the door at the back of the stage.
+#너는 무대 뒷문으로 퇴장한다.
+
+[36]
+#Where do you bank ?.
+#당신은 어느 은행에 저축을 하십니까?
+
+[37]
+#Your trust in that man is misplaced.
+#너는 그 남자를 잘못 믿었다.
+
+[38]
+#It'll cost you to go by plane.
+#비행기를 타고 가면 비용이 많이 든다.
+
+[39]
+#You beat time and I'll play.
+#네가 박자를 맞추고, 나는 연주하겠다.
+
+[40]
+#Which is older,you or he?
+#당신이 연장자입니까, 아니면 그가 연장자입니까?
+
+[41]
+#You will spearhead the sales campaign.
+#네가 판매활동의 선봉이 될 것이다.
+
+[42]
+#Are you in earnest ?.
+#당신 진심입니까?
+
+[43]
+#Who was it that you wrote a letter to ?
+#당신은 도대체 누구에게 편지를 썼습니까?
+
+[44]
+#Wherever have you been?
+#당신은 도대체 어디를 갔었습니까?
+
+[45]
+#Who in SamHill are you?.
+#당신은 도대체 어떤 사람입니까?
+
+[46]
+#Who may you be?.
+#당신은 도대체 누구입니까?
+
+[47]
+#what the hell do you want ?.
+#당신 도대체 무엇을 원하는 것입니까?
+
+[48]
+#What on earth are you doing?
+#당신 도대체 뭘 하고 있는 겁니까?
+
+[49]
+#What the blazes are you talking about?
+#당신 도대체 무슨 말을 하고 있는 겁니까?
+
+[50]
+#where are you going ?
+#당신 어디 갑니까?
+
+[51]
+#You must learn it by constant practice.
+#너는 꾸준히 연습해야 한다.
+
+[52]
+#Look to your manners.
+#당신이 좀 점검해야 한다.
+
+[53]
+#You must beware of strangers.
+#당신은 낯선 사람을 경계해야 한다.
+
+[54]
+#You must work more.
+#너는 좀 더 많은 일을 해야 한다.
+
+[55]
+#I'm fed up with your complaints.
+#나는 너의 불평을 지겹도록 들었다.
+
+[56]
+#yours is better than mine.
+#너의 것이 나의 것보다 좋다.
+
+[57]
+#What time is it by your watch ?
+#너의 시계는 지금 몇 시니?
+
+[58]
+#How many sugars in your tea?
+#당신의 차에 설탕을 얼마나 넣을까요?
+
+[59]
+#Your slip is showing.
+#너의 속옷이 삐져나왔다.
+
+[60]
+#What is the secret of your success?
+#당신의 성공비결이 무엇입니까?
+
+[61]
+#Your answer is absolutely wrong.
+#너의 답안은 완전히 틀렸다.
+
+[62]
+#Your answer is tantamount to a refusal.
+#너의 대답은 거절이나 마찬가지이다.
+
+[63]
+#Your coat is hooked on the nail.
+#너의 코트를 못에 걸어라.
+
+[64]
+#What's the weight of your bag?
+#당신의 가방은 무게가 얼마입니까?
+
+[65]
+#How do you like your eggs?.
+#달걀을 어떻게 해 드릴까요?
+
+[66]
+#What is your address?.
+#당신의 주소가 무엇입니까?
+
+[67]
+#What is your telephone number?
+#당신의 전화번호는 몇 번입니까?
+
+[68]
+#You are through.
+#전화가 이미 연결되었다.
+
+[69]
+#The trouble with you is that you're stupid.
+#너의 단점은 멍청하다는 것이다.
+
+[70]
+#Can you weggle your ears?
+#당신은 귀를 흔들 수 있습니까?
+
+[71]
+#Your method is different from mine.
+#너의 그 방법은 나의 방법과 다르다.
+
+[72]
+#Your grade was in the nineties.
+#너의 점수는 90 몇 점이다.
+
+[73]
+#Have you got over your cold yet?
+#감기는 좀 좋아졌습니까?
+
+[74]
+#How's your work coming along?
+#당신의 일은 어떻게 진행되고 있습니까?
+
+[75]
+#Your work is hopeless.
+#너의 일은 소용없는 일이다.
+
+[76]
+#Are you through with your work ?
+#일은 다 끝냈습니까?
+
+[77]
+#Have you learnt your lessons?
+#당신은 이 과를 다 익혔습니까?
+
+[78]
+#Your story melted away my soul.
+#나는 당신의 이야기에 빠져들었다.
+
+[79]
+#What ages are your children?
+#당신의 아이들은 몇 살입니까?
+
+[80]
+#Your children conduct themselves well.
+#당신 아이들은 성품이 좋다.
+
+[81]
+#What's the size of your back garden?
+#당신 뒤뜰 화원은 얼마나 큽니까?
+
+[82]
+#What's the area of your garden?
+#당신의 정원 면적은 얼마나 됩니까?
+
+[83]
+#Your remarks have set me thinking.
+#너의 말이 나로 하여금 깊이 사색하게 했다.
+
+[84]
+#Your words rang hollow.
+#너의 말은 듣기에 진지하지 못하다.
+
+[85]
+#Your answer's bang on.
+#너의 대답은 정확하다.
+
+[86]
+#When is your wedding ?
+#당신은 언제 결혼합니까?
+
+[87]
+#How much do you charge for your eggs?
+#달걀은 얼마입니까?
+
+[88]
+#Your plan is in abeyance.
+#너의 계획은 잠시 유예한다.
+
+[89]
+#How is your family?.
+#당신의 가족은 모두 잘 있습니까?
+
+[90]
+#Your health ought to be taken care of.
+#당신은 건강에 주의해야 한다.
+
+[91]
+#Does your foot give you pain?.
+#당신의 발이 아픕니까?
+
+[92]
+#Your feet feel cold.
+#너의 발을 만져보니 아주 차다.
+
+[93]
+#What's the matter with your foot?
+#당신 발 어떻게 된 거에요?
+
+[94]
+#Is your ring silver?
+#당신의 반지 은으로 만든 것입니까?
+
+[95]
+#Is your ring real gold?
+#당신의 반지 진짜 금입니까?
+
+[96]
+#What's your opinion?
+#당신의 견해는 어떻습니까?
+
+[97]
+#Your examination results are excellent.
+#당신의 시험 성적은 아주 좋습니다.
+
+[98]
+#There's a hole in your trouser leg.
+#너의 바지가랑이에 구멍이 났다.
+
+[99]
+#yours is just to hand.
+#네가 보낸 편지를 막 받았다.
+
+[100]
+#Your interests conflict with mine.
+#너와 나의 이해관계가 서로 충돌된다.
+
+[101]
+#You look sick.
+#당신 안색이 안 좋다.
+
+[102]
+#You look pale.
+#당신 안색이 창백하다.
+
+[103]
+#Are your neighbors very friendly?
+#당신의 이웃들은 모두 친절한가요?
+
+[104]
+#Your tie is all awry.
+#너의 넥타이가 완전히 비뚤어졌다.
+
+[105]
+#Your tie is on one side.
+#너의 넥타이가 한쪽으로 비뚤어졌다.
+
+[106]
+#Your argument has fetched her round.
+#너의 논리가 그녀를 신복시켰다.
+
+[107]
+#What's your first name?
+#당신 이름이 무엇입니까?
+
+[108]
+#what's your name ?
+#이름이 무엇입니까?
+
+[109]
+#You've got a nasty mind.
+#너는 비열한 마음을 가졌다.
+
+[110]
+#Your button has come undone.
+#당신 단추가 열렸다.
+
+[111]
+#Did you enjoy your travels in Europe?.
+#당신 유럽여행 즐거웠습니까?
+
+[112]
+#Your decision was eminently fair.
+#너의 판결은 아주 공정했다.
+
+[113]
+#How's your friend?.
+#당신의 친구는 잘 있습니까?
+
+[114]
+#What's your friend doing?
+#당신의 친구는 뭐하고 있습니까?
+
+[115]
+#Your car needs an oil change.
+#당신의 차 오일을 갈아야 합니다.
+
+[116]
+#You have a bright future ahead of you!
+#당신의 앞길에 영광이 있기를!
+
+[117]
+#There was no response in respect to your request.
+#너의 요구에 대답이 없다.
+
+[118]
+#What is your aim in life?
+#당신의 인생 목표는 무엇입니까?
+
+[119]
+#There is an irregularity in your application.
+#당신의 신청서는 완전히 구비되지 않았다.
+
+[120]
+#Your reputation is very high.
+#너의 명성이 매우 높다.
+
+[121]
+#What sign were you born under?
+#당신은 무슨 띠입니까?
+
+[122]
+#The fact that you are unemployed isn't my concern.
+#당신이 직장을 잃은 것은 나와는 무관하다.
+
+[123]
+#Your hands are blue with cold.
+#너의 손이 얼어 자색이 되었다.
+
+[124]
+#Are your hands clean?
+#당신 손은 깨끗합니까?
+
+[125]
+#Your hands are dirty.
+#너의 손은 정말 더럽다.
+
+[126]
+#How did you get that cut on your hand?
+#당신 손은 무엇에 베었습니까?
+
+[127]
+#Your book is still at the binder's.
+#너의 책은 아직도 장정되어 있다.
+
+[128]
+#Have you learnt your part yet?
+#당신은 대사를 다 외웠습니까?
+
+[129]
+#You have been rather closely shor.
+#당신 머리를 아주 짧게 잘랐네요.
+
+[130]
+#Your hair's getting very thin.
+#너의 머리카락이 갈수록 적어지고 있다.
+
+[131]
+#Your reasoning was quite correct.
+#너의 추리는 상당히 정확했다.
+
+[132]
+#Your coat fays in well.
+#외투가 몸에 잘 맞는다.
+
+[133]
+#You have yolk on your chin.
+#네 턱에 계란 노른자가 묻어 있다.
+
+[134]
+#Your ideas fit in with mine.
+#너의 생각은 나의 생각과 일치한다.
+
+[135]
+#Your shoelace has come undone.
+#너의 신발끈이 풀렸다.
+
+[136]
+#Your shoes need seeing to.
+#당신 신발 좀 고쳐야겠다.
+
+[137]
+#What a wonderful letter!
+#당신 편지 아주 잘 썼던데!
+
+[138]
+#You are not behaving reasonably.
+#너의 행동은 도리에 어긋난다.
+
+[139]
+#You behaved despicably!
+#너의 행동은 정말 비열하다!
+
+[140]
+#How do you spell your last name?
+#당신 이름 철자가 어떻게 됩니까?
+
+[141]
+#Your blood pressure is a little high.
+#당신 혈압이 좀 높다.
+
+[142]
+#You've got a lot of fillings.
+#너의 이를 여러 군데 때웠다.
+
+[143]
+#Your words and actions do not accord.
+#당신은 말과 행동이 일치하지 않는다.
+
+[144]
+#What do you measure round the waist?
+#당신의 허리둘레는 얼마입니까?
+
+[145]
+#Your waistline is getting bigger.
+#너의 허리둘레가 갈수록 굵어지고 있다.
+
+[146]
+#Your suit could use a pressing.
+#너의 옷을 다려야 한다.
+
+[147]
+#Your opinion is similar to mine.
+#당신 의견은 나의 의견과 비슷하다.
+
+[148]
+#What is your opinion ?.
+#당신 견해는 어떻습니까?
+
+[149]
+#You're flat.
+#음이 내려갔다.
+
+[150]
+#How are you getting along with your English?
+#영어 배우는 것은 좀 어떻습니까?
+
+[151]
+#Your right hand is swollen.Does it hurt?
+#당신 오른손에 종기가 났네요. 아픕니까?
+
+[152]
+#How well do you know French?
+#당신 프랑스어 실력이 어느 정도입니까?
+
+[153]
+#Your account is in the red.
+#장부가 적자가 났다.
+
+[154]
+#What are your politics?
+#당신의 정견은 어떻습니까?
+
+[155]
+#Your fingernails need cutting.
+#당신 손톱을 잘라야겠어요.
+
+[156]
+#Your seat is engaged.
+#당신 자리는 이미 예약이 되었습니다.
+
+[157]
+#Does your brother wear glasses?
+#당신의 남동생은 안경을 썼습니까?
+
+[158]
+#Where are you domiciled ?
+#당신은 어디에 정착했습니까?
+
+[159]
+#What paper do you take?
+#당신은 무슨 신문을 구독합니까?
+
+[160]
+#If you make a move,I'll shoot.
+#움직이면 쏜다.
+
+[161]
+#Have you read Homer in the original?
+#당신은 Homer 원작을 읽어 봤습니까?
+
+[162]
+#Have you done reading?
+#다 읽었습니까?
+
+[163]
+#How do you view this matter?
+#당신은 이 일을 어떻게 보십니까?
+
+[164]
+#Are you positive about it?
+#당신은 그 일을 파악했습니까?
+
+[165]
+#What are you into ?.
+#당신은 무엇에 흥미가 있습니까?
+
+[166]
+#You are expecting too much of him.
+#당신은 그에게 여러 번 기대를 했었다.
+
+[167]
+#You are being too kind to him,aren't you?.
+#당신 그에게 너무 예의를 지키시는군요, 그렇죠?
+
+[168]
+#You're too soft with him.
+#너는 그에게 너무 약하다.
+
+[169]
+#How does that grab you?.
+#당신은 그것에 대한 인상이 어떻습니까?
+
+[170]
+#You're not being square with me.
+#당신은 나에게 불공평합니다.
+
+[171]
+#Are you telling me the truth?
+#당신이 나에게 말한 것 사실입니까?
+
+[172]
+#What are your thoughts on the subject?
+#이 문제에 대한 당신의 생각은 어떻습니까?
+
+[173]
+#What are your thoughts on the subject?.
+#당신 이 문제에 어떤 의견이 있습니까?
+
+[174]
+#How often do you wash your hair?
+#당신은 얼마나 자주 머리를 감습니까?
+
+[175]
+#How old are you?
+#나이가 어떻게 됩니까?
+
+[176]
+#What is your age?
+#나이가 어떻게 됩니까?
+
+[177]
+#How often did you see him?
+#당신 그를 얼마 만에 본 것입니까?
+
+[178]
+#How stupid you are!
+#정말 어리석군!
+
+[179]
+#How sweet of you!
+#정말 친절하군요!
+
+[180]
+#Do you object to smoking?
+#당신은 담배 피우는 것을 반대하십니까?
+
+[181]
+#You may not rest after dinner.
+#너는 식사 후에 쉴 수가 없다.
+
+[182]
+#Your price (quotation)is rather on the high side.
+#너희 쪽의 가격은 너무 높다.
+
+[183]
+#Can you ship the goods from your stock?
+#당신은 현금으로 줄 수 있습니까?
+
+[184]
+#As you will no doubt remember...
+#너희들은 틀림없이 기억할 것이다.
+
+[185]
+#You should be responsible for the loss.
+#너희 쪽에 손해배상 의무가 있다.
+
+[186]
+#What a time you have been!
+#네가 얼마나 많은 시간을 소비했는지 계산할 수도 없다.
+
+[187]
+#Did you take your medicine?
+#당신 약 먹었습니까?
+
+[188]
+#You deserve praising .
+#당신은 칭찬을 들을만하다.
+
+[189]
+#You should be more punctual.
+#당신 시간을 좀 더 잘 지켜야겠어요.
+
+[190]
+#You should do the honorable thing and resign.
+#너는 미련없이 사직을 해야 한다.
+
+[191]
+#Why don't you belt up?
+#너 왜 아직 떠들고 있어?
+
+[192]
+#What's your racket?.
+#당신은 어떤 일을 합니까?
+
+[193]
+#Are you through yet?
+#당신 아직 일 못 끝냈나요?
+
+[194]
+#Are you suffering any pain?.
+#당신은 어떤 고통 같은 것이 느껴졌습니까?
+
+[195]
+#Do you feel any better?
+#좀 좋아졌다고 느껴집니까?
+
+[196]
+#Do you dare to ask her?.
+#당신 감히 그녀에게 물어봤습니까?
+
+[197]
+#You did well to tell him.
+#그에게 알린 것은 네가 잘한 일이다.
+
+[198]
+#You could have told me !
+#네가 나에게 얘기해 주면 된다!
+
+[199]
+#What business is your brother in?.
+#당신 형은 무슨 일에 종사합니까?
+
+[200]
+#Did you telephone Bob?
+#당신 Bob에게 전화 했습니까?
+
+[201]
+#Have you salted the vegetables?
+#당신 야채에 소금 넣었습니까?
+
+[202]
+#some friend you were!
+#넌 친구도 아니다.
+
+[203]
+#Whom do you live with?
+#당신 누구와 함께 삽니까?
+
+[204]
+#You told him what ?
+#당신 그에게 무슨 얘기 했습니까?
+
+[205]
+#You're as tall as me.
+#너는 나와 키가 같다.
+
+[206]
+#Did you work all day?
+#당신 하루종일 일 했습니까?
+
+[207]
+#You must do your work with more care.
+#당신 일에 조금 더 신경 쓰십시오.
+
+[208]
+#What time do you make it?
+#당신 지금 몇 시라고 추정됩니까?
+
+[209]
+#How are you getting on?
+#당신 어떻게 지내십니까?
+
+[210]
+#how have you been?.
+#당신 어떻게 지내십니까?
+
+[211]
+#What do you want for your birthday?
+#당신 생일에 무얼 하고 싶습니까?
+
+[212]
+#You're absolutely shameless!
+#너는 부끄러움도 모르는구나!
+
+[213]
+#How do you do ? I'm rightsmart ..
+#안녕? 난 잘 있어.
+
+[214]
+#You look troubled.
+#당신은 아주 불안한 것처럼 보인다.
+
+[215]
+#A cup of coffee will refresh you.
+#커피를 마시면 좀 정신이 날거다.
+
+[216]
+#Do you drink wine?
+#당신 술 마십니까?
+
+[217]
+#How are you making out with her?
+#당신은 그녀와 사이 좋게 지냅니까?
+
+[218]
+#you and I are good friends.
+#너와 나는 좋은 친구이다.
+
+[219]
+#When did you get here?
+#당신 언제 여기 도착했습니까?
+
+[220]
+#When will you be through with your work?.
+#당신 언제 일을 다 끝낼 수 있습니까?
+
+[221]
+#You'll soon perk up.
+#너는 곧 원기를 회복할 것이다.
+
+[222]
+#You can easily get access to him.
+#너는 그에게 아주 쉽게 접근할 수 있다.
+
+[223]
+#You spend too much money.
+#너 돈을 너무 많이 썼다.
+
+[224]
+#You are rather beforehand in your suspicions.
+#너는 너무 빨리 낌새를 알아챈다.
+
+[225]
+#Do you remember?
+#당신 아직 기억하고 있습니까?
+
+[226]
+#You're too young to vote.
+#너는 아직 투표할 수 있는 나이가 아니다.
+
+[227]
+#You had better go at once.
+#당신 빨리 가는 것이 역시 좋겠다.
+
+[228]
+#Do you still keep up your French?
+#당신 아직도 불어 배우고 있습니까?
+
+[229]
+#Have you replied to his letter?
+#당신 그의 편지에 답장했습니까?
+
+[230]
+#You are more dilatory than I in answering letters.
+#너의 답장이 나보다 훨씬 늦었다.
+
+[231]
+#You've made a wreck of your life.
+#너는 너 자신의 인생을 망쳤다.
+
+[232]
+#You'll catch it from your father.
+#너는 너의 아버지께 야단을 맞을 것이다.
+
+[233]
+#You'll rue having failed in the examination.
+#너는 시험에 실패한 것을 후외할 것이다.
+
+[234]
+#Do you speak English?
+#당신 영어로 말할 수 있습니까?
+
+[235]
+#Can you play the fiddle?
+#당신은 바이올린을 켤 줄 아십니까?
+
+[236]
+#You'll hurt yourself.
+#너는 자신을 다치게 할 수도 있다.
+
+[237]
+#Can you ride a bicycle?
+#당신 자전거 탈 줄 아십니까?
+
+[238]
+#Do you play any sports?.
+#당신은 어떤 운동을 할 줄 압니까?
+
+[239]
+#Do you speak Russian?
+#당신 러시아어 할 줄 압니까?
+
+[240]
+#You can speak Chinese,can't you?
+#당신 중국어 할 줄 알지요?
+
+[241]
+#can you speak Chinese?.
+#당신 중국어 할 줄 압니까?
+
+[242]
+#Can you waltz?
+#당신 왈츠 출 줄 압니까?
+
+[243]
+#can you play the baseball?.
+#당신 야구할 줄 압니까?
+
+[244]
+#You will smoke yourself sick.
+#담배로 인해 병이 생길 수도 있다.
+
+[245]
+#You'll suffer for this!
+#너 이 일로 인해 고통을 받을지도 모른다.
+
+[246]
+#You can swim,can't you?
+#당신 수영할 줄 알지요, 그렇지요?
+
+[247]
+#Can you swim?
+#당신 수영할 줄 압니까?
+
+[248]
+#You'll get into trouble.
+#너는 번거로운 일을 당할지도 모른다.
+
+[249]
+#You or I will be elected.
+#너 아니면 내가 선택될 것이다.
+
+[250]
+#What's your hurry?.
+#당신은 뭐가 그렇게 바쁩니까?
+
+[251]
+#At what time do you have breakfast?
+#당신은 몇 시에 아침을 먹습니까?
+
+[252]
+#What time do you get up?
+#당신은 몇 시에 일어납니까?
+
+[253]
+#Do you recollect her name?
+#당신은 그녀의 이름이 무엇인지 생각나십니까?
+
+[254]
+#Do you remember me?.
+#당신은 나를 기억합니까?
+
+[255]
+#How many are there in your family?
+#당신은 몇 식구입니까?
+
+[256]
+#Where is your home?
+#당신의 집은 어디입니까?
+
+[257]
+#Whom did you see?
+#당신은 누구를 만났습니까?
+
+[258]
+#You saw him,didn't you?
+#당신은 그를 만났지요, 그렇지요?
+
+[259]
+#Have you ever seen a tiger?
+#당신은 호랑이를 본 적이 있습니까?
+
+[260]
+#Have you ever seen a man murdered?
+#당신은 사람이 살해당하는 것을 본 적이 있습니까?
+
+[261]
+#Have you seen her new car?
+#당신은 그녀의 새차를 본 적 있습니까?
+
+[262]
+#Will you stay the night?
+#당신은 밤새 머무르실 건가요?
+
+[263]
+#Are you going to write to her?
+#당신은 그녀에게 편지를 씁니까?
+
+[264]
+#Are you speaking the truth?
+#당신이 한 말 정말입니까?
+
+[265]
+#Have you paid the electricity bill yet?
+#당신 전기요금을 내고 있습니까?
+
+[266]
+#What's your name,son?
+#아이야! 네 이름이 뭐니?
+
+[267]
+#What's your name?
+#당신 이름이 뭡니까?
+
+[268]
+#What's your handle?.
+#당신 이름이 뭡니까?
+
+[269]
+#Are you married?
+#당신 결혼했습니까?
+
+[270]
+#those books you lent me were very useful.
+#네가 나에게 빌려준 책은 아주 유익했다.
+
+[271]
+#Are you fussy about what you wear?.
+#당신은 자신의 복장에 신경을 많이 쓰십니까?
+
+[272]
+#How are you feeling today?
+#당신 오늘 기분 어때요?
+
+[273]
+#You seem very chirpy today.
+#너 오늘 아주 즐거워 보인다.
+
+[274]
+#How goes it with you today?.
+#당신은 오늘 어때요?
+
+[275]
+#You look a little off colour today.
+#너는 오늘 안색이 그다지 좋지 않다.
+
+[276]
+#What do you want to do today?
+#당신은 오늘 무얼 하실 겁니까?
+
+[277]
+#Have you got wheels today ?.
+#당신 오늘 차를 가지고 왔습니까?
+
+[278]
+#Will you come this evening ?.
+#당신은 오늘 저녁에 올 겁니까?
+
+[279]
+#You'll be on the first watch tonight.
+#
+
+[280]
+#Come as soon as you possibly can.
+#당신 가능한 일찍 오세요.
+
+[281]
+#Do you often watch television?
+#당신은 항상 TV를 봅니까?
+
+[282]
+#Whichever did you choose?
+#당신은 결국 어떤 것을 골랐습니까?
+
+[283]
+#Why the hell don't you shut up?.
+#당신 도대체 왜 입을 닥치지 않는 거야?
+
+[284]
+#whatever are you going to say ?.
+#당신은 도대체 무슨 말을 하고 싶은 겁니까?
+
+[285]
+#What are you leading up to?
+#당신 무슨 말을 하려고 하는 겁니까?
+
+[286]
+#What in the world are you doing?
+#당신 도대체 무슨 일을 하고 있습니까?
+
+[287]
+#What the devil are you doing?
+#당신 도대체 뭐 하는 거야?
+
+[288]
+#There's no need for you to come too.
+#당신 올 필요 없었다.
+
+[289]
+#What do you feel about the suggestion?.
+#당신은 이 제안에 대해 어떻게 생각합니까?
+
+[290]
+#Do you feel cold?
+#당신 춥습니까?
+
+[291]
+#how do you like Japan?
+#당신은 일본을 어떻게 생각합니까?
+
+[292]
+#Do you feel any pain ?.
+#당신 아픕니까?
+
+[293]
+#surely you will not desert me?.
+#당신은 절대로 나를 버리지 않겠지요?
+
+[294]
+#On no account must you go there.
+#너는 절대로 거기에 갈 수 없다.
+
+[295]
+#I'm very pleased you've decided to come.
+#네가 오기로 결정해서 난 너무 기쁘다.
+
+[296]
+#look,there he is!
+#봐라, 그가 저기 있다!
+
+[297]
+#Do you see the rainbow?
+#당신은 무지개를 보고 있습니까?
+
+[298]
+#What page have you got up to?
+#당신은 어느 페이지를 봅니까?
+
+[299]
+#Can you see that?.
+#당신 저거 보입니까?
+
+[300]
+#Can you see me?
+#당신 내가 보입니까?
+
+[301]
+#You see that tree.
+#당신 그 나무를 보지요.
+
+[302]
+#Did you see the snake?
+#당신 뱀을 봤습니까?
+
+[303]
+#You look tired.
+#당신 피곤해 보입니다.
+
+[304]
+#Are you a fast reader?
+#당신 책 빨리 봅니까?
+
+[305]
+#Are you done with the newspaper?.
+#당신 신문 다 봤습니까?
+
+[306]
+#You'll make her a good husband.
+#당신은 그녀의 좋은 남편이 될 겁니다.
+
+[307]
+#You may be onto something.
+#너는 뭔가를 발견할 수 있을 것이다.
+
+[308]
+#You may fall across him in Shanghai.
+#너는 상해에서 그를 만날 수 있을 것이다.
+
+[309]
+#You can cross the river by ferry.
+#너는 배를 타고 강을 건널 수 있다.
+
+[310]
+#You may go out.
+#너는 나가도 된다.
+
+[311]
+#You may know from what has been said above.
+#당신은 앞의 문장을 통해 알게 될 겁니다.
+
+[312]
+#You may go there at once.
+#너는 곧 거기에 갈 수 있을 것이다.
+
+[313]
+#You can get the sample gratis.
+#너는 공짜로 샘플을 얻을 수 있다.
+
+[314]
+#You can buy the furniture on credit.
+#너는 가구를 외상으로 구입할 수 있다.
+
+[315]
+#You may come or go at pleasure.
+#당신은 마음대로 왕래해도 좋다.
+
+[316]
+#You are free to choose as you please.
+#너는 네 마음대로 골라도 좋다.
+
+[317]
+#You may depend upon his consenting.
+#너는 그가 동의하리라는 것을 믿어도 된다.
+
+[318]
+#You can rely on her word.
+#너는 그녀의 말을 믿어도 좋다.
+
+[319]
+#You may rely on his judgment.
+#너는 그의 판단을 신뢰해도 좋다.
+
+[320]
+#You can depend on this dictionary.
+#너는 이 사전을 믿어도 된다.
+
+[321]
+#You can confide in her good faith.
+#너는 그녀의 충성을 신임해도 된다.
+
+[322]
+#You can depend on him.
+#너는 그에게 의지해도 된다.
+
+[323]
+#You can learn French at night school.
+#너는 야학에서 불어를 배울 수 있다.
+
+[324]
+#You can rely on me to help you.
+#너는 내가 너를 도울 것이라고 기대해도 좋다.
+
+[325]
+#You can rotate the wheel with your hand.
+#너는 손으로 바퀴를 움직일 수 있다.
+
+[326]
+#Have you made any arrangement with your bank?.
+#당신은 은행과 사전 협의를 한 적이 있습니까?
+
+[327]
+#You can bank on his help.
+#너는 그의 도움을 기대해도 좋다.
+
+[328]
+#It won't help you to cry.
+#울어도 소용없다.
+
+[329]
+#Your fly is undone.
+#너의 바지 지퍼가 열렸다.
+
+[330]
+#You are getting hot.
+#네가 답을 거의 맞춰간다.
+
+[331]
+#riddle me,riddle me what it is.= Rriddle me my riddle,what is this?.
+#이것이 무엇인지 맞춰봐라.
+
+[332]
+#You are jolly late.
+#너 너무 늦게 왔다.
+
+[333]
+#Will you measure up or shall I?
+#당신이 재보겠습니까 아니면 내가 잴까요?
+
+[334]
+#You push and I'll pull.
+#네가 밀고, 내가 당기고.
+
+[335]
+#What brings you here?.
+#당신에게 무슨 일 있습니까?
+
+[336]
+#You keep singing flat.
+#너는 항상 반음 내려서 노래를 한다.
+
+[337]
+#You're always slacking!
+#너는 늘 게으름을 피우는구나!
+
+[338]
+#Are you tired? Not at all.
+#당신 피곤합니까? 조금도 피곤하지 않다.
+
+[339]
+#Don't neglect to lock the door when you leave.
+#당신 떠날 때 문 잠그는 것 잊지 마세요.
+
+[340]
+#It was wise of you to leave.
+#네가 떠나는 것이 현명한 것이다.
+
+[341]
+#You're getting cold.
+#너는 목표로부터 점점 멀어지고 있다.
+
+[342]
+#Do you understand this idea?
+#당신은 이런 생각이 이해가 됩니까?
+
+[343]
+#Did you pass your history exam?
+#당신 역사시험 합격했습니까?
+
+[344]
+#Who are your bankers ?.
+#당신은 어느 은행을 이용합니까?
+
+[345]
+#Have you made your will yet?
+#당신은 유언장을 만들어 놨습니까?
+
+[346]
+#You've got a ruddy nerve!
+#당신 얼굴 정말 두껍군!
+
+[347]
+#Surely you remember him?
+#당신 정말 아직 그를 기억합니까?
+
+[348]
+#Did you get what he was talking about?
+#당신은 지금 그가 무슨 말을 하고 있는지 이해가 됩니까?
+
+[349]
+#Your tears are womanish.
+#네가 눈물을 흘리는 것은 너무 연약한 것이다.
+
+[350]
+#You may advisably walk slowly.
+#당신 좀 천천히 가는 것이 좋겠다.
+
+[351]
+#You have placed the furniture badly.
+#
+
+[352]
+#Don't you have my hat?
+#너 내 모자 가지고 있지 않지?
+
+[353]
+#Didn't it occur to you to lock the door?
+#당신은 문을 잠가야 한다는 것을 생각하지 못했습니까?
+
+[354]
+#There is no need for you to apologize.
+#당신이 미안해 할 필요 없다.
+
+[355]
+#You didn't answer his question.
+#너는 그의 질문에 대답하지 않았다.
+
+[356]
+#No blame attaches to you.
+#너는 비난 받을만한 이유가 없다.
+
+[357]
+#You must keep silent.
+#너희들 조용히 해야 한다.
+
+[358]
+#Don't shut yourselves off from the masses.
+#너희들은 군중에게서 벗어날 수 없다.
+
+[359]
+#Don't fight among yourselves.
+#너희는 자기편끼리 서로 죽이는 싸움을 해서는 안 된다.
+
+[360]
+#Do you sell car parts?
+#너희는 자동차 부품을 팝니까?
+
+[361]
+#Certainly you have this right.
+#너희에게는 당연히 이런 권리가 있다.
+
+[362]
+#You must all listen carefully.
+#너희들 자세히 들어봐라.
+
+[363]
+#You were very kind to us.
+#너희들은 우리에게 아주 잘 대해줬다.
+
+[364]
+#Are you ready to serve up?
+#요리를 내올 수 있습니까?
+
+[365]
+#Have you ever met?
+#당신들은 만나본 적이 있습니까?
+
+[366]
+#Neither of you are correct.
+#너희 두 사람 모두 틀렸다.
+
+[367]
+#You two be the lookouts.
+#너희 두 사람이 맡아라.
+
+[368]
+#Do you sell cigars ?
+#담배를 파십니까?
+
+[369]
+#We start at eleven tomorrow.
+#우리는 내일 11시에 출발한다.
+
+[370]
+#Which of you has made the fewest mistakes?
+#너희들중 누가 실 수가 가장 적습니까?
+
+[371]
+#The whole lot of you are mad!
+#너희들 모두 미쳤구나!
+
+[372]
+#You are all a lostgeneration.
+#너희들은 잃어버린 세대다.
+
+[373]
+#ye are the salt of the earth.
+#너희는 세상의 소금이다.
+
+[374]
+#You two makes a perfect couple.
+#너희는 천생연분이다.
+
+[375]
+#You are students.
+#너희는 학생이다.
+
+[376]
+#It appears that you are all mistaken.
+#너희들 모두 틀린 것 같다.
+
+[377]
+#What did you talk about?
+#너희들 무슨 얘기하니?
+
+[378]
+#Are you acquainted?
+#너희들 서로 아는 사이니?
+
+[379]
+#Have you talked together yet?.
+#당신들 서로 상의했습니까?
+
+[380]
+#Will you take measures to reinforce them?
+#당신들은 대책을 강구했습니까?
+
+[381]
+#Have you any evidence?
+#당신들 무슨 증거 있습니까?
+
+[382]
+#How do you fit in in the countryside?
+#당신들은 농촌생활에 적응했습니까?
+
+[383]
+#Ye fools !
+#이 멍청한 놈들!
+
+[384]
+#You yourselves did it.=You did it yourselves.
+#너희들 스스로 그 일을 했다.
+
+[385]
+#Do you understand?
+#당신 이해했습니까?
+
+[386]
+#Do you get me?
+#당신 나의 말을 알아 들었습니까?
+
+[387]
+#Are you very booked up tomorrow?
+#당신 내일 많ㅇ 바쁩니까?
+
+[388]
+#You might bring him over tomorrow.
+#당신은 내일 그를 데려 와도 됩니다.
+
+[389]
+#Are you doing anything tomorrow morning?
+#당신 내일 오전에 무슨 일 있습니까?
+
+[390]
+#Are you free tomorrow evening ?
+#당신 내일 저녁에 시간 있습니까?
+
+[391]
+#shall you be at home tomorrow afternoon?.
+#당신 내일 오후에 집에 있을 겁니까?
+
+[392]
+#will you go there tomorrow ?
+#당신 내일 거기에 갈 겁니까?
+
+[393]
+#Is there any possibility that you'll be able to come tomorrow?
+#당신 내일 올 수 있습니까?
+
+[394]
+#How is your mother?
+#당신 어머니 건강은 어떻습니까?
+
+[395]
+#Which of your arms is sore?
+#당신은 어느쪽 팔이 아픕니까?
+
+[396]
+#You've got a point there.
+#당신의 그 말은 어느 정도 이치에 맞는다.
+
+[397]
+#That old car of yours is a disgrace.
+#당신의 그 오랜 차는 정말 창피하다.
+
+[398]
+#You were right in judging so.
+#당신이 그렇게 판단한 것은 옳은 것입니다.
+
+[399]
+#It is childish of you to say that.
+#당신 그렇게 얘기하다니 정말 유치하군요.
+
+[400]
+#It was wrong of you to do that.
+#당신 그렇게 하면 옳지 않습니다.
+
+[401]
+#How nice of you to do that!
+#그렇게 하다니 너무 좋군요!
+
+[402]
+#That excuse will not serve you.
+#너의 그러한 변명은 아무 소용도 없다.
+
+[403]
+#You can smell the smell of cheese.
+#너는 치즈 냄새를 맡을 수 있다.
+
+[404]
+#Can you manage to carry the box?
+#당신 이 상자를 옮길 수 있습니까?
+
+[405]
+#Can you do me a favour?
+#당신 나를 좀 도와줄 수 있습니까?
+
+[406]
+#Can you keep a secret?
+#당신 비밀을 지킬 수 있습니까?
+
+[407]
+#You can do it better than ourselves.
+#당신이 우리보다 훨씬 더 잘 했습니다.
+
+[408]
+#Can you meet your debts?
+#당신은 빚을 갚을 수 있습니까?
+
+[409]
+#Can you come out for a walk?
+#당신 산보하러 나올 수 있습니까?
+
+[410]
+#Can you say the alphabet backwards?
+#당신은 알파벳을 읽을 수 있습니까?
+
+[411]
+#Can you make the party?
+#당신 파티에 참석할 수 있습니까?
+
+[412]
+#Can you give me the address?
+#당신 나에게 주소를 가르쳐 줄 수 있습니까?
+
+[413]
+#Can you draw a straight line?
+#당신은 직선을 그릴 수 있습니까?
+
+[414]
+#Can you answer this riddle?.
+#당신 이 수수께끼에 답할 수 있습니까?
+
+[415]
+#Can you manage with this horse?
+#당신 이 말을 몰 수 있습니까?
+
+[416]
+#Can you interpret the passage?
+#당신은 이 단락을 해석할 수 있습니까?
+
+[417]
+#It is very charming of you to come.
+#네가 올 수 있다니 정말 잘 됐다.
+
+[418]
+#I'm so glad you could come!
+#네가 올 수 있어서 나는 너무 기쁘다!
+
+[419]
+#Will you forgive me the debt?
+#당신은 나의 빚을 면제해 줄 수 있습니까?
+
+[420]
+#How long can you stay under water?
+#당신은 얼마나 오랫동안 잠수할 수 있습니까?
+
+[421]
+#Can you give me a lift into town?
+#당신은 나를 시내까지 태워 줄 수 있습니까?
+
+[422]
+#How many languages do you speak?
+#당신은 몇 개 국어를 할 수 있습니까?
+
+[423]
+#Can you think of a better ?
+#당신은 더 좋은 것을 생각해낼 수 있습니까?
+
+[424]
+#Can you swim across?
+#당신은 반대편 해안까지 헤엄쳐 갈 수 있습니까?
+
+[425]
+#Can you manage a few more cherries?
+#당신 체리 몇 개 더 드시겠습니까?
+
+[426]
+#Can you speed up ?
+#속도를 좀 더 낼 수 있습니까?
+
+[427]
+#You are better able to do it than me.
+#너는 나보다 더 잘 할 수 있다.
+
+[428]
+#You are younger than he.
+#네가 그보다 어리다.
+
+[429]
+#Which language do you study?
+#당신은 무슨 언어를 배웁니까?
+
+[430]
+#Are you afraid of them?
+#당신은 그들을 두려워합니까?
+
+[431]
+#Whom did you meet?
+#당신 누구를 만났습니까?
+
+[432]
+#Have you checked the examination papers yet?
+#당신은 답안지를 다 고쳤습니까?
+
+[433]
+#Which color do you favor ?
+#당신은 무슨 색을 특히 좋아합니까?
+
+[434]
+#On what do you base that statement?
+#당신은 무슨 근거로 그런 말을 합니까?
+
+[435]
+#You must not allow him to drink.
+#너는 결코 그가 술을 마시도록 해서는 안 된다.
+
+[436]
+#You must not concern yourself about me.
+#너는 결코 나 때문에 걱정하지 말아라.
+
+[437]
+#Your loving friend.
+#너의 사랑스러운 친구.
+
+[438]
+#Yours lovingly.
+#너의 사랑하는 사람.
+
+[439]
+#You have distorted what I said.
+#너는 내 말을 오해했다.
+
+[440]
+#Have you ever been to India?
+#당신은 인도에 가봤습니까?
+
+[441]
+#Did you go to the meeting?
+#당신 회의에 갔습니까?
+
+[442]
+#Where did you go for your vacation?
+#당신 어디로 휴가를 갔습니까?
+
+[443]
+#You should really have asked me first.
+#너는 반드시 나에게 먼저 물어봐야 한다.
+
+[444]
+#You know him,surely?
+#당신은 그를 안다, 그렇지?
+
+[445]
+#You assume him innocent.
+#너는 그가 결백하다고 생각하고 있다.
+
+[446]
+#What do you suppose she will do?
+#당신은 그녀가 어떻게 할 거라고 여깁니까?
+
+[447]
+#Do you think it is going to rain?
+#당신은 비가 올 거라고 생각합니까?
+
+[448]
+#what do you think of this poem ?
+#당신은 이 시가 어떻다고 생각합니까?
+
+[449]
+#What did you say in reply to his suggestion?
+#당신은 그의 건의에 어떻게 대답할 것입니까?
+
+[450]
+#How do you interpret this sentence?
+#당신은 이 문장을 어떻게 해석합니까?
+
+[451]
+#How do you assess your students?
+#당신은 학생들을 어떻게 평가합니까?
+
+[452]
+#How do you come to know that?
+#당신은 그 일을 어떻게 알았습니까?
+
+[453]
+#You are quite brown.
+#너는 아주 검게 탔다.
+
+[454]
+#What university do you attend?
+#당신은 어느 대학에 다닙니까?
+
+[455]
+#Do you have any money with you?.
+#당신 돈을 가지고 있습니까?
+
+[456]
+#Do you have money?
+#당신 돈 있습니까?
+
+[457]
+#When is your birthday?
+#당신 생일은 언제입니까?
+
+[458]
+#When do you finish your college course?
+#당신은 언제 대학을 졸업했습니까?
+
+[459]
+#What time will you come?
+#당신은 언제 올 겁니까?
+
+[460]
+#What time do you get up?
+#당신은 언제 일어났습니까?
+
+[461]
+#When do you get off work?
+#당신은 언제 퇴근합니까?
+
+[462]
+#When will you hold a meeting?
+#당신은 언제 모임을 가질 것입니까?
+
+[463]
+#when have you been there ?
+#당신은 언제 거기에 갔었습니까?
+
+[464]
+#What time do you feed?
+#당신 몇 시에 식사를 합니까?
+
+[465]
+#You shall want for nothing.
+#당신은 무엇도 부족한 것이 없다.
+
+[466]
+#how kind of you!
+#당신 정말 좋군요!
+
+[467]
+#You inspire me with admiration.
+#너는 나로 하여금 사모하는 마음을 갖게 한다.
+
+[468]
+#You make me vomit.
+#너는 나를 구역질나게 한다.
+
+[469]
+#You kept me waiting.
+#너는 나를 오래 기다리게 하는구나.
+
+[470]
+#You disappoint me.
+#너는 나를 실망시켰다.
+
+[471]
+#You remind me of your father.
+#나는 너를 보면 너의 아버지가 생각난다.
+
+[472]
+#You make me sick!
+#너는 나를 메스껍게 한다.
+
+[473]
+#Are you Bill Jones?
+#당신이 Bill Jones 입니까?
+
+[474]
+#Are you tired?
+#당신 피곤합니까?
+
+[475]
+#Are you a teacher?
+#당신은 선생님입니까?
+
+[476]
+#What work do you do?
+#당신은 무슨 일을 합니까?
+
+[477]
+#You are a contemptible worm!
+#너는 비열한 놈이다.
+
+[478]
+#You are O.K.
+#너는 좋은 사람이다.
+
+[479]
+#Aren't you a teacher?
+#당신은 선생님입니까?
+
+[480]
+#Where do you come from?
+#당신은 어디 사람입니까?
+
+[481]
+#What part of the world do you come from?
+#당신 국적이 어디입니까?
+
+[482]
+#Where do you come from?
+#당신은 어디 사람입니까?
+
+[483]
+#What party do you belong to?
+#당신은 어느 당에 속합니까?
+
+[484]
+#You're a credit to your team.
+#너는 너희팀의 영광이다.
+
+[485]
+#Are you a Japanese?
+#당신 일본사람입니까?
+
+[486]
+#Where are you from?
+#당신 어디서 왔습니까?
+
+[487]
+#When did you have a cold?
+#당신은 언제 감기에 걸렸습니까?
+
+[488]
+#what do you mean ?.
+#무슨 뜻입니까?
+
+[489]
+#You are my only friend.
+#너는 나의 유일한 친구이다.
+
+[490]
+#Are you trying to make a fool of me?
+#당신은 나를 놀리려는 겁니까?
+
+[491]
+#Did you came all the way afoot?
+#당신은 함께 걸어왔습니까?
+
+[492]
+#Are you John's Brother?
+#당신이 John의 형제입니까?
+
+[493]
+#Are you suggesting that he is guilty?
+#당신은 그가 유죄라는 것을 암시하는 것입니까?
+
+[494]
+#Where did you grow up?
+#당신은 어디에서 성장했습니까?
+
+[495]
+#However did you get here?
+#당신은 여기에 어떻게 왔습니까?
+
+[496]
+#What have you decide?
+#당신 어떤 결정을 내렸습니까?
+
+[497]
+#How did you get to know her?.
+#당신은 어떻게 그녀를 알게 되었습니까?
+
+[498]
+#Did you get my telegram?
+#당신 내가 보낸 전보 받았습니까?
+
+[499]
+#You are well liked by everybody.
+#너는 모든 사람들이 좋아한다.
+
+[500]
+#Are you being well looked after?
+#당신은 극진한 보살핌을 받았습니까?
+
+[501]
+#Are you familiar with the rules of football?
+#당신은 축구 규칙을 잘 알고 있습니까?
+
+[502]
+#What is your blood group?
+#당신 혈액형이 무엇입니까?
+
+[503]
+#You spoke too soon.
+#너는 너무 일찍 이야기했다.
+
+[504]
+#Do you seriously mean what you say?
+#당신이 한 말은 진실된 것입니까?
+
+[505]
+#You are partly right.
+#당신이 한 말은 어느 정도 일리가 있다.
+
+[506]
+#Are you serious?
+#당신 진심입니까?
+
+[507]
+#What you say is palpably false.
+#네가 한 말은 분명히 거짓말이다.
+
+[508]
+#You have a point there.
+#너의 말도 일리가 있다.
+
+[509]
+#There is reason in what you say.
+#너의 말은 일리가 있다.
+
+[510]
+#It is necessary for you to guard your tongue.
+#너는 진실되게 말해야 한다.
+
+[511]
+#Be careful what you say.
+#너는 말을 조심해서 해야 한다.
+
+[512]
+#It was courageous of you to tell the truth.= You were courageous to tell the truth.
+#사실을 말하다니 당신은 정말 용감하다.
+
+[513]
+#It was tasteless of you to say that.
+#네가 한 그런 말은 정말 저속하다.
+
+[514]
+#Do you speak English or French?
+#당신은 영어를 말하는 것입니까, 아니면 불어를 하는 것입니까?
+
+[515]
+#Have you calculated the result?
+#당신은 결과를 산출해 냈습니까?
+
+[516]
+#There is something in what you say.
+#네가 한 말은 어느 정도 일리가 있다.
+
+[517]
+#You low-rate me too much.
+#너는 나를 너무 무시했다.
+
+[518]
+#You are too trusting.
+#네가 너무 쉽게 다른 사람을 믿었다.
+
+[519]
+#You are too flexible with her.
+#너는 너무 그녀에게 좌지우지된다.
+
+[520]
+#It is insensitive of you to mention that.
+#네가 그 일을 제기하는 것은 미련한 짓이다.
+
+[521]
+#How much do you weigh ?.
+#당신의 몸무게는 얼마입니까?
+
+[522]
+#Have you chosen a hat yet?
+#당신은 모자를 골랐습니까?
+
+[523]
+#Do you hear?.
+#당신은 들었습니까?
+
+[524]
+#can you hear that sound?.
+#당신은 그 소리를 들었습니까?
+
+[525]
+#Have you heard my new record?
+#당신은 나의 새 노래를 들어보았습니까?
+
+[526]
+#What time do you normally get up?
+#당신은 통상적으로 몇 시에 일어납니까?
+
+[527]
+#Did you get through your examination?
+#당신은 시험에 합격했습니까?
+
+[528]
+#Are you agreeable to my suggestion?
+#당신은 나의 제안에 동의하십니까?
+
+[529]
+#Do you cotton to this suggestion?
+#당신은 이 제안에 동의하십니까?
+
+[530]
+#Are you covered against fire?.
+#당신은 화재보험에 들었습니까?
+
+[531]
+#Have you gone soft in the head?
+#당신은 머리가 멍합니까?
+
+[532]
+#You are a hundred-percent wrong.
+#너는 완전히 틀렸다.
+
+[533]
+#You're completely bonkers.
+#너는 완전히 돌았다.
+
+[534]
+#You may well ask!
+#당신은 충분히 질문할 수 있다.
+
+[535]
+#Are you quite sure?
+#당신은 전적으로 긍정하는 것입니까?
+
+[536]
+#There's no need for you to worry.
+#너는 전혀 화낼 필요가 없다.
+
+[537]
+#You are perfectly right.
+#너는 아주 정확하다.
+
+[538]
+#You are in breach of your contract.
+#너는 계약을 위반했다.
+
+[539]
+#You've flouted my orders.
+#너는 나의 명령을 위반했다.
+
+[540]
+#Why don't you join in the game?
+#당신은 왜 운동에 참가하지 않습니까?
+
+[541]
+#Why do you keep bringing that matter up?
+#당신은 왜 그 일을 끄집어내려고 합니까?
+
+[542]
+#Why don't you shave off your beard?
+#당신은 왜 수염을 깍지 않습니까?
+
+[543]
+#Why didn't you answer?
+#당신은 왜 대답하지 않습니까?
+
+[544]
+#Why don't you go ?
+#당신은 왜 가지 않습니까?
+
+[545]
+#Why did you do it?
+#당신은 왜 이렇게 했습니까?
+
+[546]
+#Why are you sorry?
+#당신은 왜 슬퍼하십니까?
+
+[547]
+#Why are you absent?
+#당신은 왜 결석했습니까?
+
+[548]
+#What are you angry about?.
+#당신은 무슨 일로 화를 내는 것입니까?
+
+[549]
+#What did you do that for?.
+#당신은 왜 그 일을 했습니까?
+
+[550]
+#What did you ask him?
+#당신은 그에게 무엇을 물었습니까?
+
+[551]
+#It's not your place to tell me what to do.
+#너는 나에게 명령을 내릴 권리가 없다.
+
+[552]
+#Your presence is urgently required.
+#반드시 출석해라.
+
+[553]
+#I adjure you to speak the truth.
+#너는 반드시 나에게 진실을 말해야 한다.
+
+[554]
+#You misunderstand me.
+#너는 나를 오해했다.
+
+[555]
+#What is your attitude to cooking?.
+#
+
+[556]
+#What do you like to eat?
+#당신은 무엇을 즐겨 먹습니까?
+
+[557]
+#Do you like bananas?
+#당신은 바나나를 좋아하십니까?
+
+[558]
+#Do you like fish?.
+#당신은 생선을 좋아하십니까?
+
+[559]
+#Do you like boiled chicken?
+#당신은 삶은 닭을 좋아하십니까?
+
+[560]
+#Do you like playing basketball?
+#당신은 농구 하는 것을 좋아하십니까?
+
+[561]
+#Do you love playing tennis?
+#당신은 테니스 치는 것을 좋아하십니까?
+
+[562]
+#Which season do you prefer?
+#당신은 어느 계절을 좋아하십니까?
+
+[563]
+#Do you like beer?
+#당신은 맥주를 좋아하십니까?
+
+[564]
+#Do you like fruit?.
+#당신은 과일을 좋아하십니까?
+
+[565]
+#Do you like my new hairdo?
+#당신은 나의 새로 한 머리 스타일이 마음에 드십니까?
+
+[566]
+#Are you musical ?
+#당신은 음악을 좋아하십니까?
+
+[567]
+#Are you available this afternoon?.
+#당신은 오후에 시간이 있습니까?
+
+[568]
+#What do you intend to do next?
+#당신은 다음에는 무엇을 하실 계획입니까?
+
+[569]
+#You surprised me!
+#당신 때문에 깜짝 놀랐다!
+
+[570]
+#You scared me!
+#당신 때문에 깜짝 놀랐다!
+
+[571]
+#You amaze me.
+#너는 나를 아연실색하게 했다.
+
+[572]
+#Do your calculations on rough paper.
+#너는 우선 대충 계산을 해보아라.
+
+[573]
+#You go first and I'll follow you later.
+#먼저 가십시오, 저는 뒤이어 곧 가겠습니다.
+
+[574]
+#You look very harassed.
+#너는 아주 피곤해 보인다.
+
+[575]
+#You look washed-out!
+#너 너무너무 피곤해 보인다!
+
+[576]
+#You look weary.
+#너 맥이 다 빠진 것처럼 보인다.
+
+[577]
+#It's evident that you've been drinking.
+#당신 분명히 계속 술을 마시고 있군요.
+
+[578]
+#What is your present address?
+#당신이 현재 있는 곳의 주소는 어디입니까?
+
+[579]
+#Do you have to go now?
+#당신은 지금 꼭 가야 합니까?
+
+[580]
+#You ought to be hungry by now.
+#너는 지금 분명히 배가 고플 것이다.
+
+[581]
+#It's silly of you to trust him.
+#네가 그를 믿은 것은 정말 어리석었다.
+
+[582]
+#Do you believe in ghosts?
+#당신은 귀신이 있다고 믿으십니까?
+
+[583]
+#Do you believe in fairies?
+#당신은 선녀가 있다고 믿으십니까?
+
+[584]
+#Would you like a game of tennis?
+#태니스 한 게임 하시겠습니까?
+
+[585]
+#Would you like to look round?
+#여기저기 둘러보기를 원하십니까?
+
+[586]
+#Do you feel like a beer?
+#당신은 맥주를 마시고 싶습니까?
+
+[587]
+#Would you like a glass of water?
+#물을 마시겠습니까?
+
+[588]
+#Want a cup of tea?
+#당신은 차 마시기를 원합니까?
+
+[589]
+#You can come when you please.
+#당신이 오고 싶을 때 오십시오.
+
+[590]
+#What point are you trying to make?
+#당신은 어떤 점을 설명하고 싶은 것입니까?
+
+[591]
+#You may say what you please.
+#당신이 하고 싶은 말을 하십시오.
+
+[592]
+#Do you think she'll come ?.
+#당신은 그녀가 올 거라고 생각하십니까?
+
+[593]
+#fancy that,now!
+#그런 일이 있다니 정말 상상도 못했다!
+
+[594]
+#Do you want anything?
+#당신은 어떤 것을 원합니까?
+
+[595]
+#What do you wish ?.
+#당신은 무엇을 원합니까?
+
+[596]
+#What do you desire me to do?.
+#당신은 내가 어떻게 하기를 원합니까?
+
+[597]
+#What will you buy with the money?
+#당신은 이 돈으로 무엇을 사고 싶습니까?
+
+[598]
+#You are free to do as you wish.
+#당신이 어떻게 하든 모두 괜찮습니다.
+
+[599]
+#How much are you into him for?.
+#당신은 그에게 얼마의 돈을 빌렸습니까?
+
+[600]
+#What do you want from me?
+#당신이 나에게 원하는 것이 무엇입니까?
+
+[601]
+#Your book is quite popular.
+#당신이 쓴 책이 상당히 인기가 있다.
+
+[602]
+#Who do you bank with?
+#당신은 어느 은행과 거래하십니까?
+
+[603]
+#You were lucky that you met him then.
+#너는 다행히도 그때 그를 만났다.
+
+[604]
+#Are you quite rested?
+#당신은 충분히 쉬었습니까?
+
+[605]
+#Do you shave your legs?
+#당신은 다리의 털을 깎았습니까?
+
+[606]
+#Do you need any reference books?
+#당신은 참고서가 필요합니까?
+
+[607]
+#How much do you need?
+#당신은 얼마나 필요합니까?
+
+[608]
+#You need the services of a doctor .
+#너는 진찰을 받아볼 필요가 있다.
+
+[609]
+#You need a wash.
+#너는 좀 씻어야겠다.
+
+[610]
+#Which of the watches have you settled on?
+#당신은 어떤 시계를 선정했습니까?
+
+[611]
+#Have you chosen where to go?
+#당신은 어디에 갈 것인지 결정했습니까?
+
+[612]
+#Whom have you chosen president ?.
+#당신은 총재로 누구를 선택했습니까?
+
+[613]
+#You're learning very fast.
+#너는 참 빨리 배운다.
+
+[614]
+#How many students are there in your school?
+#당신 학교에 학생이 몇 명입니까?
+
+[615]
+#How many friends did you call in?
+#당신은 몇 명의 친구를 초대했습니까?
+
+[616]
+#Whom will you help?
+#당신은 누구를 도우려고 하십니까?
+
+[617]
+#Will you have a candy?.
+#당신 사탕 좀 드시겠습니까?
+
+[618]
+#Would you like a piece of fruit?.
+#당신 과일을 좀 드시겠습니까?
+
+[619]
+#Would you like some more fruit?
+#당신 과일을 좀 더 드시겠습니까?
+
+[620]
+#Would you like some more tea ?.
+# 당신 차를 좀 더 드시겠습니까?
+
+[621]
+#Do you speak for tea?
+#당신 차 마시겠습니까?
+
+[622]
+#Would you like some cake?
+#케이크를 좀 드시겠습니까?
+
+[623]
+#Would you like a piece of chocolate?
+#초콜릿을 좀 드시겠습니까?
+
+[624]
+#Where are you steering for?.
+#당신은 어디에 가십니까?
+
+[625]
+#The books you ask for are all sold out.
+#당신이 원하는 책은 다 팔렸습니다.
+
+[626]
+#here is the book you wanted.
+#당신이 원하는 책이 여기 있습니다.
+
+[627]
+#How much money do you want?.
+#당신은 얼마의 돈을 원하십니까?
+
+[628]
+#Your allotment was five hundred dollars.
+#너는 500달러를 균등하게 나눠야 한다.
+
+[629]
+#You need some cough mixture.
+#너는 감기를 멎게 하는 혼합제를 복용해야 한다.
+
+[630]
+#Be more careful.
+#당신 더욱더 조심하십시오.
+
+[631]
+#Will you have some tea?
+#당신 차를 좀 마시겠습니까?
+
+[632]
+#what'll you have ?
+#당신은 무엇을 마시고 싶습니까?
+
+[633]
+#Will you be long?.
+#시간이 아주 오래 걸리겠습니까?
+
+[634]
+#will you be long?
+#시간이 아주 오래 걸리겠습니까?
+
+[635]
+#How long will you continue working ?.
+#당신은 얼마나 오랫동안 계속 일을 했습니까?
+
+[636]
+#Whose pen will you borrow?
+#당신은 누구의 펜을 빌리려고 하십니까?
+
+[637]
+#acknowledge the gift at once.
+#너는 즉시 감사의 뜻을 담아 선물해야 한다.
+
+[638]
+#What sort of book do you want?.
+#당신은 어떤 책을 원하십니까?
+
+[639]
+#Which do you want?
+#당신은 저것을 원합니까? 
+
+[640]
+#Does she want her toy?.
+#당신은 장난감을 갖고 싶습니까?
+
+[641]
+#You should act according to your conscience.
+# 너는 양심에 따라 일을 처리해야 한다.
+
+[642]
+#Where are you going?
+#당신은 어디를 가려고 합니까?
+
+[643]
+#Where you applying?.
+#당신은 어디에 지원할 겁니까?
+
+[644]
+#What do you want?
+#당신은 무엇을 원합니까?
+
+[645]
+#What kinds of vegetables do you have?
+#당신은 무슨 야채를 원합니까?
+
+[646]
+#What style of house do you require?.
+#당신은 어떤 스타일의 집을 원합니까?
+
+[647]
+#Would you like to give it a whirl?.
+#당신은 그것을 한번 해보고 싶습니까?
+
+[648]
+#You must obey your parents.
+#너는 마땅히 부모님의 말씀을 들어야 한다.
+
+[649]
+#What do you expect me to say to you?.
+#당신은 내가 당신에게 무슨 말을 하기를 원합니까?
+
+[650]
+#What is it that you want me to do ?
+#당신은 내가 무엇을 하기를 원하십니까?
+
+[651]
+#What do you want me to do ?.
+#당신은 내가 어떻게 하기를 원합니까?
+
+[652]
+#Would you like someicecream?.
+#아이스크림을 좀 드시겠습니까?
+
+[653]
+#Would you like some more casserole?
+#당신은 찜 냄비 요리를 좀 더 드시겠습니까?
+
+[654]
+#What are you going to do?
+#당신 어떡하실 겁니까?
+
+[655]
+#You must do as you are told.
+#너는 분부에 따라 일을 처리해야 한다.
+
+[656]
+#You'll have to climb over too.
+#너 또한 반드시 기어서 가야 한다.
+
+[657]
+#Will you come with us,too?.
+#당신도 우리들과 함께 올 건가요?
+
+[658]
+#Do you dream at night?
+#당신은 밤에 꿈을 꿉니까?
+
+[659]
+#How you must have hated me!
+#너는 분명히 나를 아주 미워할 것이다.
+
+[660]
+#You are sure to succeed.
+#너는 반드시 성공할 것이다.
+
+[661]
+#You must have dialed the wrong number.
+#네가 번호를 잘못 누른 것이 틀림없다.
+
+[662]
+#Do come to dinner.
+#당신 꼭 식사하러 오십시오.
+
+[663]
+#You must always tell the truth.
+#너는 항상 진실만을 말해야 한다.
+
+[664]
+#You must know this,mustn't you?.
+#당신은 이 일에 대해 분명히 알고 있을 거에요, 그렇지요?
+
+[665]
+#Who've you been staying with?
+#당신 줄곧 누구와 함께 있었습니까?
+
+[666]
+#You've been neglecting your work.
+#너는 계속 직무를 소홀히 해왔다.
+
+[667]
+#What have you been doing all this time?.
+#당신은 줄곧 무엇을 하고 있었습니까?
+
+[668]
+#Have you taken out insurance yet?
+#당신은 이미 보험에 들었습니까?
+
+[669]
+#Have you read the the book already?
+#당신은 이 책을 이미 다 읽었습니까?
+
+[670]
+#You've wandered from the subject .
+#너는 이미
+
+[671]
+#Have you finished?
+#당신은 이미 끝냈습니까?
+
+[672]
+#You have exceeded your authority.
+#당신은 이미 너의 권한을 넘어섰다.
+
+[673]
+#Have you learned to speak English?.
+#당신은 이미 영어를 배워 익혔습니까?
+
+[674]
+#You assume that he is innocent.
+#당신은 그가 결백하다고 여기십니까?
+
+[675]
+#what do you suppose this is ?
+#당신은 이것이 무엇이라고 짐작됩니까?
+
+[676]
+#How long have you been studying English?
+#당신은 얼마나 오랫동안 영어를 공부하고 있습니까?
+
+[677]
+#Do you speak English fluently ?.
+#당신은 영어를 유창하게 구사할 수 있습니까?
+
+[678]
+#You should exercise more.
+#너는 많이 연습해야만 한다.
+
+[679]
+#You ought to be more careful.
+#너는 더욱 조심해야만 한다.
+
+[680]
+#You ought to understand.
+#너는 마땅히 알고 있다.
+
+[681]
+#You should be ashamed of yourself.
+#너는 마땅히 부끄러워해야 한다.
+
+[682]
+#You ought to have your tonsils out.
+#너는 편도선을 잘라내야 한다.
+
+[683]
+#You really ought to apologize.
+#너는 마땅히 사과해야 한다.
+
+[684]
+#You should strike at the root of the evil.
+#너는 병폐를 뿌리째 뽑아야 한다.
+
+[685]
+#You should assert yourself more.
+#너는 더욱 스스로를 내세워야 한다.
+
+[686]
+#You should be more sparing of your money.
+#너는 마땅히 용돈을 더 절약해야 한다.
+
+[687]
+#You should always adhere to the truth.
+#너는 항상 진리를 고수해야 한다.
+
+[688]
+#You want to see a doctor at once.
+#너는 즉시 병원에 가서 진찰을 받는 것이 좋겠다.
+
+[689]
+#You should see a doctor.
+#너는 병원에 가서 진찰을 받아야만 한다.
+
+[690]
+#You should obey your parents.
+#너는 마땅히 부모님의 말씀을 들어야 한다.
+
+[691]
+#You should believe in God.
+#너는 신을 믿어야 한다.
+
+[692]
+#You should go by what the doctor says.
+#너는 응당 의사의 말에 따라 해야 한다.
+
+[693]
+#You should show respect for your teachers.
+#너는 선생님을 존경해야 한다.
+
+[694]
+#You should oppose reason to prejudice.
+#너는 마땅히 이성으로 편견에 대항해야 한다.
+
+[695]
+#You should never be false to a friend.
+#너는 친구에게 충실해야 한다.
+
+[696]
+#You're singing sharp.
+#너는 반음 높게 노래를 부르고 있다.
+
+[697]
+#Did you use flash?
+#당신은 플래시를 사용하십니까?
+
+[698]
+#What did you open it with?
+#당신은 무엇으로 그것을 열었습니까?
+
+[699]
+#What do you feed the chickens?.
+#당신은 닭에게 무엇을 먹여 키웁니까?
+
+[700]
+#Is there a reason why you can't come?
+#당신은 오지 못할 이유가 있습니까?
+
+[701]
+#You have the option to take it or leave it.
+#너는 그것을 받아들이거나 거부할 자유가 있다.
+
+[702]
+#You have full discretion to act.
+#너는 충분한 행동의 자유가 있다.
+
+[703]
+#Do you have anything to declare?.
+#당신은 신고할 물품이 있습니까?
+
+[704]
+#Have you any family?
+#당신은 아이가 있습니까?
+
+[705]
+#What are your politics?.
+#당신은 어떠한 정견을 가지고 있습니까?
+
+[706]
+#How many brothers do you have?
+#당신은 형제가 몇 명 있습니까?
+
+[707]
+#Do you have something to eat?.
+#당신에게 먹을 만한 것이 있습니까?
+
+[708]
+#Do you have a room free?.
+#당신에게 빈 방이 있습니까?
+
+[709]
+#Come and see me if you have any time.
+#당신 시간 있으면 나를 보러 오십시오.
+
+[710]
+#Have you met him?
+#당신은 그를 만났습니까?
+
+[711]
+#Have you time?
+#당신은 시간이 있습니까?
+
+[712]
+#Do you have ten dollars?
+#당신 10달러 있습니까?
+
+[713]
+#Do you have any time?
+#당신 시간 있습니까?
+
+[714]
+#Do you have a book?
+#당신 책을 가지고 있습니까?
+
+[715]
+#Have you got a spare minute?
+#당신 잠깐 짬을 낼 수 있습니까?
+
+[716]
+#The onus of proof lies with you.
+#너는 증거를 제공해야 할 책임이 있다.
+
+[717]
+#You have some influence with them.
+#너는 그들을 지도할 능력이 있다.
+
+[718]
+#Do you get along well with your aunt?
+#당신은 숙모와 마음이 잘 맞습니까?
+
+[719]
+#Are you willing to take the oath?
+#당신은 서약하겠습니까?
+
+[720]
+#Are you willing to help?
+#당신은 도와주시겠습니까?
+
+[721]
+#Will you do me a service?.
+#당신은 나를 도와줄 겁니까?
+
+[722]
+#Will you swap places with me?.
+#당신은 나와 자리를 바꾸기를 원합니까?
+
+[723]
+#Will you dance with me?.
+#당신은 나와 춤을 추기를 원합니까?
+
+[724]
+#Would you like to leave a message?
+#메모를 남기시겠습니까?
+
+[725]
+#Would you like to go for a walk?
+#당신은 산책하기를 원합니까?
+
+[726]
+#Will you play for us?.
+#당신이 우리를 위해 연주해 주시겠습니까?
+
+[727]
+#Will you have some more coffee?.
+#커피를 좀 더 드시겠습니까?
+
+[728]
+#What are you waiting for ?.
+#당신은 무엇을 기다리고 있습니까?
+
+[729]
+#Are you waiting for anybody ?.
+#당신은 누구를 기다리고 있습니까?
+
+[730]
+#What are you gazing at?
+#당신은 무엇을 주시하고 있습니까?
+
+[731]
+#You're lying to me.
+#너는 지금 나에게 거짓말을 하고 있다.
+
+[732]
+#Are you hiding from the police?.
+#당신은 경찰을 피해 숨어 있습니까?
+
+[733]
+#What are you doing?
+#당신은 지금 무엇을 하고 있습니까?
+
+[734]
+#Who are you writing to?
+#당신은 누구에게 편지를 쓰고 있습니까?
+
+[735]
+#You are courting disaster .
+#너는 스스로 화를 자초하고 있다.
+
+[736]
+#You have to queue up at the bus stop .
+#너는 버스 정류장에서 반드시 줄을 서야 한다.
+
+[737]
+#Who were you talking to ?
+#당신은 누구와 이야기를 했습니까?
+
+[738]
+#You' re putting me on.
+#너는 나를 기만하고 있다.
+
+[739]
+#You're raving!
+#너는 횡설수설하고 있다.
+
+[740]
+#You are joking.
+#너는 농담을 하고 있다.
+
+
+[741]
+
+#You're kidding!
+#너 농담하는 거지!
+
+
+
+[742]
+
+#What are you looking at?
+#당신은 무엇을 보고 있습니까?
+
+
+
+[743]
+
+#You are looking at this dictionary.
+#너는 이 사전을 보고 있다.
+
+
+
+[744]
+
+#You are forbidden to smoke in class.
+#너는 교실에서 담배를 피우면 안 된다.
+
+
+
+[745]
+
+#Your nose is running.
+#너 콧물이 나는구나.
+
+
+
+[746]
+
+#Where did you have your hair waved ?.
+#당신은 어디에서 파마를 했습니까?
+
+
+
+[747]
+
+#Which company do you work for?
+#당신은 어느 회사에서 일을 하고 있습니까?
+
+
+[748]
+#How did you go on there?
+#당신은 그곳에서 어떻게 지냅니까?
+
+[749]
+#Were you there for long?
+#당신은 거기에 머무른지 오래 되었습니까?
+
+[750]
+#You're kidding me!
+#너 나를 놀리고 있구나!
+
+[751]
+#What are you talking about?
+#당신은 무슨 말을 하고 있는 것입니까?
+
+[752]
+#what are you talking about ?.
+#당신 지금 무슨 말을 하는 겁니까?
+
+[753]
+#What are you talking about ?.
+#당신 무슨 말을 하는 겁니까?
+
+[754]
+#whom are you talking about ?.
+#당신은 누구의 일에 대해 얘기하는 것입니까?
+
+[755]
+#You are behind him.
+#너는 그의 뒤에 있다.
+
+[756]
+#What are you playing at?.
+#너는 무슨 농간을 부리려 하는 거냐?
+
+[757]
+#What's biting you?.
+#당신은 무슨 일로 괴로워하고 있습니까?
+
+[758]
+#You are chaffing me.
+#너는 나를 희롱하고 있다.
+
+[759]
+#What are you driveling about?
+#너 무슨 허튼소리 하고 있는 거야?
+
+[760]
+#What are you thinking about?
+#당신은 무슨 생각을 하고 있습니까?
+
+[761]
+#Did you enjoy yourself of the party?
+#당신은 파티가 즐거웠습니까?
+
+[762]
+#What are you looking for?
+#당신은 무엇을 찾고 있습니까?
+
+[763]
+#Who are you seeking for?
+#당신은 누구를 찾고 있습니까?
+
+[764]
+#What is your purpose in being here?
+#당신은 여기에서 뭘 하고 있습니까?
+
+[765]
+#How long have you lived here?
+#당신은 여기에서 얼마나 오래 살았습니까?
+
+[766]
+#You're having me on.
+#너는 나를 조롱하고 있다.
+
+[767]
+#What are you doing,dad?
+#아빠, 지금 뭐 하고 계세요?
+
+[768]
+#What are you doing ?.
+#당신은 뭘 하고 있습니까?
+
+[769]
+#park yourself here.
+#너는 잠시 여기에 있어라.
+
+[770]
+#Are you for or against the war?.
+#당신은 전쟁에 찬성하십니까? 아니면 반대하십니까?
+
+[771]
+#Are you in favour of hanging?
+#당신은 교수형을 찬성하십니까?
+
+[772]
+#Do you approve of the use of guns by the police?
+#당신은 경찰이 총을 사용하는 것에 대해 찬성하십니까?
+
+[773]
+#Do you agree with the separation of church and state?
+#당신은 정치와 교회가 분리되는 것에 대해 찬성하십니까?
+
+[774]
+#You are wrong in laying the blame on him.
+#네가 그를 탓한 것은 잘못한 것이다.
+
+[775]
+#How did you break your leg?
+#당신의 다리가 어쩌다 부러졌습니까?
+
+[776]
+#How dare you say that?
+#당신이 어떻게 감히 그런 말을 합니까?
+
+[777]
+#What's the matter with you?
+#당신 어떻게 된 겁니까?
+
+[778]
+#How do you deal with this problem?
+#당신은 이 문제를 어떻게 처리하실 겁니까?
+
+[779]
+#How did you spend the vacation?.
+#당신은 휴가를 어떻게 보내실 겁니까?
+
+[780]
+#How do you spell that ?.
+#이 글자 어떻게 씁니까?
+
+[781]
+#How can you have the face to say that?
+#당신이 무슨 면목으로 그렇게 이야기 합니까?
+
+[782]
+#It doesn't matter how you do it.
+#네가 어떻게 하든 상관없다.
+
+[783]
+#Have you ever been to Shanghai?
+#당신은 상해에 가보셨습니까?
+
+[784]
+#Have you ever flown solo?
+#당신은 솔로 비행을 해보셨습니까?
+
+[785]
+#Have you ever ridden a camel?
+#당신은 낙타를 타보셨습니까?
+
+[786]
+#What are you standing there for?
+#당신은 거기 서서 뭐 하는 겁니까?
+
+[787]
+#Will you see to the children?
+#당신이 아이들을 돌보겠습니까?
+
+[788]
+#Did you paint the picture from nature?
+#당신의 그림은 사생한 것입니까?
+
+[789]
+#You clumsy oaf!
+#이 멍청한 놈!
+
+[790]
+#You sublime idiot!
+#너 정말 바보구나!
+
+[791]
+#You bitch!
+#너 이 나쁜 년!
+
+[792]
+#You blunderer!
+#야! 이 얼간아!
+
+[793]
+#You damned fool!
+#이 죽어 마땅한 멍청아!
+
+[794]
+#You old codger!
+#이 괴팍한 늙은이!
+
+[795]
+#Damn you!
+#이 빌어먹을 것 같으니라구!
+
+[796]
+#You poor bleeder!
+#이 불쌍한 인간아!
+
+[797]
+#You poor blighter !
+#이 불쌍한 놈아!
+
+[798]
+#What a bad-tempered individual you are!
+#너 이 성질 더러운 놈아!
+
+[799]
+#you liar !
+#이 거짓말쟁이!
+
+[800]
+#You fool!
+#이 바보야!
+
+[801]
+#You glutton!
+#이 대식가야!
+
+[802]
+#You bastard !
+#이 개자식!
+
+[803]
+#You wretched child!
+#이 나쁜 놈!
+
+[804]
+#You swine !
+#이 야비한 놈!
+
+[805]
+#Haven't you got beer on draught here?
+#여기 생맥주 있습니까?
+
+[806]
+#What are you getting at?
+#너 이게 무슨 뜻이지?
+
+[807]
+#You little varmint,varment !
+#이 개구쟁이 녀석아!
+
+[808]
+#Your ideas are fascinating.
+#너의 이러한 생각은 정말 사람을 매료시킨다.
+
+[809]
+#It was imprudent of you to say so.
+#네가 이렇게 말하는 것은 경솔한 것이다.
+
+[810]
+#What do you mean by that?
+#당신이 이렇게 말하는 것은 무슨 뜻입니까?
+
+[811]
+#It was kind of you to do so.
+#네가 이렇게 하니 참 좋구나.
+
+[812]
+#It's kind of you to give me a present.
+#나에게 선물을 보내다니, 너는 정말 좋은 아이다.
+
+[813]
+#It's bad of you to desert me.
+#나를 속이다니, 너는 정말 나쁘다.
+
+[814]
+#That's big of you.
+#너는 정말 도량이 넓다.
+
+[815]
+#Thank you for being such a big help.
+#네가 정말 큰 일을 도와주었다.
+
+[816]
+#You are quite a young lady.
+#너는 정말 고상하고 우아한 숙녀다.
+
+[817]
+#You really are hopeless!
+#넌 정말 구제불능이다.
+
+[818]
+#Is it true you're going away?
+#당신 정말 갈 겁니까?
+
+[819]
+#You're just the person I wanted to see.
+#당신은 정말 내가 만나고자 했던 사람이다.
+
+[820]
+#You're standing right in the line of fire.
+#나는 화력선상에 서있다.
+
+[821]
+#Which football team do you support?
+#당신은 어느 축구팀을 응원합니까?
+
+[822]
+#Do you know who she is?
+#당신은 그녀가 누구인지 아십니까?
+
+[823]
+#Do you know how to weave?
+#당신은 어떻게 옷감을 짜는지 아십니까?
+
+[824]
+#Do you know what this is ?.
+#당신은 이것이 무엇인지 아십니까?
+
+[825]
+#You deserve praise.
+#너는 칭찬 받을만하다.
+
+[826]
+#What are you aiming at?
+#당신이 목표하는 것은 무엇입니까?
+
+[827]
+#who do you mean ?.
+#당신이 가리키는 사람이 누구입니까?
+
+[828]
+#Just listen to this!
+#당신은 듣기나 하시오!
+
+[829]
+#You can only guess .
+#당신은 예측할 수 있을 뿐이다.
+
+[830]
+#You can look,but mustn't touch.
+#너는 볼 수만 있을 뿐 만질 수는 없다.
+
+[831]
+#You have only to go.
+#너는 가기만 하면 된다.
+
+[832]
+#Are you content with your grade?
+#당신은 당신의 성적에 만족합니까?
+
+[833]
+#You speak Chinese better than he.
+#네가 그보다 중국어를 더 잘한다.
+
+[834]
+#How long did you live in China?
+#당신은 중국에서 얼마나 살았습니까?
+
+[835]
+#Have you finished middle school?
+#당신은 중학교를 졸업했습니까?
+
+[836]
+#where do you live ?
+#당신은 어디에 살고 있습니까?
+
+[837]
+#Do you live locally?
+#당신은 이 근처에 사십니까?
+
+[838]
+#Where do you live?
+#당신은 어디에 살고 있습니까?
+
+[839]
+#How much are you ready to lay down ?
+#당신은 노름돈을 얼마나 준비해 뒀습니까?
+
+[840]
+#Put that in your pipe and smoke it.
+#너는 이 일에 대해 잘 생각해 봐라.
+
+[841]
+#You yourself did it.
+#너 스스로 한 일이다.
+
+[842]
+#You are not consistent with yourself.
+#너는 자가당착에 빠졌다.
+
+[843]
+#You will have your own way.
+#너는 늘 네 고집대로만 한다.
+
+[844]
+#You are always carping at my errors.
+#너는 항상 나의 잘못을 꼬집어낸다.
+
+[845]
+#You'll never get away with it.
+#너는 결국 처벌을 받아야 한다.
+
+[846]
+#You'll believe it yet.
+#너는 결국 믿게 될 것이다.
+
+[847]
+#Say good-bye before you go.
+#너는 가기 전에 잘 가라는 인사를 해야 한다.
+
+[848]
+#You'd better change the car down.
+#너는 차의 속도를 늦추는 것이 좋겠다.
+
+[849]
+#You'd better put some money aside.
+#너는 돈을 저축하는 것이 좋겠다.
+
+[850]
+#You had better go somewhere else.
+#너는 다른 곳으로 가는 것이 좋겠다.
+
+[851]
+#You'd better gas up the car.
+#너는 차에 기름을 넣는 것이 좋겠다.
+
+[852]
+#You'd better save your provisions as much as possible.
+#너는 가능한 식량을 절약하는 것이 좋겠다.
+
+[853]
+#You'd better scat.
+#너는 빨리 가는 것이 좋겠다.
+
+[854]
+#You had beeter go right away.
+#너는 지금 곧 가는 것이 좋겠다.
+
+[855]
+#You'd better ask someone to help you.
+#너는 다른 사람에게 도움을 청하는 것이 좋겠다.
+
+[856]
+#You'd better go home now.
+#너는 지금 귀가하는 것이 좋겠다.
+
+[857]
+#You'd better own up to your faults.
+#너는 솔직하게 잘못을 인정하는 것이 좋겠다.
+
+[858]
+#You'd better notify the police.
+#너는 경찰에 신고하는 것이 좋겠다.
+
+[859]
+#You'd better lie up for a few more days.
+#너는 며칠 더 누워 있는 것이 좋겠다.
+
+[860]
+#You had better do a little hard thinking.
+#너는 곰곰히 생각해 보는 것이 좋겠다.
+
+[861]
+#You'd ruddy well better do it.
+#네가 이 일을 하는 것이 좋겠다.
+
+[862]
+#Have you heard of him recently?
+#당신은 최근 그에 대한 소식을 들었습니까?
+
+[863]
+#Who's your favourite writer?
+#당신이 가장 좋아하는 작가는 누구입니까?
+
+[864]
+#What sport do you like best?.
+#당신은 무슨 운동을 가장 좋아합니까?
+
+[865]
+#which do you like best ?
+#당신은 어느 것이 가장 좋습니까?
+
+[866]
+#Which do you like best?
+#당신은 어느 것이 가장 좋습니까?
+
+[867]
+#Did you meet him yesterday?
+#당신은 어제 그를 만났습니까?
+
+[868]
+#Did you sleep well last night?
+#당신은 어젯밤에 잘 주무셨습니까?
+
+[869]
+#You have wrought very skillfully.
+#너는 아주 능숙하게 하는구나.
+
+[870]
+#What delicious food you've cooked!
+#네가 만든 음식이 너무나 맛있다!
+
+[871]
+#You have no warrant for doing that.
+#네가 그 일을 할 아무런 이유가 없다.
+
+[872]
+#You are lucky in whatever you undertake.
+#너는 무슨 일을 하든지 운이 좋다.
+
+[873]
+#H you finished yet?
+#당신은 다 마쳤습니까?
+
+[874]
+#Have you said your prayers?
+#당신은 기도를 해본 적 있습니까?
+
+[875]
+#You made a gallant effort.
+#너는 최대한의 노력을 했다.
+
+[876]
+#You handle things anyhow.
+#너는 일을 너무 소홀히 한다.
+
+[877]
+#Smith senior.
+#나이든 Smith.
+
+[878]
+#The wine improves with age.
+#시간이 오랠수록 술맛은 좋아진다.
+
+[879]
+#The Korean war touched off scarebuying in 1951.1951.
+#한국전쟁은 비축구매를 야기시켰다.
+
+[880]
+#The older generation are respectful of tradition.
+#연세가 드신 분들은 전통을 중시한다.
+
+[881]
+#Age has silvered his hair.
+#나이가 들면 머리가 하얗게 변한다.
+
+[882]
+#jack and Gill .
+#젊은 남녀.
+
+[883]
+#Young people enjoy belting out songs.
+#젊은 사람들은 큰소리로 노래하기를 좋아한다.
+
+[884]
+#School is a hard slog.
+#공부라는 것은 꾸준히 해야 하는 것이다.
+
+[885]
+#A bird flew in through the window.
+#새가 창문으로 날아들어 왔다.
+
+[886]
+#The bird has got out of its cage.
+#새가 새장 밖으로 달아났다.
+
+[887]
+#The bird rode on the wind.
+#새가 바람을 타고 비상한다.
+
+[888]
+#The song of birds heralds spring.
+#새의 노랫소리가 봄을 예고한다.
+
+[889]
+#The bird fluffed out its feathers.
+#새가 깃털을 털어 펼쳤다.
+
+[890]
+#The bird landed on the branch.
+#새가 나뭇가지 위에 떨어졌다.
+
+[891]
+#The bird sang high and clearly.
+#새가 맑고도 쟁쟁하게 소리 높여 노래 부른다.
+
+[892]
+#The birds are calling each other.
+#새들이 서로 부르고 있다.
+
+[893]
+#The birds were circling around in the air.
+#새들이 공중에서 빙빙 돌고 있다.
+
+[894]
+#The birds were singing in the trees.
+#새들이 숲속에서 노래하고 있다.
+
+[895]
+#The birds are in full song.
+#새들이 일제히 소리 높여 울고 있다.
+
+[896]
+#The birds were singing away in the trees.
+#새들이 나무 위에서 계속 노래하고 있다.
+
+[897]
+#Birds fiy in the air.
+#새들이 하늘을 날고 있다.
+
+[898]
+#The bird beat its wings rapidly.
+#새가 빠르게 날개를 치고 있다.
+
+[899]
+#Birds often pair in the spring.
+#조류는 항상 봄에 짝을 찾는다.
+
+[900]
+#The birds perched on the telephone wires.
+#새들이 전화줄 위에서 서식하고 있다.
+
+[901]
+#A bird was sitting in a tree.
+#새가 나무 위에 서식하고 있다.
+
+[902]
+#The birds scattered.
+#새들이 사방으로 흩어져 날았다.
+
+[903]
+#Birds have an inborn ability to fly.
+#새들은 태어나자마자 곧 날 수 있다.
+
+[904]
+#The bird ruffled up its feathers.
+#새가 깃털을 세웠다.
+
+[905]
+#The bird hopped onto my finger.
+#새가 나의 손바닥 위로 뛰어올랐다.
+
+[906]
+#The woods were resonant with the songs of birds.
+#새들의 노랫소리가 숲속에 울려 퍼졌다.
+
+[907]
+#The birds scratched up worms.
+#새들이 발톱으로 벌레를 끄집어냈다.
+
+[908]
+#Birds have an instinctive ability to fly.
+#새들은 비행에 천부적인 소질이 있다.
+
+[909]
+#Birds mate in the spring.
+#새들은 봄에 교배를 한다.
+
+[910]
+#frame up a case against sb.
+#사건을 날조해서 어떤 사람을 모해했다.
+
+[911]
+#Have you any more questions?
+#당신에게 다른 의견이 또 있습니까?
+
+[912]
+#Will you sign the contract now?
+#당신은 지금 서명하시겠습니까?
+
+[913]
+#What beverages do you have?.
+#당신은 어떤 음료를 마시겠습니까?
+
+[914]
+#What would you like to eat?
+#무엇을 드시겠습니까?
+
+[915]
+#It is better to err on the side of mercy.
+#
+
+[916]
+#It is best to err on the side of prudence.
+#
+
+[917]
+#It is better to suffer than to lie.
+#
+
+[918]
+#screw out water from a sponge ( screw out water of a sponge)
+#스펀지의 물을 짜다.
+
+[919]
+#set up a pipe joint
+#파이프를 꼭 죄어 연결하다.
+
+[920]
+#Cows,sheep,and goats have cloven hoofs.
+#소, 양의 발굽은 모두 우제다. (갈라진 발굽이다.)
+
+[921]
+#The ox-cart rattled away.
+#달구지가 덜거덕거리며 지나갔다.
+
+[922]
+#Oxford Street is always very congested.
+#옥스포드 길은 항상 붐빈다.
+
+[923]
+#The milk had frozen solid.
+#우유가 얼어서 고체가 되었다.
+
+[924]
+#Milk is good for you.
+#우유는 몸에 좋다.
+
+[925]
+#Milk does you good.
+#우유는 몸에 좋다.
+
+[926]
+#Milk does not agree with me.
+#우유는 나에게 안 맞는다.
+
+[927]
+#Milk curdles when kept too long.
+#우유는 너무 오래 방치해 두면 응결된다.
+
+[928]
+#Milk becomes cheese by fermentation.
+#우유가 발효되면 치즈가 된다.
+
+[929]
+#The milk upset.
+#우유가 쏟아졌다.
+
+[930]
+#The heat has turned the milk.
+#우유가 열을 받아서 변질되었다.
+
+[931]
+#The milk has frozen solid.
+#우유가 이미 차갑게 응고되었다.
+
+[932]
+#The milk has gone off because of the hot weather.
+#우유가 날이 더워서 변질되었다.
+
+[933]
+#The cattle have been roped in.
+#소들은 이미 새끼줄로 묶였다.
+
+[934]
+#The cattle are grazing in the field.
+#소들이 들판에서 풀을 뜯고 있다.
+
+[935]
+#The cow is a ruminant.
+#소는 반추동물이다.
+
+[936]
+#Cattle and sheep feed chiefly on grass.
+#소와 양의 주식은 풀이다.
+
+[937]
+#Cows eat grass and grain.
+#소는 풀과 곡물을 주식으로 한다.
+
+[938]
+#Cows feed on grass.
+#소는 풀을 먹고 산다.
+
+[939]
+#The cattle are in the shed.
+#소는 외양간에 있다.
+
+[940]
+#The cattle were grazing in the field.
+#소가 벌판에서 풀을 뜯고 있다.
+
+[941]
+#The cows are feeding in the meadows.
+#소가 풀밭에서 풀을 뜯고 있다.
+
+[942]
+#The cowboy got all dressed in his Sunday-go-to-meeting clothes to go to the dance.
+#카우보이가 옷을 갖춰 입고 무도회에 참가하였다.
+
+[943]
+#"New York" is usually abbreviated to "N.Y.".
+#뉴욕은 통상 줄여서 N.Y. 라고 쓴다.
+
+[944]
+#Smoke rolled up.
+#짙은 연기가 뭉게뭉게 오른다.
+
+[945]
+#The country has reverted to a wild state.
+#농촌이 다시 황폐해졌다.
+
+[946]
+#The peasants are pushing on with their reaping.
+#농민들은 한창 수확을 하고 있다.
+
+[947]
+#The corn ripens in the sun.
+#농작물은 햇빛 아래에서 무르익는다.
+
+[948]
+#The crops were ravaged by the typhoon.
+#농작물이 태풍 때문에 황폐화되었다.
+
+[949]
+#rake in a lot of money
+#많은 돈을 손에 넣었다
+
+[950]
+#smooth away the creases from a bedsheet
+#침대 시트의 구김살을 평평하게 펴다
+
+[951]
+#Do look what you are doing!
+#자기가 무엇을 하고 있는지를 분명히 알아라!
+
+[952]
+#bear down to keep one's unbeaten record intact
+#깨지지 않는 기록을 유지하도록 노력하다
+
+[953]
+#blaze away till midnight
+#늦은 밤까지 열심히 일하다
+
+[954]
+#knock oneself out preparing for the experiment
+#실험을 위해서 준비를 철저히 하다.
+
+[955]
+#fulminate against luxury and idleness
+#사치하는 것과 게으른 것을 비난하다
+
+[956]
+#A roar rent the air.
+#고함소리가 하늘 끝까지 울려 퍼지다.
+
+[957]
+#give sb.back an angry look
+#어떤 사람을 성난 눈으로 쏘아보다
+
+[958]
+#fling out in a rage
+# 노기가 충천해서 휙 나가버리다
+
+[959]
+#Towering waves impinged upon the shore.
+#사나운 파도가 해안에 세차게 부딪치다.
+
+[960]
+#The seamstress gathered in the cloth.
+#여자 재봉사가 천을 거둬들이다.
+
+[961]
+#여자 범인이 이미 자백했다.
+#The prisoner has confessed her crime.
+
+[962]
+#The girls are kempt ..
+#여자들은 아주 단정하고 깨끗하다.
+
+[963]
+#The girl let down her hair.
+#소녀가 머리를 내렸다.
+
+[964]
+#The Queen addressed the crowd.
+#여왕은 군중들을 향해 담화를 발표했다.
+
+[965]
+#woman is fickle.
+#여자들은 변덕스럽다.
+
+[966]
+#The queen betook herself to her residence in Scotland.
+#여왕이 스코틀랜드에 가서 주재하다.
+
+[967]
+#The Queen welcomed the President when he arrived.
+#여왕이 총통이 온 것을 환영했다.
+
+[968]
+#The Queen appointed him Lord Chamberlain.
+#여왕이 그를 궁내 대신으로 위임했다.
+
+[969]
+#The witch pretended to be able to conjure up the spirits of the dead.
+#무당이 귀신을 부를 수 있다고 거짓말했다.
+
+[970]
+#A hostess should be courteous to her guests.
+#여주인은 마땅히 정중하게 손님을 모셔야 한다.
+
+[971]
+#The dressmaker plies her needle.
+#양재사가 부지런히 바늘로 꿰매고 있다.
+
+[972]
+#The bridesmaid attends the bride.
+#신부의 들러리가 신부를 시중하다.
+
+[973]
+#The warmth soaked into the old man's legs.
+#따뜻한 기운이 노인의 다리로 스며들었다.
+
+[974]
+#The heating goes off at night.
+#스팀이 밤에는 끊긴다.
+
+[975]
+#faint heart never won fair lady.
+#겁쟁이는 영원히 미인을 이길 수 없다.
+
+[976]
+#Oh,belt up,would you?
+#아, 좀 조용히 해주시겠습니까?
+
+[977]
+#Oh,do hush up!
+#오, 소리내지 마세요!
+
+[978]
+#Oh, I give up!
+#오, 항복이다!
+
+[979]
+#Oh,I could do with a cup of tea.
+#아, 커피 한잔 마시고 싶다.
+
+[980]
+#Europe imports coal from America.
+#유럽은 미국으로부터 석탄을 수입한다.
+
+[981]
+#drop into a shop
+#우연히 한 상점에 들렀다
+
+[982]
+#knock up an acquaintance with a few people
+#우연히 몇 사람을 사귀게 되었다
+
+[983]
+#knock up against an old friend
+#옛 친구를 우연히 만났다.
+
+[984]
+#scramble up a steep hillside
+#가파른 산비탈을 기어오르다
+
+[985]
+#recoil from death is natural.
+#죽음을 두려워하는 것은 당연하다.
+
+[986]
+#knock off an opponent
+#반대자를 제거하다
+
+[987]
+#knock off every objection
+#일체의 반대 의견을 배제한다
+
+[988]
+#queue up for a bus
+#줄을 서서 버스를 기다리다
+
+[989]
+#The drains are blocked up.
+#배수구가 막혔다.
+
+[990]
+#The drain was choked with mud.
+#배수구가 진흙으로 막혔다.
+
+[991]
+#The dishes were stacked up to dry.
+#접시를 말려서 쌓아 놓았다.
+
+[992]
+#We are looking forward to your comments and quotation.
+#당신의 의견과 견적서를 주시기 바랍니다.
+
+[993]
+#We look forward to receiving your comments.
+#그쪽 의견을 알려주시기 바랍니다.
+
+[994]
+#We look forward to receiving your acceptance.
+#귀사의 회답을 얻을 수 있기를 바랍니다.
+
+[995]
+#We await your telegraphic reply with keen interest.
+#당신들이 전보로 회답해 주시기를 바랍니다.
+
+[996]
+#I hope for an early answer to my letter.
+#빠른 시일 내에 회답 주시기를 바랍니다.
+
+[997]
+#Awaiting your early advice of shipment.
+#빠른 시일 내에 선적 통지를 받을 수 있기를 바랍니다.
+
+[998]
+#Looking forward to receiving your immediate reply.
+#빠른 시일 내에 회답해 주시면 고맙겠습니다.
+
+[999]
+#We are looking forward to your early and favorable reply.
+#빠른 시일 내에 회답을 받았으면 합니다.
+
+[1000]
+#Judge whether he's right or wrong.
+#판단이라는 것은 옳든지 아니면 그르다.
+
+[1001]
+#The sentence was ten years in prison.
+#징역 10년이라는 판결이 났다.
+

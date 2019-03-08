@@ -1,0 +1,951 @@
+[1]
+#craft of all kinds come into this port.
+#여러 종류의 배들이 이 항구에 드나든다.
+
+[2]
+#Various styles of suits are displayed in the shopwindows.
+#각종 스타일의 정장이 쇼윈도우에 진열되어져 있다.
+
+[3]
+#an award of ↔5000 to those hurt in the explosion.
+#폭발로 부상을 당한 사람에게 오천 파운드의 배상비를 주다.
+
+[4]
+#The purpose of annealing the metal is to relieve the stress.
+#금속을 달구는 것은 약간의 압력을 줄이기 위한 것이다
+ 
+[5]
+#What do you think of a 3% discount?
+#당신에게 3%의 할인을 해주는 것을 어떻게 생각해요?
+
+[6]
+#give the starting time for the race.
+#달리기에 시작 시간을 정하다.
+
+[7]
+#Give them a fightingchance.
+#그들에게 한 번의 노력할 기회를 주어라.
+ 
+[8]
+#그에게 1파운드를 주고 그것으로 끝내라.
+
+[9]
+#Give him a break and he'll succeed.
+#그에게 기회를 한 번 주면 그는 성공할 것이다.
+
+[10]
+#give him a week to do it.
+#그에게 일주일의 시간을 주어 그 일을 하게 하다.
+
+[11]
+#Give me a chance to try the job.
+#이 일을 해볼 수 있도록 나에게 기회를 주시오.
+
+[12]
+#Show me the instructions for this watch.
+#나에게 이 시계의 사용설명서를 보여 주시요.
+
+[13]
+#Give me two double whiskeys.
+#나에게 위스키를 곱으로 두 잔 주시오.
+
+[14]
+#Bung me a cigarette,will you?
+#내게 담배 한 가치 던져 줄 수 있어요?
+
+[15]
+#Give me ten dollars' worth of this cloth.
+#내게 10달러 짜리의 이 옷감을 주세요.
+
+[16]
+#Find me something flat to write on.
+#쓸 수 있는 매끌매끌한 종이 한 장을 찾아 주세요.
+ 
+[17]
+#dress out a pig
+#돼지를 피를 빼고 배를 갈라 팔려고 하다.
+
+[18]
+#According to information received from...
+#......에 근거하여 얻은 소식,...
+
+[19]
+#She is on record as having said that she opposed high taxation.
+#기록에 의하면 그녀는 높은 세금을 반대한다고 말한 적 있다.
+
+[20]
+#According to the weather forecast,it will hold up this afternoon.
+#일기예보에 의하면 오후에는 날씨가 갠다고 한다.
+
+[21]
+#According to my watch it is 4 o'clock.
+#내 시계는 현재 4시 정각이다.
+
+[22]
+#go round with bad people for some time
+#나쁜 사람들과 함께 얼마의 시간을 빈둥거리다.
+
+[23]
+#I'll be glad to see the back of him.
+#그와 내왕을 끊으면 나는 기쁠것이다.
+
+[24]
+#A modicum of patience is necessary when dealing with him.
+#그와 함께 지낼 때는 약간의 인내가 필요하다.
+
+[25]
+#The woman with whom I went is my aunt.
+#나와 동행한 그 부인은 나의 고모이다.
+
+[26]
+#identify with the hero of a novel
+#소설 속의 주인공과 동일시 하다.
+
+[27]
+#get in with a bad crowd
+#나쁜 무리들과 함께 섞이다.
+
+[28]
+#gang up with a group of unruly youths
+#규율을 지키지 않는 청년들과 함께 빈둥거리다.
+
+[29]
+#He ran rather than walked.
+#더 정확히 말해 그는 뛰는 것이지 걷는 것이 아니다.
+
+[30]
+#Factory waste has smelled up the creek.
+#공장의 폐기물이 이 작은 하천을 썩은 냄새로 진동시켰다.
+
+[31]
+#The factory chimneys poured smoke into the air.
+#공장의 굴뚝은 공중으로 연기를 내뿜었다.
+
+[32]
+#Factories employ both male and female workers.
+#공장은 남자 근로자와 여자 근로자를 고용한다.
+
+[33]
+#The fire in the factory has put back production.
+#공장 안의 화재는 생산을 방해하였다.
+
+[34]
+#Will the Labour Party get back at the next election?
+#노동당은 다음 선거에서 재기할 수 있을 까요?
+
+[35]
+#The Labour vote increased at the election.
+#노동당은 선거에서 득표수가 증가하였다.
+
+[36]
+#The Labour Party was restored to power at the election.
+#노동당은 선거에서 다시 집정하였다.
+
+[37]
+#The unions could not take on board the idea of a pay freeze.
+#노조는 임금동결의 의견을 받아들일 수 없다.
+
+[38]
+#The workman got the tools up from below.
+#장인은 공구를 아래에서 위로 옮겼다.
+
+[39]
+#The workers will soon become reconciled with their employer.
+#근로자는 바로 고용주와 화해할 것이다.
+
+[40]
+#The workers and peasants make up the majority of the population of our country.
+#근로자와 농민은 우리나라 인구의 대다수를 차지한다.
+
+[41]
+#The workers marched in procession to the minister's office.
+#근로자는 열을 지어서 부장의 사무실로 전진하였다.
+
+[42]
+#The workers put machines into action.
+#근로자들은 기계를 가동시키기 시작하였다.
+
+[43]
+#The workers complained about the factory's lack of ventilation.
+#근로자들은 공장의 통풍설비의 미비에 대하여 불만하였다.
+
+[44]
+#The workers were railroaded into signing the agreement.
+#근로자들은 대충대충 협의에 서명하도록 강요당하였다.
+
+[45]
+#The workers clamored for higher wages.
+#근로자들은 임금인상을 시끄럽게 요구하였다.
+
+[46]
+#The workers are in flameproof overalls.
+#근로자들은 방화용 작업복 바지를 입었다.
+
+[47]
+#The workers got a Christmas bonus.
+#근로자들은 성탄절 보너스를 받았다.
+
+[48]
+#The men are working against time to finish the bridge.
+#근로자들은 초를 다투어 대교를 건설하였다.
+
+[49]
+#The workers are putting up equipment for the new laboratory.
+#근로자들은 새로운 실험실을 위하여 설비를 설치하고 있다.
+
+[50]
+#The workers are assembling a machine.
+#근로자들은 기계 한 대를 조립하고 있다.
+
+[51]
+#The workmen fixed the water system.
+#근로자들은 급수시스템을 설치하였다.
+
+[52]
+#The trade union negotiated a new contract with the owner.
+#근로자와 업주는 새로운 계약을 협정하였다.
+
+[53]
+#The workers picketed the factory gates.
+#근로자들은 공장의 정문 입구에 (노동 쟁의의)피켓 라인을 쳤다.
+
+[54]
+#The worker's occupation of the factory lasted three weeks.
+#근로자들은 공장을 3주간 점령하였다.
+
+[55]
+#The workmen are laying the foundations of the new hospital.
+#근로자들은 그 새 병원을 위하여 기초를 다지고 있다.
+
+[56]
+#Estimate of manhour costs,i.e.salaries and wages,.
+#근로시간의 비용에 대한 평가는 봉급과 임금이다.
+
+[57]
+#Maximum percentage variation of the estimate of man-hour costs,.
+#근로시간의 비용에 대한 평가의 최대 퍼센트 변화.
+
+[58]
+#The foreman knocked off the workers for lunch.
+#감독이 근로자들에게 작업을 멈추고 점심식사를 하게 하였다.
+
+[59]
+#Industrial robots can outwork humans .
+#공업용 로보트는 사람보다 더 빨리 일할 수 있다.
+
+[60]
+#The industrial economy is developing with a high speed.
+#공업경제는 지속적으로 고속 성장을 하고 있다.
+
+[61]
+#The industrial area is centered largely in the north.
+#공업지역은 대부분 북방에 집중되어져 있다.
+
+[62]
+#There are pockets of unemployment in the industrial areas.
+#공업지역 내에는 낮은 실업현상이 있다.
+
+[63]
+#The industrial court came down on the side of the unions.
+#공업 법원은 노조를 지지하는 결정을 하였다.
+
+[64]
+#The country is supported by industry.
+#공업은 이 국가의 지주목이다.
+
+[65]
+#Industry is a heavy user of electric power.
+#산업은 대량의 전력 소모를 필요로 한다.
+
+[66]
+#Industry was immobilized by a general strike.
+#산업은 총파업으로 인하여 정지를 알렸다.
+
+[67]
+#Should industry be controlled by the state?
+#산업은 정부에 의해 통제되어야 합니까?
+
+[68]
+#Work features largely in her life.
+#일은 그녀의 생활에서 큰 특징이 되었다.
+
+[69]
+#It's not humanly possible to work so quickly.
+#일을 이렇게 빨리 하는 것은 인력으로는 할 방법이 없다.
+
+[70]
+#It's physically impossible to work so fast.
+#일을 이렇게 빨리 하는 것은 거의 불가능한 일이다.
+
+[71]
+#The standard of work has gone down.
+#일의 기준은 이미 내려갔다.
+
+[72]
+#The pressure of work was too great for him.
+#일의 스트레스가 그를 견딜 수 없게 하였다.
+
+[73]
+#Work and play shaded into each other.
+#일과 놀이는 점차 섞여 갔다.
+
+[74]
+#The job was completed between the two.
+#일은 이 두 사람이 공동으로 완성한 것이다.
+
+[75]
+#The work is going forward at a satisfactory pace.
+#일은 마침 만족스러운 속도로 진행되고 있다.
+
+[76]
+#Power is the rate at which work is being done.
+#출력은 바로 일이 완성될 때 쓰이는 속도이다.
+
+[77]
+#Congratulations to you and Ned on the birth of your handsome son.
+#당신과 네드가 아들을 낳게 된 것을 축하합니다.
+
+[78]
+#Congratulations! You two are a perfect match.
+#축하합니다, 당신들은 한 쌍의 천생연분입니다.
+
+[79]
+#I congratulate you on this marvelous opportunity.
+#당신이 이렇게 좋은 기회를 얻게 된 것을 축하드립니다.
+
+[80]
+#put out false figures to cover up the real situation
+#거짓 숫자를 발표하여 실제 상황을 은폐하다.
+ 
+[81]
+#Buses ply between the two cities.
+#버스는 정기적으로 두 도시의 사이를 왕래한다.
+
+[82]
+#Should public transport be subsidized?
+#대중 교통은 당연히 자금조달을 받아야 합니까?
+
+[83]
+#The bus stops regularly to set down and pick up passengers.
+#버스는 정류장마다 멈춰 서 승객을 내리고 태웠다.
+
+[84]
+#It causes a lot of inconvenience when buses don't come.
+#버스가 오지 않을 때 많은 불편함이 있다.
+
+[85]
+#The bus was so jammed that I couldn't get down.
+#버스가 너무 붐벼서 나는 내릴 수가 없었다.
+
+[86]
+#The bus service runs day and night.
+#버스는 밤낮으로 모두 운행한다.
+
+[87]
+#The bus stopped,and we got on.
+#버스가 멈추자 우리는 올라탔다.
+
+[88]
+#The bus arrived five minutes late.
+#버스는 5분 늦게 도착하였다.
+
+[89]
+#The bus checked with a jolt.
+#버스는 갑자기 끽하고 멈추었다.
+
+[90]
+#Do the buses stop at the market?
+#버스는 시장 옆에 섭니까?
+ 
+[91]
+#The bus jerked to a stop.
+#버스는 한 바탕 흔들거리고 멈추었다.
+
+[92]
+#the bus stops at four or five points along this road.
+#버스는 이 도로에서 모두 4,5번 선다.
+
+[93]
+#The bus stop is only a short way from my house.
+#버스 정류장은 우리집에서 아주 가깝다.
+
+[94]
+#The ghost vanished the moment the cock began to crow.
+#수탉이 울자 마자 귀신은 없어졌다.
+
+[95]
+#The duchess sailed into the room.
+#공작 부인은 당당하게 방으로 들어갔다.
+
+[96]
+#The duke plotted to supplant the king.
+#공작은 국왕의 지위를 빼앗을 음모를 하였다.
+
+[97]
+#The highway swings south here.
+#도로는 여기에서 점차 남쪽으로 굽었다.
+
+[98]
+#The antlers of stags give off short tines like twigs.
+#수사슴의 뿔은 작은 나뭇가지 처럼 짧게 난다.
+
+[99]
+#The commune members have designed a machine for binding up grain.
+#회사 직원들은 탈곡기 한 대를 설계하였다. 
+
+[100]
+#The commune members were busy getting in the crops.
+#회사 직원들은 농작물을 수확하느라 바쁘다.
+
+[101]
+#The position of the company is still precarious.
+#회사의 지위는 여전히 불안정하였다.
+
+[102]
+#The company accounts did not balance.
+#회사의 회계는 불균형을 이룬다.
+
+[103]
+#What is the company's attitude to this idea?
+#회사는 이 아이디어에 대한 견해가 어떠합니까?
+
+[104]
+#When is the company bringing your new book out?
+#회사는 언제 너의 책을 인쇄를 완료합니까?
+
+[105]
+#The company sent a man to hookup the telephone.
+#회사는 한 사람을 보내 전화를 설치하였다.
+
+[106]
+#The company declared a large dividend at the end of the year.
+#회사는 연말에 많은 순익이 있을 거라고 발표하였다.
+
+[107]
+#The company has removed from London to Oxford.
+#회사는 이미 런던에서 옥스포드로 이주하였다.
+ 
+[108]
+#The firm has decided to close its London branch.
+#회사는 이미 런던의 자회사를 닫기로 결정하였다.
+
+[109]
+#Lack of money forced the closure of the company.
+#회사는 자본 부족으로 인하여 할 수 없이 문을 닫았다.
+
+[110]
+#The firm is boosting the new product.
+#회사는 대대적으로 신상품을 선전하고 있다.
+
+[111]
+#The public telephone has been vandalized.
+#공중전화를 사람들이 고의로 훼손하였다.
+
+[112]
+#There was not a mortal man in the park.
+#공원에는 사람의 그림자도 없다.
+
+[113]
+#Flowers are already springing up in the park.
+#공원에 꽃은 이미 피었다.
+
+[114]
+#The party was voted a success.
+#사람들은 이 당은 이미 승리를 거두었다고 여기게 되었다.
+
+[115]
+#Public opinion was against the old political system.
+#대중여론은 구 정치 제도를 반대하였다.
+
+[116]
+#The palace was ransacked of all its valuables.
+#궁중의 귀중한 물건이 깨끗하게 도둑맞았다.
+
+[117]
+#The bow twanged and the arrow shot away.
+#활은 땅하는 소리를 내고 화살은 쏘아졌다.
+
+[118]
+#The common struggle has brought them together.
+#공동 투쟁은 그들을 함께 단결시켰다.
+
+[119]
+#There are six people,including three women.
+#여자를 포함하여 모두 6명이 있다.
+
+[120]
+#The dog licked up the spilt milk.
+#개가 쏟아진 우유를 깨끗하게 핥았다.
+
+[121]
+#The dog kept nosing about (the room) .
+#개가 계속하여 방안에서 냄새를 맡으며 왔다갔다 하였다.
+
+[122]
+#The dog had its belly ripped up by a wild boar.
+#개의 배는 멧돼지에게 찢겼다.
+
+[123]
+#The dog wagged its tail when it saw us.
+#개가 우리를 보고 꼬리를 흔들었다.
+
+[124]
+#The dog guarded the house against strangers.
+#개가 집에 낯선 사람이 들어오지 못하도록 지키고 있다.
+
+[125]
+#The dog's teeth ripped into the meat we had thrown him.
+#개가 이빨로 우리가 그에게 던져준 고깃점을 찢었다.
+
+[126]
+#The dog bit the cat and got bitten back.
+#개가 고양이를 물었고 또 고양이에게 한 입 물렸다.
+
+[127]
+#The dog nuzzled the sleeping child.
+#개가 코로 자는 아이를 건드렸다.
+
+[128]
+#The dog was crunching a bone.
+#개는 우두둑 우두둑 뼈를 깨물고 있었다.
+
+[129]
+#The do was making for the stranger.
+#개가 그 낯선 사람을 향하여 달려가고 있다.
+
+[130]
+#What are the qualities that constitute her charm ?.
+#그녀의 매력을 이루는 특징은 무엇인가?
+
+[131]
+#We estimate the damage to the stock to be about U.S.$75,000.
+#재고품 손실액은 약 75000달러로 추정된다.
+
+[132]
+#An orphan is a child whose parents are both dead.
+#고아는 부모가 둘 다 사망한 아이이다.
+
+[133]
+#The girl is going to put up her hair.
+#아가씨는 머리를 묵으려 하였다.
+
+[134]
+#She knows French,not to say English.
+#그녀는 영어는 할 줄 모르나, 프랑스어는 안다.
+
+[135]
+#drum up sentiment against the Commission
+#이 위원회를 반대하는 분위기를 띄우다
+
+[136]
+#drum up enthusiasm for the work
+#사람들의 이 일에 대한 열의를 고취시키다.
+
+[137]
+#Take heart and go on trying.
+#용기를 내어 계속하여 해나가라.
+
+[138]
+#The drummers beat out their music,and we all danced.
+#고수가 음악을 연주하면 우리는 춤을 추기 시작하였다.
+
+[139]
+#The Gulbenkian Foundation gives money to help artists.
+#Gulbenkian 기금은 예술가들을 돕기 위하여 돈을 준다.
+
+[140]
+#The bones were bleached by the sun.
+#뼈는 햇빛에 비치어 하얗게 되었다.
+
+[141]
+#Corn shot up to seventy-three cents a bushel.
+#곡물이 1 부셸에 73달러 까지 치솟았다.
+
+[142]
+#The stock market crash did George in.
+#증권시장이 폭락하여 조오지는 파산을 하였다.
+
+[143]
+#The action took place in a mountain village.
+#이야기는 어느 산촌에서 발생하였다.
+
+[144]
+#The story opens with a snowstorm.
+#이야기는 폭풍설로 시작하였다.
+
+[145]
+#In the story,the witch cast a spell on him,and made him ill.
+#이야기에서 무당할미가 그에게 저주를 내려 그를 병들게 하였다.
+
+[146]
+#We advise you,therefore,to accept this offer without loss of time.
+#그러므로 우리 측은 귀측에서 가능한 빨리 이 오퍼를 받아들여 건의합니다.
+
+[147]
+#ambitiously draw attention to (oneself)
+#일부러 자신에게 다른 사람의 주의를 끌다.
+
+[148]
+#The customer pointed at the hat he wanted.
+#고객은 그가 원하는 그 모자를 가리켰다.
+
+[149]
+#Solid fuel motors are coming into use.
+#고체연료 모터는 바로 사용하기 시작할 것이다.
+
+[150]
+#The men were not happy with the employers' offer.
+#피고용인은 고용주가 주는 돈에 대하여 만족하지 못했다.
+
+[151]
+#Be careful not to cut yourself while shaving.
+#수염을 깍을 때 자신을 다치지 않도록 주의해야 한다.
+
+[152]
+#hang up on sb.
+#다른 사람이 말하지 못하도록 전화를 끊었다.
+
+[153]
+#The picture on the wall is crooked.
+#벽에 걸려 있는 그림이 비뚤어졌다.
+
+[154]
+#strangely ,he didn't speak any more.
+#이상한 것은 그가 더 이상 말을 하지 않았다.
+
+[155]
+#The closing of the hospital has outraged public opinion.
+#문닫은 그 병원은 공공연히 민의를 거슬렀다.
+
+[156]
+#It's not in the general interest to close railways.
+#철도를 막는 것은 대중의 이익에 부합되지 않는 것이다.
+
+[157]
+#Close the windows and keep out the cold air.
+#창문을 닫아 찬 공기가 들어 오지 못하게 해라.
+
+[158]
+#Shut the gate so that the dog can't get out.
+#문을 닫아서 개가 도망하지 못하게 해라.
+
+[159]
+#Customs duties are paid on goods entering the country.
+#관세는 수입하는 물건에 대하여 징수하는 세이다.
+
+[160]
+#Tariff barriers crimped the flow of imports.
+#관세 장애는 수입품의 유입을 방해하였다.
+
+[161]
+#The relations have rigidifyied into fixed patterns.
+#관계는 이미 굳어져서 고정 패턴이 되었다.
+
+[162]
+#Your Quotation for Ten-Band Radio
+#10 주파수대 라디오에 대한 가격.
+
+[163]
+#I don't know anything about that.
+#그것에 대하여 나는 아무것도 모른다.
+ 
+[164]
+#There was some question as to his honesty.
+#그의 성실에 대하여는 아직 약간의 의문이 있다.
+
+[165]
+#I have reasoned with him as to his conduct.
+#그의 행위에 관하여 내가 이미 그에게 권고한 적이 있다.
+
+[166]
+#Reference is made to the compensation trade between our two parties.
+#우리 쌍방의 보상무역에 관한 의제.
+
+[167]
+#As we have no wool in stock,we regret being unable to offer.
+#캐시미어는 현재 물건이 없기 때문에 오퍼를 내기가 어렵다.
+
+[168]
+#What would you say about a discount?
+#할인에 대하여 당신은 어떻게 생각합니까?
+
+[169]
+#There exist different opinions on the question.
+#이 문제에 관하여 다른 의견이 존재하고 있다.
+
+[170]
+#There seems to be some misunderstanding about the matter.
+#이 문제에 관하여 아직 오해가 있는 것 같다.
+
+[171]
+#I have not told him about it.
+#이것에 대하여 나는 아직 그에게 알리지 않았다.
+
+[172]
+#He knows nothing about this matter.
+#이 사건에 대하여 그는 아무것도 알지 못한다.
+
+[173]
+#I know nothing about it.
+#이 일에 대하여 나도 알지 못한다.
+
+[174]
+#There are many things to ponder over in regard to this project.
+#이 프로젝트에 대하여 많은 고려해야할 일이 많다.
+
+[175]
+#Have you any questions about this stipulation?
+#이것에 대하여 여러분은 또 무슨 의견이 있습니까?
+
+[176]
+#Thereare many anecdotes about George Bush.
+#부시에 관한 많은 재미있는 이야기.
+
+[177]
+#There has been much debate about the bill.
+#이 법안에 관하여 많은 쟁론이 있다.
+
+[178]
+#Can we predicate of a dog that it has a soul?.
+#개에 관하여 우리는 그것에 영혼이 있다고 단정할 수 있습니까?
+
+[179]
+#Our opinions concurred on that point.
+#그 점에 대하여 우리의 의견은 일치한다.
+
+[180]
+#He waffled on the issue.
+#그 문제에 관하여 그는 시시한 소리를 지껄였다.
+
+[181]
+#So much for that.
+#그 일에 관하여 여기까지 얘기하다.
+
+[182]
+#I have an idea for it .
+#그 일에 대하여 나는 아이디어가 있다.
+
+[183]
+#The less said about it the better.
+#그 일에 대하여 적게 말할수록 좋다.
+
+[184]
+#I'll speak to her about the matter.
+#그 일에 대하여 나는 그녀와 말을 할 것이다.
+
+[185]
+#We must do something about it.
+#그 일에 대하여 우리는 반드시 방법을 생각해야 한다.
+
+[186]
+#We compromised with them on the matter.
+#그 일에 대하여 우리는 그들과 타협을 해야한다.
+
+[187]
+#There is not the slightest doubt about it.
+#그 일에 대하여 조금의 의심도 없다.
+
+[188]
+#Something needs to be said about it.
+#그 일에 관하여 약간의 말을 해야 한다.
+ 
+[189]
+#Are you quite sure about the number?.
+#그 숫자에 대하여 당신은 아주 정확합니까?
+
+[190]
+#I differed with him on that point.
+#그 점에 대하여 나와 그의 의견은 일치하지 않는다.
+
+[191]
+#We were agreed on that point.
+#그 점에 관하여 우리들의 의견은 일치한다.
+
+[192]
+#What did he say about the accident ?.
+#그 사건에 대하여 그는 어떻게 말하였습니까?
+
+[193]
+#Opinion is divided on the issue of taxes.
+#세수 문제에 관하여 모두의 의견은 엇갈렸다.
+
+[194]
+#Where he lived is not recorded.
+#그가 어디에 살았는지에 대한 기록은 없다.
+
+[195]
+#They divided over the question of salary.
+#급료 문제에 대하여 그들의 의견은 엇갈렸다.
+
+[196]
+#enough has been said on the problem.
+#이 문제에 대하여 이미 충분히 이야기 하였다.
+
+[197]
+#Will you advise on these points?.
+#이 몇 가지에 대하여 당신은 어떤 의견을 갖고 있으세요?
+
+[198]
+#Don't quote me in this connection.
+#이 일에 대하여 나를 연루시키지 마세요
+
+[199]
+#History is silent ont his event.
+#이 일에 대하여 역사적인 기록이 없다.
+
+[200]
+#Give a dog a bad name .
+#한 번 낙인 찍히면 마지막이다.
+
+[201]
+#Sightseers drifted downriver on a raft.
+#관광객들은 뗏목을 타고 하류로 표류하였다.
+
+[202]
+#The tourists went back to their respective countries.
+#관광객들은 각자의 고향으로 돌아갔다.
+
+[203]
+#The audience erupted into wild cheers.
+#관중은 열렬한 갈채소리를 터뜨렸다.
+
+[204]
+#The audience showered applause on him.
+#관중은 그에 대하여 열렬한 박수로 보답하였다.
+
+[205]
+#The audience lapped up the violin solo.
+#관중은 바이올린 독주회에 반응이 대단하였다.
+
+[206]
+#The audience quickly identified with the characters of the play.
+#관중은 아주 빠르게 극중인물과 하나로 섞였다.
+
+[207]
+#The audience was thrilled with his performance.
+#관중은 그의 연기에 감격하였다.
+
+[208]
+#The crowd cheered their favourite team .
+#관중은 자기가 지지하는 야구팀을 위하여 환호하고 응원하였다.
+
+[209]
+#The management wants screwing up.
+#관리부문은 일의 능률을 높일 필요가 있다.
+
+[210]
+#The orchestra is preparing for a concert.
+#오케스트라는 음악회를 위하여 준비하고 있다.
+
+[211]
+#There's something inside stopping up the pipe.
+#파이프는 무슨 물건에 의하여 막혔다.
+
+[212]
+#The plumber screwed up the tap by means of a spanner.
+#연관공은 스패너로 수도꼭지를 돌려 조였다.
+
+[213]
+#The cage was drawn up from the mine.
+#자아올림틀이 광산 안에서 매달려 있었다.
+
+[214]
+#Tinned fruit usually has a lot of syrup with it.
+#통조림 과일은 일반적으로 많은 설탕물에 잠겨있다.
+
+[215]
+#There the irrigation canal links up with the reservoir.
+#관개수로는 그곳에서 물창고와 연결되어 있다.
+
+[216]
+#The bush was planted late in the season.
+#관목은 계절의 끝에 심은 것이다.
+
+[217]
+#Light travels much faster than sound.
+#빛의 전도는 소리의 전도 보다 아주 빠르다.
+
+[218]
+#Light and water are necessary to plants.
+#빛과 물은 식물에 반드시 필요한 것이다.
+
+[219]
+#Light can be thought of as electromagnetic radiation.
+#빛은 전자파의 발산이라고 여길 수 있다.
+
+[220]
+#Light is a stimulus to growth in plants.
+#빛은 생물 생장의 촉진 요소이다.
+
+[221]
+#The colors of the light shaded from blue into purple.
+#광선의 빛깔은 남색에서 점차 자색으로 변한다.
+
+[222]
+#The light is too dim for me to read easily.
+#빛이 너무 어두워서 나는 책 보기가 어렵다.
+
+[223]
+#Rays of light reflect when they meet a polished surface.
+#광선이 매끄러운 표면을 만나게 되면 반사한다.
+
+[224]
+#The radio loudspeaker blared the news out.
+#라디오 스피커에서는 큰소리로 뉴스를 방송하였다.
+
+[225]
+#The radio forecasts snow this afternoon.
+#라디오에서 오늘 오후에 눈이 온다고 방송하였다.
+
+[226]
+#The announcer is signing off for tonight.
+#아나운서가 오늘밤 방송이 끝났음을 알렸다.
+
+[227]
+#The square was full of people mucking about.
+#광장 위에는 어슬렁거리는 사람으로 가득 찼다.
+
+[228]
+#Advertising programs must be conformable to public taste.
+#광고프로그램은 반드시 대중이 좋아하는 것에 영합해야 한다.
+
+[229]
+#rules are made to be broken.
+#규칙은 위반되기 위하여 만들어진 것이다.
+
+[230]
+#It all simmers down to a matter of world outlook.
+#결국 이것은 세계관의 문제이다.
+
+[231]
+#Guilin is known for its beautiful sceneries.
+#계림은 풍경이 매우 아름답기  때문에 유명하다.
+
+[232]
+#Your offer has been passed on to the interested party for study.
+#귀측의 오퍼는 이미 연구하기 위하여 관련 부문에 넘겨졌다.
+ 
+[233]
+#Will you give us a quotation for leather shoes?
+#귀측은 우리 측에 피혁가격을 제공할 수 있습니까?
+
+[234]
+#The specifications offered by you do not meet our requirements.
+#귀측이 내 놓은 가격은 우리 측의 요구에 부합되지 않는다.
+
+[235]
+#Can you obtain firm offer subject to cable reply?
+#귀사는 전보로 실가를 확인할 수 있습니까?
+
+[236]
+#Commodity which you have order from us:
+#귀사가 우리 회사에 구매하는 상품.
+
+[237]
+#The House of Lords is the Upper House of the British Parliament.
+#귀족원은 바로 영국의회의 상원이다.
+
+[238]
+#Buzz off,you nasty little child!
+#꺼져, 이놈의 지겨운 어린 놈!
+

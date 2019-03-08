@@ -1,0 +1,2580 @@
+[1]
+#This powder won't wash wool.
+이러한 종류의 세제는 모직물을 빠는 데는 사용할 수 없다.
+
+[2]
+#The thought nerved me to make an other effort.
+이러한 생각이 나를 다시 한번 노력하도록 격려했다.
+
+[3]
+#This kind of news knocks you back a bit,doesn't it?
+이러한 소식이 너를 좀 놀라게 했지, 그렇지?
+
+[4]
+#This strain of wheat can grow during a cold spring.
+이러한 종류의 소맥은 한랭한 봄에도 성장할 수 있다.
+
+[5]
+#This kind of shoe is apt to slip on wet ground.
+이러한 종류의 신발은 젖은 땅에서 쉽게 미끄러진다.
+
+[6]
+#The new product is mopping up on the international market.
+이러한 종류의 상품은 국제시장에서 신속하게 팔린다.
+
+[7]
+#This new paste makes a firmer bond.
+이러한 종류의 새 풀은 접착력이 아주 강하다.
+
+[8]
+#This new toy is the latest craze in America.
+이러한 새 완구는 최근 미국을 풍미하고 있다.
+
+[9]
+#The new type of device seems to have been made.
+이러한 종류의 신형장치가 이미 제조된 것 같다.
+
+[10]
+#This new drug will help all humanity.
+이러한 종류의 새 약은 장차 전인류에게 유익할 것이다.
+
+[11]
+#This car is a one-off model.
+이러한 형의 차는 한번 생산된 적이 있다.
+
+[12]
+#Such behavior is unworthy of you.
+이러한 행위는 너에게 있어서는 안되는 것이다.
+
+[13]
+#Such behavior degrades us to the condition of beasts.
+이러한 행위는 짐승의 행위와 닮아서, 우리로 하여금 체면을 잃게 했다.
+
+[14]
+#Such behaviour is beneath you.
+이러한 행위는 너의 신분을 잃게 한다.
+
+[15]
+#Is this toothpaste on sale today?
+이러한 종류의 치약은 오늘 할인판매 합니까?
+
+[16]
+#This tobacco is a mixture of three different sorts.
+이러한 종류의 연초는 세가지 품종이 혼합되어 만들어진 것이다.
+
+[17]
+#This salt has been purified for use in medicine.
+이러한 종류의 소금은 약으로 사용되도록 이미 정제되었다.
+
+[18]
+#This colour doesn't seem to fall in with my age.
+이러한 종류의 색은 나의 나이와 어울리지 않는 것 같다.
+
+[19]
+#This drug has an effect on your whole system.
+이러한 종류의 약은 너의 온몸에 효과가 있을 것이다.
+
+[20]
+#This medicine will set you to rights.
+이러한 종류의 약은 너로 하여금 건강을 회복하게 할 것이다.
+
+[21]
+#This medicine will give you a rest from the pain.
+이 약이 너로 하여금 잠시 통증을 멈추게 할 것이다.
+
+[22]
+#This medicine will counteract the queasiness caused by the antibiotics.
+이 약은 항생물질이 야기시키는 번위를 억제시킬 것이다.
+
+[23]
+#This drug kills germs but is harmless to pets and people.
+이러한 종류의 약제는 살균을 하지만 애완동물이나 사람에게는 무해하다.
+
+[24]
+#This medicine will do you good.
+이러한 종류의 약은 너의 건강에 도움이 될 것이다.
+
+[25]
+#This medicine will cure your cold.
+이 약이 너의 감기를 치료할 것이다.
+
+[26]
+#This medicine will settle your nerves.
+이 약이 너의 신경을 가라앉힐 것이다.
+
+[27]
+#This medicine should settle your nerves.
+이 약이 너를 진정시킬 수 있을 것이다.
+
+[28]
+#This wild flower goes by the name of Old Man's Beard.
+이 야생화를 "Old Man's Beard"라고 부른다.
+
+[29]
+#The doubt is more than I can bear.
+이러한 의심이 나로 하여금 참을 수 없게 한다.
+
+[30]
+#This music suggests a still,moonlit night.
+이러한 음악은 조용한 달밤을 생각나게 한다.
+
+[31]
+#The main basis of this drink is orange juice.
+이러한 음료의 기본성분은 오렌지즙이다.
+
+[32]
+#Such fish are rarely met with in the north.
+이러한 종류의 물고기는 북방에서는 보기 어려운 것이다.
+
+[33]
+#This magazine comes out quarterly.
+이러한 종류의 잡지는 일년에 4번 발행한다.
+
+[34]
+#The leaves of this plant can prick you.
+이러한 식물의 잎은 사람을 찔러 아프게 한다.
+
+[35]
+#This pancake batter doesn't hang together.
+팬케이크를 만드는데 쓰는 이러한 묽은 밀가루 반죽은 달라붙지 않는다.
+
+[36]
+#The plant sent up two new shoots.
+이 식물에 두개의 새싹이 자라났다.
+
+[37]
+#This subject connects with what I have said before.
+이 주제는 내가 이전에 말한 것과 관련이 있다.
+
+[38]
+#I shall not rest until this matter is settled.
+이일이 해결되지 않아서, 나는 안심을 할 수가 없다.
+
+[39]
+#Were there any eyewitnesses to the crime?
+이 범죄에 증인이 있습니까?
+
+[40]
+#This is sufficient to show that his argument is false.
+이것은 그의 논점이 틀렸다는 것을 충분히 증명하는 것이다.
+
+[41]
+#The writer averages three stories a month.
+이 작가는 평균 1개월에 3편의 이야기를 쓴다.
+
+[42]
+#In this castle there are cannons from the 15th century.
+이 성곽안에는 15세기의 대포가 있다.
+
+[43]
+#The castle is now in ruins.
+이 성곽은 이미 폐허가 되었다.
+
+[44]
+#The city sprawls for miles in each direction.
+이 도시는 사방으로 여러마일 뻗어있다.
+
+[45]
+#This is the central city of the whole area.
+이 도시는 모든 지역의 중심도시이다.
+
+[46]
+#The village has a certain rustic charm.
+이 마을은 모종의 질박한 흡인력이 있다.
+
+[47]
+#The building is not much to look at.
+이 집의 모양은 그다지 예쁘지 않다.
+
+[48]
+#The house stands alone on a hill.
+이 집은 산상에 외롭게 자리잡고 있다.
+
+[49]
+#The house is painted throughout.
+이 집은 위에서부터 밑에까지 페인트를 다시 칠했다.
+
+[50]
+#The house is too small,and furthermore,it's too far from the town.
+이 집은 너무 작을 뿐만 아니라, 시내에서도 너무 멀리 떨어져있다.
+
+[51]
+#The house has been made over into a school.
+이 집은 이미 학교로 개조되었다.
+
+[52]
+#This old tower is still fencible.
+이 고탑은 적을 방어하기에 충분하다.
+
+[53]
+#This monument was erected in honour of the Queen.
+이 기념비는 여왕을 위해 만들어진 것이다.
+
+[54]
+#This monument is sacred to the memory of the Unknown Soldier.
+이 기념비는 무명의 전사에게 바쳐진 것이다.
+
+[55]
+#The building was discolored by smoke.
+이 건축물은 연기에 의해서 색깔이 퇴색되었다.
+
+[56]
+#This building commemorates those who died in the war.
+이 건축물은 전쟁으로 죽은 사람들을 기념하는 것이다.
+
+[57]
+#The bridge is not strong enough to allow the passage of vehicles.
+이 다리는 견고하지 못해서, 차량이 통행할 수 없다.
+
+[58]
+#The bridge connects Buda and Pest.
+이 다리는 Buda와 Pest를 연결한다.
+
+[59]
+#The northern side of the mountain is almost vertical.
+이 산의 북측은 거의 수직이다.
+
+[60]
+#The top of this mountain is six kilometres above sea level.
+이 산의 산정은 해발 6000미터이다.
+
+[61]
+#The hill is pierced by a tunnel.
+이 작은 산은 터널에 의해서 관통되었다
+
+[62]
+#This dormant volcano suddenly fired up.
+이 휴면화산이 갑자기 폭발하였다.
+
+[63]
+#The wall shelters the house from the north wind.
+이 담은 북풍이 집으로 엄습하는 것을 막아준다.
+
+[64]
+#The building is well built throughout.
+이 건물은 곳곳이 아주 잘 지어졌다.
+
+[65]
+#The long walk completely wearied us.
+이렇게 긴 길을 걷는 것은 우리들을 그지없이 피곤하게 했다.
+
+[66]
+#Jane looked killing in gray.
+Jane이 회색옷을 입고 있는데, 정말 매혹적이다.
+
+[67]
+#Janny and Andy have an affinity for each other.
+Janny 과 Andy는 서로 의기투합했다.
+
+[68]
+#Janet has a very good collection of foreign stamps.
+Janet은 많은 외국우표를 수장했다.
+
+[69]
+#Janet tanned quickly in the sun.
+Janet은 태양아래에서 특히 빨리 그을린다.
+
+[70]
+#Jane took second place in the race.
+Jane은 경주에서 2등을 하였다.
+
+[71]
+#I've never seen him before in my life,honestinjun.
+정말이야, 나는 이전에 그를 본 적이 없어.
+
+[72]
+#I'm so glad your surgery went well.
+너의 수술이 아주 순조롭게 진행되었다니, 정말 기쁘다.
+
+[73]
+#It's regrettable that you diddled away the whole afternoon.
+정말 애석하게도, 너는 온 오후를 낭비해 버렸다.
+
+[74]
+#I little dreamed of seeing you here.
+여기에서 너를 만나리라고는 정말 생각도 못했다.
+
+[75]
+#It was hard to convince you that we couldn't afford a new car.
+너로 하여금 우리가 새차를 살 돈이 없다는 것을 믿게 하기가 정말 어렵다.
+
+[76]
+#It is curious that he should have asked you that question.
+그가 뜻밖에도 너에게 그러한 문제를 묻다니 정말 이상하다.
+
+[77]
+#inexplicably,Mary said she loved John.
+Mary가 그녀가 John을 사랑한다고 말했다니, 정말 불가사의하다.
+
+[78]
+#What a coward; he didn't put up much of a fight!
+정말 겁쟁이구나, 그는 거의 때리지 않았다!
+
+[79]
+#generously,the teacher forgave us.
+정말 관대하게도, 선생님께서 우리를 용서해 주셨다.
+
+[80]
+#fancy him telling a lie!
+그가 뜻밖에도 거짓말을 하리라고는 정말 생각도 못했다.
+
+[81]
+#True friendship is worth more than money.
+진정한 우정은 돈보다 더 가치가 있다.
+
+[82]
+#True poetry accumulates meaning every time it is read.
+진정으로 좋은 시는 읽으면 읽을수록 내포한 뜻이 더욱 풍부해진다.
+
+[83]
+#The people who actually have power are the owners of big industries.
+진정으로 권력을 쥔 사람은 그러한 대기업주이다.
+
+[84]
+#The patient reacted well to acupuncture treatment.
+침술요법이 그 환자에게 효과가 아주 좋다.
+
+[85]
+#The needle went into my hip with a prick.
+침이 나의 엉덩이를 찔렀다.
+
+[86]
+#The scout spurred on to the destination.
+정찰병은 목적지를 향해 질주해 갔다.
+
+[87]
+#The detectives resumed their vigil at the house.
+정탐꾼들은 다시 그 집에서 경계를 시작했다.
+
+[88]
+#Pull yourself together,young man,try again
+분발해라, 젊은이여, 다시 해보아라.
+
+[89]
+#The shops in town close at 5:30.
+마을의 상점은 5시 30분에 문을 닫는다.
+
+[90]
+#All the fashion of the town were present.
+마을의 모든 사교계 명사들이 거의 참석하였다.
+
+[91]
+#The town was astir with the news.
+마을이 이 소식으로 인해서 떠들썩해졌다.
+
+[92]
+#Which political party has control of the town council?
+마을의회는 어느 정당에 의해서 통제됩니까?
+
+[93]
+#The shower being over,we continued to march.
+소나기가 지나 간 후 우리는 계속 행진하였다.
+
+[94]
+#We pulled away again the moment the shower stopped.
+소나기가 멈추자, 우리는 다시 배를 저어갔다.
+
+[95]
+#The steam found a vent through a crack in the pipe.
+증기가 파이프의 갈라진 틈으로 새어나갔다.
+
+[96]
+#The steam fogged my glasses.
+증기가 우리의 눈을 흐리게 했다.
+
+[97]
+#The steam has been condensed into a few drops of water.
+증기가 이미 물방울로 응결되었다.
+
+[98]
+#Steam trains gave way to electric trains.
+증기기차가 전기기차로 대치되었다.
+
+[99]
+#While passing through the blades,the steam is deflected.
+증기가 날개를 통과할 때, 한쪽으로 쏠렸다.
+
+[100]
+#On passing into the discharge pipe,the steam condenses.
+증기가 배기관에 들어가면 곧 냉각된다.
+
+[101]
+#As soon as the steam passes over the metal tubes,it is condensed.
+증기는 금속관을 통과하자마자 응축된다.
+
+[102]
+#The conquering army ravaged the country.
+정복자의 군대가 이 나라를 몽땅 약탈했다.
+
+[103]
+#seek out readers' criticisms and opinions
+독자의 비평과 의견을 널리 구한다.
+
+[104]
+#The argument spoilt their former unity.
+논쟁이 그들의 이전의 단결을 손상시켰다.
+
+[105]
+#Getting the contract was quite a coup.
+계약을 얻어내는 이 일이 상당히 잘 되었다.
+
+[106]
+#follow after a peaceful settlement
+평화적인 해결방법을 쟁취한다.
+
+[107]
+#The whole house went up in flames.
+온 집이 화염속에서 잿더미로 변했다.
+
+[108]
+#The whole town lay spread out before me.
+온 도시가 나의 앞에 펼쳐졌다.
+
+[109]
+#I was outraged by the whole proceeding.
+모든 처리가 나로 하여금 분노를 느끼게 했다.
+
+[110]
+#The whole village was laid flat by the earthquake.
+온 마을이 지진으로 인해서 평지가 되었다.
+
+[111]
+#The whole village went to the baker's funeral.
+온 마을이 모두 제빵사의 장례식에 참석하러 갔다.
+
+[112]
+#The whole hall immediately fell back into silence.
+온 거실이 즉시 또 조용해졌다.
+
+[113]
+#The whole winter was given up to physical training.
+온 겨울이 체육훈련을 하는데 쓰여졌다.
+
+[114]
+#The whole room reeled before my eyes.
+온 방이 나의 눈앞에서 선회하였다.
+
+[115]
+#The whole country was in a state of ferment.
+온 나라가 분쟁국면에 처했다.
+
+[116]
+#I work hard all morning.
+오전내내 나는 매우 열심히 일하였다.
+
+[117]
+#He's been guzzling beer all evening.
+저녁내내 그는 맥주를 마구 마셔대고 있다.
+
+[118]
+#There's no fun in spending the evening doing nothing.
+저녁내내 할 일 없이 빈둥거리니 재미가 없다.
+
+[119]
+#It showered off and on all afternoon.
+오후내내 끊어졌다이어졌다하며 소나기가 내리고 있다.
+
+[120]
+#The whole operation was hamstrung by lack of funds.
+모든 작업이 자금부족으로 인해서 좌절되었다.
+
+[121]
+#A note of optimism runs through the whole narrative.
+모든 서술이 낙관적인 어조로 관통하고 있다.
+
+[122]
+#The whole street was excited at the parade.
+온 길의 사람들이 모두 여행에 대해 흥분을 느낀다.
+
+[123]
+#He never said a word the whole two hours.
+두시간 내내 그는 한마디의 말도 하지 않았다.
+
+[124]
+#He jumped onto the bus just as it was pulling away.
+버스가 막 출발하려고 할 때 그가 차에 뛰어올라 탔다.
+
+[125]
+#Just when I was busiest,he must come for a chat.
+내가 가장 바쁠 때, 그가 잡담을 하러 왔다.
+
+[126]
+#The wind was so favourable that they thought fit to clap on sail.
+때마침 순풍이 불어서, 그들은 돛을 당기기로 결정했다.
+
+[127]
+#She was in the very act of leaving home when her husband arrived.
+그녀가 막 나가려고 할 때 남편이 도착했다.
+
+[128]
+#An accurate analysis involves intensive study.
+정확한 분석은 철저한 연구가 필요하다.
+
+[129]
+#Correct ideas come from social practice.
+정확한 사상은 사회의 실천으로부터 온다.
+
+[130]
+#As you will see from the enclosed copy...
+바로 네가 동봉한 부본에서 발견된 것과 같다.
+
+[131]
+#It was what she had said that I failed to recall.
+그녀가 말한 내용을 나는 기억해내지 못했다.
+
+[132]
+#With justice on our side,we will never give in.
+정의가 우리에게 있으니, 우리는 결코 양보하지 않는다.
+
+[133]
+#January is the coldest month in a year.
+정월은 일년중 가장 추운 달이다.
+
+[134]
+#The girl playing the piano knew it.
+피아노를 치고 있는 저 아가씨는 그 일을 알고 있다.
+
+[135]
+#That will be the postman at the door now.
+입구에 있는 사람은 아마도 우체부일 것이다.
+
+[136]
+#Just then a bright idea occurred to me.
+마침 그때에, 나는 기묘한 생각을 했다.
+
+[137]
+#The metal being cut is low_carbon steel.
+지금 막 절단하고 있는 금속이 저탄소강이다.
+
+[138]
+#The growing grass was crushed down by hailstones.
+막 자라고 있는 풀이 우박에 의해서 눌려버렸다.
+
+[139]
+#The right to make new laws is vested in the government.
+정부에게는 새로운 법률을 제정할 권리가 주어진다.
+
+[140]
+#The government must always act constitutionally.
+정부는 반드시 시종 헌법에 따라 일을 처리해야 한다.
+
+[141]
+#The government anted up a large sum of money to build a testing center.
+정부는 실험센터를 건립하는데 거액을 지출했다.
+
+[142]
+#The government appropriated a large sum of money for building hospitals.
+정부는 병원을 건립하는데 많은 비용을 지출했다.
+
+[143]
+#The government has a mandate from the people to increase taxes.
+정부는 국민으로부터 권한을 받아서 세를 늘였다.
+
+[144]
+#The government's plan will hurt the poor.
+정부의 계획은 가난한 사람들에게 손해를 주었다.
+
+[145]
+#The government's plans for education will put the clock back 20 years.
+정부의 교육계획이 20년 후퇴할 것이다.
+
+[146]
+#The orders of the government had been executed with absolute strictness ..
+정부의 명령은 절대적으로 엄격하게 집행된다.
+
+[147]
+#The government's new ideas are nonsense.
+정부의 새로운 구상은 모두가 말도 안되는 것이다.
+
+[148]
+#The policy of the government was criticized by the opposition party.
+정부의 정책이 반대당의 비평을 받았다.
+
+[149]
+#The government called in the military to help to police.
+정부는 경찰을 돕도록 군대를 이동했다.
+
+[150]
+#The government have increased the taxes on petrol and beer.
+정부는 경유와 맥주에 대해 세를 올렸다.
+
+[151]
+#The government made radical improvements to the tax system.
+정부는 세무제도에 관해 철저한 개진을 했다.
+
+[152]
+#The government's plan for the railways is wholly misconceived.
+정부의 철도에 대한 기획은 완전히 잘못된 것이다.
+
+[153]
+#The government has put a prohibitive tax on foreign goods.
+정부는 외국물건에 대해 억제성 세율을 징수한다.
+
+[154]
+#The government is appealing to everyone to save water.
+정부는 모든 사람에게 물을 아껴쓰라고 호소한다.
+
+[155]
+#The government will garrison the coastal towns.
+정부는 군대를 파견하여 연해도시를 지키게 할 것이다.
+
+[156]
+#The government produced much political propaganda.
+정부는 대량의 정치선전을 진행했다.
+
+[157]
+#The government are resisting the nurses' pay demands.
+정부는 간호사의 월급에 대한 요구를 거절하여 받아들이지 않는다.
+
+[158]
+#The government has decided to have a clampdown on building roads.
+정부는 도로를 다시 수축하는 것을 허락하지 않기로 결정했다.
+
+[159]
+#The problems facing the government are manifold.
+정부가 직면한 문제는 각양각색이다.
+
+[160]
+#The government sets a higher value on defence than on education.
+정부는 국방사무가 교육보다 더 중요하다고 여긴다.
+
+[161]
+#The government is a hierarchy.
+정부는 관리의 등급이 분명한 통치집단이다.
+
+[162]
+#The government seems to have got caught up in the argument between Russia and America.
+정부가 이미 소련과 미국의 분쟁에 말려든 것 같다.
+
+[163]
+#The government supplies free books to schools.
+정부는 학교를 위해 책을 무료로 제공한다.
+
+[164]
+#The government will put out a new statement next week.
+정부는 다음주에 새로운 성명을 발표할 것이다.
+
+[165]
+#The government has now set aside those decrees.
+정부는 현재 이미 그러한 법령을 취소하였다.
+
+[166]
+#The government announced that they would pay their debts.
+정부는 그들이 채무를 상환해야 한다고 선포했다.
+
+[167]
+#The government has acted in good faith.
+정부는 줄곧 성실하게 정책을 시행하고 있다.
+
+[168]
+#The government has given its blessing to the new plan.
+정부는 이미 그 새로운 계획에 동의하였다.
+
+[169]
+#The government has confiscated the illegally imported goods.
+정부가 이미 그 밀수품을 압수하였다.
+
+[170]
+#The government has out-lawed coemption of food.
+정부는 이미 음식을 사쟁이는 것을 금지하라는 명령을 내렸다.
+
+[171]
+#they have raised taxes again.
+정부는 이미 세금을 제차 올렸다.
+
+[172]
+#The government's refusal was couched in friendly language.
+정부는 우호적인 어투로 거절을 표시했다.
+
+[173]
+#The government was censured for its negligence.
+정부는 소홀함으로 인하여 비난을 받았다.
+
+[174]
+#Should the government provide money to support the arts?
+정부가 미술을 지원하는 자금을 지출해야만 합니까?
+
+[175]
+#A government should permit the free expression of political opinion.
+정부는 정견을 자유롭게 발표하도록 허락해야 한다.
+
+[176]
+#The government answerable to the people.
+정부는 마땅히 그의 국민을 위해 책임을 져야 한다.
+
+[177]
+#It is necessary for the government to move on the problem.
+정부는 이 문제에 대해 조치를 취해야 할 필요가 있다.
+
+[178]
+#The government mediated between the workers and the employers.
+정부가 노사간의 화해를 진행했다.
+
+[179]
+#The government recalled the general after he lost the battle.
+정부가 패장한 장군을 소환했다.
+
+[180]
+#The government is keeping a close watch on rising prices.
+정부는 물가상승을 세심하게 배려하고 있다.
+
+[181]
+#Thegovernment announced a cut in taxes.
+정부는 세율을 내릴 것을 정식으로 통고했다.
+
+[182]
+#The government is riding roughshod over the people's rights.
+정부가 제멋대로 행동하며 국민의 권리를 돌보지 않았다.
+
+[183]
+#Politicians maneuvered for position.
+정객들은 자리를 쟁취하기 위해서 교활한 계략을 쓴다.
+
+[184]
+#The job of a politician is to serve the community.
+정치가의 직책은 바로 대중을 위해 복무하는 것이다.
+
+[185]
+#A politician should be a servant of the people.
+정치가는 마땅히 국민들의 공복이다.
+
+[186]
+#The political situation is very worrying.
+정치정세가 사람으로 하여금 매우 걱정스럽게 한다.
+
+[187]
+#Politics provides a perennial subject of argument.
+정치는 장기적으로 논쟁이 끊이지 않는 화제이다.
+
+[188]
+#politics does not seem to interest him at all.
+정치는 조금도 그의 흥미를 끌지 못하는 것 같다.
+
+[189]
+#The witness stood down after testifying to the prisoner's innocence.
+증인은 피고인이 무죄라는 것을 증명하고 자리를 물러났다.
+
+[190]
+#to support the workers demand for higher wages.
+노동자들이 임금을 올려달라는 요구를 지지한다.
+
+[191]
+#give on 50 shares
+주식 50주의 연기교부비용을 지불한다.
+
+[192]
+#Spiders,mites,etc.come under the head of Arachnida.
+거미, 진드기류 등은 모두 절지동물에 속한다.
+
+[193]
+#A spider weaves a web to catch prey.
+거미는 곤충을 사냥하기 위해서 거미줄을 친다.
+
+[194]
+#The realization that he had made a mistake was a shock.
+그가 일찍이 잘못을 저질렀었다는 것을 아는 것은 사람을 놀라게 하는 일이다.
+
+[195]
+#The robin is a sign of spring.
+울새는 봄이 온다는 징조이다.
+
+[196]
+#His faineancy and neglect of civic affairs cost him his job.
+직무의 소홀이 그로 하여금 일을 잃게 했다.
+
+[197]
+#Professional boxing is no bed of roses.
+직업 권투선수는 안락한 생활이 아니다.
+
+[198]
+#Gibraltar,the key to the Mediterranean.
+Gibraltar는 지중해의 문호이다.
+
+[199]
+#It was half past eight when Simpson at last rolled up.
+8시가 되어서야 Simpson이 도착했다.
+
+[200]
+#I had been in business until that year.
+그 일년이 끝날 때까지, 나는 계속 장사를 했다.
+
+[201]
+#It wasn't until last night that I knew her.
+어제 밤에야 비로소 나는 그녀를 알았다.
+
+[202]
+#Wait until you can see the whites of their eyes.
+그들이 너의 근방에 올 때까지 기다려라.
+
+[203]
+#To speak bluntly,you are sure to fail.
+단도 직입적으로 말해서, 너는 반드시 실패할 것이다.
+
+[204]
+#Direct light is better for reading than diffuse light.
+직사광이 반사광보다 책을 읽는데 더 좋다.
+
+[205]
+#The helicopters brought off the people marooned by flood waters.
+헬리콥터가 홍수로 연락이 끊긴 사람들을 구해냈다.
+
+[206]
+#A plant drinks in oxygen from the atmosphere.
+식물은 대기중으로부터 산소를 흡수한다.
+
+[207]
+#Plants develop from seeds.
+식물은 씨앗이 발육해서 성장한 것이다.
+
+[208]
+#Plants grow from seeds.
+식물은 씨앗으로부터 생장해 온 것이다.
+
+[209]
+#Plants grow up towards the sunlight.
+식물은 항상 태양을 향하여 위로 생장한다.
+
+[210]
+#May every happiness be yours on this Wedding Day.
+결혼을 즈음하여, 네가 늘 행복하기를 바란다.
+
+[211]
+#nothing worth doing is easy.
+할 만한 가치가 있는 일은 하기에 쉬운 것이 없다.
+
+[212]
+#The commander moved his men back.
+지휘관은 그의 부대를 원지로 귀환시켰다.
+
+[213]
+#The commander flew out to join his troops at the front.
+지휘관은 비행기를 타고 전선부대로 갔다.
+
+[214]
+#The commander was able to rally the fleeing troops.
+지휘관은 그 뿔뿔이 흩어진 부대를 충분히 재정비할 수 있다.
+
+[215]
+#The commander signaled his men to fire.
+지휘관은 부하를 향해서 발포하라는 신호를 했다.
+
+[216]
+#The control of traffic appertains to the police.
+교통을 지휘하는 것은 경찰의 임무에 속한다.
+
+[217]
+#The commander decided to call off the attack.
+지휘관은 이번 진공을 취소하기로 결정했다.
+
+[218]
+#The commander began to chalk out a plan of attack.
+지휘관은 진공계획의 요점을 만들어 정하기 시작했다.
+
+[219]
+#Nails are growths at the ends of the fingers.
+손톱은 손가락끝에서 길어 나온 것이다.
+
+[220]
+#The compass needle always seeks the north.
+나침반의 바늘은 항상 북쪽을 가리키고있다.
+
+[221]
+#The prisoner was given only bread and water.
+이 범인에게 빵과 물만을 제공한다.
+
+[222]
+#Just get on with your work; don't mind me.
+나는 상관하지 말고, 너의 일이나 상관해라.
+
+[223]
+#You may stay here so long as you keep quiet.
+조용히 해야지만, 너는 이곳에 남아있을 수 있다.
+
+[224]
+#Just humour him and he'll be quiet.
+그를 잘 달래기만 하면, 그는 조용히 할 것이다.
+
+[225]
+#A single night's cold was enough to freeze over the pond.
+하룻밤만 추우면 연못으로 하여금 충분히 얼게할 수 있다.
+
+[226]
+#At ↔2 it's a gift!
+2파운드! 정말 굉장히 싸구나!
+
+[227]
+#I will come home only if you come with me.
+네가 나와 함께 간다면, 나는 돌아갈 것이다.
+
+[228]
+#If only it clears up,we'll go.
+날씨가 맑게 개인다면, 우리는 갈 것이다.
+
+[229]
+#I will come provided I am well enough.
+내가 몸이 좋다면, 나는 반드시 올 것이다.
+
+[230]
+#So long as I have time,I'll go with you.
+내가 시간이 있다면, 나는 너를 데리고 갈 것이다.
+
+[231]
+#The thought of it gives me the shivers.
+그것만 생각하면 나는 두려워서 몸이 떨린다.
+
+[232]
+#The very thought of it sickens me.
+그것만 생각하면 나는 넌더리가 난다.
+
+[233]
+#Samples will be presented to you immediately upon request.
+필요하다면, 견본은 즉시 부쳐줄 수 있다.
+
+[234]
+#Only the tip of an iceberg pokes up above water.
+빙산의 뾰족한 끝만이 수면위로 돌출되어 있다.
+
+[235]
+#We cannot lower our prices until we can get our costs down.
+원가를 내려야만, 우리는 비로소 가격을 내릴 수 있다.
+
+[236]
+#I will go only if you go too.
+네가 갈 때에만 나도 갈 것이다.
+
+[237]
+#It is only shallow people who judge by appearances.
+천박한 인품을 가진 사람만이 용모로 사람을 평가한다.
+
+[238]
+#Only humans have the power of speech.
+인류만이 말하는 능력을 가지고 있다.
+
+[239]
+#Only humans have a natural upright posture.
+인류만이 자연 직립의 자세를 가지고 있다.
+
+[240]
+#Only time will tell if you're right.
+시간만이 네가 정확한지 아닌지를 증명할 수 있다.
+
+[241]
+#He will only see you by appointment.
+사전에 약속을 해야지만 그가 너를 접견할 수 있다.
+
+[242]
+#Only reading can familiarize literature tous.
+읽는 것만이 우리를 문학과 친밀하게 할 수 있다.
+
+[243]
+#I will let you go only on one condition.
+한 가지 조건아래에서만 나는 너를 가게할 수 있다.
+
+[244]
+#Only then can we have the motive force to go forward.
+이렇게 해야지만 우리는 전진의 원동력을 가질 수 있다.
+
+[245]
+#He does something in the U.N.
+그가 연합국에서 일을 한다는 것만을 알고 있다.
+
+[246]
+#The cards were fanned out face downward on the table.
+카드가 부채모양으로 책상에 뒤집혀 놓여있다.
+
+[247]
+#A chemical change takes place in paper when it burns.
+종이가 연소할 때 화학변화를 일으킨다.
+
+[248]
+#The slip of paper curled up from the heat of the fire.
+종이 조각이 열을 받으면 말린다.
+
+[249]
+#The fire flared up as the paper caught on.
+종이에 불이 붙기만 하면, 불은 활활 타오른다.
+
+[250]
+#To date he has done half the work.
+지금에 이르러 그는 이미 일의 반을 완성했다.
+
+[251]
+#At least,he's no worse.
+적어도, 그의 병세가 악화되지는 않는다.
+
+[252]
+#The offer has lost its validity by the time of writing.
+이 편지를 쓰는 때에, 펌오퍼는 이미 효력을 잃는다.
+
+[253]
+#He'll have his own ideas about that.
+그 일에 관해서 그는 그 나름대로의 생각이 있을 것이다.
+
+[254]
+#As for his moral character,he is also praiseworthy.
+그의 품성으로 말하자면, 또한 칭찬할 만하다.
+
+[255]
+#You ought to be more particular as to whom you trust.
+누군가를 믿는 것에 관해서, 너는 마땅히 좀 더 세밀하고 신중해야 한다.
+
+[256]
+#To make wine,first you must press the grapes.
+술을 만들 때에는 먼저 포도를 눌러짜서 즙을 내야 한다.
+
+[257]
+#One copy of Manufacturers' Certificate of Quality
+제조상의 질량보증서 한부
+
+[258]
+#No one can touch the Swiss at making watches.
+시계를 만드는 데있어서는 누구도 스위스사람을 따라올 수 없다.
+
+[259]
+#The longer the push acts,the higher the object rises.
+양자의 중량은 대략 전자의 1837배이다.
+
+[260]
+#The scorching sun grilled us.
+뜨거운 태양이 우리들을 태웠다.
+
+[261]
+#Every bullet has its billet.
+총에 맞는지 안맞는지는 완전히 운명에 달려있다.
+
+[262]
+#Can you do with some cakes for lunch?
+점심으로 케이크를 좀 먹으려고 하는데 당신은 괜찮으십니까?
+
+[263]
+#THe Chinese delegates were warmly welcomed everywhere.
+중국대표단이 도처에서 열렬한 환영을 받았다.
+
+[264]
+#China National Machinery Import & Export Corporation,Dalian Branch
+중국 기계수출입공사 대련 지사
+
+[265]
+#The Chinese are a nation of readers.
+중국인은 독서를 좋아하는 민족이다.
+
+[266]
+#The Chinese government will pay all my travel expenses.
+중국정부가 나의 교통비용을 부담할 것이다.
+
+[267]
+#CAL Fflight 22.
+중국 항공공사 제 22기
+
+[268]
+#Tianjin Notary Public Office Tianjin The People's Republic of China
+중화인민공화국 천진시 공증인사무소
+
+[269]
+#Chinese cursive writing is very difficult to read.
+중국의 초서체는 읽기가 매우 어렵다.
+
+[270]
+#The sound 'th' doesn't occur in Chinese.
+중국에는 'th'음이 없다.
+
+[271]
+#The wind began to set in at noon.
+점심때 바람이 기슭을 향해 불기 시작했다.
+
+[272]
+#the virtues of loyalty,courage,and truthfulness.
+충성, 용기 그리고 성실의 미덕
+
+[273]
+#The pendulum swings with great regularity.
+시계추가 아주 규칙적으로 흔들거린다.
+
+[274]
+#The clock doesn't go; there's something wrong with the mechanism.
+시계가 가지 않는다; 장치가 고장이 났다.
+
+[275]
+#The bell gave forth a peasant ,lingering sound.
+시계가 귀를 즐겁게 하는 은은한 소리를 냈다.
+
+[276]
+#The clock is slow; I ' ll put it forward half an hour.
+시계가 느리다; 나는 그것을 30분 빠르게 돌려야겠다.
+
+[277]
+#The bell sang out the hour of midnight.
+시계소리가 밤 12시를 알렸다.
+
+[278]
+#The ringing bells proclaimed the news of the birth of the prince.
+시계소리가 왕자의 탄생을 선포했다.
+
+[279]
+#The clock is fast;I'll put it back three minutes.
+시계가 너무 빠르다; 나는 그것을 3분 뒤로 돌려야겠다.
+
+[280]
+#disquiet that would boil over in the long run
+언젠가는 결국 폭발할 것 같은 불안한 기분
+
+[281]
+#Janet has finally found her "one and only".
+결국 그녀의 "마음속의 사람"을 찾았다.
+
+[282]
+#The germinative power of a seed is destroyed by fire.
+씨앗의 성장력이 불에 의해서 망가졌다.
+
+[283]
+#The caste system is still strong in India.
+카스트제도는 아직도 인도에서 견고하다.
+
+[284]
+#Events conspired to bring about his ruin.
+갖가지 사건이 합쳐져서 그의 파멸을 가져왔다.
+
+[285]
+#Swollen ankles can be a sign of heart disease.
+부어 오른 복사뼈는 심장병의 징조일 수 있다.
+
+[286]
+#Heavy taxes indispose a citizen to work hard.
+무거운 세금이 국민들로 하여금 열심히 일하고 싶지 않게 했다.
+
+[287]
+#It is quality,not quantity that counts.
+중요한 것은 품질이지 수량이 아니다.
+
+[288]
+#It is essential that we act quickly.
+중요한 것은 우리들이 반드시 즉시 행동해야 한다는 것이다.
+
+[289]
+#The big question is what to do next.
+중요한 것은 다음에 어떻게 해야하느냐 하는 것이다.
+
+[290]
+#An arbiter compromised their differences.
+중재인이 그들의 분쟁을 절충해서 조정했다.
+
+[291]
+#A multitude of thoughts filled her mind.
+많은 생각들이 그녀의 머리속에 가득하다.
+
+[292]
+#The House of Commons is an elected body.
+중의원은 선거를 통해서 만들어진 기구이다.
+
+[293]
+#Julia is an inattentive pupil.
+Julia는 열심히 하지 않는 학생이다.
+
+[294]
+#Of pigs and cows,the latter are more valuable.
+돼지와 소를 비교해 볼 때, 후자가 더 가치가 있다.
+
+[295]
+#Pigs root for food.
+돼지는 코로 땅을 헤집어서 음식을 찾는다.
+
+[296]
+#The pigs rooted out truffles.
+돼지는 코로 균을 파헤쳐냈다.
+
+[297]
+#Pigs guzzle their food.
+돼지는 항상 게걸스럽게 음식을 먹는다.
+
+[298]
+#The tyrannicidal schemes failed.
+폭군을 죽이려는 계획이 실패했다.
+
+[299]
+#The bamboos are just shooting up.
+대나무가 시종일관 위로만 자라고 있다.
+
+[300]
+#There are various ways of cooking an egg.
+계란을 요리하는데에는 갖가지 서로 다른 방법이 있다.
+
+[301]
+#Lord,hear my prayer.
+주여! 나의 기도에 응답하소서.
+
+[302]
+#The initiative rests with us.
+주동권은 우리의 손에 장악되었다.
+
+[303]
+#The bishop officiated at the cathedral.
+주교가 교회에서 성직을 집행한다.
+
+[304]
+#An examiner must frame his questions clearly.
+시험관이 문제를 낼 때에는 반드시 분명하게 표현해야 한다.
+
+[305]
+#The chairman reported that the number of applicants had increased.
+의장은 신청인의 수가 이미 증가했다고 보고하였다.
+
+[306]
+#The chairman voiced all our feelings.
+의장은 우리들 전체의 감정을 표현했다.
+
+[307]
+#We were graced with the presence of our chairman.
+의장의 왕림을, 우리는 그지없는 영광으로 생각한다.
+
+[308]
+#The chairman rose and we followed suit.
+의장이 일어나자, 우리들도 따라서 했다.
+
+[309]
+#The chairman rapped the table to call the meeting to order.
+의장은 탁자를 쾅쾅치며 회의장의 질서를 유지한다.
+
+[310]
+#Products: Top-quality natural mineral water.
+주요상품 : 양질의 천연광천수
+
+[311]
+#The cistern is running .
+물통안의 물이 넘쳤다.
+
+[312]
+#Cast-iron is a much less expensive material than steel.
+주철은 강철보다 훨씬 싼 재료이다.
+
+[313]
+#Living there will save on fuel.
+연료비를 절약할 수 있는 곳에 산다.
+
+[314]
+#The residential districts were all plotted out.
+주택지구는 한 구역 한 구역씩 구분되어있다.
+
+[315]
+#Shut up! You're just talking nonsense.
+입 닥쳐! 너는 정말로 엉터리 같은 말만 하는구나.
+
+[316]
+#I will make complete payment at the time that I register.
+등록할 때 나는 모든 비용을 깨끗이 지불할 것이다.
+
+[317]
+#Note the polarity of the voltage drop across R.
+R상에서 전압이 떨어지는 극성에 주의해라.
+
+[318]
+#Make sure you muffle up properly,because it's pretty cold outside.
+자신을 잘 싸매라, 바깥이 상당히 춥다.
+
+[319]
+#You must guard against passing on disease to your family.
+병을 자신의 가족에게 옮기지 않도록 조심해라.
+
+[320]
+#Be careful not to let errors slip into the proofs.
+교정쇄가 착오를 내지 않도록 주의해라.
+
+[321]
+#Be careful you don't slip up through over-confidence.
+지나친 자신감으로 인해서 실수를 범하지 않도록 주의해라.
+
+[322]
+#Look to it that you don't make the same mistake again.
+같은 실수를 다시 범하지 않도록 주의해라.
+
+[323]
+#Take note what color the traffic signal is.
+교통신호가 무슨 색인지에 주의해라.
+
+[324]
+#It is interesting to study people's expressions.
+사람들의 표정을 주의해서 보는 것은 재미있는 일이다.
+
+[325]
+#Be careful of your health.
+너의 건강에 주의해라; 건강에 주의하세요.
+
+[326]
+#It makes sense to take care of your health.
+건강에 신경을 쓰는 것은 현명한 것이다.
+
+[327]
+#attend to your teacher .
+너의 선생님이 하시는 말씀을 주의해서 들어라.
+
+[328]
+#Congratulations on your success last night!.
+어제 밤 당신의 공연이 성공한 것을 축하합니다.
+
+[329]
+#Let's congratulate ourselves that this transaction has been brought to a successful conclusion.
+우리가 원만하게 교역을 이룬 것을 축하하자.
+
+[330]
+#I wish you all the best in your college years.
+너의 대학생활이 모두 원만하기를 바란다.
+
+[331]
+#Here's wishing you both a lifetime of happiness.
+백년해로하고, 행복이 충만하시기를 바랍니다.
+
+[332]
+#May you two always be in love!
+백년해로 하시기를 바랍니다.
+
+[333]
+#May you enjoy good health and much happiness in the year to come.
+새해에는 건강하고 행복하시기를 바랍니다.
+
+[334]
+#I would like to wish you a very merry Christmas and a happy New Year.
+당신의 성탄절이 즐겁기를 바라고, 새해에 복많이 받으십시오.
+
+[335]
+#Pick up the box by the handles.
+손잡이를 꽉 잡고 상자를 들어 올린다.
+
+[336]
+#Hold on to the side of the boat,or you'll fall out !
+뱃전을 꽉 잡아라, 그렇지 않으면 너는 떨어져버릴 것이다.
+
+[337]
+#Seize the chance; otherwise,you will regret it.
+기회를 잡아라, 그렇지 않으면 너는 후회할 것이다.
+
+[338]
+#snap at any chance for improvement
+어떤 기회를 잡고 개진을 가하다.
+
+[339]
+#I am writing with rerspect to your recent letter.
+당신의 근래의 편지에 특별히 회답을 드립니다.
+
+[340]
+#Transshipment expenses are to go with the goods.
+짐을 배에 옮겨 싣는 비용은 물건의 가격에 포함되어 있다.
+
+[341]
+#The teeth on the gears mesh as they turn round.
+전동시에 기어의 이와 이가 서로 맞물린다.
+
+[342]
+#There is hunger in all the places where the crop was spoilt.
+농작물이 망가진 곳은 모두 기근이 들었다.
+
+[343]
+#The load shifted.
+적재된 물건이 위치를 이동했다.
+
+[344]
+#A wrapping like this will help push the sales.
+이러한 자루에 포장을 하는 것은 판로를 확장하는데 도움이 된다.
+
+[345]
+#The crash really made my ears ring.
+충격소리가 나의 귀로 하여금 자꾸 웅웅 소리가 나게 했다.
+
+[346]
+#There was a long chase before the criminal was caught.
+아주 오랫동안 추격을 하고 나서야 비로소 범인을 잡았다.
+
+[347]
+#The cat which caught a rat is ours.
+쥐를 잡은 고양이가 우리의 고양이이다.
+
+[348]
+#Chaplin walks with his feet turned outward.
+Chaplin은 걸을 때 발이 바깥으로 향한다.
+
+[349]
+#The surface of the table has been beautifully glossed over.
+탁자위에 한 층의 빛이 있는데, 아주 아름답다.
+
+[350]
+#The table was all scratched up by the movers.
+탁자가 운반하는 사람에 의해서 군데군데 흠집이 났다.
+
+[351]
+#The tables are firmly fixed to the floor.
+탁자가 모두 바닥에 확실히 고정되었다.
+
+[352]
+#Is there enough space at the table for 10 people?
+탁자 주위에 10명의 사람이 앉을 수 있습니까?
+
+[353]
+#The scorching heat was beginning to get her down.
+작열하는 날씨가 그녀로 하여금 피곤을 느끼기 시작하게 했다.
+
+[354]
+#To comply with your request,we are quoting you as follows:
+이에 당신측의 요구에 따라 아래와 같이 가격을 제시합니다:
+
+[355]
+#In reply to our inquiry we have been told by...that...
+이에 우리측이 ...문의를 보내니, ...을 알려주십시오.
+
+[356]
+#Resolved that our salary be raised.
+우리의 월급을 올려주어야 한다는 것을 이에 결의한다.
+
+[357]
+#Enclosed is my completed application form.
+이에 다 채운 신청서 한 장을 동봉한다.
+
+[358]
+#I certify this is a true copy.
+이것은 이 서류가 진정한 등본이라는 것을 증명한다.
+
+[359]
+#The fund wants a hundred pounds of the sum needed.
+자금의 필요액수가 아직 100파운드 부족하다.
+
+[360]
+#graceful as a swan.
+자세가 매우 우아하고, 행동이 매우 단정하다.
+
+[361]
+#A close scrutiny will reveal the lines at the corners of her eyes.
+자세히 보면 그녀의 눈가의 주름살을 발견할 수 있을 것이다.
+
+[362]
+#Check the names carefully so as to avoid mistakes.
+착오가 발생하지 않도록 이름을 자세히 대조해라.
+
+[363]
+#see how I operate this machine.
+내가 이 기계를 어떻게 조작하는지 자세히 보아라.
+
+[364]
+#The bullet ricocheted off the bridge.
+총알이 다리에 맞고 튕겨져 나갔다.
+
+[365]
+#The bullet hit the wall and went through.
+총탄이 벽을 맞혔을 뿐만아니라 뚫고 지나갔다.
+
+[366]
+#The bullets were still embedded in his body.
+총탄이 아직 그의 몸에 박혀있다.
+
+[367]
+#The bullet went clean through his arm.
+총탄이 빠르게 그의 팔을 꿰뚫고 지나갔다.
+
+[368]
+#The bullet zipped past my head.
+총탄이 핑 소리를 내며 나의 머리위를 지나갔다.
+
+[369]
+#Self-mockery may sometimes mask great conceit.
+자조는 때때로 아주 큰 자부심을 숨기고 있다.
+
+[370]
+#boast of being the best story- teller in one's class
+자랑을 하고 있는 사람은 반에서 가장 이야기를 잘하는 사람이다.
+
+[371]
+#It is almost half a year since you saw me off.
+이별의 말을 나눈 이후로, 이미 반년이 되었다.
+
+[372]
+#Three months have elapsed since he left home.
+그가 집을 떠난지, 이미 3개월이 되었다.
+
+[373]
+#He has been abroad since he parted from me.
+그는 나를 떠난 이후로, 줄곧 해외에 있었다.
+
+[374]
+#Two years have passed since he left for France.
+그가 프랑스로 간지, 이미 2년이 지났다.
+
+[375]
+#She has been rendering help to me since she was acquainted with me.
+그녀가 나를 안 이후로, 줄곧 나를 돕고 있다.
+
+[376]
+#She has changed a good deal since her sickness.
+그녀가 병이 난 이후로 그녀는 이미 아주 많이 변했다.
+
+[377]
+#I've been doing this work since I retired.
+퇴직한 이후로 나는 줄곧 이일을 하고 있다.
+
+[378]
+#Twenty years have passed since I was born.
+내가 태어난지, 20년이 지났다.
+
+[379]
+#It is two years since I left school.
+내가 학교를 떠난지도 이미 2년이 지났다.
+
+[380]
+#After his wife's death he aged quickly.
+아내가 죽은 이후로, 그는 아주 빨리 늙었다.
+
+[381]
+#The possibility of suicide was ruled out.
+자살의 가능성은 이미 배제되었다.
+
+[382]
+#It is exactly a year since I moved in the house.
+내가 이사를 한지도 꼭 1년이 지났다.
+
+[383]
+#Liberty is apt to degenerate into lawlessness.
+자유는 극악무도한 것으로 전락하기 쉽다.
+
+[384]
+#Freedom has always been the lifeforce of Western civilization.
+자유는 줄곧 서방문명의 생명력이었다.
+
+[385]
+#Ainformation dictionary gives information about words and phrases.
+자전은 단어와 구에 관한 지식을 제공한다.
+
+[386]
+#The alphabet is ascribed to the Phoenicians.
+알파벳은 페니키아사람이 창조한 것으로 인정되고 있다.
+
+[387]
+#Poor handwriting is a liability in getting a job.
+글씨를 잘 쓰지 못하면, 직업을 구할 때 불리하다.
+
+[388]
+#Z.
+갈지자형 오르기; 비스듬히 오르기.
+
+[389]
+#The Reformation brought in its train the Thirty Years' War.
+종교개혁의 결과가 30년 전쟁을 야기시켰다.
+
+[390]
+#Religion is her only resource now.
+종교는 현재 그녀의 유일한 의지이다.
+
+[391]
+#Broadly ,I agree with you.
+전반적으로 말하면, 나는 너의 관점에 동의한다.
+
+[392]
+#By and large,your plan is a good one.
+전반적으로 말하면, 너의 계획은 아주 좋다.
+
+[393]
+#On the whole,I like it.
+총체적으로 말해서, 나는 그것을 좋아한다.
+
+[394]
+#Overall,prices are still rising.
+전반적으로 말하면, 물가는 아직도 오르고 있다.
+
+[395]
+#The governor fled and the reactionary authorities broke down.
+총독이 도망가서, 반동당국은 와해되었다.
+
+[396]
+#altogether ,it's a great success.
+총괄적으로 말하면, 그것은 대대적인 성공이다.
+
+[397]
+#General secretaries come before secretaries.
+총책임자의 지위는 책임자 보다 높다.
+
+[398]
+#The head office sent down for some stationery.
+본사는 문구를 좀 보낼 것을 요구했다.
+
+[399]
+#A total of two hundred people visited the castle.
+모두 200명이 이 성곽을 참관했다.
+
+[400]
+#There's always room for one more.
+사람 하나를 더 받아들일 수 있는 공간이 항상 있다.
+
+[401]
+#The totals were put out by as much as five percent.
+총수의 오차가 5%에 이른다.
+
+[402]
+#The total comes out at 4033.
+총수를 계산해보니 4033이다.
+
+[403]
+#The president delivered his veto to Congress.
+대통령은 그의 부결이유서를 국회에 제출했다.
+
+[404]
+#The President was supplanted by a political rivial.
+대통령은 한 명의 정치적수에 의해서 내쫓겼다.
+
+[405]
+#The President is ill,so I'm speaking on his behalf.
+대통령이 병이 났다, 그래서 내가 그를 대표해서 이야기한다.
+
+[406]
+#The President often confers with his advisers on diplomatic problems.
+대통령은 늘 그의 고문과 외교문제를 상의한다.
+
+[407]
+#The president's death had unexpected repercussion.
+대통령의 서거가 뜻밖의 반향을 불러 일으켰다.
+
+[408]
+#The President's speech was full of generalities.
+대통령의 연설은 모두가 일반적인 것이다.
+
+[409]
+#The president is strongly desirous that you should attend the meeting.
+대통령은 네가 회의에 참가하기를 강력히 바라고 있다.
+
+[410]
+#The President fastened on the idea at once.
+대통령은 즉시 이 의견을 채용했다.
+
+[411]
+#The President will broadcast an important message tomorrow evening.
+대통령은 내일 저녁에 중요한 텔레비전연설을 발표할 것이다.
+
+[412]
+#The President has designated him as the next Secretary of State.
+대통령은 그를 다음 임기의 국무경으로 임명했다.
+
+[413]
+#The president is chief of the armed forces.
+대통령은 무장부대의 수뇌이다.
+
+[414]
+#The President first surveyed the current situation.
+대통령은 먼저 목전의 정세를 종합하고 관찰했다.
+
+[415]
+#The President bestowed a medal on the hero.
+대통령은 영웅에게 훈장을 수여했다.
+
+[416]
+#The president enounced his intention to reduce taxes.
+대통령은 세를 내릴 계획이라고 발표했다.
+
+[417]
+#The news of the President's murder rocked the nation.
+대통령이 암살당했다는 소식이 전국을 뒤흔들었다.
+
+[418]
+#The central library and satellitic departmental libraries.
+총도서관과 부속의 계열도서관.
+
+[419]
+#I'll get back at him one day!
+언젠가, 나는 그에게 복수를 할 것이다!
+
+[420]
+#One day we'll get ourselves a new car.
+필경 언젠가 우리는 새차를 한 대 살 것이다.
+
+[421]
+#What's your angle,anyway ?.
+어쨌든, 너는 무슨 모략을 꾸미고 있는 거니?
+
+[422]
+#I don't care a redcent if you do so.
+설령 네가 이렇게 할지라도, 나는 조금도 개의치 않는다.
+
+[423]
+#We separated after leaving the cinema.
+영화관에서 나온 후에 우리는 헤어졌다.
+
+[424]
+#They think nothing of walking 20 miles.
+[425]
+
+[426]
+#Buzz off,can't you see I'm busy!
+비켜라, 너는 지금 내가 바쁜 것이 보이지 않니!
+
+[427]
+#Cut away,children.The motorcade is starting.
+비켜라, 아이들아, 자동차의 행렬이 막 출발하려고 한다.
+
+[428]
+#A faint light glimmered at the end of the passage.
+복도의 끝에 한 줄기의 미광이 반짝이고 있다.
+
+[429]
+#After such a long walk you may feel hungry.
+이렇게 오래 걸었으니, 너는 아마도 배가 고프다고 느낄 것이다.
+
+[430]
+#The lost child was wandering about the streets.
+길을 잃은 아이가 길에서 여기저기 어정거리며 돌아다니고 있다.
+
+[431]
+#Marching at the head of the column was our teacher.
+행렬의 맨앞에 가고 있는 사람이 우리의 선생님이다.
+
+[432]
+#Everyone stood for the Natoinal Anthem.
+국가가 연주될 때는 모두 일어난다.
+
+[433]
+#The ownership of the equipment shall pass to us at the expiration of the lease.
+빌려준 기한이 다 되면 소유권은 우리측으로 돌아온다.
+
+[434]
+#The rent tribunal reduced my rent.
+세무법정은 나의 방세를 내리라는 판결을 하였다.
+
+[435]
+#The football match pulled in great crowds.
+축구경기가 많은 관중을 끌었다.
+
+[436]
+#Football is one of my enthusiasms.
+축구는 나를 매혹시키는 것 중의 하나이다.
+
+[437]
+#Football doesn't interest me at all.
+축구는 조금도 나의 흥미를 끌지 못한다.
+
+[438]
+#The footballer butted the ball in ( to the goal).
+축구선수가 머리로 공을 골대에 넣었다.
+
+[439]
+#I was left ↔1000 in my grandfather's will.
+조부께서 유언으로 나에게 1000파운드를 남겨주셨다.
+
+[440]
+#Clogged pipes caused drain water to back up into the house.
+막힌 파이프가 하수구로 하여금 거꾸로 흘려 집으로 들어오게 하였다.
+
+[441]
+#The diamond ring glittered on her finger.
+다이아몬드 반지가 그녀의 손가락에서 반짝반짝 빛을 발한다.
+
+[442]
+#diamond is the hardest substance known.
+다이아몬드는 알고 있는 것 중에서 가장 딱딱한 것이다.
+
+[443]
+#Drilling is cutting a hole with a drill.
+드릴링은 드릴로 구멍을 뚫는 것이다.
+
+[444]
+#You should not speak with your mouth full.
+입에 음식물이 가득 있을 때 너는 말을 해서는 안된다.
+
+[445]
+#It's not respectable to be drunk in the street.
+취해서 길에 쓰러져 있는 것은 모양새 좋은 일이 아니다.
+
+[446]
+#The cheapest goods were soon snapped up.
+가장 싼 물건은 아주 빠르게 다 팔렸다.
+
+[447]
+#First impressions are often wrong.
+처음 인상은 종종 부정확하다.
+
+[448]
+#Initially the contract will be in effect for ...years.
+최초계약의 유효기간은 ...년으로 한다.
+
+[449]
+#The great quaere is when he will come again.
+가장 큰 문제는 그가 언제 다시 오는가 하는 것이다.
+
+[450]
+#Is it silver or copper that is the best conductor?
+가장 좋은 도체는 은입니까 아니면 동입니까?
+
+[451]
+#The best cuts of the meat were kept out for the sick and wounded.
+가장 좋은 고기는 내상환자들에게 남겨준다.
+
+[452]
+#The best fish smell when they are three days old.
+가장 좋은 생선도 3일이 지나면 악취가 난다.
+
+[453]
+#It is better to sleep naturally,without taking medication.
+가장 좋은 것은 약을 먹지 않고 자연적으로 잠이 드는 것이다.
+
+[454]
+#It will be better that both of us meet some other time.
+우리 두 사람이 다른 시간에 만나는 것이 좋겠다.
+
+[455]
+#Lastly,let me mention the help I had from my parents.
+끝으로, 나로 하여금 부모님이 나에게 준 도움에 대해 이야기하게 했다.
+
+[456]
+#Finally,I asked him how old he was.
+끝으로, 나는 그에게 나이를 물었다.
+
+[457]
+#Ultimately the President makes all decisions.
+결국, 대통령이 모든 결정을 내린다.
+
+[458]
+#The ultimate responsibility lies with the President.
+최후의 책임은 대통령이 진다.
+
+[459]
+#The final decision lies with the committee.
+최후의 결정은 이 위원회가 해야 한다.
+
+[460]
+#He finally got down the report to three pages.
+최종적으로 그는 보고를 3페이지로 줄였다.
+
+[461]
+#He finally ended up his speech.
+최종적으로 그는 자기의 이야기를 끝냈다.
+
+[462]
+#Finally they got the anchor up and set sail.
+결국 그들은 닻을 올려 출범하였다.
+
+[463]
+#At last they got the telegram they had been expecting.
+마침내 그들은 그들이 바라던 전보를 받았다.
+
+[464]
+#At length they managed to come out of all their difficulties.
+마침내 그들은 결국 모든 어려움을 벗어났다.
+
+[465]
+#At last he broached the subject of the new contract.
+마침내 그는 새로운 계약문제를 제시했다.
+
+[466]
+#Finally,he decided on a blue coat.
+최종적으로 그는 파란색 상의를 선택했다.
+
+[467]
+#The last leg of the journey always seems the longest.
+마지막의 여정은 늘 가장 길어보인다.
+
+[468]
+#The last goal evened up the score.
+마지막의 한골로 점수는 동점이 되었다.
+
+[469]
+#Once and for all,I won't go!
+마지막으로 다시 한번 말하지만, 나는 가지 않을 거야!
+
+[470]
+#Recently a new machine has been built.
+최근에, 새로운 기계가 제조되어 나왔다.
+
+[471]
+#About 500 students were newly enroll,enroled in the school.
+최근 이 학교는 약 500명의 학생을 모집했다.
+
+[472]
+#She has been failing in health for the last two months.
+최근 두달동안 그녀는 몸이 갈수록 나빠지고 있다.
+
+[473]
+#For the last two years I have been teaching chemistry at Watton High School,in this city.
+최근 2년동안 이 시의 Watton고등학교에서 화학을 가르치고 있다.
+
+[474]
+#One of these days,I'd like to take a vacation.
+조만간 어느날 나는 휴가를 한 번 내려고 한다.
+
+[475]
+#The recent rain has had a bad effect on the crops.
+최근의 그 비가 농작물에 준 영향은 좋지 않다.
+
+[476]
+#How are you coming on with your work just lately?
+최근 당신들의 작업상황은 어떻습니까?
+
+[477]
+#They've lived here for the last three years.
+최근 3년동안 그들은 줄곧 이곳에 살았다.
+
+[478]
+#There has been a gradual growth in membership for the last ten years.
+최근 10년 동안 회원이 계속 증가했다.
+
+[479]
+#She has been taken worse recently.
+최근 그녀의 병세는 더욱 악화되었다.
+
+[480]
+#I haven't kept up with news from home lately.
+최근에 나는 집안의 상황에 대해 아는 바가 없다.
+
+[481]
+#I have been reading Ba Jing lately.
+최근에 나는 계속 파금의 작품을 읽고있다.
+
+[482]
+#The mine was drowned out by the recent flood.
+최근의 이 홍수로 그 갱이 매몰되었다.
+
+[483]
+#The quickest means of travel is by plane.
+가장 빠른 교통수단은 비행기를 타는 것이다.
+
+[484]
+#The latest edition is binding.
+최신의 판본이 지금 장정되고 있다.
+
+[485]
+#I want to send you my best wishes for your quick return to good health.
+네가 하루빨리 건강을 회복하기를 진심으로 바란다.
+
+[486]
+#At last I winkled the truth out of him.
+최종적으로, 나는 그의 입으로부터 진상을 실토하게 했다.
+
+[487]
+#The bottomline is that we never give up.
+가장 중요한 것은 우리들이 결코 포기할 수 없다는 것이다.
+
+[488]
+#last,I must emphasize this.
+마지막으로, 나는 이 점을 강조해야만 한다.
+
+[489]
+#The last play of the game was a corker.
+가장 마지막의 한 차례 경기는 결승경기이다.
+
+[490]
+#At last they woke up to the gravity of the situation.
+마지막에 그들은 사태가 심각하다는 것을 비로소 깨달았다.
+
+[491]
+#These last are my friends.
+가장 마지막에 언급한 이 분이 바로 나의 친구이다.
+
+[492]
+#At last I despaired of being rescued.
+결국 나는 구조되는 것에 대해 어떠한 희망도 품지 않았다.
+
+[493]
+#At last I recollected that he had been there.
+마지막에 나는 그가 이미 그곳에 간적이 있다는 것을 생각했다.
+
+[494]
+#finally I shall say a few words on the subject of politics.
+마지막으로 나는 정치문제에 관해서 몇 마디 하고자 한다.
+
+[495]
+#He laughs best who laughs last.
+가장 마지막에 웃는 사람이 가장 기쁘게 웃는다.
+
+[496]
+#the last straw breaks the camel's back.
+마지막 짚이 낙타의 등을 눌렀다.
+
+[497]
+#The meeting closeed with a speech by the chairperson.
+마지막에 의장이 인사말을 하는 것으로 회의를 끝냈다.
+
+[498]
+#The criminal was stoned to death.
+범죄자는 사람들에 의해서 돌에 맞아 죽는다.
+
+[499]
+#The criminal broke away from the policemen who were holding him.
+범인은 그를 잡은 경찰의 손으로부터 도망쳤다.
+
+[500]
+#The criminal has given up the names of his auomplices.
+범인은 이미 공범의 이름을 자백했다.
+
+[501]
+#The criminal gave himself up to the police.
+범인은 경찰서에 자수를 하였다.
+
+[502]
+#None of the criminals escaped punishment.
+범인은 한 사람도 징벌을 피할 수 없다.
+
+[503]
+#Criminals are sometimes the product of bad homes.
+범죄는 때때로 극악한 가정환경의 산물이기도 하다.
+
+[504]
+#act up to the principles of proletarian internationalism
+무산계급 국제주의 원칙을 따른다
+
+[505]
+#I appreciate your kindness in granting me an interview yesterday.
+어제 몽선생이 만나주셔서, 매우 감사합니다.
+
+[506]
+#Yesterday I went to bed beyond the usual time.
+어제, 나는 평상시보다 조금 늦게 잤다.
+
+[507]
+#Several men got out of prison yesterday.
+어제, 몇 사람이 감옥을 탈출해 도망갔다.
+
+[508]
+#Why didn't you show up at the meeting yesterday?
+어제의 회의에 당신은 왜 참가하지 않았습니까?
+
+[509]
+#There was a rather big earthquake yesterday.
+어제 아주 큰 지진이 발생했다.
+
+[510]
+#It was cold yesterday,but it's even colder today.
+어제도 아주 추웠는데, 오늘은 심지어 더 춥다.
+
+[511]
+#The boy bought a pencil yesterday.
+어제 그 소년은 연필을 한 자루 샀다.
+
+[512]
+#Did you see Mr.Jones yesterday?
+어제 당신은 Jones선생을 보았습니까?
+
+[513]
+#What kept you away yesterday?
+어제 당신은 왜 안오셨습니까?
+
+[514]
+#The yen fell against the dollar yesterday.
+어제 엔화가 달러의 환율에 떨어졌다.
+
+[515]
+#They argued away yesterday morning.
+어제 오전에 그들은 계속해서 끊임없이 논쟁을 벌였다.
+
+[516]
+#He had a bad tooth pulled out yesterday.
+어제 그는 충치를 뽑았다.
+
+[517]
+#He flew to London yesterday.
+어제 그는 비행기를 타고 런던으로 갔다.
+
+[518]
+#They sailed the ship in yesterday.
+어제 그들은 배를 항구로 운전해 들어갔다.
+
+[519]
+#They cleared the road of a piece of rubbish yesterday.
+어제 그들은 길의 쓰레기를 쓸었다.
+
+[520]
+#He dropped by to see us yesterday.
+어제 그는 우리를 보러 들렀다.
+
+[521]
+#All the family were at hone when he went by yesterday.
+어제 그가 방문했을 때, 모든 가족이 다 집에 있었다.
+
+[522]
+#He made a speech in English yesterday.
+어제 그는 영어로 연설을 발표했다.
+
+[523]
+#Comrade Liu presided at the banquet yesterday evening.
+어제 밤에는 유동지가 연회를 주관했다.
+
+[524]
+#A group of us went out to the theater last night.
+어제 밤에 우리들 한 무리는 연극을 보러 갔다.
+
+[525]
+#The doctor was called in to a confinement case last night.
+어제 밤에 의사는 아이를 받기 위해 청해졌다.
+
+[526]
+#I was taking a bath at this time last night.
+어제 밤 이맘때 나는 목욕을 하고 있었다.
+
+[527]
+#I did the room out yesterday.
+어제 나는 방을 청소했다.
+
+[528]
+#I was sick yeaterday,but I'm better today.
+어제 나는 아팠으나, 오늘은 좀 좋아졌다.
+
+[529]
+#I saw him and spoke to him yesterday.
+어제 나는 그를 만났고 또한 그와 이야기도 나누었다.
+
+[530]
+#I called at Mr.Brown's yesterday.
+어제 나는 Brown선생의 댁을 방문했다.
+
+[531]
+#I went to see my doctor for a check-up yesterday.
+어제 나는 의사에게 검사를 받으러 갔다.
+
+[532]
+#I rubbed up against him in the street yesterday.
+어제 나는 길에서 그를 우연히 만났다.
+
+[533]
+#I knocked against Comrade Li yesterday in the street.
+어제 나는 길에서 이동지를 만났다.
+
+[534]
+#I happened on Comrade Wang in town yesterday.
+어제 나는 시내에서 우연히 왕동지를 만났다.
+
+[535]
+#They did not discuss this problem yesterday afternoon.
+어제 오후에 그들은 이 문제를 토론하지 않았다.
+
+[536]
+#He was swimming in the river in the afternoon yesterday.
+어제 오후에 그는 강에서 수영을 하였다.
+
+[537]
+#The fire brigade was called out twice yesterday.
+어제 소방대는 경보를 듣고 두번 출동했다.
+
+[538]
+#Who directed that play on television last night?
+어젯밤의 그 연속극은 누가 연출한 것입니까?
+
+[539]
+#He had one of his funny turns again last night.
+어젯밤에 그의 괴상한 버릇이 또 발작을 하였다.
+
+[540]
+#He disgraced himself last night by drinking too much.
+어젯밤에 그는 술을 너무 많이 마셔서 추태를 보였다.
+
+[541]
+#The house was broken into last night.
+어젯밤에 어떤 사람이 갑자기 이 집으로 뛰어들었다.
+
+[542]
+#What time did you get to work yesterday morning?
+어제 아침에 당신은 몇 시에 일을 시작했습니까?
+
+[543]
+#What time did you get up yesterday morning?
+어제 아침에 당신은 몇 시에 일어났습니까?
+
+[544]
+#The fish last night upset me.
+어젯밤의 생선이 나의 위를 거북하게 했다.
+
+[545]
+#They operated on him last night.
+어젯밤에 그는 수술을 한차례 받았다.
+
+[546]
+#She had already gone to bed at nine last night.
+어젯밤 9시에 그녀는 이미 잠자리에 들었다.
+
+[547]
+#Weren't you wakened by the earthquake last night ?.
+어젯밤에 당신은 지진 때문에 놀라지 않았습니까?
+
+[548]
+#He left for Shanghai last night.
+어젯밤에 그는 이미 상해로 출발했다.
+
+[549]
+#What was she doing last night? She wrote two letters.
+어젯밤에 그녀는 무엇을 하고 있었습니까? 그녀는 두통의 편지를 썼습니다.
+
+[550]
+#She watched the children do exercises yesterday evening.
+어젯밤에 그녀는 아이들이 연습하는 것을 지켜보았다.
+
+[551]
+#That show we saw last night was the livingend ..
+어젯밤에 우리가 본 공연은 정말 훌륭했다.
+
+[552]
+#I stayed late at the party last night.
+어젯밤에 나는 파티에 아주 늦게까지 남아있었다.
+
+[553]
+#It snowed last night,and in April too !
+어젯밤에 눈이 내렸다. 게다가 4월인데!
+
+[554]
+#Where did you sack in last night?
+어젯밤에 당신들은 어디에서 잠을 잤습니까?
+
+[555]
+#Last night I dreamt that I went to Manderley again.
+어젯밤 꿈에서 나는 또 Manderley를 갔다.
+
+[556]
+#Is he the tall man on the left?
+왼쪽의 그 키가 큰 사람이 그입니까?
+
+[557]
+#Be an angel and sharpen my pencil.
+마음 좋은 사람이 되어 내가 연필 깎는 것을 도와줘라.
+
+[558]
+#build up a product by advertising
+광고를 해서 이 상품을 선전한다.
+
+[559]
+#Do evil actions bring retribution after death?
+나쁜 일을 하면 죽은 후에 보응을 받습니까?
+
+[560]
+#help out one's income with odd jobs
+잡일을 해서 수입의 부족을 보충한다.
+
+[561]
+#It is not my part to do the work.
+그 일을 하는 것은 나의 책임이 아니다.
+
+[562]
+#That was a damfool thing to do.
+그러한 일을 하다니, 정말 어리석기 짝이 없다.
+
+[563]
+#Poetry was a vehicle for his genius.
+시를 짓는 것은 그가 천재성을 발휘하는 한가지 방법이다.
+
+[564]
+#Let's have tea after we have finished the work.
+일을 다 끝낸 후에 우리 차를 마십시다.
+
+[565]
+#Give your examination papers in to the teacher when you've finished.
+다 끝낸 후에 답안지를 선생님께 내라.
+
+[566]
+#H done my home work,I went out.
+가정숙제를 다 한 후에, 나는 외출을 했다.
+
+[567]
+#It will take a lot of work to finish the job.
+그 일을 끝내기 위해서는 아주 많은 노력을 들여야 할 것이다.
+
+[568]
+#You'll be glad to get your operation over with.
+수술을 끝낸 후에 너는 즐거울 것이다.
+
+[569]
+#What is the best way to do it?
+이 일을 하는 가장 좋은 방법이 무엇입니까?
+
+[570]
+#mark out an item in an account
+표시를 해서 목록중의 일부 경비를 지운다.
+
+[571]
+#be a preparation for or an introduction to
+문장불량
+
+[572]
+#As a boxer he is through.
+권투선수로 말하자면, 그는 이미 끝났다.
+
+[573]
+#He was a success as an actor.
+배우로서, 그는 성공자이다.
+
+[574]
+#He has a bright future as a painter.
+화가로서, 그는 전망이 밝다.
+
+[575]
+#As a writer,he was a failure.
+작가로서 그는 실패한 사람이다.
+
+[576]
+#The holder of the office of chairman is responsible for arranging meeting.
+의장이 되는 사람은 회의를 안배할 책임이 있다.
+
+[577]
+#The author has drawn out the novel into three big volumes.
+작자는 그 소설을 세권으로 늘렸다.
+
+[578]
+#The author designed a good plot.
+작가는 좋은 줄거리를 구상했다.
+
+[579]
+#The author referred to his teacher twice in his article.
+작가는 문장에서 두 번이나 그의 선생님을 언급했다.
+
+[580]
+#It is necessary to prepare for the worst.
+가장 나쁜 경우를 준비하는 것은 필요한 것이다.
+
+[581]
+#Move along and make room for me!
+조금 옮겨 앉아서, 나에게 자리를 좀 비워주어라.
+
+[582]
+#We can save two hours by taking the express.
+특급을 타면 우리는 2시간을 절약할 수 있다.
+
+[583]
+#Sit down,or you'll overbalance the boat.
+앉아라, 그렇지 않으면 너는 배로 하여금 평형을 잃게 할 것이다.
+
+[584]
+#Passenger ships are a costly way to travel.
+객선을 타는 것은 비용이 많이 드는 여행방법이다.
+
+[585]
+#Sit still,you little fidget!
+움직이지 말고 앉아라, 이 가만히 앉아 있지 못하는 녀석아!
+
+[586]
+#Slang insinuates itself into the language.
+속어가 서서히 언어속으로 잠입한다.
+
+[587]
+#Pluto has an elliptic orbit.
+명왕성의 궤도는 타원형이다.
+
+[588]
+#The heckler refused to be put down.
+힐문하는 사람이 사람들로 하여금 그의 말을 제지하지 못하게 했다.
+
+[589]
+#earth up the roots of a newly-planted tree
+새로 심은 나무의 뿌리부분을 북주어 덮었다.
+
+[590]
+#Clover and milkworts are grasses.
+클로버와 영신초는 모두 목초이다.
+
+[591]
+#ill weeds grow apace .
+강아지풀이 빨리 뻗는다; 잡초가 쉽게 번식한다; 소인이 정권을 잡는다.
+
+[592]
+#Sound your horn to warn other drivers.
+나팔을 불어서 다른 기사들을 일깨워라.
+
+[593]
+#Oh! how do you know that?.
+오! 네가 어떻게 그 일을 알지?
+
+[594]
+#Hey ,look ,that jet airliner is hopping off.
+어,봐, 그 제트기가 이륙했어.
+
+[595]
+#Hey,Mom ,knock something together for us to eat.
+엄마, 나에게 먹을 것을 좀 해주세요.
+
+[596]
+#The noise hindered me in my work.
+시끄러운 소리가 나의 일을 방해했다.
+
+[597]
+#Oh ,grownup for heaven's sake!
+어, 아이들같이 화내지 말아라!
+
+[598]
+#Be a good girl and run along.Daddy's busy.
+귀염둥이야, 비켜라. 아빠가 지금 바쁘다.
+
+[599]
+#The curtains opened to reveal a darkened stage.
+휘장이 열리자, 어두컴컴한 무대가 나타났다.
+
+[600]
+#Later events completely vindicated him.
+이후의 사건이 그의 무죄를 완전히 입증했다.
+
+[601]
+#It struck me later I hadn't gotten his name.
+후에 나는 내가 그의 이름을 묻지 않았다는 것을 생각했다.
+
+[602]
+#Waiter,three Scotches,please.
+웨이터, 스카치위스키 세병 주세요.
+
+[603]
+#Pity heaved her breast .
+측은지심이 그녀의 머리속에 일어났다.
+
+[604]
+#play up sensational social news
+과장해서 듣는 사람을 놀라게 하는 사회뉴스
+
+[605]
+#I found myself solus.
+나는 내자신이 매우 외롭다는 것을 발견했다.
+
+[606]
+#The fewer the better cheer.
+맛있는 음식은 먹는 사람이 적을수록 좋다.
+
+[607]
+#Polly could sweet-talk her father into anything.
+Polly는 아버지를 부추겨서 아버지로 하여금 무슨 일이든 하게 한다.
+
+[608]
+#Polly is the most featherheaded person I've ever seen.
+Polly는 내가 본 중에 가장 어리석은 사람이다.
+
+[609]
+#The hurricane stripped the trees of all their leaves.
+허리케인이 나무의 모든 잎을 떨어뜨렸다.
+
+[610]
+#We battened down at the first hurricane warning.
+허리케인경보가 발효되자마자 우리는 선창을 막았다.
+
+[611]
+#Up went the arrow into the air.
+쌩쌩 소리를 내며 화살이 하늘로 쏘아졌다.
+
+[612]
+#The stew beef must be boiled up before serving.
+쇠고기스튜는 식탁으로 가져가기 전에 반드시 부글부글 끓여야 한다.
+
+[613]
+#Ironing shirts is a hateful job.
+셔츠를 다리는 것은 짜증나는 일이다.
+
+[614]
+#The moon shone brightly in through the window.
+휘영청 밝은 달빛이 창문으로 비쳐 들어왔다.
+
+[615]
+#Bats flit about in the twilight.
+박쥐는 황혼무렵에 도처를 날아다닌다.
+
+[616]
+#The lame child lagged behind (his mother).
+절름발이 아이가 그의 어머니 뒤에 뒤떨어져있다.
+
+[617]
+#You could have fooled me!
+네가 나를 속이고 있구나! 너는 거짓말을 하고 있어!
+
+[618]
+#Commit no nuisance!
+대변보고 쓰레기 버리는 것을 금한다.
+
+[619]
+#It has worked well as yet.
+지금까지는 아주 순조롭다.
+
+[620]
+#I ride 12 stone.
+나는 승마복을 입고 무게가 12스톤이다.
+
+[621]
+#I should have thought it was worse than that.
+나는 일이 그것보다 더 엉망이라고 생각한다.
+
+[622]
+#I should have thought he was much younger.
+나는 그가 더 젊다고 생각했다.
+
+[623]
+#How's yourself ?.
+안녕하세요? 당신은 어때요?
+
+[624]
+#JJesus !
+하나님 맙소사!
+
+[625]
+#I gave him a sweet one on the head.
+나는 그의 머리를 호되게 한 대 때렸다.
+
+[626]
+#Lo and behold !
+아이고, 봐라!; 정말!
+
+[627]
+#A penny for your thoughts.
+당신은 멍청하게 무엇을 생각하고 있습니까?
+
+[628]
+#there you go,saying such things again.
+너 봐라, 네가 또 이러한 말을 하고 있구나!
+
+[629]
+#Would you oblige us with a song ?.
+당신은 우리가 노래를 한 곡 부르기를 바라십니까?
+
+[630]
+#Are you with us or against us ?.
+당신은 우리를 찬성합니까 아니면 반대합니까?
+
+[631]
+#finders are keepers.
+주운 사람이 임자이다.
+
+[632]
+#Which ever way did he go?.
+그는 도대체 어느 길로 간 것입니까?
+
+[633]
+#He's a real good sort.
+그는 성격이 매우 온화한 사람이다.
+
+[634]
+#I don't care if I go.
+내가 갈 수 있다.
+
+[635]
+#I should just think so.
+내 생각도 그래요. 그것도 별로 이상한 것은 아닙니다.
+
+[636]
+#I'll wait and see what happens.
+나는 무슨 일이 일어나는지를 기다려 보겠다.
+
+[637]
+#No two ways about it .
+반드시 그러하다.
+
+[638]
+#What's the odds?.
+무슨 관계가 있습니까?
+
+[639]
+#Be of good cheer!
+정신을 차려라, 분발해라, 상심하지 말고.
+
+[640]
+#We had much ado to get home safely.
+우리는 모든 역량을 다해서 무사히 집앞에 도착했다.
+
+[641]
+#Lights flashed up in the banquet hall.
+순식간에 연회장의 등불이 휘황찬란해졌다.
+
+[642]
+#Salmon are anadromous.
+연어는 바다에서 담수호로 이동해 산란을 하는 동물이다.
+
+[643]
+#Sturgeons and gars are ganoid.
+철갑상어와 동갈치는 모두 경린어이다.
+
+[644]
+#Diana is nothing but a fool of the firstwater.
+Diana는 굉장한 바보에 지나지 않는다.
+
+[645]
+#A mole burrows its way through the ground.
+두더지는 땅속에서 굴을 뚫어 앞으로 나아간다.
+
+[646]
+#Moles bore their way under our garage.
+두더지가 우리의 차고지하에 동굴을 팠다.
+

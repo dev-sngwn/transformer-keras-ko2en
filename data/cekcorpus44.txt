@@ -1,0 +1,3832 @@
+[1]
+#He didn't expect to be brushed aside like that.
+#그는 그러한 냉대를 받으리라 생각하지 못했다.
+
+[2]
+#It was discreet of him not to reveal the secret.
+#그는 비밀을 누설하지 않다니 정말 신중하다.
+
+[3]
+#There was no likelihood of his winning.
+#그는 이길 가능성이 없다. 그가 승리를 얻는다는 것은 불가능하다.
+
+[4]
+#He's too spineless to ask for more money.
+#그는 더 많은 돈을 요구할 용기가 없다.
+
+[5]
+#He hadn't reckoned with so many obstacles and difficulties.
+#그는 이렇게 많은 장애와 어려움을 예견하지 못했다.
+
+[6]
+#He has no title to the estate.
+#그는 이 부동산의 소유권이 없다.
+
+[7]
+#He has neither prepared his lesson nor gone to bed.
+#그는 수업을 준비하지 않았고 잠을 자지도 않았다.
+
+[8]
+#He has no claim to scholarship.
+#그는 학자라고 불리워질 자격이 없다.
+
+[9]
+#He has no qualifications for the post.
+#그는 이 직위를 맡을 자격이 없다.
+
+[10]
+#He didn't have the guts to do it.
+#그는 그 일을 할 패기가 없다.
+
+[11]
+#His clutch was not tight enough and he fell from the branch.
+#그는 나뭇가지를 꽉 잡지 않아서 떨어졌다.
+
+[12]
+#He has done nothing to deserve death.
+#그는 사형을 받을만한 일을 한 적이 없다.
+
+[13]
+#To every attack he reciprocated with a blow.
+#그는 매번 공격 받을 때마다 반격한다.
+
+[14]
+#He goes bowling every Saturday.
+#그는 토요일마다 볼링을 하러 간다.
+
+[15]
+#He comes to see us every three days.
+#그는 매 3일 간격으로 우리를 한번 보러 온다.
+
+[16]
+#He goes to Scotland every year to shoot wild duck.
+#그는 매년마다 스코틀랜드에 가서 물오리를 잡는다.
+
+[17]
+#He makes several business visits to America every year.
+#그는 매년마다 비즈니스를 위해서 미국에 몇 차례 간다.
+
+[18]
+#Every day he trod the same path to school.
+#그는 매일마다 같은 길로 등교한다.
+
+[19]
+#He spends two hours a day training for the race.
+#그는 매일 두 시간을 써서 달리기를 연습한다.
+
+[20]
+#He has a 10-mile drive each day to and from his work.
+#그는 매일 출퇴근을 하느라 10마일을 차를 몬다.
+
+[21]
+#He spends every night boozing with his friends.
+#그는 매일 밤마다 친구와 함께 폭음한다.
+
+[22]
+#He puts in half an hour ' s practice at the typewriter evenings.
+#그는 매일밤 30분씩 타자를 연습한다.
+
+[23]
+#He checked the temperature every morning before leaving home.
+#그는 매일 아침 집을 떠나기 전에 온도를 한번씩 본다.
+
+[24]
+#He always gets up early in the morning.
+#그는 매일 항상 일찍 일어난다.
+
+[25]
+#he salted away part of his wages each month.
+#그는 매월 임금의 일부분을 저축했다.
+
+[26]
+#he puts away part of his wages each month.
+#그는 매월 일부분의 임금을 저축했다.
+
+[27]
+#His monthly earnings averaged out at 80 yuan.
+#그는 매월 평균 수입이 80원이다.
+
+[28]
+#They sailed (their ship) through safely.
+#그들은 안전하게 배를 운항했다.
+
+[29]
+#They set him over the group as its leader.
+#그들은 그를 그 단체의 지도자로 배치했다.
+
+[30]
+#They're bleeping you,doctor.
+#그들은 벨을 눌러서 당신에게 호출하고 있습니다, 의사 선생님.
+
+[31]
+#They moved according to a well-thought-out plan.
+#그들은 사려 깊고 주도 면밀한 계획에 따라서 행동한다.
+
+[32]
+#They smartened up the office.
+#그들은 사무실을 아주 정결하게 정리했다.
+
+[33]
+#They drew the boat out of the water on to the beach.
+#그들은 배를 물속에서 해변 위로 밀었다.
+
+[34]
+#They pushed the boat down to the water on rollers.
+#그들은 배를 롤러 위에 두고 물에 밀어 넣었다.
+
+[35]
+#They paid the ship off from the jetty.
+#그들은 배를 부드럽게 부두를 떠나게 했다.
+
+[36]
+#They boiled the excess liquid away.
+#그들은 필요 없는 물을 끓여 없앴다.
+
+[37]
+#They wished a hard job on him.
+#그들은 힘든 일을 그에게 강요했다.
+
+[38]
+#They altered the house to improve its ventilation.
+#그들은 방을 좀 바꾸어서 그것으로 하여금 더욱 통풍이 잘 되도록 하였다.
+
+[39]
+#They coupled the carriages of the train together.
+#그들은 기차 차간을 한데 연결했다.
+
+[40]
+#They belted the machine up.
+#그들은 기계를 벨트에 걸었다.
+
+[41]
+#They have moved the furniture back.
+#그들은 가구를 원래의 장소에 다시 옮겼다.
+
+[42]
+#They had the building oriented north and south .
+#그들은 건축물을 남북향으로 지었다.
+
+[43]
+#They loaded up the lorry.
+#그들은 트럭을 가득 실었다.
+
+[44]
+#They hamshackle a horse.
+#그들은 말의 머리와 앞발을 묶었다.
+
+[45]
+#They painted out the names on the door.
+#그들은 문 위의 성명을 페인트로 칠해버렸다.
+
+[46]
+#They lashed timbers together to make a raft.
+#그들은 목재를 한데 묶어서 뗏목으로 만들었다.
+
+[47]
+#They gave the building over for use as an office.
+#그들은 그 건축물을 사무소로 남겨 두었다.
+
+[48]
+#They bound the man's hands behind him.
+#그들은 그 사람의 두 손을 등 뒤에서 뒤로 묶었다.
+
+[49]
+#They shut the man in a cell.
+#그들은 그 사람을 작은 방에 가두었다.
+
+[50]
+#They railed the area in.
+#그들은 그 공지를 난간으로 둘러쌌다.
+
+[51]
+#They raised the salesman to manager.
+#그들은 그 판매원을 사장으로 승진시켰다.
+
+[52]
+#They spent their money on beer.
+#그들은 돈을 맥주를 사는데 썼다.
+
+[53]
+#They have boarded up the hole in the wall.
+#그들은 담 위의 구멍을 막았다.
+
+[54]
+#Is it green that they have painted the wall?
+#그들은 담을 녹색으로 칠했느냐?
+
+[55]
+#They bound up three volumes into one.
+#그들은 세 권의 책을 한 권으로 제본했다.
+
+[56]
+#They led the animals back to their stalls.
+#그들은 가축을 우리 속으로 끌고 들어갔다.
+
+[57]
+#They blamed the failure on George.
+#그들은 실패를 조오지의 탓으로 돌렸다.
+
+[58]
+#They posted soldiers at the gates of the palace.
+#그들은 사병을 궁전 입구에 배치했다.
+
+[59]
+#They parcelled up the books and posted them .
+#그들은 책을 잘 싸서 부쳤다.
+
+[60]
+#They fired away all their ammunition.
+#그들은 모든 탄약을 다 쏴버렸다.
+
+[61]
+#They have laid down all the eggs in waterglass.
+#그들은 모든 알을 다 물유리를 칠했다.
+
+[62]
+#They have booked all the hotels up.
+#그들은 모든 호텔을 다 전세 냈다.
+
+[63]
+#All their hopes lie in me.
+#그들은 모든 희망을 나에게 기탁했다.
+
+[64]
+#They taunted him into losing his temper.
+#그들은 그를 조소해서 화나게 했다.
+
+[65]
+#They mistook him for his brother.
+#그들은 그를 그의 동생으로 잘못 알았다.
+
+[66]
+#They nibbled away his fortune.
+#그들은 그의 재산을 조금씩 조금씩 다 썼다.
+
+[67]
+#They hailed it as a work of art.
+#그들은 그것을 예술품이라고 칭찬했다.
+
+[68]
+#They called her down from upstairs to answer the telephone.
+#그들은 그녀를 전화를 받도록 위층에서 불러 내려오게 했다.
+
+[69]
+#They adored her as a living goddess.
+#그들은 그녀를 살아 있는 여신으로 삼아 숭배했다.
+
+[70]
+#They interpreted her silence as concession.
+#그들은 그녀의 침묵을 양보로 해석했다.
+
+[71]
+#They posted up the notice on the bulletin board.
+#그들은 통지를 게시판 위에 붙였다.
+
+[72]
+#They pulled in the tractor inside the shed.
+#그들은 트랙터를 장막 속으로 밀고 들어갔다.
+
+[73]
+#They've conned me out of all my money!
+#그들은 나의 돈을 전부 사기쳤다.
+
+[74]
+#They fired out little Tom from school.
+#그들은 어린 톰을 학교에서 제적시켰다.
+
+[75]
+#They packed the trunks with their belongings .
+#그들은 짐을 트렁크에 담아 넣었다.
+
+[76]
+#They take this as a result of electrolysis.
+#그들은 이것을 전해의 결과로 여긴다.
+
+[77]
+#They have marked up all these items.
+#그들은 이러한 상품들을 모두 가격을 매겼다.
+
+[78]
+#They flashed the news back to London.
+#그들은 이 뉴스를 런던으로 반환했다.
+
+[79]
+#They have fleshed their pigs up.
+#그들은 돼지를 피둥피둥 살찌게 키웠다.
+
+[80]
+#They focused their attention on the main problems.
+#그들은 주의력을 주요 문제에 집중했다.
+
+[81]
+#They sleep days and work nights.
+#그들은 낮에 자고 밤에 일한다.
+
+[82]
+#They keep on fighting in spite of all the setbacks.
+#그들은 백절불굴하게 싸워 나갔다.
+
+[83]
+#They can do it and so can we.
+#그들이 할 수 있으면 우리도 할 수 있다.
+
+[84]
+#They helped the commune members dig up potatoes.
+#그들은 조합원들이 감자를 캐는 것을 도왔다.
+
+[85]
+#They divested the king of all his power.
+#그들은 국왕의 전체 권력을 박탈했다.
+
+[86]
+#They deprived the criminal of his rights.
+#그들은 그 범인의 권리를 박탈했다.
+
+[87]
+#They have guaranteed delivery within a month.
+#그들은 일개월 안에 물건을 보내 주겠다고 보장했다.
+
+[88]
+#They were taken to the garden and shown around.
+#그들은 화원에 안내되어 한번 참관했다.
+
+[89]
+#They were charged with conspiring against the government.
+#그들은 정부를 전복시킬 비밀 음모를 고발당했다.
+
+[90]
+#They were swept away in the crowd.
+#그들은 군중에 의해 앞으로 나아가도록 촉진되고 있다.
+
+[91]
+#They were blocked up within the valley by a severe snowstorm.
+#그들은 폭풍우에 의해 산골짜기에 갇혔다.
+
+[92]
+#They were marshaled before the Queen.
+#그들은 여왕 앞에까지 인도되었다.
+
+[93]
+#They outshoot Robin Hood.
+#그들은 로빈후드보다 훨씬 더 잘 쏜다.
+
+[94]
+#There is a deep understanding between them.
+#그들은 피차간에 상대방을 깊이 이해한다.
+
+[95]
+#They've been dating each other for months.
+#그들은 서로 데이트를 한 지가 벌써 몇 개월이나 된다.
+
+[96]
+#They are widely different from each other.
+#그들은 피차간에 크게 다르다.
+
+[97]
+#They bowed to the king with all due submission.
+#그들은 매우 공손한 태도로 국왕에게 절을 했다.
+
+[98]
+#They must rectify the style of work.
+#그들은 업무 태도를 정돈해야 한다.
+
+[99]
+#They must take care of themselves.
+#그들은 자신이 자신을 돌보아야 한다.
+
+[100]
+#They lined up side by side for the photograph.
+#그들은 어깨를 나란히 하고 줄을 서서 사진을 찍으려고 한다.
+
+[101]
+#They ran up costs unnecessarily.
+#그들은 불필요하게 원가를 높였다.
+
+[102]
+#They had to stand for hours at a stretch.
+#그들은 어쩔 수 없이 몇 시간을 연속해서 서 있어야 했다.
+
+[103]
+#They had to call in a heart specialist.
+#그들은 심장병 전문가를 청해와야 했다.
+
+[104]
+#They had to recount the votes.
+#그들은 다시 표수를 계산해야 한다.
+
+[105]
+#They dare not tell the truth to the people.
+#그들은 감히 국민들에게 진실을 말하지 않았다.
+
+[106]
+#They showed their enemies no mercy.
+#그들은 적에게 어떤 인자함도 주지 않았다.
+
+[107]
+#They went in spite of the rain.
+#그들은 비가 오는 것에도 아랑곳하지 않고 갔다.
+
+[108]
+#They soon got to talking together,
+#그들은 곧 함께 이야기하기 시작했다.
+
+[109]
+#They lived unhappily together.
+#그들은 행복하지 않게 함께 생활했다.
+
+[110]
+#They did not wish to become embroiled in the dispute.
+#그들은 이 분쟁 속으로 휘말려 들기를 바라지 않았다.
+
+[111]
+#They don't want the story spread about.
+#그들은 이 일이 퍼지는 것을 바라지 않는다.
+
+[112]
+#They don't approve of my way of looking at things.
+#그들은 내가 일을 보는 방법에 찬성하지 않는다.
+
+[113]
+#They don't know when the wedding will be.
+#그들은 언제 혼례가 거행되는지를 알지 못한다.
+
+[114]
+#They showed a will-less compliance with the order.
+#그들은 스스로 느끼지 못하고 그 명령에 복종했다.
+
+[115]
+#They adopted the resolution that the subscription be raised.
+#그들은 의연금 모집 결의안을 받아 들였다.
+
+[116]
+#They revenged their dead cruelly.
+#그들은 잔혹하게 죽은 자를 위해 복수했다.
+
+[117]
+#They killed the old man in cold blood!
+#그들은 잔인하게 그 노인을 살해했다.
+
+[118]
+#They hatched a plan to murder the king.
+#그들은 국왕을 살해할 음모를 계획했다.
+
+[119]
+#They handed Grandma Li down to the ground floor.
+#그들은 이씨 할머니를 부축해서 계단을 내려와 지하층으로 갔다.
+
+[120]
+#They often see him work a new machine.
+#그들은 항상 그가 새 기계를 조작하는 것을 본다.
+
+[121]
+#They travelled in quest of gold.
+#그들은 장거리를 편력해서 금광을 찾는다.
+
+[122]
+#They sang the old year out and the new year in.
+#그들은 노래를 불러 묵은 해를 보내고 새해를 맞이했다.
+
+[123]
+#They have palled up again after the quarrel.
+#그들은 싸우고 난 후에 지금은 다시 좋아졌다.
+
+[124]
+#They had a quarrel and broke up.
+#그들은 한바탕 싸우고 절교했다.
+
+[125]
+#They petitioned the mayor to take immediate measures.
+#그들은 즉각 조치를 취하라고 시장에게 진정했다.
+
+[126]
+#They labeled him a demagogue .
+#그들은 그를 정치 선동가라고 부른다.
+
+[127]
+#They recommended his as a good lawyer.
+#그들은 그가 뛰어난 변호사라고 칭찬한다.
+
+[128]
+#They resisted fascist violence successfully.
+#그들은 성공적으로 파시스트 폭력에 반항했다.
+
+[129]
+#They rattled past.
+#그들은 차를 타고 소리를 내면서 운전했다.
+
+[130]
+#They recognized the unfairness of the decision.
+#그들은 그 결정의 불공평함을 승인했다.
+
+[131]
+#They owned him as their leader.
+#그들은 그가 그들의 영수임을 승인했다.
+
+[132]
+#They had a legitimate reason for being late.
+#그들이 늦은 것은 정당한 이유가 있다.
+
+[133]
+#They shut off the gas before going on holiday.
+#그들은 휴가를 보내러 출발하기 전에 가스를 잠갔다.
+
+[134]
+#They surprised us with a visit.
+#그들은 뜻밖에 우리를 방문했다.
+
+[135]
+#They presented themselves before the king.
+#그들은 국왕의 앞에 나타났다.
+
+[136]
+#They helped us out of pity.
+#그들은 동정심에서 우리를 도왔다.
+
+[137]
+#Their stocks of food went down rapidly.
+#그들이 저장한 음식은 아주 빠르게 없어져갔다.
+
+[138]
+#They are amid the noises of the city.
+#그들은 도시의 시끄러운 소리 속에 처해 있다.
+
+[139]
+#They came across the street to greet us.
+#그들은 길을 가로질러 와서 우리를 맞이했다.
+
+[140]
+#They went to church in their best bib and tucker.
+#그들은 가장 좋은 옷을 입고 교회에 나간다.
+
+[141]
+#They patched up a hasty peace.
+#그들은 황급히 평화협의에 달성했다.
+
+[142]
+#They rushed the bill through.
+#그들은 촉박하게 의안을 통과시켰다.
+
+[143]
+#They bundled the children off to school.
+#그들은 분주하게 아이들을 등교시켰다.
+
+[144]
+#They stripped the shirt from his back.
+#그들은 등뒤에서 그의 셔츠를 벗겼다.
+
+[145]
+#They never take a thing unbelonging to them.
+#그들은 여지껏 자기에게 속하지 않은 물건을 가져간 적이 없다.
+
+[146]
+#They handed up the luggage from the hold of the ship.
+#그들은 선창 안에서 짐을 건네 올렸다.
+
+[147]
+#They blazed out at the invaders through the windows.
+#그들은 창문에서 침입자에게 불을 질렀다.
+
+[148]
+#They shot out through the windows.
+#그들은 창문 안에서 바깥으로 사격했다.
+
+[149]
+#They released several bombs from the airplane.
+#그들은 비행기에서 몇 개의 폭탄을 투하했다.
+
+[150]
+#They obtained rock samples from the moon.
+#그들은 달에서 암석의 샘플을 얻었다.
+
+[151]
+#They influenced him into accepting their offer.
+#그들은 그가 우리의 제의를 받아들이도록 했다.
+
+[152]
+#They save money against a raiy day.
+#그들은 돈을 저금해서 불시의 수요에 준비한다.
+
+[153]
+#They complied with our demands.
+#그들은 우리의 요구에 응했다.
+
+[154]
+#They got him off on the evening train.
+#그들은 그가 밤차를 타고 가도록 보냈다.
+
+[155]
+#They intend to lead the wires in through this hole.
+#그들은 전선을 이 구멍으로 끌어 넣으려고 한다.
+
+[156]
+#They are to go to Beijing this afternoon.
+#그들은 오늘 오후에 북경에 가려고 한다.
+
+[157]
+#They go about together most of the time.
+#그들은 대부분의 시간 동안 함께 여기저기 돌아다닌다.
+
+[158]
+#They howled him off the platform.
+#그들의 큰 외침이 그를 강단에서 내려오게 했다.
+
+[159]
+#They all rejoiced over the brilliant victory.
+#그들 모두는 그 빛나는 승리를 환호했다.
+
+[160]
+#They all send you their respects.
+#그들 모두는 그에게 인사의 뜻을 표했다.
+
+[161]
+#They raised a great hue and cry against the new rule.
+#그들은 큰소리로 아우성 치면서 신규정을 반대했다.
+
+[162]
+#They went at about three o'clock.
+#그들은 대략 3시에 떠났다.
+
+[163]
+#They loaded themselves up with food and medical supplies.
+#그들은 대량의 식량과 의약용품을 지녔다.
+
+[164]
+#They stunned him with a blow on the head.
+#그들은 머리를 한방 쳐서 그를 의식을 잃게 했다.
+
+[165]
+#A few of them know it.
+#그들 중 몇몇은 그 일을 안다.
+
+[166]
+#They stole the jewels under my very eyes.
+#그들은 나의 면전에서 보석을 훔쳤다.
+
+[167]
+#They arrived while we were having dinner.
+#그들이 도착했을 때 우리는 밥을 먹고 있었다.
+
+[168]
+#The angry man was appeased by their apology.
+#그들이 사과하자 그 사람의 화도 풀렸다.
+
+[169]
+#They won because of their speed with the ball.
+#그들이 승리한 것은 드리블이 신속했기 때문이다.
+
+[170]
+#They had to dig down to pay for gas and meals.
+#그들은 비용을 자담해서 가스비와 식비를 내야 했다.
+
+[171]
+#Their arrangements are all busted up.
+#그들의 안배는 모두 망가졌다.
+
+[172]
+#Their presence spiced the dinner party up.
+#그들의 참석은 연회로 하여금 활기를 띠게 했다.
+
+[173]
+#Their computer is superior to ours.
+#그들의 컴퓨터는 우리의 것보다 우수하다.
+
+[174]
+#Their struggle against imperialism is developing vigorously.
+#그들의 반제투쟁은 왕성하게 전개하고 있다.
+
+[175]
+#Their objections are slowing down the progress of the negotiations.
+#그들의 반대는 협상 진행과정을 늦추고 있다.
+
+[176]
+#Their house is larger than ours.
+#그들의 집은 우리의 것보다 크다.
+
+[177]
+#Their house is better than ours.
+#그들의 집은 우리의 것보다 좋다.
+
+[178]
+#Their house is hidden among trees.
+#그들이 집은 수풀 속에 숨어 있다.
+
+[179]
+#Their house is to the north of the park.
+#그들의 집은 공원의 북쪽에 있다.
+
+[180]
+#Their planes have been bombed up in preparation for operations.
+#그들이 비행기는 이미 폭탄을 장착하여 전쟁을 할 준비가 되어 있다.
+
+[181]
+#Their country is under foreign rule.
+#그들의 국가는 타종국의 통치하에 처해 있다.
+
+[182]
+#Their children have never wanted for anything.
+#그들의 아이는 이제까지 어느 것도 부족한 것이 없었다.
+
+[183]
+#Their plans haven't borne fruit.
+#그들의 계획은 아직 성과를 얻지 못했다.
+
+[184]
+#Their holidays are always full of drama.
+#그들의 휴가기간은 항상 희극적인 것으로 가득하다.
+
+[185]
+#Their wedding cake had three tiers.
+#그들의 결혼 케이크는 3층이다.
+
+[186]
+#Their party is on Saturday.
+#그들의 집회는 토요일에 거행될 것이다.
+
+[187]
+#I was very touched by their present.
+#그들의 선물은 나로 하여금 대단히 감동케 했다.
+
+[188]
+#They confused the teacher by having the same names.
+#그들의 이름이 같아서 선생님은 늘 실수하신다.
+
+[189]
+#Certain of their conditions are not easily complied with.
+#그들의 몇몇 조건은 처리하기 매우 어렵다.
+
+[190]
+#Their efforts will redound to the general good.
+#그들의 노력은 대중들의 이익을 증가시킬 것이다.
+
+[191]
+#Their business arrangements went through.
+#그들의 비즈니스 안배는 정식 인가를 받았다.
+
+[192]
+#Their figures were swallowed up in the dark.
+#그들의 그림자는 어둠 속에서 사라졌다.
+
+[193]
+#Their voices echoed round the cave.
+#그들의 목소리가 동굴 속에서 메아리쳤다.
+
+[194]
+#Their lives were put in jeopardy.
+#그들의 생명이 위험에 처해 있다.
+
+[195]
+#Their voices fell to a whisper.
+#그들의 말소리는 속삭임으로 변했다.
+
+[196]
+#Their grandchildren are grown up now.
+#그들의 손자들은 지금 다 장성했다.
+
+[197]
+#Their conversation degenerated into a quarrel.
+#그들의 대화는 점점 싸움으로 변했다.
+
+[198]
+#Their house is full of little ornaments.
+#그들의 집안은 작고 깜찍한 장식품으로 가득하다.
+
+[199]
+#Their costumes harmonized with the background.
+#그들의 연극 의상은 배경과 잘 어울린다.
+
+[200]
+#Their ideas are quite alien to our own.
+#그들의 생각은 우리 것과 완전히 다르다.
+
+[201]
+#Their minivan was in collision with an Army lorry.
+#그들의 화물차가 군용트럭과 서로 부딪쳤다.
+
+[202]
+#The wood echoed with their laughter.
+#그들의 웃음소리가 삼림에서 메아리 쳤다.
+
+[203]
+#Their actions may be qualified as irrational.
+#그들의 행동은 이성적이지 않다고 여겨질 수 있다.
+
+[204]
+#Their deeds glorified their school.
+#그들의 행동은 학교에 영예를 가져다 주었다.
+
+[205]
+#Their dislike was fanned into hate.
+#그들의 혐오감은 증오로 부추겨졌다.
+
+[206]
+#Their demands became ever shriller.
+#그들의 요구는 더욱 강렬하게 변했다.
+
+[207]
+#Their demands finally narrowed down to two points.
+#그들의 요구는 결국 두 가지로 감소되었다.
+
+[208]
+#All their resistance was vain.
+#그들의 모든 저항은 무효로 되었다.
+
+[209]
+#All their efforts were vain.
+#그들의 모든 노력은 다 헛되었다.
+
+[210]
+#Their differences of opinion are only skin-deep.
+#그들의 의견 불일치는 단지 표면적인 것이다.
+
+[211]
+#Their heroic exploits will go down in history.
+#그들의 영웅 업적은 역사책에 기재될 것이다.
+
+[212]
+#Their cherry has branched out over our garden.
+#그들의 체리나무의 나뭇가지가 우리 화원까지 자랐다.
+
+[213]
+#Their friendship dates from school days.
+#그들의 우정은 학생 때부터 시작되었다.
+
+[214]
+#Their folly drew on their disgrace.
+#그들의 어리석음은 우리로 하여금 체면을 깎이게 했다.
+
+[215]
+#Their duty is to heal the wounded and rescue the dying.
+#그들의 책임은 죽어가는 사람을 살리고 부상자를 돌보는 것이다.
+
+[216]
+#Their accounts have run on a year or two without a settlement.
+#그들의 계좌는 이미 일이 년간 결산하지 않았다.
+
+[217]
+#Their centre forward was laid out by the opposing team.
+#그들의 센터 포워드가 상대팀에게 차여 부상당했다.
+
+[218]
+#Their source of funds gradually dried up.
+#그들은 자금원이 점점 고갈되고 있다.
+
+[219]
+#They ploughed through the sands in spite of the storm.
+#그들은 폭풍의 어려움을 무릅쓰고 사막을 통과했다.
+
+[220]
+#They settled when they would start.
+#그들은 출발할 시간을 정했다.
+
+[221]
+#They plotted out a plan of action.
+#그들은 행동 계획을 정했다.
+
+[222]
+#They started scrubbing out the room.
+#그들은 그 방을 닦기 시작했다.
+
+[223]
+#They broke into their emergency supplies of food and water.
+#그들은 긴급 식량과 식수 예비품을 운용했다.
+
+[224]
+#They all looked on him as a member of their family.
+#그들은 모두 그를 자기집 사람으로 보았다.
+
+[225]
+#They all laughed at his queer idea.
+#그들은 모두 그의 이상한 생각을 조소했다.
+
+[226]
+#They all dressed up to take part in the parade.
+#그들은 정장을 입고 퍼레이드에 참가했다.
+
+[227]
+#They all had a great esteem for his learning.
+#그들은 그의 학식을 대단히 존중했다.
+
+[228]
+#They all went,but I didn't.
+#그들은 갔다. 그러나 나는 가지 않았다.
+
+[229]
+#They are waver of flags and shouters of slogans.
+#그들은 모두 응원하는 사람들이다.
+
+[230]
+#They all ran in one direction.
+#그들은 같은 방향으로 달렸다.
+
+[231]
+#They all fell in with the arrangements you had made for them.
+#그들은 네가 그들을 위해 한 안배에 찬동했다.
+
+[232]
+#They have a lock on computer sales.
+#그들은 컴퓨터 판매를 독점하고 있다.
+
+[233]
+#They served excellent French cuisine.
+#그들은 훌륭한 프랑스 요리를 차려냈다.
+
+[234]
+#Their team gave us a good beating.
+#그들 팀이 우리 팀을 여지없이 패배시켰다.
+
+[235]
+#They assessed the house at ↔90000.
+#그들은 집을 9만 파운드로 평가했다.
+
+[236]
+#They seemed to be casehardened to the theory.
+#그들은 그 이론에 대한 반응이 열렬하지 않다.
+
+[237]
+#They pooh-poohed the ieda.
+#그들은 그 의견에 대해 코웃음을 쳤다.
+
+[238]
+#They reacted mixedly to his going ..
+#그들은 그의 떠남에 대해 반응이 같지 않다.
+
+[239]
+#They challenged him about the fairness of his remarks.
+#그들은 그의 평론의 공정성에 대해 의심을 가졌다.
+
+[240]
+#They told him it was babyish to cry.
+#그들은 그에게 우는 것은 유치하다고 말했다.
+
+[241]
+#They were all anxious at her absence.
+#그들은 그의 결석에 모두 매우 걱정했다.
+
+[242]
+#They snorted defiance at us.
+#그들은 우리에게 힝하고 코웃음을 쳐서 복종하지 않음을 나타냈다.
+
+[243]
+#They were filled with wonder at the new waterfall.
+#그들은 새 폭포에 대단히 경이로움을 느꼈다.
+
+[244]
+#They are very strict with their children.
+#그들은 자기의 아이에 대해 대단히 엄격하다.
+
+[245]
+#They were disappointed about the election results.
+#그들은 선거 결과에 실망했다.
+
+[246]
+#They issued an extra blanket to each soldier.
+#그들은 별도로 각 사병에게 모포 하나씩을 배급했다.
+
+[247]
+#They opposed the plan by mounting a public demonstration.
+#그들은 민중 시위를 일으켜서 그 계획에 반대했다.
+
+[248]
+#They swore to avenge their lord's death.
+#그들은 그들 영주의 죽음을 위해 복수할 것을 맹세했다.
+
+[249]
+#They have pledged that they will always remain faithful to each other.
+#그들은 영원히 상대방에게 충성할 것을 맹세했다.
+
+[250]
+#They found the place deserted.
+#그들은 그 지방이 인가가 없다는 것을 알았다.
+
+[251]
+#They are rioting against the government .
+#그들은 정부에 반대해서 폭동을 일으킨다.
+
+[252]
+#They yielded their fort to the enemy.
+#그들은 돌로 만든 보루를 적의 손에 들어가도록 포기했다.
+
+[253]
+#They abandoned the original plan.
+#그들은 원래의 계획을 포기했다.
+
+[254]
+#They showed slides of their holiday.
+#그들은 그들이 휴가 때 찍은 슬라이드 영화를 방영했다.
+
+[255]
+#They are very much concerned about the future of their country.
+#그들은 국가의 미래에 대단히 관심 있다.
+
+[256]
+#They split up into two teams to play against each other.
+#그들은 두 팀으로 나누어 시합을 진행했다.
+
+[257]
+#They set forth in three small boats.
+#그들은 작은 배 3개를 나누어 타고 출발했다.
+
+[258]
+#They have assigned me a small room.
+#그들은 나에게 작은 방 한 칸을 나누어 주었다.
+
+[259]
+#They know nothing about exothermic chemical reactions.
+#그들은 발열하는 화학 반응에 대해서 아무것도 모른다.
+
+[260]
+#They felt strong yearnings toward home.
+#그들은 고향에 대해 강렬한 그리움의 정을 가지고 있다.
+
+[261]
+#They assailed the speaker with jeers.
+#그들은 그 강연자에 대해 맹렬히 조롱했다.
+
+[262]
+#They feudalized lands.
+#그들은 토지에 대해 봉건제도를 시행했다.
+
+[263]
+#They were surfeited with entertainment.
+#그들은 노는 일에 싫증이 났다.; 그들은 노는 데 질렸다.
+
+[264]
+#Their parents and themselves went there.
+#그들 부모님과 그들은 그곳에 갔다.
+
+[265]
+#They diverted the river to supply water to the town.
+#그들은 그 도시에 물을 공급하기 위해 강을 변경했다.
+
+[266]
+#They adapted the barn for use as a garage.
+#그들은 곡창을 개조해서 차고용으로 공급했다.
+
+[267]
+#There is reason for their being displeased.
+#그들은 불쾌함을 느끼는데에는 그 충분한 이유가 있는 것이다.
+
+[268]
+#They have just checked in at the hotel.
+#그들은 방금 호텔에 도달해서 체크인 수속을 마쳤다.
+
+[269]
+#They have just come here to get down to repairing the roads.
+#그들은 막 여기에 와서 도로 보수 작업에 종사한다.
+
+[270]
+#They have just got off five hundred bales of cotton.
+#그들은 막 500포의 면화를 팔아버렸다.
+
+[271]
+#No sooner had they started than it began to rain.
+#그들은 막 출발하자마자 하늘에서 비가 내리기 시작했다.
+
+[272]
+#They furnished their rooms with furniture.
+#그들은 방에 가구를 배치했다.
+
+[273]
+#They got up a musical performance for the children.
+#그들은 아이들에게 음악회를 안배해 주었다.
+
+[274]
+#They fitted the orphan out with a new suit.
+#그들은 그 고아에게 새 옷 한 벌을 주었다.
+
+[275]
+#They stigmatized him as a traitor.
+#그들은 그에게 매국노라는 오명을 붙여 주었다.
+
+[276]
+#They branded him a traitor.
+#그들은 그에게 반역자라는 오명을 붙여 주었다.
+
+[277]
+#They have sent forth a report to the committee.
+#그들은 위원회에 보고 하나를 보내 주었다.
+
+[278]
+#They named the baby Ronald.
+#그들은 아기에게 로날드라고 이름 지어 주었다.
+
+[279]
+#They named their baby son John.
+#그들은 아기에게 존이라고 이름 지어 주었다.
+
+[280]
+#They gave him red-carpet treatment.
+#그들은 그에게 성대한 접대를 해주었다.
+
+[281]
+#They gave us a warm welcome.
+#그들은 우리에게 열렬한 환영을 해주었다.
+
+[282]
+#They accorded a warm welcome to us.
+#그들은 우리에게 열렬한 환영을 해주었다.
+
+[283]
+#They have covered in the whole market.
+#그들은 모든 상점에게 덮개 포장을 덮어 주었다.
+
+[284]
+#They made themselves a new club.
+#그들은 스스로에게 새 클럽을 창설했다.
+
+[285]
+#They flattered him about his diligence.
+#그들은 아첨하면서 그의 근면함을 칭찬했다.
+
+[286]
+#They talked openly about their plans.
+#그들은 그들의 계획을 공개적으로 이야기했다.
+
+[287]
+#They conspired to drive him out of the country.
+#그들은 그를 국외로 추방할 것을 공모했다.
+
+[288]
+#They costed the construction at $50,000.
+#그들은 그 공정 비용을 5만 달러로 예측했다.
+
+[289]
+#They estimate that the repair will take two years.
+#그들은 그 수선이 2년이라는 시간이 걸릴 것이라고 예측했다.
+
+[290]
+#They blamed George for the failure.
+#그들은 조오지가 실패를 야기했다고 책망했다.
+
+[291]
+#He lost his job when they shut the factory.
+#그들이 그 공장이 문을 닫았을 때에 그는 실업했다.`
+
+[292]
+#They worked the horses too hard.
+#그들은 그 말들을 지나치게 혹사시켰다.
+
+[293]
+#They seemed not to notice it.
+#그들은 결코 그것에 주의하지 않은 것 같았다.
+
+[294]
+#They had a drink to jazz them up.
+#그들은 술을 한 잔 마셔서 좀 흥분했다.
+
+[295]
+#They emptied the bottle.
+#그들은 병 속의 음료를 다 마셨다.
+
+[296]
+#They drank the night away.
+#그들은 술을 마시며 그 밤을 보냈다.
+
+[297]
+#They have no concern with the dispute.
+#그들은 그 분쟁과 관계 없다.
+
+[298]
+#They're very rich; they've got pots of money.
+#그들은 아주 부유하다. 그들은 아주 많은 돈이 있다.
+
+[299]
+#They were glad at the news.
+#그들은 아주 기쁘게 그 소식을 들었다.
+
+[300]
+#They got the book out quickly.
+#그들은 아주 빨리 그 책을 출판했다.
+
+[301]
+#They quickly disposed of the meal.
+#그들은 아주 빨리 밥을 다 먹었다.
+
+[302]
+#They knocked that building up pretty quickly.
+#그들은 아주 빨리 빌딩을 지었다.
+
+[303]
+#They got on to the offender very soon.
+#그들은 아주 빨리 범인을 밝혀냈다.
+
+[304]
+#They rebelled at staying in on Sunday.
+#그들은 일요일에 집안에서 있는 것을 아주 싫어한다.
+
+[305]
+#They have good chemistry.
+#
+
+[306]
+#They argued him down fiercely.
+#그들은 매우 심하게 반박해서 그는 말문이 막혔다.
+
+[307]
+#They jollied her into going with them.
+#그들은 그녀가 그들과 함께 가도록 달랬다.
+
+[308]
+#They disregarded my objections to the proposal.
+#그들은 나의 그 제안에 대한 이의를 무시했다.
+
+[309]
+#Harsh words passed between them.
+#그들은 서로 몹시 저속한 말을 했다.
+
+[310]
+#They returned to the land from whence they came.
+#그들은 이별을 고했던 고향에 돌아갔다.
+
+[311]
+#They went back to the hotel to freshen themselves up.
+#그들은 호텔에 돌아가서 빗고 씻고 한바탕 치장을 했다.
+
+[312]
+#They returned whence they had come.
+#그들은 그들이 온 그곳으로 돌아갔다.
+
+[313]
+#She came home for Christmas.
+#그들은 성탄절을 보내러 집에 돌아왔다.
+
+[314]
+#They urged us to go with them.
+#그들은 우리가 그들과 함께 가도록 적극 권했다.
+
+[315]
+#They hurried the injured person to the hospital.
+#그들은 급속히 환자를 병원으로 보냈다.
+
+[316]
+#Nearly all of them stood aloof from such doctrines.
+#그들은 거의 모두가 이런 교조를 받아들이지 않는다.
+
+[317]
+#They had got away five lifeboats.
+#그들은 이미 5대의 구명보트를 보냈다.
+
+[318]
+#There's not much method in the way they do their accounts.
+#그들의 장부 기록 방법은 아무런 조리가 없다.
+
+[319]
+#They have continued in the faith of their fathers.
+#그들은 계속 선조들의 신앙을 유지한다.
+
+[320]
+#They carried on their struggle and would not hear of pulling up.
+#그들은 계속 투쟁하고, 행동을 멈추기를 원하지 않는다.
+
+[321]
+#They run to fat in that family.
+#그들 집안의 사람들은 모두 뚱뚱한 경향이 있다.
+
+[322]
+#They sailed a boat up the river.
+#그들은 배를 몰아 물을 거슬러 올라갔다.
+
+[323]
+#They held up through all difficulties.
+#그들은 각종 어려움을 극복할 것을 견지했다.
+
+[324]
+#They persisted in the view that the earth was flat.
+#그들은 지구가 편평하다고 생각하는 것을 견지했다.
+
+[325]
+#A quarrel broke out between them.
+#그들 사이에 한바탕 싸움이 폭발했다.
+
+[326]
+#They greeted each other with bear hugs.
+#그들은 만났을 때에 서로 열렬히 껴안았다.
+
+[327]
+#There is a growing tendency among them to accept this theory.
+#그들은 이런 이론을 받아들일 것에 점점 기울어졌다.
+
+[328]
+#They have erected a monument sacred to the memory of martyrs.
+#그들은 열사 기념비를 세웠다.
+
+[329]
+#They will win the election by fair means or foul.
+#그들은 수단을 가리지 않고 선거에서 승리할 것이다.
+
+[330]
+#They're going to demolish that old building.
+#그들은 그 구 건축물을 철거할 것이다.
+
+[331]
+#They are coming before the committee for advice.
+#그들은 위원회에 와서 의견을 널리 구할 것이다.
+
+[332]
+#They coiled electric wire around the iron bar.
+#그들은 전선을 그 철방망이 위에 감았다.
+
+[333]
+#They appointed ten o'clock as the time for the conference.
+#그들은 회의 시간을 10시로 정했다.
+
+[334]
+#They tipped their arrows with flint.
+#그들은 화살의 끝을 부싯돌로 달았다.
+
+[335]
+#They're going to try him for murder.
+#그들은 그의 모살죄를 심문할 것이다.
+
+[336]
+#They are going to push out new wings of the buildings.
+#그들은 이 건물에 부속건물을 증축할 것이다.
+
+[337]
+#They located their new office on Main Street.
+#그들은 새 사무실을 메인가에 두었다.
+
+[338]
+#They were to catch up and begin the march at daybreak.
+#그들은 가축을 잘 준비해서 동이 트면 출발할 것이다.
+
+[339]
+#They hooted the professors off the stage.
+#그들은 큰소리로 아우성쳐서 교수들을 무대에서 내려오게 했다.
+
+[340]
+#They clamored against the government's plans.
+#그들은 큰소리로 아우성치면서 정부의 계획에 반대한다.
+
+[341]
+#They clamored down the speaker.
+#그들은 고함치면서 강연자를 무대에서 내려오게 했다.
+
+[342]
+#They plundered the helpless town.
+#그들은 그 자위할 힘이 없는 도시를 약탈했다.
+
+[343]
+#They laid themselves out to make the reception a success.
+#그들은 전력을 댜해서 리셉션이 성공하게끔 했다.
+
+[344]
+#How long have they been married?
+#그들은 결혼한지 이미 얼마나 오래 되었나요?
+
+[345]
+#They've been married for quite a few years.
+#그들은 결혼한지 이미 몇 해가 된다.
+
+[346]
+#They got married and settled in Manchester.
+#그들은 결혼해서 맨체스터에 정착했다.
+
+[347]
+#They cast off and the boat sailed out to sea.
+#그들이 케스트를 풀자 배는 바다로 나갔다.
+ 
+[348]
+#They set forth from Shanghai early this morning.
+#그들은 오늘 아침 상해에서 출발한다.
+
+[349]
+#They are having the Chens in for dinner tonight.
+#그들은 오늘 밤 진씨네 가족을 청해서 식사를 하게 하려고 한다.
+
+[350]
+#They were observed entering the bank.
+#그들이 은행에 들어갈 때 누군가가 보았다.
+
+[351]
+#They did research on how to raise the output of steel.
+#그들은 어떻게 스틸 생산량을 제고할 것인지를 연구했다.
+
+[352]
+#They got the work over as quickly as possible.
+#그들은 가능한 한 빨리 그 일을 완성했다.
+
+[353]
+#They sat on the bad news as long as they could.
+#그들은  가능한 한 이 나쁜 소식을 참았다.
+
+[354]
+#They ran from the enemy in terror.
+#그들은 무서워하면서 적의 무리에서 도망쳤다.
+
+[355]
+#They finally hammered out an agreement.
+#그들은 노력해서 마침내 협의에 도달했다.
+
+[356]
+#They had the gall to call me fat!
+#그들은 뜻밖에도 무례하게 나를 뚱보라고 불렀다.
+
+[357]
+#They exchanged views on the question of whom to elect.
+#그들은 누구를 뽑을 것인가라는 문제에 대해서 의견을 교환했다.
+
+[358]
+#They expertize on a subject.
+#그들은 한 문제에 대해 전문적인 의견을 제공한다.
+
+[359]
+#They split up the work between them.
+#그들은 이 업무에 대해 분업했다.
+
+[360]
+#They live just down the road.
+#그들은 바로 거리의 저쪽에서 산다.
+
+[361]
+#They live just up the road.
+#그들은 바로 길의 저쪽에서 산다.
+
+[362]
+#They refused to extradite the hijackers to the U.S.
+#그들은 공중납치범을 미국에 인도할 것을 거절했다.
+
+[363]
+#They refused to recognize our new government.
+#그들은 우리의 신 정부를 승인할 것을 거절했다.
+
+[364]
+#They refused to buy meat,in protest.
+#그들은 고기류를 사는 것에 거절함으로써 항의를 표했다.
+
+[365]
+#They felt it to be undignified to accept a tip.
+#그들은 팁을 받는 것이 존엄을 잃게 된다고 여겼다.
+
+[366]
+#They would never deign to notice me.
+#그들은 결코 억지로 참고 나를 주의할 리가 없다.
+
+[367]
+#They have decided on a new plan of production.
+#그들은 새로운 생산 계획을 결정했다.
+
+[368]
+#They fixed on May 5 for the wedding .
+#그들은 5월 5일에 혼례를 치르기로 결정했다.
+
+[369]
+#They decided against going there on Saturday.
+#그들은 토요일에 거기에 가지 않기로 결정했다.
+
+[370]
+#They decided to fight it out with swords.
+#그들은 칼을 써서 싸워 승패를 가리기로 결정했다.
+
+[371]
+#They fixed on me to break the news to you.
+#그들은 내가 너에게 이 소식을 말하기로 결정했다.
+
+[372]
+#They decided to open up an office in town.
+#그들은 도시에 사무처를 설립하기로 결정했다.
+
+[373]
+#They decided to make all the defective sheets up.
+#그들은 모든 누락된 인쇄용지를 다시 찍기로 결정했다.
+
+[374]
+#They are determined to go through with the undertaking.
+#그들은 이 업무를 끝까지 진행하기로 결심했다.
+
+[375]
+#They decided to carry the task through in spite of the difficulties.
+#그들은 어려움에도 아랑곳하지 않고 임무를 완수하기로 결정했다.
+
+[376]
+#They clicked their glasses together.
+#그들은 쨍하는 소리와 함께 유리잔을 함께 부딪쳤다.
+
+[377]
+#They have cut out a path through the wood.
+#그들은 나무숲으로 통하는 작은 길을 냈다.
+
+[378]
+#They set about making preparations for spring sowing.
+#그들은 춘계 파종을 해서 일을 준비하기 시작했다.
+
+[379]
+#When they began to cause a disturbance,they were given the bum's rush.
+#그들은 소동을 일으키려고 할 때 쫓겨났다.
+
+[380]
+#They were stunned by her beauty.
+#그들은 그녀의 미모를 보고 자기도 모르게 어안이 벙벙해졌다.
+
+[381]
+#They saw her go into the house.
+#그들은 그녀가 그 집으로 걸어 들어가는 것을 보았다.
+
+[382]
+#Who should they see but Hannah!
+#그들이 본 것이 한나가 아니면 또 누구겠니!
+
+[383]
+#The way they look at problems is correct.
+#그들이 문제를 보는 방법은 정확하다.
+
+[384]
+#They watched him fold up into the seat.
+#그들은 그가 몸을 구부리고 자리에 앉는 것을 보고 있다.
+
+[385]
+#recourse to arms was open to them.
+#그들은 무기의 힘을 빌리는 경로를 좇을 수도 있다.
+
+[386]
+#They won victory through all difficulties.
+#그들은 각종 어려움을 극복해서 승리를 얻었다.
+
+[387]
+#They besought that he might stay with them.
+#그들은 그에게 남아서 그들과 잠시 머무르라고 간청했다.
+
+[388]
+#They seized on the ship and imprisoned the crew.
+#그들은 배를 억류했고 전체 선원들도 구류했다.
+
+[389]
+#They immediately fell into that subject.
+#그들은 즉각 그 주제를 토론하기 시작했다.
+
+[390]
+#They parted without speaking a single word.
+#그들은 한 마디 말도 하지 않고 헤어졌다.
+
+[391]
+#They both played in the tennis match.
+#그들 두 사람은 모두 그 테니스 시합에 참가했다.
+
+[392]
+#They contemplated each other for some minutes.
+#그들 두 사람은 서로 몇 분간 응시했다.
+
+[393]
+#They both swore themselves hoarse.
+#그들 두 사람은 목소리가 다 쉴 정도로 욕했다.
+
+[394]
+#They arranged between them to meet on Friday.
+#그들 두 사람은 금요일에 만나기로 잘 상의했다.
+
+[395]
+#It was conditioned between them that they should marry next May.
+#그들 두 사람은 내년 5월에 결혼하기로 약속했다.
+
+[396]
+#They were both bleeding from the nose and mouth.
+#그들 두 사람은 입과 코 둘다 피가 흐르고 있다.
+
+[397]
+#They laid aside a day for basketball.
+#그들은 농구를 하기 위해 하루의 시간을 남겨 두었다.
+
+[398]
+#They bought tea,coffee,sugar,etc.
+#그들은 차, 커피, 설탕 등등을 샀다.
+
+[399]
+#They bought in ( a stock of )coal for the winter.
+#그들은 많은 양의 석탄을 사서 겨울을 날 준비를 했다.
+
+[400]
+#They sell oranges,five pence each.
+#그들은 귤을 하나에 5펜스씩 판다.
+
+[401]
+#They are busy stacking up plates and dishes.
+#그들은 바쁘게 접시들을 쌓아 올렸다.
+
+[402]
+#They gave insufficient help.
+#그들은 충분한 도움을 주지 않았다.
+
+[403]
+#They did not receive our report.
+#그들은 우리의 보고를 받지 않았다.
+
+[404]
+#They thought it a pity not to have invited her.
+#그들은 그녀를 청하지 않은 것을 매우 유감으로 느낀다.
+
+[405]
+#They have no intention of studying English.
+#그들은 영어를 공부할 의도가 없다.
+
+[406]
+#They have neither knowledge nor understanding of politics.
+#그들은 정치 지식도 없고 정치도 이해하지 못한다.
+
+[407]
+#None of them can answer.
+#그들은 어느 누구도 대답하지 못했다.
+
+[408]
+#They each want to do something different.
+#그들은 각각 다 다른 일을 하고 싶어한다.
+
+[409]
+#How much did they each ante up?
+#그들은 각각 먼저 얼마의 돈을 노름돈으로 냈느냐?
+
+[410]
+#They rolled in late every night.
+#그들은 매일 밤 아주 늦게서야 잠이 든다.
+
+[411]
+#Each of them rumbled out his complaint.
+#그들은 다 꿍시렁거리면서 불평했다.
+
+[412]
+#They go to the cinema once a week.
+#그들은 일주일에 한 번 영화를 보러 간다.
+
+[413]
+#They work a 40-hour week.
+#그들은 매주 40시간을 일한다.
+
+[414]
+#They acquiesced in our proposal.
+#그들은 우리의 제의를 억지로 동의했다.
+
+[415]
+#They were calm in the face of disaster.
+#그들은 재난에 직면했을 때 매우 침착하다.
+
+[416]
+#They are leaving Nanjing for Shanghai tomorrow.
+#그들은 내일 남경을 떠나 상해로 간다.
+
+[417]
+#They ragged him about his big ears.
+#그들은 그의 큰 귀를 가지고 농담을 했다.
+
+[418]
+#They dined off fish and eggs.
+#그들은 그 식사에 생선과 달걀을 먹었다.
+
+[419]
+#They were too yellow to walk in the darkplace.
+#그들은 그렇게 담이 작아서 감히 어두운 데서 걸어 다니지 못한다.
+
+[420]
+#They can withstand severe tests.
+#그들은 엄격한 시험을 겪을 수 있다.
+
+[421]
+#They could hear the regular tick of the clock.
+#그들은 시계가 규칙적으로 똑닥거리는 소리를 들을 수 있다.
+
+[422]
+#They broke away the bar and opened the door.
+#그들은 빗장을 부수어 문을 열었다.
+
+[423]
+#They got up on the roof to watch the solar eclipse.
+#그들은 지붕에 올라가서 일식을 보았다.
+
+[424]
+#They sent a representative to the meeting.
+#그들은 대표 하나를 보내서 회의에 참가하게 했다.
+
+[425]
+#After a climb of two hours,they reached the top of the mountain.
+#그들은 두 시간을 오른 후에 산꼭대기에 도착했다.
+
+[426]
+#] They made desperate efforts to reach the shore.
+#그들은 해안에 닿으려고 죽을 힘을 다해 노력했다.
+
+[427]
+#They broke in and looted the warehouse.
+#그들은 문을 부수고 들어와서 창고를 약탈했다.
+
+[428]
+#They look towards the amalgamation of some of the neighborhood factories.
+#그들은 리를 합병해서 공장을 할 것을 기대하고 있다.
+
+[429]
+#They expect to hear from the committee tomorrow.
+#그들은 내일 위원회의 통지를 받기를 기대한다.
+
+[430]
+#They all sang the refrain.
+#그들은 이 노래의 후렴구를 제창했다.
+
+[431]
+#They united in their attempts to form a club.
+#그들은 클럽을 하나 건설할 것을 계획하는 데에 마음을 합쳐 협력했다.
+
+[432]
+#They tried to break up the meeting.
+#그들은 집회에 모인 사람들을 해산시키려고 했다.
+
+[433]
+#They tried to seal his lips with a bribe.
+#그들은 뇌물로 그의 입을 막으려고 했다.
+
+[434]
+#They tried to discourage their son from marrying the girl.
+#그들은 아들이 그 여자와 결혼하는 것을 저지시키려고 했다.
+
+[435]
+#They happened to pick up each other in a park the day before yesterday.
+#그들은 그저께 한 공원에서 우연히 사귀었다.
+
+[436]
+#They forced him to sign the document.
+#그들은 그에게 그 서류에 서명할 것을 강요했다.
+
+[437]
+#They introduced the new laws willy-nilly.
+#그들은 신 법령을 강행하여 실시했다.
+
+[438]
+#They wangled him into confessing.
+#그들은 그가 심정을 말하도록 교묘하게 설득했다.
+
+[439]
+#They picked the lock and entered the house.
+#그들은 자물쇠를 비틀어 열고 집으로 돌입했다.
+
+[440]
+#They are on kissing terms with each other.
+#그들은 친해서 만나면 키스를 나눈다.
+
+[441]
+#They understated the problem.
+#그들은 이 문제를 얼렁뚱땅 진술했다.
+
+[442]
+#They listened to his every word.
+#그들은 그의 한마디 한마디를 경청했다.
+
+[443]
+#They had the doctor in to see the child.
+#그들은 의사에게 집에 와서 아이를 진찰해 달라고 청했다.
+
+[444]
+#They fetched out their best wine for us.
+#그들은 가장 좋은 술을 꺼내서 우리를 대접했다.
+
+[445]
+#All of them joined in singing that song.
+#그들은 전부 다 그 노래 부르는 것에 참가했다.
+
+[446]
+#They all ridiculed the idea.
+#그들은 전부 다 이 생각을 조소했다.
+
+[447]
+#They actually acted out their ideal.
+#그들은 확실히 자기의 이상을 행동으로 변화시켰다.
+
+[448]
+#I was given to understand that he was ill.
+#그들은 나로 하여금 그가 병이 났다는 것을 믿게 했다.
+
+[449]
+#They made a detour to avoid the centre of the town.
+#그들은 길을 돌아가서 도시 중심을 피했다.
+
+[450]
+#They fetched about into a narrow lane.
+#그들은 길을 돌아가서 작은 골목으로 꺾어 들어갔다.
+
+[451]
+#They skirted round the town and made for the hill.
+#그들은 도시를 돌아서 언덕으로 걸어갔다.
+
+[452]
+#They fell into a lively discussion of the question.
+#그들은 이 문제를 열렬ㄹ히 토론하기 시작했다.
+
+[453]
+#They don't think they must keep up with their neighbours.
+#그들은 이웃을 따라 갈 필요가 없다고 생각한다.
+
+[454]
+#They regarded the work as having been done.
+#그들은 그 일이 이미 완성되었다고 생각했다.
+
+[455]
+#They found his claim reasonable.
+#그들은 그의 요구가 합리적이라고 생각했다.
+
+[456]
+#They considered me unfit for the job.
+#그들은 내가 그 일에 적합하지 않다고 생각했다.
+
+[457]
+#They considered it impossible for us to attack during the night.
+#그들은 우리가 야간에 공격하는 것이 불가능하다고 생각했다.
+
+[458]
+#They are trickling into the classroom.
+#그들은 삼삼오로 교실로 들어갔다.
+
+[459]
+#They finished off the wounded bear.
+#그들은 그 상처 입은 곰을 죽였다.
+
+[460]
+#They made an arrangement to meet at 3 p.m.
+#그들은 오후 3시에 만나기로 상의 결정했다.
+
+[461]
+#They discussed how the problem could be solved.
+#그들은 이 문제를 어떻게 해결할지를 상의했다.
+
+[462]
+#They got into the car and drove off.
+#그들은 자동차에 오른 후에 차를 운전해서 떠났다.
+
+[463]
+#They potted at small wild animals in the wood.
+#그들은 수풀 속의 작은 야수를 쏘았다.
+
+[464]
+#Their deep friendship moved us deeply.
+#그들의 두터운 우정은 우리로 하여금 깊이 감동 받게 했다.
+
+[465]
+#They put out some motors of high standards.
+#그들은 몇 대의 고급 발동기를 생산했다.
+
+[466]
+#They live in continual fear of starvation.
+#그들은 끊임없는 기아와 공포 속에서 생활한다.
+
+[467]
+#What a time they are!
+#그들은 정말 시간이 너무 오래 걸려, 꾸물꾸물한다니까!
+
+[468]
+#They spaced out the trees five metres apart.
+#그들은 나무와 나무 사이의 간격을 5미터로 했다.
+
+[469]
+#They alternate hot and cold compresses.
+#그들은 냉열 교체 압축법을 사용한다.
+
+[470]
+#They used the very same words as I had.
+#그들은 나와 완전히 같은 말을 사용했다.
+
+[471]
+#They opened the country up to trade.
+#그들은 이 나라가 무역에 대해 개방하도록 했다.
+
+[472]
+#They demonstrated against the new law.
+#그들은 그 새 법률에 반대한다고 시인했다.
+
+[473]
+#They are drifting,unhappy people.
+#그들은 떠돌아 다니는 불행한 사람들이다.
+
+[474]
+#They are high-powered officials.
+#그들은 대권을 쥔 공무원이다.
+
+[475]
+#They were delegates from India to the U.N.
+#그들은 인도가 연합국에 파견한 대표다.
+
+[476]
+#They walk down the street hand in hand.
+#그들은 손에 손을 잡고 거리를 걷는다.
+
+[477]
+#They were terribly shocked.
+#그들은 무시무시한 타격을 받았다.
+
+[478]
+#They were buoyed up with new hopes.
+#그들은 새로운 희망의 고무를 받았다.
+
+[479]
+#It's not surprising that they lost the game.
+#그들이 이 경기에 진 것은 결코 놀랄만한 것이 아니다.
+
+[480]
+#They say they are to receive the compensation money from the company.
+#그들은 회사에서 보상금을 받을 것이라고 말한다.
+
+[481]
+#They said they had been having a party.
+#그들은 방금 그들이 저녁 파티를 가졌다고 말했다.
+
+[482]
+#It's wicked of them to say such things.
+#그들이 그러한 말을 하는 것은 정말 싫다.
+
+[483]
+#Nothing they say could faze him.
+#그들이 무엇을 말해도 그를 성가시게 할 수 없다.
+
+[484]
+#They said that they had been playing football.
+#그들은 그들이 줄곧 축구를 하고 있었다고 말했다.
+
+[485]
+#They seemed not to notice the variation of the temperature.
+#그들은 온도의 변화에 주의하지 않았던 것 같다.
+
+[486]
+#They egged me on to throw a stone through the window.
+#그들은 나에게 창으로 돌을 던지라고 권했다.
+
+[487]
+#They searched the woods for the missing child.
+#그들은 숲을 수색해서 실종된 아이를 찾는다.
+
+[488]
+#They kept on although they were very tired.
+#그들은 비록 매우 피로할지라도 여전히 계속 일한다.
+
+[489]
+#They swayed to the music.
+#그들은 음악에 따라 몸을 흔들었다.
+
+[490]
+#They needled me into going with them.
+#그들은 내가 그들과 함께 가도록 부추겼다.
+
+[491]
+#They have done more harm than good.
+#그들이 한 일은 손해가 이익보다 많다.
+
+[492]
+#They are too law-abiding and to acquiescent.
+#그들은 너무 법을 잘 지키고 너무 온순하다.
+
+[493]
+#They were full of animation as they talked of their holiday.
+#그들이 휴가를 이야기 할 때 모두들 대단히 흥분했다.
+
+[494]
+#They lay on the beach roasting in the sun.
+#그들은 해변 위에 누워서 햇볕을 쬐었다.
+
+[495]
+#Their schemes to evade taxes were very crafty.
+#그들의 탈세 계획은 대단히 교활하다.
+
+[496]
+#They discussed how to promote cooperation between the two countries.
+#그들은 어떻게 양국의 합작을 촉진시킬 것인가를 토론했다.
+
+[497]
+#They disputed about what to do next.
+#그들은 다음 단계에 해야 할 일을 토론했다.
+
+[498]
+#They told us specifically to avoid the main road.
+#그들은 우리가 큰 길을 피해야 한다고 특별히 말했다.
+
+[499]
+#They offered to indemnify us for our losses.
+#그들은 우리의 손실을 배상할 것을 제기했다.
+
+[500]
+#They dressed her up for the part of Xi-er.
+#그들은 그녀를 대신해서 Xi-er로 분장했다.
+
+[501]
+#They lingered about in the garden after dark.
+#그들은 날이 어두워진 후에 꽃밭에 남아 배회했다.
+
+[502]
+#They thrilled at the news of victory.
+#그들은 승리 소식을 듣고 매우 흥분했다.
+
+[503]
+#The noise of carriage-wheels fell on their ears.
+#그들은 마차가 달리는 소리를 들었다.
+
+[504]
+#They pepped up considerably when they heard the news.
+#그들이 이 소식을 들었을 때 모두가 활기를 띠기 시작했다.
+
+[505]
+#They heard her start the machine.
+#그들은 그녀가 기계를 발동시키기 시작했다는 것을 들었다.
+
+[506]
+#They were enraptured to hear her song.
+#그들은 그녀의 노래를 듣고 정신이 나갈 정도였다.
+
+[507]
+#They laid us off for three months.
+#그들은 우리를 3개월간 일을 쉬게 했다.
+
+[508]
+#They stopped to admire the beauties of nature.
+#그들은 대자연의 아름다운 경치를 감상하기 위해 멈추어 섰다.
+
+[509]
+#They all made a concerted effort to improve the situation.
+#그들은 상황을 개선시키기 위해 모두가 힘을 합쳤다.
+
+[510]
+#They agreed to bury the whole thing.
+#그들은 모든 일을 잊어버릴 것에 동의했다.
+
+[511]
+#They agreed to help me in the business.
+#그들은 비즈니스에 있어서 나를 도울 것에 동의했다.
+
+[512]
+#They voted that the publication of the journal be continued.
+#그들은 그 잡지를 계속 발행하는 것을 투표로 결정했다.
+
+[513]
+#They complained that the election had been rigged.
+#그들은 선거가 다른 사람들에 의해 조종되었다고 하소연했다.
+
+[514]
+#They plotted to wrest power from the king.
+#그들은 국왕의 권력을 찬탈할 것을 도모했다.
+
+[515]
+#They recommended him for the job.
+#그들은 그가 이 일을 하도록 추천했다.
+
+[516]
+#They peeled off their clothes and jumped into the water.
+#그들은 겉옷을 벗어버리고 물 속으로 뛰어 들었다.
+
+[517]
+#They were dead against our trip.
+#그들은 우리의 여행을 완전히 반대했다.
+
+[518]
+#There was no hope of their recovery .
+#그들은 회복될 희망이 완전히 없다.
+
+[519]
+#They owned their house freeandclear.
+#그들은 그들의 집을 완전히 가지게 되었다.
+
+[520]
+#They knew full well that he wouldn't keep his promise.
+#그들은 그가 약속을 이행할 수 없을 것이라는 것을 완전히 알았다.
+
+[521]
+#They were properly accoutered for the trip.
+#그들은 여행 준비를 완전히 갖추었다.
+
+[522]
+#They chose sides for the game.
+#그들은 시합을 위해 쌍방으로 나누었다.
+
+[523]
+#They were poised for departure.
+#그들은 출발을 위해 준비를 다 마쳤다.
+
+[524]
+#They vied with each other for the prize.
+#그들은 상을 타기 위해 서로 경쟁했다.
+
+[525]
+#They have put up several cattle-sheds for the commune.
+#그들은 인민공사를 위해 몇 개의 우막을 지었다.
+
+[526]
+#They fought and bled for their country.
+#그들은 국가를 위해 싸우다 부상당했다.
+
+[527]
+#They ventured their lives for the national cause.
+#그들은 국가 대의를 위해 감히 생명의 위험을 무릅썼다.
+
+[528]
+#They fell to over a trifle.
+#그들은 작은 일 때문에 싸우기 시작했다.
+
+[529]
+#We clapped for the singer.
+#그들은 그 가수를 위해 박수를 치고 갈채했다.
+
+[530]
+#They wept over their failure.
+#그들은 실패로 인해 눈물을 흘렸다.
+
+[531]
+#What are they trying to drive us back for?
+#그들은 어째서 우리에게 후퇴를 강요하려 하느냐?
+
+[532]
+#What did they pack off late last night for ?
+#그들은 어째서 어제 심야에 분주히 가버렸니?
+
+[533]
+#The were deceived by the salesman's fair-sounding promises.
+#그들은 판매원의 귀에 솔깃한 약속에 속았다.
+
+[534]
+#They clashed on trifles.
+#그들은 사소한 일로 충돌이 발생했다.
+
+[535]
+#They put on a concert for us.
+#그들은 우리를 위해 음악회를 거행했다.
+
+[536]
+#They pledged the bride and bridegroom.
+#그들은 신부와 신랑을 위해 건배했다.
+
+[537]
+#They combed the village for the girl.
+#그들은 그 여자아이를 찾기 위해 그 마을을 다 뒤졌다.
+
+[538]
+#They struck for higher pay.
+#그들은 임금 인상을 요구하기 위해 파업했다.
+
+[539]
+#They prepared for death.
+#그들은 죽음을 위해 심리적 준비를 했다.
+
+[540]
+#They are beset by doubts and fears.
+#그들은 의심과 공포에 의해 사로잡혔다.
+
+[541]
+#They rejoiced at their victory.
+#그들은 자신의 승리에 기뻐 춤을 추었다.
+
+[542]
+#They withheld the truth from the police.
+#그들은 아직 경찰측에 진상을 폭로하지 않았다.
+
+[543]
+#They asked him why he was so dirty.
+#그들은 그에게 어째서 그렇게 더럽게 했느냐고 물었다.
+
+[544]
+#They asked if they might go home.
+#그들은 그들이 집으로 돌아갈 수 있을지를 물었다.
+
+[545]
+#They shook hands and went their several ways.
+#그들은 악수를 한 후에 각자 자기의 길로 갔다.
+
+[546]
+#They sealed their agreement by shaking hands.
+#그들은 악수를 해서 협의에 대한 동의를 표시했다.
+
+[547]
+#They sealed their bargain by shaking hands .
+#그들은 악수를 해서 교역 계약 확인을 표시했다.
+
+[548]
+#They could not make him recant.
+#그들은 그로 하여금 자신의 의견을 바꾸게 할 수가 없었다.
+
+[549]
+#They could not find a way to get themselves out.
+#그들은 도망쳐 목숨을 구할 길을 찾을 수가 없었다.
+
+[550]
+#They can't afford to equip their army properly.
+#그들은 자신의 군대를 충분히 장비할 힘이 없다.
+
+[551]
+#They are unbelievably ignorant.
+#그들은 사람들로 하여금 믿기 어렵게 할 정도로 무지하다.
+
+[552]
+#They received him as a member of the club.
+#그들은 그를 클럽의 회원으로 받아들였다.
+
+[553]
+#They are habituated to hard work.
+#그들은 어려운 일에 습관이 되어 있다.
+
+[554]
+#They anted up and started to play.
+#그들은 노름돈을 내고 도박을 하기 시작했다.
+
+[555]
+#They buy less beer and fewer cigarettes now.
+#그들은 지금 맥주와 담배 모두를 적게 샀다.
+
+[556]
+#They're building houses in that area now.
+#그들은 지금 그 지역에서 집을 짓고 있다.
+
+[557]
+#They believe that prayer can bring peace to the world.
+#그들은 기도가 세상에 평화를 가져다 줄 것이라고 믿는다.
+
+[558]
+#They try to fine-draw an argument.
+#그들은 자세하게 한 논거를 부연하려고 한다.
+
+[559]
+#They wanted to Filipinize the police force.
+#그들은 필리핀 사람을 경찰을 맡도록 하려고 한다.
+
+[560]
+#They incline to rest and relaxation these days.
+#그들은 요 며칠간 잘 좀 쉬려고 한다.
+
+[561]
+#They want to bring back hanging as a punishment.
+#그들은 다시 교수형을 징벌에 삼으려고 한다.
+
+[562]
+#They presented a petition to the authorities.
+#그들은 당국에 청원서를 제출했다.
+
+[563]
+#They grumbled at the boss about their wages.
+#그들은 사장에게 임금 일로 불만을 품었다.
+
+[564]
+#They gave the singer a big hand.
+#그들은 그 가수에게 열렬한 박수로 보답했다.
+
+[565]
+#They invested much capital in the enterprise.
+#그들은 기업에 대량의 자금을 투입했다.
+
+[566]
+#The rope broke when they were climbing.
+#그들이 위로 올라갈 때 로프가 끊어졌다.
+
+[567]
+#They rent their house from Mr.Smith.
+#그들은 스미스씨에게 방을 세주었다.
+
+[568]
+#They supply the market with new commodities.
+#그들은 시장에 신상품을 공급한다.
+
+[569]
+#They waved at the parade.
+#그들은 퍼레이드 행렬에 손을 흔들었다.
+
+[570]
+#They laughed her out of the house.
+#그들은 그녀가 집을 떠날 정도로 웃었다.
+
+[571]
+#They bartered with the islan-ders .
+#그들은 섬 주민과 물물교환을 했다.
+
+[572]
+#They had no business relation with the firm.
+#그들은 그 회사와 업무 왕래가 없다.
+
+[573]
+#They plotted with the communists against the government.
+#그들은 공산주의와 정부에 반대할 것을 공모했다.
+
+[574]
+#They forced an encirclement around the city.
+#그들은 도시에 대한 포위권을 형성했다.
+
+[575]
+#They are in a class apart.
+#그들은 나날이 향상 발전한다.
+
+[576]
+#The two brothers often differ.
+#그들 형제 둘은 항상 이견이 발생한다.
+
+[577]
+#They got on with their work after a short rest.
+#그들은 잠시 휴식한 후에 계속 일했다.
+
+[578]
+#They need to know if the material is heat-resistant.
+#그들은 이런 재료가 열을 견디는지를 이해해야 할 필요가 있다.
+
+[579]
+#They came in strength to see the fight.
+#그들 많은 사람들이 쫓아와서 싸움 구경을 했다.
+
+[580]
+#They acquitted him of murder.
+#그들은 그에게 고소된 살인죄는 성립되지 않는다고 선고했다.
+
+[581]
+#They selected John as leader of their group.
+#그들은 존을 그들 조의 지도자로 뽑았다.
+
+[582]
+#They marked him down for punishment.
+#그들은 그를 징벌 대상으로 뽑았다.
+
+[583]
+#They play uptempo numbers.
+#그들은 빠른 박자의 곡조를 연주한다.
+
+[584]
+#They invited us round for tea.
+#그들은 우리에게 앞으로 가서 차를 마시라고 초청했다.
+
+[585]
+#Their dream of beyondness may be realized in the future.
+#그들의 요란한 꿈은 장차 실현될 것이다.
+
+[586]
+#They demanded political representation.
+#그들은 정치 대표제를 건립하자고 요구했다.
+
+[587]
+#They are demanding the immediate return of the loan.
+#그들은 즉각 대부를 갚으라고 요구했다.
+
+[588]
+#They demanded that they should get more money.
+#그들은 자신의 소득을 증가시킬 것을 요구했다.
+
+[589]
+#If only they'd been here.
+#그들이 여기에 있었으면 좋았을 텐데.
+
+[590]
+#They asked me to help,so I just plunged in.
+#그들이 내가 협조하기를 요청해서 나는 참가했다
+
+[591]
+#No sooner had they got to the plant than they started to work.
+#그들이 공장에 도착하자마자 일하기 시작했다.
+
+[592]
+#They little thought that the truth would be discovered.
+#그들은 진상이 발견되리라고는 조금도 생각지 못했다.
+
+[593]
+#One of them went North,the other went South.
+#그들은 하나는 북으로 가고 하나는 남으로 갔다.
+
+[594]
+#As soon as they saw us they ran.
+#그들은 우리를 보자마자 도망쳤다.
+
+[595]
+#They shot their way out of prison.
+#그들은 한편으로는 총을 쏘면서 또 한편으로는 탈옥하여 도망쳤다.
+
+[596]
+#They beat on the enemy's forces.
+#그들은 함께 적군에게 뛰어들었다.
+
+[597]
+#They ran together to the house.
+#그들은 함께 그 집을 향해 뛰어갔다.
+
+[598]
+#They fixed the car in jigtime.
+#그들은 단번에 차를 수리했다.
+
+[599]
+#They sized him up with a look.
+#그들은 한눈에 그가 어떤 사람이라는 것을 알았다.
+
+[600]
+#Their repeated delays hog-tie the investigation.
+#그들의 한두 차례의 지연이 조사를 방해했다.
+
+[601]
+#They were feasting away in the great hall.
+#그들은 줄곧 큰 홀에서 연회를 베풀어 즐긴다.
+
+[602]
+#They lasted out till they were rescued.
+#그들은 구해내질 때까지 줄곧 지지했다.
+
+[603]
+#They were unanimous that the report be approved.
+#그들은 그 보고를 인가할 것에 일치 동의했다.
+
+[604]
+#They observed the New Year Eve in conformity with custom.
+#그들은 풍속에 따라서 섣달 그믐밤을 지샌다.
+
+[605]
+#They bequeathed him a lot of money.
+#그들은 많은 돈을 그에게 물려 주었다.
+
+[606]
+#They have put their theories into practice.
+#그들은 이미 이론을 실행에 옮겼다.
+
+[607]
+#They have fastened up all the parcels.
+#그들은 이미 모든 소포를 잘 묶었다.
+
+[608]
+#They have secured front places.
+#그들은 이미 앞 자리를 맡았다.
+
+[609]
+#They forwarded the goods on consignment.
+#그들은 이미 그 상품을 부쳐서 판매를 위탁했다.
+
+[610]
+#They consigned the goods to us.
+#그들은 이미 그 상품을 본 회사에 팔았다.
+
+[611]
+#They have already laid their melons down.
+#그들은 이미 메론을 밭에 심었다.
+
+[612]
+#They have leaked the information out to the press.
+#그들은 이미 소식을 신문계에 폭로했다.
+
+[613]
+#They have mucked out the pigsty.
+#그들은 이미 돼지우리를 치웠다.
+
+[614]
+#They'd arrived,hadn't they?
+#그들은 이미 도착했지, 그렇지?
+
+[615]
+#They have moved back to New York.
+#그들은 이미 뉴욕에 돌아갔다.
+
+[616]
+#They have acceded to the treaty.
+#그들은 이미 그 조약에 가입했다.
+
+[617]
+#They have had the tunnel shored up with concrete.
+#그들은 이미 사람들에게 콘크리트로 터널을 공고히 하라고 했다.
+
+[618]
+#They've fixed up their differences.
+#그들은 이미 그들의 상이점을 해결했다.
+
+[619]
+#They have decided to site the new school in this town.
+#그들은 이미 새 학교를 이 도시에 건설하기로 결정했다.
+
+[620]
+#They have put forward Comrade Lu as a candidate for the position of accountant.
+#그들은 이미 육씨를 회계로 추천했다.
+
+[621]
+#They have fixed up about the holidays.
+#그들은 어떻게 휴가를 보낼 것인지를 위해 스케줄을 짰다.
+
+[622]
+#They have got the doctor in to look at the child.
+#그들은 이미 의사에게 아이에게 진찰을 하러 오시라고 청했다.
+
+[623]
+#They have saddled up their horses and got ready to set off.
+#그들은 이미 안장에 타고 출발 준비를 했다.
+
+[624]
+#They've put in for more money.
+#그들은 이미 더 많은 돈을 요구할 것을 신청했다.
+
+[625]
+#They have got him in deep in this matter.
+#그들은 이미 그를 이 일에 깊이 말려들게 했다.
+
+[626]
+#They succeeded in getting the bill through.
+#그들은 이 의안을 통과시켰다.
+
+[627]
+#They've settled their differences and are friends again.
+#그들은 이미 응어리를 해소하고 다시 좋아졌다.
+
+[628]
+#They have spoken for five tickets in the front row at the theater.
+#그들은 이미 5장의 앞줄 연극표를 예약했다.
+
+[629]
+#They made ready for the attack.
+#그들은 이미 진공 준비를 마쳤다.
+
+[630]
+#They entrenched themselves behind a wall of tradition.
+#그들은 전통을 방패로 삼아 자기를 보호한다.
+
+[631]
+#They are proud of our carriage trade.
+#그들은 고객이 모두 상류인사임을 자랑으로 여긴다.
+
+[632]
+#They drew the match 5 points to 5.
+#그들은 5대 5로 무승부였다.
+
+[633]
+#They settled their quarrel in a friendly way.
+#그들은 우호적인 방식으로 분쟁을 해결했다.
+
+[634]
+#They ran up against difficulties.
+#그들은 의외로 어려움을 만났다.
+
+[635]
+#They were wrecked on the reef.
+#그들은 배가 좌초되어 조난을 당했다.
+
+[636]
+#They fled the town because of an earthquake.
+#그들은 지진으로 그 도시를 떠났다.
+
+[637]
+#Too much drink intoxicated them.
+#그들은 술 마시는 것이 너무 지나쳐서 취했다.
+
+[638]
+#They are bound in marriage.
+#그들은 혼인으로 함께 결합되었다.
+
+[639]
+#They bought the car on his recommendation.
+#그들은 그의 추천으로 이 자동차를 샀다.
+
+[640]
+#They were offended by his refusal to attend the party.
+#그들은 그가 집회에 참가하지 않겠다고 거절해서 매우 화를 냈다.
+
+[641]
+#They gibed at me for my cowardice.
+#그들은 나의 담이 작다고 나를 놀렸다.
+
+[642]
+#They comforted me for my failure.
+#그들은 나의 실패 때문에 나를 위로했다.
+
+[643]
+#They have designs on your money.
+#그들은 너의 돈을 빼앗으려고 음모한다.
+
+[644]
+#They were drinking and revelling all night.
+#그들은 술을 마시고 즐기며 광란의 밤을 보냈다.
+
+[645]
+#They detonated the bomb and destroyed the bridge.
+#그들은 폭탄을 폭발시켜 다리를 파괴시켰다.
+
+[646]
+#They should be more considerate toward young people.
+#그들은 젊은이를 더 잘 이해해야 한다.
+
+[647]
+#They were raking the paths clean.
+#그들은 갈퀴로 오솔길을 깨끗하게 했다.
+
+[648]
+#They marked out the tennis court with white paint.
+#그들은 흰색 페인트로 테니스 코트를 그렸다.
+
+[649]
+#They slashed the vegetation back with their machetes.
+#그들은 큰 칼로 채소를 짧게 잘랐다.
+
+[650]
+#They rely on a spring for their water.
+#그들이 사용한 물은 샘에서 떠 온 것이다.
+
+[651]
+#They linked up the two areas by telephone.
+#그들이 사용한 전화는 두 지역을 연결했다.
+
+[652]
+#They did her in with an axe!
+#그들은 도끼로 그녀를 찍어 죽였다.
+
+[653]
+#They cut their way through the forest with their axes.
+#그들은 숲속에 길을 냈다.
+
+[654]
+#They levered it into position.
+#그들은 지레로 그것의 위치를 틀었다.
+
+[655]
+#They piped the water down.
+#그들은 파이프로 물을 아래로 끌어 왔다.
+
+[656]
+#They used yellow bricks to build the house.
+#그들은 노란 벽돌로 그 집을 지었다.
+
+[657]
+#They crush the juice out of the fruit by treading it.
+#그들은 발로 과일을 밟아서 즙을 냈다.
+
+[658]
+#They winched the car out of the ditch.
+#그들은 권양기로 자동차를 도랑에서 들어 올렸다.
+
+[659]
+#They bartered farm products for machinery.
+#그들은 농산품으로 기계를 교환했다.
+
+[660]
+#They hose down the stable floor.
+#그들은 호스로 마구간 바닥을 씻었다.
+
+[661]
+#They have roped off part of the meadow.
+#그들은 로프로 일부 목초지를 둘러쌌다.
+
+[662]
+#They've roped off one end of the room.
+#그들은 로프로 방 한쪽을 나누었다.
+
+[663]
+#They bound him down with cords.
+#그들은 로프로 그를 묶었다.
+
+[664]
+#They rolled the child up in a blanket.
+#그들은 담요로 아이를 쌌다.
+
+[665]
+#They tied his hands with wire.
+#그들은 철사로 그의 두 손을 꼭 묶었다.
+
+[666]
+#They made a makeshift table from boxes.
+#그들은 상자로 임시용 탁자를 만들었다.
+
+[667]
+#They laughed the proposal down.
+#그들은 웃음으로 이 건의를 거절했다.
+
+[668]
+#They experimented with new materials.
+#그들은 새 재료로 시험을 했다.
+
+[669]
+#They propped the old tunnel up with new timbers.
+#그들은 새 들보로 터널을 지탱했다.
+
+[670]
+#They open the lock with a key.
+#그들은 열쇠로 자물쇠를 열었다.
+
+[671]
+#They blew the door off with a small charge of gelignite.
+#그들은 폭약들로 문을 폭파해버렸다.
+
+[672]
+#They boxed the garden in with fences.
+#그들은 울짱으로 화원을 둘렀다.
+
+[673]
+#They used a steam roller to iron out the road.
+#그들은 증기 로드롤러로 노면을 고르게 했다.
+
+[674]
+#They have objected to him on personal grounds.
+#그들은 사적 관계로 인해 그를 반대했다.
+
+[675]
+#They loitered away their time.
+#그들은 빈둥거리면서 시간을 소모했다.
+
+[676]
+#They sometimes chatted away for hours.
+#그들은 때때로 일단 수다를 떨면 몇 시간을 했다.
+
+[677]
+#They were in peril of death from hunger.
+#그들은 굶어 죽을 위험에 놓여 있다.
+
+[678]
+#They have designs on your life.
+#그들은 그의 생명을 모해할 생각을 품고 있다.
+
+[679]
+#And behind them lay bitter memories of what preliberation life was like.
+#그들은 해방전 생활의 고통스런 기억을 가지고 있다.
+
+[680]
+#They laid the patient back again on the bed.
+#그들은 또 환자를 침대 위로 눕혔다.
+
+[681]
+#They have increased the price of petrol again.
+#그들은 또 휘발유 가격을 올렸다.
+
+[682]
+#They've been noshing up again.
+#그들은 또 흥미진진하게 한바탕 먹었다.
+
+[683]
+#They rattled the bill through the House.
+#그들은 그 의안을 중의원에서 황급히 통과시켰다.
+
+[684]
+#They got the bill through Parliament.
+#그들은 그 의안을 의회에서 통과시켰다.
+
+[685]
+#They marched the soldiers on .
+#그들은 사병을 계속 전진시켰다.
+
+[686]
+#They arrived at five yesterday afternoon.
+#그들은 어제 오후 5시에 도달했다.
+
+[687]
+#They came up against problem after problem.
+#그들은 연달아 어려운 문제를 만났다.
+
+[688]
+#They are expected to middle-aisle it in September.
+#그들은 9월 중에 결혼하기로 예정되어 있다.
+
+[689]
+#They planned to have started at the beginning of last month.
+#그들은 원래 지난 달 초에 업무를 시작하기로 계획했었다.
+
+[690]
+#They were shipwrecked off the coast of Alaska.
+#그들은 알래스카 외해에서 조난당했다.
+
+[691]
+#They resettle themselves in Australia.
+#그들은 홋주에서 다시 정착했다.
+
+[692]
+#What is it they are posting up on the wall?
+#그들은 무슨 물건을 벽 위에 붙이고 있니?
+
+[693]
+#They're debating whether to increase the price of petrol.
+#그들은 석유 가격을 인상해야 하는지의 여부를 논쟁하고 있다.
+
+[694]
+#They gained him over in the debate.
+#그들은 논쟁중에 그를 설득시켰다.
+
+[695]
+#They are raising funds for the expedition.
+#그들은 탐험 자금을 마련하고 있다.
+
+[696]
+#They gassed up the car before they started.
+#그들은 출발하기 전에 자동차에 기름을 넣었다.
+
+[697]
+#They've got a battery of cooking pots in their kitchen.
+#그들은 주방에서 솥을 한 세트를 갖추어 놓았다.
+
+[698]
+#They hacked their way through the forest.
+#그들은 수풀 속에서 길 하나를 냈다.
+
+[699]
+#Their paths diverged at the fork in the road.
+#그들은 도로의 갈림길에서 길을 나누어 갔다.
+
+[700]
+#They retreated before the advance of the enemy.
+#그들은 적이 진군하는 위압하에서 철퇴했다.
+
+[701]
+#They strung up coloured lights round the room.
+#그들은 방의 네 벽에 곱게 꾸민 등롱을 걸었다.
+
+[702]
+#They spent their vacation in Florida.
+#그들은 플로리다에서 휴가를 보냈다.
+
+[703]
+#They put on their safety helmets before starting to work.
+#그들은 일이 시작되기 전에 안전모를 썼다.
+
+[704]
+#They are associated with him in business.
+#그들은 업무에 있어서 그와 관계가 있다.
+
+[705]
+#They hewed a path through the park.
+#그들은 공원에 오솔길 하나를 열었다.
+
+[706]
+#They struck oil under the sea.
+#그들은 해저에서 석유를 발견했다.
+
+[707]
+#They slow-poked up the river.
+#그들은 강 위에서 천천히 올라갔다.
+
+[708]
+#They dug up a vegetable plot in their backyard.
+#그들은 뒤뜰에서 채소밭 하나를 개간했다.
+
+[709]
+#They sat out until the sun went in.
+#그들은 집 밖에서 줄곧 해가 질 때까지 앉아 있었다.
+
+[710]
+#They feasted away all evening.
+#그들은 환영 연회에서 온밤을 보냈다.
+
+[711]
+#They barracked the speaker during the meeting.
+#그들은 회의에서 발언자에 대해 조롱했다.
+
+[712]
+#They are watching the move of enemy.
+#그들은 적의 행동을 감시하고 있다.
+
+[713]
+#The topic kept coming up in their conversation.
+#그들은 대화중에 늘 이 문제를 제기한다.
+
+[714]
+#They have a lead over the rest of the world in technology.
+#그들은 과학기술 방면에서 세계를 리드한다.
+
+[715]
+#They warmed their hands by the fire.
+#그들은 난로 옆에서 손을 뻗어 불을 쬐었다.
+
+[716]
+#They got two connecting rooms in the hotel.
+#그들은 호텔에서 두 칸이 서로 연결되어 있는 방을 빌렸다.
+
+[717]
+#They tarried at the hotel for a week.
+#그들은 그 호텔에서 1주일간 머물렀다.
+
+[718]
+#They shipped out in that sailing vessel.
+#그들은 그 돛단배의 선원이 되었다.
+
+[719]
+#They ran up the national flag on the queen's birthday.
+#그들은 여왕 탄신일에 국기를 게양했다.
+
+[720]
+#They twisted their way through the crowd.
+#그들은 사람들 속을 이리저리 뚫고 갔다.
+
+[721]
+#They were much smaller in number than we.
+#그들은 사람수에서 우리보다 훨씬 적다.
+
+[722]
+#They were waiting at the entrance to greet the Queen.
+#그들은 여왕에게 인사하려고 입구에서 기다리고 있다.
+
+[723]
+#They overtook him at the entrance.
+#그들은 입구에서 그를 쫓아냈다.
+
+[724]
+#They created a new city in the desert.
+#그들은 사막에 신도시를 세웠다.
+
+[725]
+#They signed on a large number of casual laborers last week.
+#그들은 지난주에 많은 임시공을 모집했다.
+
+[726]
+#They sustained severe injuries in the accident.
+#그들은 사고중에 중상을 입었다.
+
+[727]
+#They were shot trying to cross the frontier.
+#그들은 월경을 시도할 때에 총에 맞아 죽었다.
+
+[728]
+#They are listening to a news bulletin put out by Radio Beijing.
+#그들은 북경 방송국의 뉴스 방송을 청취했다.
+
+[729]
+#They signed and sealed the treaty.
+#그들은 조약에 서명하고 도장을 찍었다.
+
+[730]
+#They rooted about among piles of papers.
+#그들은 서류더미에서 물건을 뒤져 찾았다.
+
+[731]
+#They live across the road from us.
+#그들은 우리의 대로 맞은편에 있다.
+
+[732]
+#They whirled round the ballroom.
+#그들은 무도장에서 원을 돌면서 춤을 추었다.
+
+[733]
+#They wound their way through the narrow valley.
+#그들은 좁은 산골짜기에서 에돌아 전진했다.
+
+[734]
+#They established themselves in their new house.
+#그들은 새 집에 정착했다.
+
+[735]
+#They're demanding a four-day week.
+#그들은 매주 4일을 일할 것을 요구하고 있다.
+
+[736]
+#They escaped under cover of darkness.
+#그들은 어둠의 엄호하에 도망쳤다.
+
+[737]
+#They talked about it among themselves.
+#그들은 함께 이 일을 이야기했다.
+
+[738]
+#They met at the same place they had met before.
+#그들은 이전에 만났던 동일 장소에서 만났다.
+
+[739]
+#They planted a bomb in the post office.
+#그들은 우체국에 폭탄을 하나 놓았다.
+
+[740]
+#They engaged the enemy in battle.
+#그들은 전투에서 적과 교전했다.
+
+[741]
+#They all had a ball at the party.
+#그들은 이 모임에서 모두 매우 유쾌하게 보냈다.
+
+[742]
+#They sell shares in companies at the stock exchange.
+#그들은 증권 교역소에서 회사 주식을 판다.
+
+[743]
+#They put in sewers around the residential districts.
+#그들은 주택지 주변에서 하수도를 보수했다.
+
+[744]
+#They unrolled the cloth onto the table.
+#그들은 탁자 위에서 옷감을 베었다.
+
+[745]
+#They seeded their fields with wheat.
+#그들은 자신의 밭에 보리를 파종했다.
+
+[746]
+#They were set down in the football match.
+#그들은 축구시합에서 졌다.
+
+[747]
+#They signed in last night around eleven o'clock.
+#그들은 어제 저녁 11시쯤에 서명했다.
+
+[748]
+#They ran out of town for the week-end.
+#그들은 잠시 도시를 떠나서 주말을 보냈다.
+
+[749]
+#They were attacked by marauding soldiers.
+#그들은 도처에서 약탈하고 있는 사병의 공격을 받았다.
+
+[750]
+#They holed a tunnel through the hill.
+#그들은 산을 통과하는 터널을 뚫었다.
+
+[751]
+#They built a new house and moved in.
+#그들은 새 집을 져서 이사해 들어갔다.
+
+[752]
+#How did they push the bill through?
+#그들은 이 의안을 어떻게 통과시켰느냐?
+
+[753]
+#They occupied the enemy's territory.
+#그들은 적국의 영토를 점령했다.
+
+[754]
+#They were ranged against the government the rebels].
+#그들은 정부와 적이 되는 쪽에 서 있다.
+
+[755]
+#They put out for tenders for a new central heating system.
+#그들은 입찰공고를 해서 새 난방설비를 청부 맡았다.
+
+[756]
+#They were working hard for the common good and not for selfish interests.
+#그들이 이렇게 고되게 일하는 것은 공을 위한 것이지 사를 위한 것이 아니다.
+
+[757]
+#There is little probability of their succeeding in the attempt.
+#그들은 이 시험의 성공 가능성이 매우 적다.
+
+[758]
+#After their argument they weren't on speaking terms.
+#그들은 다툰 후에 서로 거들떠 보지 않았다.
+
+[759]
+#They nattered away all afternoon.
+#그들은 오후 내내 잡담을 하고 있다.
+
+[760]
+#They are training for the marathon.
+#그들은 마라톤 훈련을 받고 있다.
+
+[761]
+#They are endeavoring to reproduce the social conditions of prewar days.
+#그들은 전쟁 전의 사회 상황을 재현하고자 힘을 다하고 있다.
+
+[762]
+#They are busy preparing to go on holiday.
+#그들은 휴가 갈 준비에 한창 바쁘다.
+
+[763]
+#They are busy clearing out the drains.
+#그들은 배수도를 소통시키는데 한창 바쁘다.
+
+[764]
+#They were going about their everyday affairs.
+#그들은 그들의 일상 사무에 한창 바쁘다.
+
+[765]
+#They were bustling about to get the rubbish removed.
+#그들은 쓰레기를 운반해 가는데 한창 바쁘다.
+
+[766]
+#They held an official inquiry into this event.
+#그들은 정식으로 이 사건을 조사했다.
+
+[767]
+#They are going to reform the educational system.
+#그들은 교육제도를 개혁하려고 한다.
+
+[768]
+#They are carrying through on the agreement.
+#그들은 협의에 따라서 견지해 나가고 있다.
+
+[769]
+#They are bailing out the cutter.
+#그들은 작은 배 안의 물을 밖으로 뜨고 있다.
+
+[770]
+#They are shearing the wool off.
+#그들은 양모를 잘라내고 있다.
+
+[771]
+#They are pulling down the houses in the street.
+#그들은 거리의 집을 철거하고 있다.
+
+[772]
+#They are dancing on the village green.
+#그들은 마을 안의 풀밭 위에서 춤을 추고 있다.
+
+[773]
+#They are taking a walk on the path beside the river.
+#그들은 강변의 오솔길에서 산보하고 있다.
+
+[774]
+#They're putting up a new house.
+#그들은 새 집을 짓고 있다.
+
+[775]
+#They were regaling themselves with beer.
+#그들은 마음을 터놓고 맥주를 마시고 있다.
+
+[776]
+#They are busy clamping down the deck.
+#그들은 갑판을 청소하느라 한창 바쁘다.
+
+[777]
+#They are looking forward to the veteran worker's coming.
+#그들은 이 베테랑 일꾼이 오기를 고대하고 있다.
+
+[778]
+#They are trying to block in the space.
+#그들은 틈을 꽉 메우려고 시도하고 있다.
+
+[779]
+#They are making explorations into the cultural problems of South Africa.
+#그들은 남아프리카의 문화 문제를 탐구하고 있다.
+
+[780]
+#They're digging up the road outside our house.
+#그들은 우리집 밖의 그 길을 파내고 있다.
+
+[781]
+#They were pulling for their football team.
+#그들은 그들의 축구팀을 위해서 격려하고 있다.
+
+[782]
+#They are dressing up for the opera.
+#그들은 이 오페라를 공연하기 위해서 분장하고 있다.
+
+[783]
+#They are pegging down their tent.
+#그들은 말뚝으로 텐트를 고정시키고 있다.
+
+[784]
+#They are planting out seedings.
+#그들은 균형 있게 모를 심고 있다.
+
+[785]
+#They are setting up a printing press.
+#그들은 인쇄기 한 대를 장치하고 있다.
+
+[786]
+#They are setting out on a new experiment.
+#그들은 새로운 시험에 착수하고 있다.
+
+[787]
+#They are looking into some magazines.
+#그들은 잡지들을 훑어 보고 있다.
+
+[788]
+#The split between them can hardly be papered over.
+#그들 사이의 금은 가려지기 어렵다.
+
+[789]
+#There is no comparison between them.
+#그들 사이에는 비슷한 점이 하나도 없다.
+
+[790]
+#none of them know anything about it yet.
+#그들 중 아직 아무도 그 일을 알지 못한다.
+
+[791]
+#They reckoned on his coming back a different man.
+#그들은 그가 돌아올 때 전혀 딴 사람 같기를 바랬다.
+
+[792]
+#They had to relinquish their position to the enemy.
+#그들은 진지를 포기하고 적에게 넘겨 주어야만 했다.
+
+[793]
+#They make new elements whose resistance is much lower.
+#그들은 저항이 매우 낮은 신 부품을 제조했다.
+
+[794]
+#Half of them are already here.
+#그들 중의 반수의 사람들이 이미 왔다.
+
+[795]
+#either of them is good enough.
+#그들 중의 어느 한 사람이라고 다 충분히 좋다.
+
+[796]
+#None of them were forthcoming.
+#그들중 아무도 돕기를 원하지 않는다.
+
+[797]
+#Many of them came up to receive the visitors.
+#그들중 많은 사람들이 나와서 손님을 맞이했다.
+
+[798]
+#They have left those words in after all.
+#그들은 결국 여전히 그러한 문구를 보류했다.
+
+[799]
+#They reconstructed their harbor quayage ..
+#그들은 항구 부두를 재건했다.
+
+[800]
+#They restocked the pond with carp.
+#그들은 다시 연못에 잉어를 풀어 놓았다.
+
+[801]
+#They have come forward with an offer of help.
+#그들은 도움을 제공할 것이라는 것을 적극적으로 표시했다.
+
+[802]
+#They live in a whacking great house in Hollywood.
+#그들은 할리우드의 거택에서 산다.
+
+[803]
+#They live on the other side of the street.
+#그들은 거리의 다른 한쪽에서 산다.
+
+[804]
+#They reside in a cottage at the foot of the mountain.
+#그들은 산기슭 아래의 작은 집에서 산다.
+
+[805]
+#They lived in a little log cabin in the mountains.
+#그들은 산속의 작은 나무집에서 산다.
+
+[806]
+#They lived in Westbury Court.
+#그들은 웨스트베리가에서 산다.
+
+[807]
+#They lived in a room facing the south.
+#그들은 남향집에서 산다.
+
+[808]
+#They live on a farm somewhere in the back of beyond.
+#그들은 먼 곳의 농장 안에서 산다.
+
+[809]
+#They scanned the sky for the spacecraft.
+#그들은 우주선을 찾으려고 하늘을 주시하고 있다.
+
+[810]
+#They hammered in the door and then charged into the room.
+#그들은 문을 부숴 열고 방으로 뛰어들었다.
+
+[811]
+#They are going to cast off the hunting dog.
+#그들은 사냥개를 풀어 놓으려고 한다.
+
+[812]
+#They are going to halve my salary.
+#그들은 나의 임금을 반으로 깎으려고 한다.
+
+[813]
+#They broke out tents and prepared to make camp.
+#그들은 텐트를 준비해서 야영하려고 한다.
+
+[814]
+#They prepared all things necessary for the expedition.
+#그들은 탐험에 필요한 모든 물건을 준비했다.
+
+[815]
+#Some misfortune must have betallen them.
+#그들은 틀림없이 어떤 불행을 만났다.
+
+[816]
+#They've always had a preference for taking their holidays abroad.
+#그들은 늘 해외로 가서 휴가를 보내는 것을 비교적 좋아한다.
+
+[817]
+#They are always whining about trifles.
+#그들은 늘 사소한 일로 불평한다.
+
+[818]
+#They were always quarreling with one another over trifles.
+#그들은 늘 사소한 일들로 서로 말다툼한다.
+
+[819]
+#They always like to go there of an evening.
+#그들은 늘 밤에 그곳에 가는 것을 좋아한다.
+
+[820]
+#They are always prompt and equitable in settling claims.
+#그들은 늘 신속하고 공정하게 클레임을 해결한다.
+
+[821]
+#They managed to get the plans out on time.
+#그들은 겨우 때맞춰 계획을 정했다.
+
+[822]
+#They left earlier than we had expected.
+#그들은 우리가 예상했던 것보다 빨리 떠났다.
+
+[823]
+#They played the people in .
+#그들은 음악을 연주해서 사람들을 안으로 안내했다.
+
+[824]
+#They're renting a furnished house.
+#그들은 가구가 배치된 집을 임대했다.
+
+[825]
+#They had at last to cave in and surrender.
+#그들은 결국 굴복하고 투항해야만 했다.
+
+[826]
+#They gave in to our views at last.
+#그들은 결국 우리의 의견을 받아들였다.
+
+[827]
+#They finally settled on the terms of the agreement.
+#그들은 결국 협정 조항을 상정했다.
+
+[828]
+#They married off their youngest daughter to a teacher.
+#그들의 막내딸은 교사에게 시집갔다.
+
+[829]
+#They passed through the village yesterday evening .
+#그들은 어젯밤에 이 마을을 통과했다.
+
+[830]
+#They got in and drove off.
+#그들은 자동차를 타고는 떠났다.
+
+[831]
+#They sat there in the corner making goo-gooeyes at each other.
+#그들은 모퉁이쪽에 앉아서 눈짓으로 마음을 전했다.
+
+[832]
+#They settled in the parlor to watch TV.
+#그들은 거실에 앉아서 텔레비전을 본다.
+
+[833]
+#They yackety-yakked for an hour or more.
+#그들은 재잘재잘 쉴 새 없이 한 시간 여를 지껄였다.
+
+[834]
+#He knocked the fish on the head to kill it quickly.
+#그는 물고기 머리를 세게 쳐서, 그것을 빨리 죽게 했다.
+
+[835]
+#He smashed a stone through the window.
+#그는 힘껏 돌을 던져서 유리창을 뚫었다.
+
+[836]
+#He gave the movie a lashing.
+#그는 맹렬하게 그 영화를 비평했다.
+
+[837]
+#He slammed the papers into the drawer.
+#그는 갑자기 서류를 서랍 속에 던져 넣었다.
+
+[838]
+#He flung his arms round my neck.
+#그는 갑자기 두 팔을 뻗어서 나의 목을 꼭 안았다.
+
+[839]
+#He unwillingly yielded his consent to their proposal.
+#그는 억지로 그들의 제의에 동의했다.
+
+[840]
+#His ashen face showed how shocked he was.
+#그가 얼굴이 흙빛이 된 것은 그가 얼마나 놀랐는지를 설명한다.
+
+[841]
+#He shot at the bird,but missed it.
+#그는 새를 겨냥해서 쏘았지만 맞추지 못했다.
+
+[842]
+#He is quick at spying the faults of others.
+#그는 다른 사람의 실수를 발견하는데 민첩하다.
+
+[843]
+#He made known his decision to resign.
+#그는 사직의 결심을 명백히 나타냈다.
+
+[844]
+#He ranks with the best English authors.
+#그는 영국 제일류의 작가군으로 랭킹된다.
+
+[845]
+#He ranks with the world's eminent scientists.
+#그는 세계의 저명 과학자군으로 랭킹된다.
+
+[846]
+#He ordered the troops to limber up and move out.
+#그는 부대에서 포를 싣고 차를 출발하도록 명령했다.
+
+[847]
+#It was hisfate to live a lonely life.
+#그는 운명에 고독한 생활을 보내야 한다고 되어 있다.
+
+[848]
+#He came into a fortune when his mother died.
+#그의 어머니가 돌아가신 후 그는 많은 돈을 받았다.
+
+[849]
+#His mother's death was a great shock to him.
+#그의 모친의 죽음은 그에게 있어서 정신적인 타격이 매우 크다.
+
+[850]
+#He is currently engaged in dialect research.
+#그는 현재 방언 연구에 종사한다.
+
+[851]
+#He held forth a new picture to us.
+#그는 새 그림을 꺼내서 우리에게 보여 주었다.
+
+[852]
+#he took up the pole and shoved the boat off.
+#그는 상앗대를 손에 들고 배를 상앗대질하여 해안을 떠났다.
+
+[853]
+#where is he to blame ?.
+#그의 어느 점이 비난 받아야 하느냐?
+
+[854]
+#Nothing results from his airy plans.
+#그의 그 실제에 맞지 않는 계획은 아무런 결과가 없다.
+
+[855]
+#His fond hopes were dashed.
+#그의 그 실제에 맞지 않는 희망은 깨져 버렸다.
+
+[856]
+#He is not a man to jest with.
+#그 사람은 농담을 할 줄 모른다.
+
+[857]
+#His strange behaviour sometimes verges on madness.
+#그의 그 이상한 행동은 때때로 미친 것에 가깝다.
+
+[858]
+#His brawny arms are very strong.
+#그의 그 근육이 발달한 팔은 대단히 힘이 있다.
+
+[859]
+#There can be no mistaking what he meant by it.
+#그의 그 말의 의미는 아주 명백하다.
+
+[860]
+#His sprained ankle has puffed up.
+#그의 그 삔 복숭아뼈가 붓기 시작했다.
+
+[861]
+#What was the import of his speech?.
+#그의 그 연설의 함의는 무엇인가?
+
+[862]
+#That fault of his is redeemed by his good points.
+#그의 그 결점은 그의 장점으로 보완할 수 있다.
+
+[863]
+#His ancient ridingboots were scuffed and patched.
+#그의 그 옛 승마부츠는 이미 닳아서 꿰맸다.
+
+[864]
+#He received many compliments on his new suit.
+#그의 그 새 옷은 많은 사람들의 칭찬을 받았다.
+
+[865]
+#It is cruel of him to beat his boy like that.
+#그가 그렇게 아이를 때리는 것은 정말 잔인하다.
+
+[866]
+#He was untrue to type when he said that.
+#그가 그렇게 말하는 것은 그의 본성에 맞지 않다.
+
+[867]
+#His laughing was the laststraw.
+#그의 그 웃음은 사람들로 하여금 더 이상은 참을 수 없게 했다.
+
+[868]
+#His tongue ran on without stopping.
+#그의 그 입은 끊임없이 계속해서 말한다.
+
+[869]
+#His insolent manner really got my blood up.
+#그의 그 독단적인 태도는 나의 폐부를 다 폭발시켰다.
+
+[870]
+#Thoughts ran through his mind.
+#그의 머리 속에서 생각들이 번쩍였다.
+
+[871]
+#A new idea went through his mind.
+#그의 머리 속에 새로운 생각이 떠올랐다.
+
+[872]
+#He was harrowed with guilt.
+#그는 마음 속에 가책을 느껴서 심히 불안했다.
+
+[873]
+#It is doubtful whether he will recover.
+#그가 회복될 수 있을지 없을지는 현재로서는 말하기 어렵다.
+
+[874]
+#He could feel the blood pulsing through his body.
+#그는 온몸의 피가 끓어오르는 것을 느꼈다.
+
+[875]
+#He can score them off in the debate.
+#그들은 논쟁 중에 그들을 충분히 반박하여 꼼짝 못하게 했다.
+
+[876]
+#He can talk people over to his own views.
+#그들은 다른 사람이 그의 의견을 따르도록 말할 수 있다.
+
+[877]
+#He gets across well,doesn't he?
+#그는 자기의 생각을 똑똑히 말할 수 있다. 그렇지 않니?
+
+[878]
+#He has a disruptive influence on the other children.
+#그는 다른 아이들이
+
+[879]
+#He has laid down a plan for the holidays.
+#그는 휴가를 보낼 계획을 세웠다.
+
+[880]
+#His back was bent with age.
+#그는 나이가 많고 등도 굽었다.
+
+[881]
+#He's not old enough to go out to work.
+#그는 나이가 아직 어려서 밖에 나가 일을 할 수 없다.
+
+[882]
+#He is young,I grant ,but he is wise.
+#그는 젊지만, 틀림없이 그는 총명하다.
+
+[883]
+#He's over sixty,but he shows no signs of slowing up.
+#그는 나이가 60이 넘었지만 결코 쇠약하고 무디지 않다.
+
+[884]
+#He read three verses of the poem.
+#그는 이 시의 세 연을 읽었다.
+
+[885]
+#His eyes rested on the peaceful valley below.
+#그는 아래쪽의 조용한 산골짜기를 응시하고 있다.
+
+[886]
+#He would rather die than go back on his comrades.
+#그는 죽을지언정 자기의 동료를 팔지 않는다.
+
+[887]
+#He committed suicide rather than sell out to the enemy.
+#그는 차라리 자살하기를 원했고 적에게 투항하지 않았다.
+
+[888]
+#He twisted his body round to look over his shoulder.
+#그는 몸을 돌려서 뒤를 보았다.
+
+[889]
+#He couldn't figure out how it had happened.
+#그는 이 일이 어떻게 발생했는지를 알지 못했다.
+
+[890]
+#He'd mistaken the address,and gone to the wrong house.
+#그가 주소를 잘못 알아서 다른 집으로 갔다.
+
+[891]
+#He tries his best to come up to the expectations of the Party and the people.
+#그는 당과 인민의 기대를 저버리지 않으려고 노력한다.
+
+[892]
+#He made an effort to acquire the skill.
+#그는 이 기능을 획득하려고 노력했다.
+
+[893]
+#He tried hard,yet he could not succeed.
+#그는 열심히 시도했지만, 성공하지 못했다.
+
+[894]
+#He tried to lay a future course for himself.
+#그는 자기의 장래를 위해 길을 깔려고 노력했다.
+
+[895]
+#He worked hard to get back in the teacher's favour.
+#그는 열심히 공부해서 선생님이 다시 그를 좋아하게 했다.
+
+[896]
+#He tried to suit his speech to his audience.
+#그는 자기의 강연이 청중에게 적합하도록 노력했다.
+
+[897]
+#He angrily flung up his head.
+#그는 노기등등하게 머리를 들어올렸다.
+
+[898]
+#He stumped angrily up the stairs.
+#그는 노기등등하게 발을 굴러 계단을 올라갔다.
+
+[899]
+#His daughter walked by his side.
+#그의 딸은 그의 옆에서 걸었다.
+
+[900]
+#He does the odd job for me from time to time.
+#그는 우연히 와서 나를 위해 번잡한 일들을 했다.
+
+[901]
+#He seasoned his conversation with jokes.
+#그는 우스개소리를 해서 대화에 미묘한 운치가 넘치게 했다.
+
+[902]
+#He flopped down on to a seat.
+#그는 탁 소리를 내며 자리에 앉았다.
+
+[903]
+#He tore a hole in his trousers climbing over the wall.
+#그가 담을 오를 때 바지가 잡아당겨져서 구멍이 하나 났다.
+
+[904]
+#He scrambled up to the ledge.
+#그는 그 튀어나온 바위에 기어 올라갔다.
+
+[905]
+#His films are full of gratuitous violence.
+#그가 찍은 영화는 불필요한 폭력으로 가득했다.
+
+[906]
+#He lined up behind the others to wait his turn.
+#그는 다른 사람들의 뒤에 서서 그의 차례가 되기를 기다리고 있다.
+
+[907]
+#It was easy enough for him to clamber up the gnarled trunk.
+#그가 이 구불구불한 나무 줄기에 기어 오르는 것은 오히려 더 쉽다.
+
+[908]
+#He pined to see his wife and children.
+#그는 그의 아내와 아이들을 보기를 바랬다.
+
+[909]
+#He is eager for you to meet his friends.
+#그는 네가 그의 친구를 보러 가기를 바란다.
+
+[910]
+#His great fortune was reduced to zero.
+#그의 방대한 재산은 깡그리 사라졌다.
+
+[911]
+#He was so fat that he couldn't get through the hole.
+#그는 그 구멍을 통과하지 못할 정도로 뚱뚱하다.
+
+[912]
+#He walked out on his wife and family.
+#그는 자신의 아내와 가족들을 버렸다.
+
+[913]
+#He left his wife for another woman.
+#그는 아내를 버리고 다른 여자를 찾았다.
+
+[914]
+#He ran to the river and plunged in.
+#그는 그 강변으로 뛰어가서 뛰어들었다.
+
+[915]
+#He didn't run fast enough to catch the train.
+#그는 빨리 달리지 못해서 기차를 놓쳤다.
+
+[916]
+#Which runs quicker,he or you?
+#그가 빨리 달리니 아니면 네가 빨리 달리니?
+
+[917]
+#It's dangerous for him to run so fast.
+#그가 이렇게 빨리 달리면 위험이 발생할 수 있다.
+
+[918]
+#He was awarded the prize for being the fastest runner.
+#그가 가장 빨리 달려서 상패를 탔다.
+
+[919]
+#He ran in to tell us the good news.
+#그는 뛰어들어와서 우리에게 이 좋은 소식을 말했다.
+
+[920]
+#He ran into the bank and fired his gun into the air.
+#그는 은행에 뛰어들어서 하늘을 향해 총을 쏘았다.
+
+[921]
+#He collapsed at the end of the five mile race.
+#그는 5마일 경주를 완주하고 쓰러졌다.
+
+[922]
+#he saw us up to the library.
+#그는 우리를 데리고 도서관으로 올라갔다.
+
+[923]
+#He made up a bottle of cough medicine.
+#그는 감기 약물을 조제했다.
+
+[924]
+#He wore all the trappings of high officer.
+#그는 고급 관료직의 각종 복식을 착용하고 있었다.
+
+[925]
+#He banged up the receiver and went away.
+#그는 펑 하고 전화기를 걸고 가버렸다.
+
+[926]
+#He slammed the gate to,and strode away.
+#그는 펑 하고 대문을 닫고 큰 걸음으로 갔다.
+
+[927]
+#He fell to the floor with a thud.
+#그는 펑 하고 마루 위에 쓰러졌다.
+
+[928]
+#He went out,banging the door behind him.
+#그는 문을 닫고 나갔다.
+
+[929]
+#He slumped to the floor in a faint.
+#그는 펑 하고 마루 위에 기절했다.
+
+[930]
+#He was unwashed,uncombed ,with his clothes half buttoned.
+#그는 흐트러진 머리털과 때 낀 얼굴에다가 홑옷도 단정치 않다.
+
+[931]
+#He cozened the old woman into signing the paper.
+#그는 그 노부인이 서류에 서명하도록 속였다.
+
+[932]
+#He chicaned the widow out of her property.
+#그는 그 과부의 재산을 사취했다.
+
+[933]
+#He kidded me into thinking he was telling the truth.
+#그는 내가 그가 진실을 말하고 있다고 여기도록 나를 속였다.
+
+[934]
+#He juggled her out of what little money she had.
+#그는 그녀가 가지고 있는 몇 푼 안 되는 돈을 뺏어갔다.
+
+[935]
+#His fine clothes are a mere facade,facade.
+#그의 아름다운 옷은 단지 겉만 번지르한 것에 불과하다.
+
+[936]
+#He ground away to make up for lost time.
+#그는 잃어버린 시간을 메꾸느라 필사적으로 일했다.
+
+[937]
+#He leaned over backward (s) to please his immediate superior.
+#그는 그의 직속 상관에게 잘 보이려고 필사적으로 애썼다.
+
+[938]
+#He kicked at the locked door in desperation.
+#그는 그 잠겨진 문을 필사적으로 차고 있다.
+
+[939]
+#He gave her an appraising glance.
+#그는 사소한 잘못을 들추어 내려는 듯이 그녀를 한 번 보았다.
+
+[940]
+#He usually refers his pupils to this dictionary.
+#그는 평상시에 학생들에게 이 자전을 찾으라고 한다.
+
+[941]
+#He doesn't spent much time preparing his lessons.
+#그는 평상시에 수업을 준비하는데 많은 시간을 쓰지 않는다.
+
+[942]
+#He played the tune from memory.
+#그는 기억게 의해서 이 곡을 연주했다.
+
+[943]
+#He ran off the figures from memory.
+#그는 기억에 의해서 유창하게 그 숫자들을 말했다.
+
+[944]
+#He had an intuition that there was something wrong.
+#그는 직감에 의해서 몇 군데가 잘못 되었다는 것을 알았다.
+
+[945]
+#He waited for the news with bated breath.
+#그는 가만히 숨죽이고 소식을 기다렸다.
+
+[946]
+#He broke in and stole my money.
+#그는 문을 부수고 들어와서 나의 돈을 훔쳤다.
+
+[947]
+#He burst in and told everyone to stand still.
+#그는 문을 부수고 들어와서 사람들을 움직이지 못하게 했다.
+
+[948]
+#He snapped up the offer.
+#그는 지체 없이 이 건의를 받아들였다.
+
+[949]
+#He leaped at the chance.
+#그는 지체 없이 그 기회를 꽉 잡았다.
+
+[950]
+#He forced his horse on through the storm.
+#그는 무리하게 말을 폭풍우 속에서 전진하도록 했다.
+
+[951]
+#He beguiled me into lending him my bicycle.
+#그는 내가 자전거를 그에게 빌려주도록 나를 속였다.
+
+[952]
+#His wife's death drove him to despair.
+#그의 아내의 죽음은 그를 절망에 빠지게 했다.
+
+[953]
+#He was really cut up when his wife left him.
+그의 아내가 그를 버린 후에 그는 매우 고통스러웠다.
+
+[954]
+#He is not truly stupid,but he is lazy.
+#그는 사실 어리석은 것이 아니고 게으른 것이다.
+
+[955]
+#He got on his bicycle and rode off down the road.
+#그는 자전거를 타고 길을 따라 줄곧 운전해갔다.
+
+[956]
+#He swore he'd never touch a drink again.
+#그는 오늘 이후로 더 이상은 술을 마시지 않겠다고 맹세했다.
+
+[957]
+#He tried to foist some inferior goods onme.
+#그는 이 저질 물건들을 나에게 강매하려고 했다.
+
+[958]
+#He tried to smuggle diamonds into Japan .
+#그는 다이아몬드를 일본으로 밀수입하려고 했다.
+

@@ -1,0 +1,700 @@
+[1]
+#The noise diverted our attention from the books.
+#소음이 우리의 주의력을 책에서 떨어뜨렸다.
+
+[2]
+#Increasing the length of the wire increases its resistance.
+#전선의 길이가 늘어나면 전선의 전기저항이 증가한다.
+
+[3]
+#A child once infected with the measles is safe from having it a second time.
+#홍역을 앓았던 적이 있는 어린이는 다시 앓을 위험이 없다.
+
+[4]
+#There were problems,but we muddled through somehow.
+#문제가 있기는 했으나, 우리는 마침내 대처해 나갔다.
+
+[5]
+#The beautiful baby afghan you gave me at the shower is a gift I'll always treasure.
+#...에서 당신이 준 아기 담요를 나는 언제나 귀중히 여기겠습니다.
+
+[6]
+#A bomb exploded and I got lost in the ensuing confusion.
+#폭탄이 터진 후에 이어진 혼란에 나는 어찌할 바 몰랐다.
+
+[7]
+#Bombs and cannonballs rained upon the town.
+#폭탄과 포탄이 비오듯이 그 시로 떨어졌다.
+
+[8]
+#The bombs hit their target and blew up the big factory.
+#폭탄이 목표를 명중시켜 그 큰 공장을 터뜨렸다.
+
+[9]
+#James can imitate his father's speech perfectly.
+#제임스는 완전하게 그의 아버지의 말소리를 흉내낼 수 있다.
+
+[10]
+#James sometimes picked up his roommate's soap and toothpaste.
+#제임스는 때로 그의 룸메이트의 비누와 치약을 훔쳤다.
+
+[11]
+#Jenny was over-come with embarrassment.She faced away to hide her blushes.
+#Jenny는 너무 부끄러웠다. 그녀는 얼굴을 떨어뜨려 다른 사람이 그녀의 얼굴이 붉어진 것을 못보게 하였다.
+
+[12]
+#Jenny bought some canned foods from us and wanted them to be marked up.
+#
+
+[13]
+#There are exhibited all kinds of paintings good,bad,and indifferent.
+#좋은 것, 나쁜 것, 보통인 여러 종류의 그림이 전시되어 있다.
+
+[14]
+#Many newly-unearthed cultural relics are set forth in the exhibition hall.
+#전시장에 새로 출토된 많은 문화재가 진열되어 있었다.
+
+[15]
+#The success of the show bears witness to our good planning.
+#전람회의 성공은 우리의 계획이 적절하다는 증명이다.
+
+[16]
+#The Strategic Air Command's strikingforce consists of medium bombers.
+#전략 공군사령부의 공격 역량은 전부 중형 폭격기에 달려 있다.
+
+[17]
+#During the war we had to black out all our windows.
+#전시에 우리는 반드시 검은 천으로 창문을 막아 빛이 새나가지 않게 해야 한다.
+
+[18]
+#The soldiers began shooting away at the enemy positions.
+#군인들은 끊임없이 적군의 진지에 사격을 하기 시작했다.
+
+[19]
+#The out break of the war precipitated the collapse of our firm.
+#전쟁의 발발은 우리 회사의 도산을 가속시켰다.
+
+[20]
+#The war ended and a long peace succeeded.
+#전쟁이 끝난 후에 이어진 것은 장기간의 평화였다.
+
+[21]
+#The war may drag on.but victory will be ours.
+#전쟁은 아마 끌어질 것이나, 승리는 결국 우리의 것일 것이다.
+
+[22]
+#The war put at least ↔50000000 on the taxes.
+#전쟁으로 세수액이 최소 5천만 파운드가 늘었다.
+
+[23]
+#The war seriously diminished their country's wealth.
+#전쟁으로 국가의 재산이 심각하게 감소하였다.
+
+[24]
+#The cost of the war in lives and property was great.
+#전쟁으로 생명과 재산면에서 야기된 손실은 매우 크다.
+
+[25]
+#The war has branded an unforgettable lesson on our minds.
+#전쟁은 우리의 마음에 영원히 잊을 수 없는 교훈을 주었다.
+
+[26]
+#The recovery of the Japanese economy after the war surprised many people.
+#전쟁 후 일본 경제의 소생은 많은 사람을 놀라게 했다.
+
+[27]
+#I feel insecure on this high ladder.
+#높은 사다리에 서 있어서 나는 안전하지 않음을 느꼈다.
+
+[28]
+#It takes years to master a new language.
+#새로운 언어를 마스터하려면 몇 년 간의 시간이 필요하다.
+
+[29]
+#She received ↔10000 in compensation for her husband's death.
+#남편이 죽은 후에 그녀는 1만 파운드의 배상금을 받았다.
+
+[30]
+#The reception will be held in the City Hall,on Tuesday,October the fourth.
+#리셉션은 10월 4일로 정해졌다. (화요일 시청에서 거행)
+
+[31]
+#Gielgud was billed as Hamlet.
+#벽보에는 Gielgud가 Hamlet으로 분장한다고 하였다.
+
+[32]
+#Finding you has not made any difference,has it?
+#너를 찾아도 결코 달라질 게 없어, 그렇지?
+
+[33]
+#As the outlook sizes up at this time,we are going to have another good harvest this year.
+#현재의 상태로 보면, 금년에 우리는 또 풍년이 들 것이다.
+
+[34]
+#Photographs are made possible by the action of light on film.
+#사진은 빛을 통한 필름에 대한 작용으로 이루어진 것이다.
+
+[35]
+#The photographs are intermingled with news and articles.
+#사진 사이에 보도와 논평이 문장이 껴 있었다.
+
+[36]
+#At this rate we won't be able to afford a holiday.
+#이런 형편으로 보면 우리는 휴가 비용을 부담할 수 없을 것이다.
+
+[37]
+#The various facts in the case just don't add up.
+#이 안건 중 각 방면의 사실은 전혀 이치에 맞지 않는다.
+
+[38]
+#The eight men kept together throughout the boat race as though they were one.
+#그 여덟 명은 보트 경기에서 처음부터 끝가지 한 사람처럼 협심협력 하였다.
+
+[39]
+#This knife is dirty.Would you bring me a clean one,please?
+#그 칼은 더러우니, 당신은 저에게 깨끗한 것을 주시겠습니까?
+
+[40]
+#The train is due in London at 5 p.m. .
+#이번 기차는 오후 5시에 런던에 도착하게 되어 있다.
+
+[41]
+#This train connects with another at York.
+#이 기차는 뉴욕에서 다른 열차와 연락한다.
+
+[42]
+#The report was condensed from reams of research deta.
+#이 보고서는 많은 연구자료가 농축되어 이루어진 것이다.
+
+[43]
+#Here is a cup of tea to be going on with.I'll give you something to eat shortly.
+#당신은 먼저 이 차를 드세요. 나는 바로 당신이 먹을 것을 만들게요.
+
+[44]
+#This dictionary will help improve your understanding of English.
+#이 사전은 당신에게 영어 이해능력을 높이도록 도와줄 것이다.
+
+[45]
+#The dictionary has been enlarged to 1,500 pages.
+#이 사전은 이미 1500쪽으로 증보되었다.
+
+[46]
+#One of the principles of this dictionary is that explanations should be in simple language.
+#이 사전의 한 가지 원칙은 뜻풀이하는 문자는 간결해야 한다는 것이다.
+
+[47]
+#This dictionary uses a phonetic alphabet as a guide to pronunciation.
+#이 사전이 사용한 음표는 발음의 가이드가 된다.
+
+[48]
+#The next entry in this dictionary is the word "entwine".
+#이 사전의 다음 표제어는 "entwine"이다.
+
+[49]
+#This book is just a scissors-and-paste job.
+#이 책은 단지 풀과 가위를 써서 오리고 붙여 만든 것이다.
+
+[50]
+#It's not a very good book,but I like the illustrations.
+#이 책은 아주 좋지는 않으나, 나는 삽화를 좋아한다.
+
+[51]
+#The book is set in 17th-century Spain.
+#이 책의 배경은 17세기의 스페인이다.
+
+[52]
+#The first chapter of the book describes the events that lead up to?
+#이 책의 제1장은 전쟁을 일으킨 그 사건을 묘사하였다.
+
+[53]
+#This book will be of great value for your study.
+#이 책은 당신의 연구에 있어 아주 큰 가치가 있을 것이다.
+
+[54]
+#This book states the case for women's rights very clearly.
+#이 책은 아주 정확하게 여자의 권리를 쟁취하는 문제를 밝혔다.
+
+[55]
+#The book will open up to readers new vistas on economic thinking.
+#이 책은 독자에게 결제사고의 새로운 전망을 열어 줄 것이다.
+
+[56]
+#This book gives a good picture of life in England 200 years ago.
+#이 책은 2백 년 전 영국의 생활을 생동적으로 묘사하였다.
+
+[57]
+#I'll let you keep the book for the time being,but I'll want it back next week.
+#내가 이 책을 잠시 당신에게 빌려 주니, 다음주에는 꼭 내게 돌려 줘야 해요.
+
+[58]
+#The books would benefit by further revision.
+#이 책은 만약 다시 수정하면 더 좋아질 것이다.
+
+[59]
+#The book opens with a story about the author's childhood.
+#이 책은 저자의 유년시절의 이야기로 시작했다.
+
+[60]
+#The pamphlet provides the essentials but nothing beyond.
+#이 작은 책자에는 필수적인 것만 있고 기타 내용은 없다.
+
+[61]
+#This novel is very dull,but it has the savinggrace of being short.
+#이 소설은 아주 재미가 없지만, 간단하다는 것은 그것이 취할만한 것이다.
+
+[62]
+#I just flicked through the magazine instead of reading it carefully.
+#나는 이 잡지책을 자세히 읽지 않고, 다만 그것을 뒤적거렸다.
+
+[63]
+#This dictionary is badly thumbed.
+#이 사전은 엄지손가락으로 들춰서 더러워졌다.
+
+[64]
+#That was infinitely better than his last film.
+#이것은 그의 전 영화보다 몇 배나 나은지 알 수 없다.
+
+[65]
+#This dirty deal was sewn up over drinks in the hotel bar.
+#이 더러운 거래는 여관 술집에서 술 마실 때 얘기가 잘 되었다.
+
+[66]
+#It's no use carrying this debt forward; we might as well write it off.
+#이 빚은 더 이상 계속 둘 필요가 없다. 우리가 삭제해 버리면 그만이다.
+
+[67]
+#This does not quite account for his unease.
+#이것은 결코 그의 심정이 좋지 않은 이유를 정확히 말하지 못했다.
+
+[68]
+#It's a long shot,but I should say she's about forty.
+#맞추기 쉽지 않으나, 나는 그녀가 아마 40세 정도라고 추측했다.
+
+[69]
+#It wasn't an accident; you did it on purpose.
+#이것은 우연한 사고가 아니다. 당신이 일부러 이렇게 한 것이다.
+
+[70]
+#A dozen copies of the dictionary were sent for,but only five were received.
+#이 사전은 12권을 주문하였는데, 겨우 5권만 받았다.
+
+[71]
+#The film was a bit of a disappointment; we expected it to be much better.
+#이 영화는 사람을 실망시켰다. 우리가 생각했던 것보다 훨씬 나쁘다.
+
+[72]
+#This revolutionary historical novel centres in the Autumn Harvest Uprising.
+#이 혁명역사소설은 추수봉기를 중심내용으로 한다.
+
+[73]
+#The next episode of this radio play will be broadcast next week.
+#이 방송국의 다음 편은 다음주에 방송될 것이다.
+
+[74]
+#This machine is still unready for use.
+#이 기계는 아직 준비가 다 안 되어 잠시 쓸 수 없다.
+
+[75]
+#This machine is a real time-saver.
+#이 기계는 확실히 시간을 절약할 수 잇는 장비이다.
+
+[76]
+#Written in simple English,the novel is easy to read.
+#이 소설은 간단한 영어로 썼기 때문에 쉽게 읽을 수 있다.
+
+[77]
+#This novel sustains the reader's interest to the end.
+#이 소설은 독자들이 끝까지 여전히 많이 즐거워했다.
+
+[78]
+#Some violent scenes were cut from the film.
+#이 영화의 일부 폭력 장면은 이미 삭제되었다.,
+
+[79]
+#Parts of the film were shown again in slow motion.
+#이 영화의 일부분은 슬로우 모션으로 다시 보여 주었다.
+
+[80]
+#Is the film dubbed or does it have subtitles?
+#이 영화는 더빙한 것인지 아니면 자막을 넣은 것인가요?
+
+[81]
+#The film was made way back in 1929.
+#이 영화는 일찍이 1929년에 촬영 제작한 것이다.
+
+[82]
+#The film is to be cleaned up and re-edited.
+#이 영화는 손질을 해야 하기 때문에 다시 편집을 했다.
+
+[83]
+#There's a lot of sex and violence in this film.
+#이 영화에는 많은 섹스와 폭력이 있다.
+
+[84]
+#This snowstorm will bog all the cars down in the field.
+#이 폭풍과 폭설은 모든 차량을 들판에 빠뜨릴 것이다.
+
+[85]
+#The show breathed new life into his tired soldiers.
+#이 쇼는 피곤해 지친 병사들에게 활력을 회복시켰다.
+
+[86]
+#It was a serious car accident,but she came off with nothing more than a few scratches.
+#이 사고는 아주 컸으나, 그녀는 피부 찰과상만을 입었다.
+
+[87]
+#The epidemic nearly dispeopled the city.
+#이 전염병이 거의 도시를 빈 도시로 만들었다.
+
+[88]
+#It was a shambles that the fire left the building.
+#이 화재는 이 건축물을 폐허로 남겼다.
+
+[89]
+#The sudden fire undid months of hard work.
+#이 갑작스럽게 난 대화재는 수개월의 피나는 고생을 한번에 파괴하였다.
+
+[90]
+#Will the rain hold off until after the game?
+#이 비는 경기가 끝난 후에도 내리려고 할까요?
+
+[91]
+#The controversy pointed up the complexity of the problem.
+#이 쟁론은 이 문제의 복잡성을 분명하게 설명했다.
+
+[92]
+#The football game was punctuated by the cheers of supporters.
+#이 축구 경기에 갑자기 응원단의 갈채소리가 나왔다.
+
+[93]
+#I've washed this shirt twice and the ink still hasn't come out.
+#나는 이 셔츠를 이미 두 번이나 빨았으나 잉크는 아직 빠지지 않았다.
+
+[94]
+#The city is growing and property in the centre is becoming more valuable.
+#이 도시는 발전중이며, 시내의 부동산은 갈수록 값이 나갔다.
+
+[95]
+#There's an indefinable air of tension in this town.
+#이 도시에는 묘사하기 힘든 긴장된 분위기가 있다.
+
+[96]
+#This play was taken from a book by Dickens.
+#이 연극은 디킨슨의 소설에 근거하여 각색한 것이다.
+
+[97]
+#The best joke in the play was ad lib.
+#이 연극에서 가장 재미 있는 농담은 즉흥적인 삽입이다.
+
+[98]
+#The new play flopped after only two weeks.
+#이 새 연극은 겨우 2주 상연하고 완전히 실패하였다.
+
+[99]
+#The house needs modernizing; it has no bathroom or electricity.
+#이 집은 현대화가 필요하다. 실내에는 욕실과 전기가 없다.
+
+[100]
+#The house is unsafe since the foundations were undermined by floods.
+#이 집은 안전하지 않은데, 집의 기초가 이미 홍수로 인해 침식되었다.
+
+[101]
+#This house is notable as the poet's birthplace.
+#이 집은 그 시인이 탄생한 곳으로 유명하다.
+
+[102]
+#The cricket match is being sponsored by a cigarette company.
+#이번 크리켓 경기는 담배회사에서 협찬하는 것이다.
+
+[103]
+#The storm did a lot of mischief to the crops.
+#이번 폭풍우는 농작물에 많은 손해를 가져왔다.
+
+[104]
+#The highest mark in the test was nine out of ten.
+#이번 시험의 최고 점수는 10점 만점의 9점이다.
+
+[105]
+#The election was a real non-event,only a few people voted.
+#이번 대선은 정말 썰렁했고, 투표한 사람이 아주 적었다.
+
+[106]
+#The voyage will fetch in all the main ports along the coast.
+#이 항해는 연안의 모든 주요 항구를 포함할 것이다.
+
+[107]
+#The success of the meeting pivots on more than one factor.
+#이번 회의의 성공 여부 결정요인은 하나가 아니다.
+
+[108]
+#The only drawback of the plan is that it costs too much.
+#이번 계획의 유일한 결점은 바로 비용이 너무 많다는 것이다.
+
+[109]
+#We would like to adopt 'payment by installments' for our present transaction.
+#이번 교역에서 우리는 "분할납부" 방식을 채용할 것이다.
+
+[110]
+#The church service is a memorial to those killed in the war.
+#이번 교회예배는 전쟁중 사망한 사람에 대한 기념의식이다.
+
+[111]
+#The minimum pass mark in this examination is 40 out of 1v ad [T].
+#이번 시험의 최저 합격선은 백점 만점의 40점이다.
+
+[112]
+#This test will qualify you to fly an aircraft.
+#이번 시험은 너로 하여금 비행기 조종 자격을 얻게 할 것이다.
+
+[113]
+#The norm in this examination is 70 out of 1v ad [T].
+#이번 시험은 만점이 100점이며, 평균 점수는 70점이다.
+
+[114]
+#His unsuccessful senate run was his lasthurrah ..
+#이번 실패한 참의원 경선은 그가 마지막으로 해보는 것이다.
+
+[115]
+#The accident dashed John's hopes of playing in the football team.
+#이번 사고로 존이 축구팀에 참가하려던 희망은 깨졌다.
+
+[116]
+#The accident served as a warning of what may happen.
+#이번 사고는 발생 가능한 일의 징조이다.
+
+[117]
+#This accident is a repetition of one that happened here three weeks ago.
+#이번 사고는 3주 전 여기에서 발생한 사고의 반복이다.
+
+[118]
+#The event was committed at 3 p.m.on June 12.
+#이 사고는 6월 12일 오후 3시에 발생하였다.
+
+[119]
+#The damage appears to have been mainly caused by the faulty packing of the goods.
+#이번 손해의 주요 원인은 아마 포장불량에 있을 것이다.
+
+[120]
+#The loss could have been heavier,but that was cold comfort.
+#이번 손실은 아주 심한 것은 아니나, 그것은 달갑지 않은 것이다.
+
+[121]
+#This toothache has been nagging at me for days.
+#이번 치통으로 인해 이미 나는 며칠 동안 괴로웠다.
+
+[122]
+#Which driver was at fault in the car crash?
+#이번 충돌사고는 어느 운전자의 잘못인가?
+
+[123]
+#The logic seems sound,but yet it does not convince me.
+#이 논리는 정확한 것 같으나, 나를 신복시킬 수는 없다.
+
+[124]
+#This fence contravenes our common right to pasturage.
+#그 울타리는 우리 목장의 공유권을 침해하였다.
+
+[125]
+#The geological structure of the place speaks of oil underground.
+#이 지방의 지질 구조는 지하에 석유가 있다는 것을 증명한다.
+
+[126]
+#The sight of the place carried her back to her childhood.
+#이곳의 경치는 그녀로 하여금 자신의 어린시절을 생각케 했다.
+
+[127]
+#The place has a warm,clubby atmosphere.
+#이곳은 따뜻한 클럽 같은 분위기가 있다.
+
+[128]
+#This improvement seemed insignificant compared with my failures.
+#이 진전은 나의 실패와 비교해 볼 때 아주 적은 것 같다.
+
+[129]
+#30 per cent of the current in the circuit is not doing useful work.
+#이 전기회로 30%의 전류는 유용한 일을 하지 않고 있다.
+
+[130]
+#The hat and shoes are a perfect match.
+#이 모자와 이 신발은 정말 완벽하게 잘 어울린다.
+
+[131]
+#It was a great loss to us all.
+#이것은 우리 모두에게 있어 크나큰 손실이다.
+
+[132]
+#Everybody here is talking about your brilliant piano performance.
+#여기 모든 사람은 당신의 뛰어난 피아노 연주에 대해 얘기하고 있다.
+
+[133]
+#The ground around here is stony and not very good for farming.
+#이 주위의 땅은 돌이 많기 때문에 농사 짓기에 별로 적합하지 않다.
+
+[134]
+#We're behind here,and everybody has to put out.
+#우리는 이쪽에 낙후되었기 때문에 모두들 노력해야 한다.
+
+[135]
+#The length of the room is 10 metres; it is 10 metres in length.
+#이 방의 길이는 10m이다.
+
+[136]
+#This room may be hired for weddings and other functions.
+#이 방은 결혼을 하거나 기타 모임에 빌려줄 수 있다.
+
+[137]
+#The report is vitiated by continual spelling mistakes.
+#이번 보고서는 계속 나오는 틀린 철자로 손상되었다.
+
+[138]
+#The letters page of this newspaper is a forum for public argument.
+#이 신문의 독자 투고란은 대중의견의 논단이다.
+
+[139]
+#He has a rightful claim to the property; it was his mother's.
+#이 재산은 원래 그의 모친 것으로 그는 합법적인 소유권을 가지고 있다.
+
+[140]
+#One of the perks of this job is that you don't have to work on Tuesdays.
+#이 직업의 특히 좋은 점은 화요일에 출근하지 않아도 되는 것이다.
+
+[141]
+#This information is classified,only a few people can see it.
+#이 정보는 비밀로 겨우 몇 사람만이 볼 수 있다.
+
+[142]
+#This picture conveys the rural atmosphere of that place.
+#이 그림은 그 지방의 시골 분위기를 나타냈다.
+
+[143]
+#The picture looks good against the light wall.
+#이 그림은 옅은 색의 벽 위에 걸려 있어 더 보기 좋다.
+
+[144]
+#The picture looks strange because it has no perspective.
+#이 그림은 투시화법이 적절하지 않아 보기에 이상하다.
+
+[145]
+#The painting looked old but was a recent fake.
+#이 그림은 옛날 그림 같아 보이나, 실은 최근 제작된 모조품이다.
+
+[146]
+#The woman in this painting has a pensive smile.
+#이 그림 속의 여인 얼굴에는 우울한 미소가 보였다.
+
+[147]
+#This fine picture is the pride of my collection.
+#이 아름다운 그림은 나의 수장품 중에서 가장 좋은 것이다.
+
+[148]
+#This painting is Mrs Smith's entry in the competition.
+#이 유화는 스미스 부인의 대회 참가 작품이다.
+
+[149]
+#The spear descends from the Jiangxi-base days.
+#이 긴 창은 강서 근거지 시대에 전해 내려 온 것이다.
+
+[150]
+#This class is too large; we shall have to divide it.
+#이 반은 너무 많아, 우리는 반드시 그것을 작은 반으로 나누어야 한다.
+
+[151]
+#The class consists of 40 boys and girls.
+#이 반은 40명의 남녀 학생으로 이루어졌다.
+
+[152]
+#This report shows the accident to have been the driver's fault.
+#이 보고서에서 사고는 바로 운전기사의 과실임을 보여 주었다.
+
+[153]
+#The city is gradually pushing its arms out into the country.
+#이 도시는 한참 점차 농촌으로 뻗어가고 있다.
+
+[154]
+#This town has a charm you couldn't find in a big city.
+#이 마을은 큰 도시에서 찾을 수 없는 그런 매력이 있다.
+
+[155]
+#The taxi-driver gets a rake-off from the night club.
+#이 택시 운전기사는 나이트 클럽에서 부수입을 얻었다.
+
+[156]
+#The accent of this word falls on the last syllable.
+#이 단어의 액센트는 마지막 음절 위에 있다.
+
+[157]
+#There aren't any good shops in this village; it's just a backwater.
+#이 마을에는 괜찮은 점포는 없고, 정말 두메산골이다.
+
+[158]
+#The village is a stronghold of old customs.
+#이 마을은 옛 풍습이 성행하는 곳이다.
+
+[159]
+#I can't jam another thing into this bag.
+#이 부대에 나는 더 이상 다른 물건을 넣을 수 없다.
+
+[160]
+#What are the principal farm products in this region?
+#이 지역의 주요 농산물은 무엇입니까?
+
+[161]
+#The small symbols on this map denote historic places and museums.
+#이 지도상의 작은 기호는 사적과 박물관을 나타낸다.
+
+[162]
+#The room faces East,so we get the morning sun.
+#이 방은 동향이기 때문에 아침의 태양이 우리를 비춘다.
+
+[163]
+#The room costs fifteen pounds a night,with breakfast thrown in.
+#이 방은 하루 저녁에 15파운드이며 아침 식사를 무료로 제공한다.
+
+[164]
+#The angry man gave her an accusing look.
+#이 분노한 사람은 그녀에게 질책의 눈빛을 보냈다.
+
+[165]
+#The woman was very kind to those children who were farmed out to her.
+#이 여자는 그녀에게 질책의 맡겨진 아이들에게 아주 친절했다.
+
+[166]
+#This task challenges your further effort.
+#이 일은 너로 하여금 더 많은 노력을 하게 한다.
+
+[167]
+#The commune's common reserve fund now amounts to approximately 380,000 yuan.
+#이 회사의 공동 적립금은 현재 이미 38만원에 이른다.
+
+[168]
+#The company has achieved all its goals this year.
+#이 회사는 금년에 이미 모든 투쟁 목표를 실현시켰다.
+
+[169]
+#The first chapter of the story is in this issue of the magazine.
+#이 이야기의 제1장은 이 1기 잡지에 실린다.
+
+[170]
+#The story seems to be cluttered up with a large number of trivial details.
+#이 이야기는 많은 자질구레한 것들이 쌓여 있는 것 같다.
+
+[171]
+#The broadcast came form America by satellite.
+#이 방송은 위성을 통하여 미국에서 전해오는 것이다.
+
+[172]
+#This boiler is rusted out,we cannot use it.
+#이 보일러는 이미 녹이 슬어, 우리는 그것을 사용할 수 없다.
+
+[173]
+#The country has so little coal as to make it necessary to import large quantities.
+#국가의 석탄은 아주 적어 대량을 수입해야 한다.
+
+[174]
+#There is a concentration of industry in the south of the country.
+#이 국가의 남부는 공업 집중 지역이다.
+
+[175]
+#The country's been having freak weather,it's been very hot during the winter.
+#이 나라는 최근 날씨 이상으로 겨울 날씨가 아주 더웠다.
+

@@ -1,0 +1,92 @@
+[1]
+#You have been had on;he was not really ill.
+너는 속았다. 그는 당시에 결코 진짜 병이 난 것이 아니었다.
+
+[2]
+#Try not to make a noise when you go upstairs; the baby's asleep.
+네가 계단을 오를 때 가능하면 소리를 내지 말아라. 아이가 잠을 자고 있다.
+
+[3]
+#When was it that you went to the drug-store for a toothbrush?
+네가 작은 백화점에 가서 칫솔을 산 것이 언제였는가?
+
+[4]
+#As you are unwell,I advise you to put out the washing.
+너는 몸이 좋지 않으니, 내가 너에게 옷을 가지고 나가서 다른 사람이 빨게 하기를 권한다.
+
+[5]
+#YC14TH CHEMICALFERTILIZER PRICE ACCEPTTED L/COPENING
+당신의 14호 전신에서 화학 비료 가격이 신용장 개설을 접수 중이라는 것을 알았습니다.
+
+[6]
+#It was tactless of you to tell him in front of others.
+너는 정말 기지가 없구나. 다른 사람의 면전에 대고 그에게 말을 하다니.
+
+[7]
+#It was careless of you to lose my car keys.
+너는 정말 너무 부주의하구나. 나의 차 열쇠를 잃어버렸다니.
+
+[8]
+#Do you think children should do as they're told?
+너는 아이들이 분부에 따라 일을 처리해야 한다고 생각하니?
+
+[9]
+#Do you walk to work,or do you come by bus?
+너는 걸어서 출근하니 아니면 버스를 타고 출근하니?
+
+[10]
+#Have you been invited to their wedding?
+너는 그들의 결혼식에 참가하는 초청을 받았니?
+
+[11]
+#Did you ever discover who sent you the flowers?
+너는 이 꽃들이 누가 너에게 보낸 것인지를 알았니?
+
+[12]
+#Do you think this selfishness on the part of the feminie is too much ?.
+너는 이기적인 여성은 너무 지나치다고 생각하니?
+
+[13]
+#Have you heard that John has broken off his engagement to Mary?
+너는 존이 그의 메리와의 혼약을 그만두었다는 것을 들었니?
+
+[14]
+#Do you agree that Christmas is too commercialized these days?
+너 역시 지금의 성탄절은 상업적 성향이 너무 짙다고 생각하니?
+
+[15]
+#Have you got any specific proposals to make on payment?
+당신은 지불 방면에 관한 구체적인 건의가 있습니까?
+
+[16]
+#On whose authority did you enter my house?.
+너는 누구의 허가를 통해 나의 집에 들어왔니?
+
+[17]
+#You're the man to choose what to do next.
+당신은 다음 단계에 무슨 일을 하기로 결정된 사람입니다.
+
+[18]
+#Are you here on business or just for pleasure?
+당신은 공무 때문입니까 아니면 단지 소일거리를 위해서 여기에 왔습니까?
+
+[19]
+#Where did you pick up your excellent English?
+당신은 어디에서 이렇게 유창한 영어를 배웠습니까?
+
+[20]
+#How do you reconcile your political principles with your religious beliefs?
+당신은 어떻게 당신의 정치 원칙과 종교 신앙을 조화했습니까?
+
+[21]
+#What kind of work do you do? Are you a salesman?
+당신은 무슨 일을 하십니까? 당신은 판매원입니까?
+
+[22]
+#It was very sporting of you to keep it a secret.
+당신이 이 비밀을 꼭 지키시니, 정말 스포츠맨쉽이 있습니다.
+
+[23]
+#You have a contractual obligation to finish the building this month.
+당신은 계약의 구속을 받으셔서 이번 달에 이 건축을 완성해야 합니다.
+

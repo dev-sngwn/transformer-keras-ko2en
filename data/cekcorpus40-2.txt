@@ -1,0 +1,1080 @@
+[1]
+#Please help me to shift the bookshelf about.
+#내가 책장을 방향을 바꾸게 도와 주세요.
+
+[2]
+#You might help us pull out these weeds.
+#우리가 이런 잡초를 뽑는 것을 도와 주세요,
+
+[3]
+#Please see to it that the packing is suitable for a long sea voyage.
+#장거리 해상 운송에 적합하도록 틀림없이 포장해주세요.
+
+[4]
+#Please offer any quantity that can be supplied from stock.
+#공급가능한 현물 수량의 가격을 알려주십시요.
+
+[5]
+#Please don't chop in as much as you are doing.
+#제발 항상 이렇게 끝없이 말참견을 하지 마세요.
+
+[6]
+#Please remember the waiter.
+#웨이터에게 팁 주는 것을 잊지 마세요.
+
+[7]
+#Please stop carping about the way I dress.
+#제발 나의 복장에 대하여 다시는 끝없이 잔소리를 하지 마세요.
+
+[8]
+#Please don't bother to see me out,I can easily find the way.
+#나를 배웅하러 나올 필요없어요,나는 길을 찾을 수 있어요.
+
+[9]
+#Please don't mix up my papers.
+#내 공문을 섞지 마세요.
+
+[10]
+#Please get off my toes.
+#내 발가락을 밟지 마세요. 
+
+[11]
+#Just lay off me,will you ?
+#자꾸 나를 귀찮게 하지 마세요, 알겠어요?
+
+[12]
+#Please don't wait dinner for us.
+#우리들을 기다리느라 저녁 밥을 늦게 먹지 마세요.
+
+[13]
+#Please don't rake up that old quarrel again.
+#다시는 그 때 오래된 싸움을 꺼내지 마세요.
+
+[14]
+#Please see the pattern he has hammered out.
+#그가 두드려서 펴 만든 이 주형을 봐주세요.
+
+[15]
+#Please find out what time they're coming.
+#그들이 언제 오는지 알아봐주세요.
+
+[16]
+#Will you favor us with a song?.
+#노래 하나 해서 우리에게 들려 줄 수 있어요?
+ 
+[17]
+#Look at it from my point of view.
+#나의 입장에서 이 문제를 보세요.
+
+[18]
+#Please read the names on the list in reverse order.
+#거꾸로 명단의 이름을 읽어주세요.
+
+[19]
+#Please telephone me for an appointment.
+#나에게 전화해서 면담시간을 정하세요.
+
+[20]
+#Please dismiss all doubts about it.
+#이것에 대한 일체의 주저를 깨끗이 버리세요.
+
+[21]
+#Gather round,and I'll tell you a story.
+#모두들 모이세요, 내가 여러분에게 이야기 하나 하겠습니다.
+
+[22]
+#Bring us two sponge cakes.
+#우리에게 두 개의 스폰지 케익을 가져다 주세요.
+
+[23]
+#Please remember me to Mr.Brown.
+#나를 대신하여 브라운 씨에게 안부 전해주세요.
+
+[24]
+#Give my regards to your parents.
+#나를 대신하여 당신의 부모님께 안부 전해주세요.
+
+[25]
+#Please pass on my regards to your parents
+#나를 대신하여 당신의 부모에게 안부 전해주세요.
+
+[26]
+#If you wait a minute,I shall go and find him.
+#좀 기다리세요, 내가 가서 그를 찾아오겠습니다.
+
+[27]
+#Will you let us have particulars of your experience and also give some references?
+#당신의 자세한 경력과 증명서를 보내주세요.
+
+[28]
+#TEL WHN U EXPECT OBTAIN LICENCE -telegraph when do you expect to obtain licence
+#언제 허가증을 얻을 수 있는지 전보를 보내주세요.
+
+[29]
+#TEL L/C AMT AND NME ADVISING BNK -telegraph L/C amount and name of advising bank
+#신용장 금액과 통지 은행의 명칭을 전보로 통지해주세요.
+
+[30]
+#PLS AMND L/C BY TEL OTHRWS CANT SHIP -please amend L/C by telegram,otherwise cannot ship
+#신용장을 개정하여 전보로 보내주세요, 그렇지 않으면 선적할 수 없습니다.
+
+[31]
+#Please let me have a confirmation of this order.
+#우리 회사의 주문서에 대하여 확인을 주십시요.
+
+[32]
+#Deal out five hands of six cards each.
+#카드를 6장씩 5명에게 돌리시오.
+
+[33]
+#Please break down the expenditure.
+#경비의 상세한 항목을 분류해 열거해주세요.
+
+[34]
+#Will you cancel out that charge,please?
+#그 비용을 상쇄해 주시겠습니까?
+
+[35]
+#Please let us have your comments and proposals.
+#당신측의 의견과 건의를 말씀하여 주세요.
+
+[36]
+#Please inform us what special offer you can make us.
+#귀사가 얼마의 특가 우대를 줄 수 있는지 알려주세요. 
+
+[37]
+#Please do not fail to mention in your offer the quantity available and payment terms .
+#제공가능한 수량과 지불방식을 알려주십시요.
+
+[38]
+#Please fill me in on what happened at the meeting.
+#나에게 회의에서 있던 상황을 알려주세요.
+
+[39]
+#Please let us know when you are coming.
+#우리에게 당신이 언제 오는지 알려주세요.
+
+[40]
+#Please advise me which book I should read first.
+#나에게 어떤 책을 선택하여 읽어야하는지 알려주세요.
+
+[41]
+#Please clue me in on his girlfriend.
+#나에게 그의 여자 친구와 관련된 일을 얘기해 주세요.
+
+[42]
+#Tell me if there is anything wrong with this watch.
+#나에게 이 시계에 무슨 고장이 있는지 알려주세요.
+
+[43]
+#Please let us know about your trade fairs(exhibitions).
+#당신측의 무역박람회 계획을 알려주십시요.
+
+[44]
+#Please inform us your terms for our study.
+#우리가 연구검토할 수 있도록 당신측의 조건이 어떠한지 알려주십시요.
+
+[45]
+#Your sending me the information will be greatly appreciated.
+#관련된 상황을 알려주시면 너무 감사하겠습니다.
+
+[46]
+#All aboard !
+#여러분 모두 배에 오르세요. 출발합니다.
+
+[47]
+#Put another cassette in the cassette recorder.
+#카셋트에 다른 카셋트 테이프를 바꾸세요.
+
+[48]
+#firstclass ticket to Birmingham,please.
+#버밍햄행 1등표를 사주세요.
+ 
+[49]
+#Give me a general idea of the work.
+#저에게 이 일의 대략을 소개해주세요.
+
+[50]
+#Please give us the policy rates for F.P.A.coverage.
+#우리 측의 손해보험의 보험비율을 주세요.
+
+[51]
+#Give me a broad idea of your plans.
+#나에게 당신의 계획을 개괄하여 주세요.
+
+[52]
+#Could I have extension 45,please?
+#나에게 구내전화 45번을 연결해주세요.
+
+[53]
+#Please put me through to the office of the Party Committee.
+#나에게 당위원회 사무실 전화를 연결하여 주세요.
+
+[54]
+#I'll have a double scotch,please.
+#나에게 스카치 위스키 2인분을 주세요.
+
+[55]
+#Whisky and soda water,please.
+#나에게 소다수를 탄 위스키 한 잔 주세요.
+
+[56]
+#A quarter of sweets please.
+#나에게 사탕 4분의 1파운드를 주세요
+
+[57]
+#A fifth of whiskey,please.
+#나에게 위스키 5분의 1갤론을 주세요.
+
+[58]
+#I'd like a bowl of tomato soup,please.
+#나에게 토마토 스프를 한 그릇 주세요.
+
+[59]
+#Can you please let me have a chequebook of 30 cheques?
+#나에게 30페이지 짜리의 수표책을 하나 주세요.
+
+[60]
+#A loaf of sliced bread,please.
+#나에게 잘 썰어진 빵 하나 주세요.
+
+[61]
+#Please keep an eye on the baby for me.
+#내가 이 아이를 볼 수 있게 해주세요.
+
+[62]
+#Please show me the way to the shops.
+#나에게 상점 가는 길을 알려주세요.
+
+[63]
+#Please quote the price on CIF Shanghai basis.
+#귀사가 CIF 상해 가격을 알려주세요.
+
+[64]
+#Your sending me the departmental form for admission will be much appreciated.
+#당신께서 신청표를 보내주면 무척 고맙겠습니다.
+
+[65]
+#Buy our reputed whiskey.
+#우리 회사의 좋은 호평을 받고 있는 위스키를 구매하여 주십시요.
+
+[66]
+#Please send them here without further delay.
+#더 이상 지체하지 말고 바로 사람을 파견해주십시오.
+
+[67]
+#Please let me have a confirmation of this order,and oblige.
+#이번 주문의 확인서를 보내주시면 좋겠습니다. 감사합니다.
+
+[68]
+#Please send us your Sales Confirmation in duplicate.
+#판매 확인서 양식 2부를 보내주십시오.
+
+[69]
+#Don't forget to do it.Please remember!
+#제발 기억하고 이 일을 잊지 마세요.
+
+[70]
+#Please empty the drippage from under the refrigerator.
+#냉장고 아래에 고인 물을 쏟아 버리세요.
+
+[71]
+#Please keep us informed about the developments of it.
+#상황을 수시로 보고해 주면 고맙겠습니다.
+
+[72]
+#Please give my greetings to your mother.
+#나의 축하를 당신의 어머니에게 드리세요.
+
+[73]
+#Speak up,please,I can't hear you.
+#좀 크게 말해 주세요. 들리지 않아요.
+
+[74]
+#Please ask the neighbors not to make so much noise.
+#이웃에게 이렇게 소란스럽게 하지 말라고 요구하세요.
+
+[75]
+#Please get Mr.Smith on the phone.
+#스미스씨에게 전화받으라고 하세요.
+
+[76]
+#Please accept my sincere congratulations upon your success.
+#당신의 성공에 대한 나의 진심어린 축하를 받아주세요.
+
+[77]
+#Thanks from me and my dad.
+#제발 나와 부친의 사의를 받아주세요.
+
+[78]
+#Please accept my deepest sympathy.
+#나의 가장 깊은 위로를 받아주세요.
+
+[79]
+#Please uncord the box.
+#그 상자의 끈을 푸세요.
+
+[80]
+#Give us this day our dailybread.
+#오늘도 우리에게 일용할 양식을 주십시요.
+
+[81]
+#Please sign and return one copy for our file at your earliest convenience.
+#우리 측이 조사 검열할 때 볼 수 있도록 한 부를 사인하여 보내주십시오.
+
+[82]
+#DO UTMOST STTLE CLAIMLEASTLOSS -please do utmost settle claim (at) least loss
+#최소한의 손해배상으로 클레임을 해결하도록 힘을 쓰시오.
+
+[83]
+#Try and get here before 4 o'clock.
+#가능한 4시 전에 여기에 오세요.
+
+[84]
+#Take a look at the excurrent canal of certain sponges.
+#약간의 해면의 유출관을 보세요.
+
+[85]
+#Look at the versicolor skies.
+#색의 변화가 무궁무진한 하늘을 보세요.
+
+[86]
+#Give generously to the charity.
+#관대하게 자선사업에 기부해주십시오.
+ 
+[87]
+#Kindly confirm receipt of this order.
+#이번 오더를 수령했음을 확인하여 주십시오.
+
+[88]
+#Give me two teas and a coffee,please.
+#차 두 잔과 커피 한 잔 주세요.
+
+[89]
+#Two ciders and a beer,please.
+#사과주 두 잔과 맥주 한 잔을 주세요.
+
+[90]
+#Please send me word of your new life in Brazil.
+#당신의 브라질에서의 새로운 생활을 나에게 편지로 알려주세요.
+
+[91]
+#Please send by freight at once the following.
+#바로 아래 화물을 선적하기 바랍니다.
+
+[92]
+#Please understand that we are unable to make you an offer.
+#우리가 당신에게 오퍼를 낼 수 없음을 이해해주시기 바랍니다.
+
+[93]
+#An electrician was called in to see to the electric generator.
+#전기수리공을 불러서 이 발전기를 검사하고 고치다.
+
+[94]
+#Two singles to London,please.
+#런던 가는 편도표 2장을 주세요.
+
+[95]
+#Would you please call round tomorrow or the day after?
+#내일이나 모레 놀러오시겠습니까?
+
+[96]
+#Please come to discuss all details tomorrow morning.
+#내일 오전에 와서 자세한 것을 토론하세요.
+
+[97]
+#Would you please pull down the blinds?
+#당신이 커튼을 내려주시겠습니까?
+
+[98]
+#Will you kindly pass me that book?
+#당신이 그 책을 나에게 보내주시겠습니까?
+
+[99]
+#Will you nail down that loose board in the floor?
+#그 느슨한 판자를 못으로 잘 고정시켜 주시겠습니까?
+
+[100]
+#will you pass me the sugar ?
+#당신이 설탕을 나에게 전해주시겠습니까?
+
+[101]
+#Will you find me my tennis racket?.
+#당신이 나의 테니스 라켓을 찾아 줄 수 있습니까?
+
+[102]
+#Will you please read us this poem?
+#이 시를 우리에게 읽어주시겠습니까?
+
+[103]
+#Can you sort these clothes into two piles,please?
+#당신이 이 옷을 두 무더기로 만들어 주시겠습니까?
+
+[104]
+#Do you mind giving this table a wipe?.
+#당신이 이 탁자를 닦아주시겠습니까?
+
+[105]
+#Can you help me lift it,please?
+#당신이 나를 도와 이 물건을 들어 올려 주시겠습니까?
+
+[106]
+#Would you be kind enough to write this letter for me?.
+#당신이 나를 도와서 이 편지를 써 주시겠습니까?
+
+[107]
+#Would you please help me pack up?
+#당신이 나를 도와 여장을 정리해주시겠습니까?
+
+[108]
+#Come to the party and meet some new people.
+#당신이 모임에 참가하여 몇몇 새 친구를 사귀세요.
+ 
+[109]
+#Please plug in the radio.
+#당신이 라디오의 플러그를 꽂아주세요.
+
+[110]
+#Please fetch me a cup of tea from the kitchen.
+#당신이 주방에 가서 차 컵을 나에게 가져다 주세요.
+
+[111]
+#You may rest assured that we shall do everything possible on our side.
+#당신은 안심하세요, 우리는 바로 모든 가능성을 다할 것입니다.
+
+[112]
+#Will you please show me where to find her?
+#당신이 나에게 어디에서 그녀를 찾을 수 있는지 말해주십시요.
+
+[113]
+#Take your aunt a cup of tea,please.
+#당신이 이모에게 차 한 잔을 가져다 주세요.
+
+[114]
+#Would you please hold the door open for me?
+#당신이 나에게 문을 열고 있어 주세요.
+
+[115]
+#Could you give me ↔1 in silver,please?
+#당신이 나에게 1파운드 짜리 은 동전을 주시겠습니까?
+
+[116]
+#You are requested to give a performance.
+#당신이 저에게 프로그램 하나를 연주해주시겠습니까?
+
+[117]
+#Will you make me a cup of coffee?
+#당신이 저에게 커피 한 잔 끓여주시겠습니까?
+
+[118]
+#Look through the papers,will you?.
+#당신이 그 서류를 한번 훑어봐 주십시요.
+
+[119]
+#Can you give us an indication of your price?
+#당신들이 예상가격을 하나 제시하여 주시기 바랍니다.
+ 
+[120]
+#You are kindly requested to 'accept' this draft by signing on the back.
+#당신들이 어음 뒷면에 '인수'라고 사인을 해주십시요.
+
+[121]
+#Will you be here at ten o'clock tomorrow?
+#내일 10시에 여기에 올 수 있습니까?
+
+[122]
+#Come and see us one evening.
+#당신 편한대로 하루 저녁 우리를 보러 오세요.
+
+[123]
+#Will you give me a hint what I ought to do?.
+#우리가 무엇을 하는 것이 좋은 지 말씀해주세요.
+
+[124]
+#Please carry this trunk for me.
+#당신이 나를 위하여 이 트렁크를 옮겨주세요.
+
+[125]
+#unhook me,would you ?.
+#당신이 나를 위하여 후크를 풀어주시겠습니까?
+
+[126]
+#Would you buy me the morning paper?.
+#당신이 나를 위하여 조간신문을 사주시겠습니까?
+
+[127]
+#Will you get me a ticket ?= Will you get a ticket for me?.
+#당신이 나를 위하여 표 한 장을 사주세요.
+
+[128]
+#reserve yourself for the match this afternoon.
+#당신은 오후의 경기를 위하여 기운찬 정신과 기개를 가세요.
+
+[129]
+#Please "accept" this draft by signing on the back.
+#당신이 어음의 뒷면에 '인수'라고 사인해주세요.
+
+[130]
+#Please fix your room up in the morning.
+#당신은 아침에 당신의 방을 잘 정리하세요.
+
+[131]
+#Could you tell me the article number of the product?
+#당신이 나에게 제품번호를 나에게 알려줄 수 있습니까?
+
+[132]
+#Will you hand the papers around?.
+#당신이 서류를 모두에게 전달해 주시겠습니까?
+
+[133]
+#Please rest assured that repayment is ensured.
+#돈을 갚는 것은 보장할 테니 당신은 안심하세요.
+
+[134]
+#Will you please let us have an idea of your price?
+#당신이 당신측의 가격을 소개해주시겠습니까?
+
+[135]
+#We must ask you to treat this communication in perfect confidence.
+#당신은 반드시 본 보고에 대하여 확실히 비밀을 지켜주세요.
+
+[136]
+#Tell me exactly where she lives.
+#나에게 그녀가 어디에 사는지 정확히 알려주세요.
+
+[137]
+#Please let me take a share in the fund.
+#나에게 일부 자금을 분담하게 하세요.
+
+[138]
+#Please let us buy you a drink!
+#우리가 당신에게 음료를 사게 하세요.
+
+[139]
+#inquire within.
+#본문을 참고하세요.
+
+[140]
+#Hang on a minute; I'm just coming.
+#잠깐 기다리세요.제가 바로 가겠습니다.
+
+[141]
+#Just a moment; I want to speak to you.
+#잠깐 기다리세요.나는 당신에게 말을 하려고 합니다.
+
+[142]
+#Try to describe exactly what happened.
+#발생한 상황을 확실히 묘사하도록 방법을 모색하세요.
+
+[143]
+#Please demonstrate how the machine works.
+#이 기계를 어떻게 조작하는지 시범을 한 번 보여주세요.
+
+[144]
+#Do it to please me.
+#내 의견대로 이 일을 하세요.
+
+[145]
+#Please explain where to begin and how to do it.
+#어디에서 시작하고 어떻게 하는지 설명해주세요.
+
+[146]
+#I wish you to send me a stove suitable for a sitting room.
+#나에게 거실용 난로를 하나 보내주세요.
+
+[147]
+#Please inform us by return whether we may book your order at these revised prices.
+#우리가 이 바뀐 가격에서 주문을 할 수 있는지 여부를 저희에게 빨리 알려주십시오.
+
+[148]
+#Please feel free to make suggestions.
+#자유롭게 당신의 건의를 하기 바랍니다.
+
+[149]
+#Ask them to check the information out for me.
+#그들에게 나를 대신하여 이 정보를 검토하게 요구하시오.
+
+[150]
+#Please give me your frank opinion.
+#나에게 당신의 솔직한 의견을 주세요.
+
+[151]
+#Please remind him that he must be here early.
+#그에게 반드시 일찍 여기에 오도록 일깨우세요.
+
+[152]
+#Please remind me that I must call him up before noon.
+#나에게 정오 전에 그에게 전화할 것을 일깨워주세요.
+
+[153]
+#present my compliments to Mr.Smith.
+#나를 대신하여 스미스씨에게 안부를 전해주세요.
+
+[154]
+#Do let me/us know if you can make it.
+#우리에게 당신이 할 수 있는지를 알려주세요.
+
+[155]
+#Please play us your favorite record.
+#우리에게 당신이 좋아하는 레코드를 틀어주세요.
+
+[156]
+#Please also cover the Risk of Breakage for this consignment.
+#우리 이 화물에 파손보험을 들어주십시오.
+
+[157]
+#I beg your pardon.Is this seat taken?
+#실례합니다. 여기 자리 있습니까?
+
+[158]
+#When can the contract be ready for signature?
+#계약은 언제 사인을 할 수 있습니까?
+
+[159]
+#Have you got a contract in French?
+#계약서가 프랑스어로 된 것이 있습니까?
+
+[160]
+#May we go home,please?
+#우리는 집에 돌아 갈 수 있습니까?
+
+[161]
+#Can we go home now please?
+#지금 우리는 집에 가도 됩니까?
+
+[162]
+#Do not disturb!
+#방해하지 마세요!
+
+[163]
+#Will the next witness take the stand?
+#다음 증인은 자리로 가 증언해 주시겠습니까?
+
+[164]
+#Plwase credit me with some sense!
+#내가 사리 밝은 것을 믿어주십시요.
+
+[165]
+#Try to conjure up a picture of life in ancient Egypt.
+#고대 이집트 생활의 그림을 한 폭 상상해 보십시요.
+
+[166]
+#Please find how to do it.
+#어떻게 그 일을 할 것인지 생각해보십시요.
+
+[167]
+#Pass along the bus,please.
+#입구에서 밀치락 달치락하지 말고 차 안으로 들어가세요.
+
+[168]
+#Please put down your name and address.
+#당신의 이름과 주소를 적어주세요.
+
+[169]
+#Please write down your full name and address.
+#당신의 이름과 주소를 적어주세요.
+
+[170]
+#A fair average sample is to be drawn and sent to us.
+#몇 종류의 중간 등급의 견본을 골라 보내주세요.
+
+[171]
+#Please write your name in block letters.
+#블록 글자체로 당신의 이름을 적어주세요.
+
+[172]
+#Please write your name in blockletters.
+#블록 글자체로 당신의 이름을 적어주세요.
+
+[173]
+#Fasten these sheets of paper together with a clip,please.
+#클립으로 이 종이를 집어주세요.
+
+[174]
+#Please make the shipment in early July or even earlier if possible.
+#7월 초 혹은 더 일찍 선적하여 주세요.
+
+[175]
+#Please reconfirm before you leave.
+#출발하기 전에 다시 한 번 확인하세요.
+
+[176]
+#Please deliver this package against payment of cost.
+#화물대금을 받은 후에 이 소포를 주세요.
+
+[177]
+#ARRNG WTH BNK TO RELEASE DOCMNTS -arrange with bank to release documents
+#은행과 연락하여 증빙서류를 제출하여 주십시오.
+
+[178]
+#Please accept our thanks advance.
+#먼저 우리 측의 사의를 받아주세요.
+ 
+[179]
+#Please forgive me.I didn't mean to start an argument.
+#용서하세요, 나는 본래 말다툼을 시작하려던 것은 아니었습니다.
+
+[180]
+#Please excuse Kate's absence from school this morning.
+#케이트가 오늘 아침 학교에 결석한 것에 대하여 죄송합니다.
+
+[181]
+#excuse me for what I said to you yesterday.
+#내가 어제 당신에게 한 말을 용서해주세요.
+
+[182]
+#Allow me to congratulate you on your success.
+#나로 하여금 당신의 성공을 축하하게 해주세요.
+
+[183]
+#Have another drink and another of these cakes.
+#한 잔 더 마시고, 케익 한 조각 더 드세요.
+
+[184]
+#Would you please enlarge a little on your suggestions?
+#당신의 건의를 더 자세히 말씀해주시겠습니까?
+
+[185]
+#Please reply to me before the end of this month.
+#이번 달 말 전 까지 저에게 대답주세요.
+
+[186]
+#Please credit ↔10 to my account.
+#나의 통장에 10파운드를 넣어주세요.
+
+[187]
+#Fill in your name on this cheque.
+#이 수표에 당신의 이름을 적어주세요.
+
+[188]
+#Please speak to the subject under discussion.
+#토론의 문제에 맞추어 발언하세요.
+
+[189]
+#Please locate the nearest emergency exit.
+#가장 가까운 비상구 위치를 가르쳐 주세요.
+
+[190]
+#Please note how the machine is operated.
+#이 기계를 어떻게 작동하는지 주의하세요.
+
+[191]
+#Please note that this is a matter over which we can exercise no control.
+#우리 측이 이 사실에 대하여 어쩔 수 없음을 주의하세요.
+
+[192]
+#Attend to what is told to you.
+#내가 말하는 것을 주목하세요.
+
+[193]
+#Please see that these parcels are sent off at once.
+#이런 소포는 반드시 바로 발송해야함을 주의하세요.
+
+[194]
+#Tell him from me that he should have phoned me.
+#그에게 바로 내게 전화해야 한다고 전해주세요.
+
+[195]
+#Please read the handout carefully.
+#이 발표 자료를 자세히 보세요.
+
+[196]
+#Jean's parents refused their consent to her marriage.
+#진의 부모는 그녀의 혼사에 동의하지 않았다.
+
+[197]
+#I tried to comfort Jean after her mother's death.
+#나는 진의 어머니가 돌아가신 후에 힘껏 진을 위로하였다.
+
+[198]
+#Jonse.J-O-N-S-E.
+#Jonse.J-O-N-S-E.
+
+[199]
+#Mrs.Jones,nee,nee Adams.
+#존스 부인, 친정 성 아담.
+
+[200]
+#Mrs Jones is a self-confessed alcoholic.
+#존스 부인은 알콜 중독자라고 자인한다.
+
+[201]
+#Professor Jones taught history to our class z last term.
+#존스교수는 지난 학기에 우리 반에서 역사를 가르쳤다.
+
+[202]
+#Mr.Jones can read French pretty well.
+#존스씨는 불어를 매우 잘 읽을 줄 안다.
+
+[203]
+#Mr and Mrs Jones have three daughters.
+#존스씨 부부에게는 딸이 셋 있다.
+
+[204]
+#Mr Jones will be back shortly.
+#존스씨는 바로 돌아올 것이다.
+
+[205]
+#Mr.Jonesspeaks three languages.
+#존스씨는 삼 개 국어를 한다.
+
+[206]
+#Mr Jones has a long history of heart trouble.
+#존스씨는 장기간의 심장병력이 있다.
+
+[207]
+#Jones really belted his son!
+#존스는 진짜로 그의 아들을 혁대로 때렸다! 
+
+[208]
+#Jean's always been very conscious that she annoys many people.
+#진은 줄곧 그녀가 많은 사람을 화나게 하였음을 의식하였다.
+
+[209]
+#The autumnal breeze caused the heaped-up leaves to unpile.
+#가을바람이 쌓인 나뭇잎을 흩어뜨렸다.
+
+[210]
+#Autumn is a good season for travel  .
+#가을은 여행하기에 좋은 계절이다.
+
+[211]
+#The ball went through the window and landed on the table.
+#볼이 창문에서 날아 들어와 탁자 위에 떨어졌다.
+
+[212]
+#The ball rebounded from the wall and I caught it.
+#볼이 벽위에서 다시 튀어나와 내가 그것을 잡았다.
+
+[213]
+#The crowd cheered as the teams arrived.
+#야구팀이 출장할 때 관중은 환호를 하였다.
+
+[214]
+#The ball didn't quite go into the goal,but it was a near miss.
+#볼이 골문으로 들어가지 않았으나, 거의 조금 차이였다.
+ 
+[215]
+#The prisoner was tortured to make him admit to the crime.
+#죄수는 고문으로 자백을 하였다.
+
+[216]
+#The prisoner's chains clanked as he walked.
+#죄수가 걸어갈 때 쇠사슬이 달그랑거리며 소리를 냈다.
+
+[217]
+#The prisoner was brought in under armed grard.
+#죄수는 무장된 호위병에게 압송되어 들어왔다.
+
+[218]
+#What differentiates these two species?.
+#이 두 품종을 구별하는 것은 무엇입니까?
+
+[219]
+#break out charts in the wheel house
+#조타실 안의 해도를 꺼내다.
+ 
+[220]
+#Where are you going to work when you qualify ?.
+#자격을 취득한 후에 당신은 어디에서 일할 생각입니까?
+
+[221]
+#There is an offchance of getting the money back.
+#그 돈을 되찾는 다는 희망은 거의 없다.
+
+[222]
+#Go and wash that filth off your hands.
+#가서 당신 손의 더러운 물질을 씻어 버리세요.
+  
+[223]
+#go to market
+#장에 가서 물건을 사다.
+
+[224]
+#How about seeing something interesting?.
+#재미있는 것을 보러가는 것이 어때요?
+
+[225]
+#See if those fellows want some beer.
+#가서 그 젊은이들이 맥주를 원하는지 보세요.
+
+[226]
+#Go and see who is there and what he wants.
+#가서 누가 거기에 있고 그가 무엇을 하려는지 보세요.
+
+[227]
+#Christmas Day was a Wednesday last year.
+#작년의 성탄절은 수요일이었다.
+
+[228]
+#What time did you use to get up last year?
+#작년에 당신은 보통 몇 시에 일어났어요?
+ 
+[229]
+#The nation's consumption of coal increased last year.
+#작년에 전국의 석탄소모량은 증가하였다.
+
+[230]
+#The cost of living increased by 10n[U] last year.
+#작년 생활비용은 10%가 올랐다.
+
+[231]
+#Where were you during the month of April last year?
+#작년 4월에 당신은 어디에 있었습니까?
+
+[232]
+#He came up last year to read Modern History.
+#작년에 그는 대학에 들어가 근대사를 공부하였다.
+
+[233]
+#They were building a dam last year.
+#작년에 그들은 큰 댐을 건설하고 있었다.
+
+[234]
+#The rate of inflation was 10n[U] last year.
+#작년 통화팽창률은 10%였다.
+
+[235]
+#I introduced John to Mary last year.
+#작년에 나는 존을 메리에게 소개시켜 주었다.
+
+[236]
+#My income reached five figures last year.
+#작년에 나의 수입은 5위가 되었다.
+
+[237]
+#We visited a house on the river last year.
+#작년에 우리들은 하상의 인가를 방문하였다.
+
+[238]
+#We grossed $100,000 last year.
+#작년에 우리는 모두 10만 달러를 벌었다.
+
+[239]
+#That stream dried up last summer.
+#작년 여름에 그 하천을 말랐다.
+
+[240]
+#We had heavy rains last summer.
+#작년 여름에 여러번 큰 비가 내렸다.
+
+[241]
+#The volume of annual exported craftwork to Japan dropped drastically last year.
+#작년에 일본에 파는 공예품 수량은 대폭 줄었다.
+ 
+[242]
+#It's difficult to conceive of travelling to the moon.
+#달에 가는 여행은 상상하기 어렵다.
+
+[243]
+#Rights are inseparable from duties.
+#권리와 의무는 불가분의 것이다.
+
+[244]
+#All the rooms were forespoken weeks ago.
+#방은 전부 몇 주 전에 예약이 되었다.
+
+[245]
+#All the figures have been properly carried forward.
+#모든 장부 계산은 이미 완벽하게 이월시켰다.
+
+[246]
+#The house rose to the dancers.
+#관객 모두가 일어서 댄서들에게 박수를 쳤다.
+
+[247]
+#The whole city had the jitters from the bombing.
+#성 전체 주민은 모두 폭격으로 인하여 안절부절해하였다.
+
+[248]
+#The whole ship was dimmed out in no time.
+#배 전체는 바로 반 등화관제를 실시하였다.
+
+[249]
+#The whole village was frozen in for a week.
+#마을 전체 사람들은 마을 안에서 일주일 동안 얼음에 갇혔었다.
+
+[250]
+#The whole nation rallied to the government.
+#전 국민이 정부 주위에 단결하였다.
+
+[251]
+#The national railways have now been electrified.
+#전국철로는 현재 이미 전기화되었다.
+
+[252]
+#hang on the speaker's lips
+#온 정신을 집중하여 강사가 하는 말을 듣다.
+
+[253]
+#The oppressed people all over the world long for liberation.
+#전 세계의 압박당하는 사람들은 모두 해방을 갈망한다.
+
+[254]
+#The whole world wants peace.
+#전 세계 사람들은 모두 평화를 희망한다.
+
+[255]
+#The whole workforce is on strike.
+#전체 노동자들은 파업중이다.
+
+[256]
+#The whole school knows it.
+#학교 전체가 그 일을 안다.
+
+[257]
+#Lack of food may stunt the growth.
+#음식 결핍은 발육을 방해할 수 있다.
+
+[258]
+#Lack of courage cost them their freedom,and finally their lives.
+#용기의 부족은 그들로 하여금 자유를 잃게 하였다.
+
+[259]
+#Lack of data will bog the work down,
+#자료의 부족은 이 작업을 막다른 길에 이르게 할 것이다.
+
+[260]
+#Lack of money handicapped him badly.
+#자금 부족은 그에게 아주 불리하다.
+
+[261]
+#Make sure the machine's connected properly.
+#기계가 맞게 전원을 연결했는지를 보장해라.
+
+[262]
+#assuredly he didn't mean that.
+#확실히 그는 그런 의사가 없었다.
+
+[263]
+#He's not a bit like that really.
+#확실히 그는 조금도 그렇지 않다.
+
+[264]
+#"Nescafe" --- the perfect cup of coffee.
+#네스카페 커피의 맛은 아주 좋다.
+
+[265]
+#The skirt comes just below my knees.
+#치마가 겨우 나의 무릅을 덮는다.
+
+[266]
+#The monkeys swung through the branches of the trees.
+#원숭이들이 나무 가지 사이 여기저기에서 흔들었다.
+
+[267]
+#The mountains towered over the town in the valley.
+#산들이 높이 솟아 계곡의 마을을 둘러 싸고 있다.
+
+[268]
+#Among the hills is a great,newly built reservoir.
+#산들 사이에 새로 건설한 큰 댐이 있다.
+
+[269]
+#The crowd overflowed into the hall.
+#군중들이 차고 넘쳐서 복도까지 비집고 올라왔다.
+
+[270]
+#The crowd scattered in fright.
+#군중들은 놀라서 사방으로 흩어졌다.
+

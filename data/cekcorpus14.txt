@@ -1,0 +1,4000 @@
+[1]
+#The music began to play.
+#음악이 퍼져 나오기 시작했다.
+
+[2]
+#Has the music been dubbed in?
+#음악이 녹음되었습니까?
+
+[3]
+#Music was the love of his life.
+#음악은 그 사람 일생의 취미였다.
+
+[4]
+#Music was taught me by her.
+#음악은 그녀가 나에게 가르쳐주었다.
+
+[5]
+#Music is my middlename.
+#음악은 나의 특기이다.
+
+[6]
+#Music is a complement to a party.
+#음악은 파티의 보충물이다.
+
+[7]
+#The drain has been landed up.
+#지하의 도랑이 막혔다.
+
+[8]
+#intrigue against a government
+#음모가 정부를 반대한다.
+
+[9]
+#A plot is afoot.
+#음모가 있다.
+
+[10]
+#The shadows slowly merged together.
+#그림자가 천천히 합쳐진다.
+
+[11]
+#The shadow intermingled with the sunshine.
+#그림자가 햇빛과 교차된다.
+
+[12]
+#Shadows flickered on the wall.
+#그림자가 담에서 흔들린다.
+
+[13]
+#Silver burnishes well.
+#은은 광이 잘 난다.
+
+[14]
+#The bank isn't open yet.
+#아직 은행이 영업을 시작하지 않았다.
+
+[15]
+#Too much drinking is harmful to health.
+#술을 과도하게 마시면 건강에 해롭다.
+
+[16]
+#Drinks are on me!
+#음료수는 내가 살게!
+
+[17]
+#The engine will soon heat up.
+#엔진이 아주 빨리 열을 받았다.
+
+[18]
+#The engine was labouring.
+#엔진이 어렵게 돌아가고 있다.
+
+[19]
+#The engine began playing up.
+#엔진이 고장나기 시작했다.
+
+[20]
+#The engines drive the ship.
+#엔진이 배를 움직인다.
+
+[21]
+#The engine overheated.
+#엔진이 열을 과도하게 받았다.
+
+[22]
+#The engine refused to start.
+#엔진이 어떻게 해도 움직이지 않는다.
+
+[23]
+#It's no use making a mystery of it.
+#숨겨도 소용없다.
+
+[24]
+#The Indians encompassed the fortress.
+#인디안들이 요새를 포위했다.
+
+[25]
+#The Indian elephant is smaller than the African elephant.
+#인도 코끼리는 아프리카 코끼리보다 작다.
+
+[26]
+#The value of sterling has risen.
+#파운드의 가치가 평가절상하였다.
+
+[27]
+#The British court is in London.
+#영국의 궁정은 런던에 있다.
+
+[28]
+#The national emblem of England is a rose.
+#영국의 국장은 장미이다.
+
+[29]
+#The British sovereign reigns but does not govern.
+#영국 군주는 군림하나 통치하지는 않는다.
+
+[30]
+#The English drink a lot of beer.
+#영국 사람들은 맥주를 아주 많이 마신다.
+
+[31]
+#Britain is an island.
+#영국은 섬나라이다.
+
+[32]
+#England trades with China.
+#영국이 중국과 무역을 한다.
+
+[33]
+#England has many ports.
+#영국에는 많은 항구 도시가 있다.
+
+[34]
+#English is not too difficult to learn.
+#영어는 결코 그렇게 배우기 어렵지 않다.
+
+[35]
+#The English language is rife with maxims.
+#영어에는 격언이 많다.
+
+[36]
+#The cherry trees were in full blossom.
+#벚꽃이 한창 피었다.
+
+[37]
+#A baby is not a moral being.
+#아이는 선악을 분별하지 못한다.
+
+[38]
+#A baby cannot dress itself.
+#아기는 혼자서 옷을 입지 못한다.
+
+[39]
+#The baby boom swelled the population.
+#베이비 붐이 인구를 증가시켰다.
+
+[40]
+#The baby sank into a deep sleep.
+#아기가 잠에 깊이 빠졌다.
+
+[41]
+#The baby is well muffled up.
+#아이는 잘 감싸야 한다.
+
+[42]
+#The baby can't count yet.
+#아기는 아직 숫자를 세지 못한다.
+
+[43]
+#The baby's in a cranky mood today.
+#아기가 오늘은 계속 울고 보챈다.
+
+[44]
+#Babies should never be overclothed.
+#아이에게 옷을 너무 많이 입히면 안 된다.
+
+[45]
+#& The baby is crying for mother.
+#아기가 울고 소리지르며 엄마를 찾는다.
+
+[46]
+#Has the baby gone off yet?
+#아이가 잠들었습니까?
+
+[47]
+#A baby crawls on allfours.
+#아이가 팔다리로 기어 다닌다.
+
+[48]
+#The baby smeared the wall with jam.
+#아이가 잼으로 벽을 온통 더럽혔다.
+
+[49]
+#The baby was christened by the priest.
+#아이가 목사님께 세례를 받았다.
+
+[50]
+#The baby is picking at the bedclothes.
+#아기가 침대 시트를 손으로 당긴다.
+
+[51]
+#The baby opened its eyes.
+#아이가 눈을 크게 떴다.
+
+[52]
+#The baby licked the jam off .
+#아기가 잼을 핥았다.
+
+[53]
+#The baby is calling for his mother.
+#아이가 소리치며 엄마를 찾는다.
+
+[54]
+#Babies have soft skin.
+#아기 피부는 부드럽다.
+
+[55]
+#The baby went to sleep.
+#아이가 잠들었다.
+
+[56]
+#Babies kick to exercise their legs.
+#아기들은 발을 차는 것으로 다리를 단련한다.
+
+[57]
+#The baby is six months old.
+#아이가 태어난 지 여섯 달이 되었다.
+
+[58]
+#The hawk pounced on the little bird.
+#매가 갑자기 작은 새에게로 달려들었다.
+
+[59]
+#The eagle opened out its wings and flew high up into the sky.
+#매가 날개를 펴고 높이 난다.
+
+[60]
+#It's up to you to decide whether to go or not.
+#갈 것인지 안 갈 것인지를 네가 결정해야 한다..
+
+[61]
+#institute of applied chemistry
+#응용화학연구소
+
+[62]
+#Applicants flooded the office.
+#응모자들이 사무실로 한꺼번에 몰렸다.
+
+[63]
+#John wrote that his barracks was a lively were inspected daily.
+#병영은 매일 검열을 받는다.
+
+[64]
+#Sales tax
+#영업세 혹은 판매세
+
+[65]
+#knock up a good score
+#좋은 점수로 이겼다.
+
+[66]
+#Admirers surrounded the star.
+#영화 팬들이 그 스타를 둘러쌌다.
+
+[67]
+#Shadows become longer in the evening.
+#그림자는 저녁 무렵에 길어진다.
+
+[68]
+#hardwood floors look beautiful.
+#하드우드 마루는 아주 아름답다.
+
+[69]
+#I was lumbered with carrying the books.
+#억지로 나에게 책을 옮기게 했다.
+
+[70]
+#set sb.up on the throne
+#누군가를 옹호하여 왕으로 세우다.
+
+[71]
+#The servant opened the door and admitted me.
+#하인이 문을 열어 나를 들어가게 했다.
+
+[72]
+#The servants live belowstairs.
+#하인은 아래층에서 산다.
+
+[73]
+#A flow of oil poured all over the floor.
+#넘쳐 나온 기름이 바닥에 흘렀다.
+
+[74]
+#Never cut yourself off from the masses.
+#영원히 군중을 떠나지 말라.
+
+[75]
+#Always do what is right.
+#언제나 정당한 일을 한다.
+
+[76]
+#A brave man does not flinch from danger.
+#용감한 사람은 위험을 두려워하지 않는다.
+
+[77]
+#fight up against the aggressors
+#용감하게 침략자와 싸운다.
+
+[78]
+#Courage is a virtue.
+#용기는 일종의 미덕이다.
+
+[79]
+#Wrap it up in newspaper.
+#신문 용지로 그것을 싸라.
+
+[80]
+#Board the windows up.
+#널빤지로 창문을 막는다.
+
+[81]
+#board up the road
+#판자로 길을 막다.
+
+[82]
+#Clean the windows with a cloth.
+#헝겊으로 창문을 닦는다.
+
+[83]
+#Use the cloth to absorb the ink.
+#천으로 잉크를 빨아들인다.
+
+[84]
+#Mash the potatoes with a fork.
+#포크로 감자를 으깬다.
+
+[85]
+#run on diesel oil
+#디젤을 연료로 하다.
+
+[86]
+#Hammer the nails in.
+#망치로 못을 박아 넣다.
+
+[87]
+#Use a little more white of egg.
+#달걀의 흰자위를 좀 더 많이 사용해라.
+
+[88]
+#The tree was cut down with an axe.
+#도끼로 나무를 찍어 넘기다.
+
+[89]
+#boom a ship off from the wharf
+#장대로 배를 부두로부터 밀어내다.
+
+[90]
+#The user has temporarily suspended purchases.
+#사용자가 이미 구입을 중지했다.
+
+[91]
+#] Say it with flowers.
+#꽃으로 당신의 마음을 표현하세요.
+
+[92]
+#Stones are bedded in mortar or concrete.
+#모르타르 시멘트로 돌을 쌓는다.
+
+[93]
+#Cut it with the scissors.
+#가위로 자른다.
+
+[94]
+#Give it a shove!
+#힘껏 떠밀다.
+
+[95]
+#Give your nose a good blow.
+#힘껏 코를 풀어라.
+
+[96]
+#cut at the wolf with a sickle
+#낫으로 이리를 내리쳤다.
+
+[97]
+#brace up an old building with balks of timber
+#들보로 오래된 건물을 견고히 보강했다.
+
+[98]
+#keep down a horse with the curb
+#말굴레로 말을 제어한다.
+
+[99]
+#pack out the sleeves with cotton
+#소매에 목화를 채우다.
+
+[100]
+#ink out a few lines
+#잉크로 몇 줄을 지워 없애다.
+
+[101]
+#Do it your own way.
+#너 자신의 방법으로 해 나가라.
+
+[102]
+#shave some wood off with a plane
+#대패로 나무를 깎아내다.
+
+[103]
+#stamp out enemy positions by artillery fire
+#포화로 적군의 진지를 파괴한다.
+
+[104]
+#jab at sb.with one's fist
+#누군가를 주먹으로 맹렬히 공격한다.
+
+[105]
+#rub your feet with the ointment.
+#연고를 발에 발라 봐라.
+
+[106]
+#hose down a garden
+#호스로 정원에 물을 준다.
+
+[107]
+#3 divides into 15 5 times.
+#15를 3으로 나누면 5가 남는다.
+
+[108]
+#Loop the rope round the gate.
+#끈으로 대문을 두르다.
+
+[109]
+#sponge off one's face
+#젖은 스펀지로 얼굴을 닦다.
+
+[110]
+#fill in sunken places with stones
+#돌로 울퉁불퉁한 것을 평평하게 메우다.
+
+[111]
+#It's against the rules to pick up the ball.
+#손으로 공을 잡는 것은 규칙에 어긋난다.
+
+[112]
+#lash out at sb.with a stick
+#누군가를 지팡이로 몹시 때린다.
+
+[113]
+#hedge a piece of land in
+#토지에 나무 울타리를 두르다.
+
+[114]
+#sleep off a headache
+#수면으로 두통을 치료한다.
+
+[115]
+#set out a wall with pictures
+#그림으로 벽을 장식한다.
+
+[116]
+#cover in a grave
+#흙으로 묘혈을 봉했다.
+
+[117]
+#laugh away one's embarrassment
+#곤혹스러움을 웃음으로 넘기다.
+
+[118]
+#dish up old arguments in a new form
+#새로운 형식으로 옛날 논거를 그럴듯하게 꺼내다.
+
+[119]
+#brush away tears with one's sleeve
+#소매로 눈물을 닦는다.
+
+[120]
+#Use your noodle!
+#머리를 좀 써라!
+
+[121]
+#Use your noddle.
+#머리를 좀 써라!
+
+[122]
+#Use the old bean.
+#머리를 좀 써라!
+
+[123]
+#wrap it up in paper .
+#종이로 그것을 싼다.
+
+[124]
+#lean on one's elbows
+#팔꿈치로 받치고 있다.
+
+[125]
+#back off the wall with bricks
+#기와로 담을 한 배경
+
+[126]
+#go over from the defensive to the offensive
+#방어를 진공으로 바꾸다.
+
+[127]
+#H been ill,he stayed at home.
+#병이 나서 그는 집에 남았다.
+
+[128]
+#The postman has left this letter for you.
+#우체부가 너에게 이 편지를 배달해 주었다.
+
+[129]
+#The postman hasn't been yet.
+#우체부가 아직 오지 않았다.
+
+[130]
+#The postman asked me to sign for the letter.
+#우체부가 나에게 사인을 하고 편지를 받아가라고 했다.
+
+[131]
+#The postman always comes at 2 o'clock.
+#우체부는 늘 두 시에 온다.
+
+[132]
+#Postal charges have risen again.
+#우편요금이 또 올랐다.
+
+[133]
+#Has the mail come in yet?
+#우편물이 도착했습니까?
+
+[134]
+#The post hasn't come yet.
+#우편물이 아직 오지 않았다.
+
+[135]
+#The mail is delivered twice daily.
+#우편물은 매일 두 차례씩 배달된다.
+
+[136]
+#The post office is handy.
+#우체국이 이 부근에 있다.
+
+[137]
+#The post office is five hunder meters away from here.
+#우체국은 여기에서 500미터 떨어진 곳에 있다.
+
+[138]
+#The post office is conveniently situated.
+#우체국은 편리한 곳에 위치하고 있다.
+
+[139]
+#It is beside the station.
+#우체국은 정거장 옆에 있다.
+
+[140]
+#Where is the post office?
+#우체국이 어디에 있습니까?
+
+[141]
+#Stamps are issued by the government.
+#우표는 정부에서 발행한다.
+
+[142]
+#Uranium is a lithophile element.
+#우라늄은 친석원소이다.
+
+[143]
+#Jews were persecuted by the Nazis.
+#유태인은 나치들에게 핍박을 받았다.
+
+[144]
+#Oil doesn't mix with water.
+#기름은 물과 융합하지 않는다.
+
+[145]
+#The oil tanker soon got out of sight.
+#유조선이 곧 보이지 않았다.
+
+[146]
+#Oil was oozing through .
+#기름이 갈라진 틈으로 배어 나온다.
+
+[147]
+#The oil-lamp gives a soft glow.
+#기름 램프가 따뜻한 빛을 발한다.
+
+[148]
+#The oil lamp burnt out.
+#기름 램프의 기름이 다 타버렸다.
+
+[149]
+#Fat swam on the surface of the soup.
+#국에 기름이 뜬다.
+
+[150]
+#Oil and water don't mix.
+#기름과 물은 섞이지 않는다.
+
+[151]
+#Oil and water separate .
+#기름과 물은 분리된다.
+
+[152]
+#Fried foods disagree with me.
+#기름에 지진 음식은 나에게 맞지 않는다.
+
+[153]
+#The oil wells turned into a raging inferno.
+#석유정이 활활 타오르는 불바다가 되었다.
+
+[154]
+#The paint peeled off the wall.
+#페인트가 담에서 벗겨져 나갔다.
+
+[155]
+#Paint is cheaper when you buy in quantity.
+#페인트를 대량으로 구입하면 비교적 싸다.
+
+[156]
+#The paint is still tacky so don't touch it.
+#페인트가 아직 마르지 않았으니 만지지 마세요.
+
+[157]
+#The paint is peeling off.
+#페인트가 벗겨지고 있다.
+
+[158]
+#The paint is scaling off.
+#페인트가 벗겨져 나간다.
+
+[159]
+#The oil has perished the car tyres.
+#차 타이어가 기름에 부식되었다.
+
+[160]
+#Oil and water separate out.
+#기름과 물은 서로 섞이지 않는다.
+
+[161]
+#Oil feeds into an engine.
+#엔진에 기름을 공급하다.
+
+[162]
+#Oil has an aptitude to burn.
+#기름은 연소되기 쉽다.
+
+[163]
+#Oil will float on water.
+#기름은 결국 물위에 뜬다.
+
+[164]
+#The parade has got by.
+#퍼레이드 행렬이 지나갔다.
+
+[165]
+#What is the heat of the water in the swimming pool?
+#수영장 물의 온도가 어떻습니까?
+
+[166]
+#Swimming is good to health.
+#수영은 건강에 유익하다.
+
+[167]
+#There are eighty.
+#80개가 있다.
+
+[168]
+#Half the boys are already here.
+#남자 아이들의 반은 이미 도착했다.
+
+[169]
+#Something is betterthan nothing.
+#있는 것이 없는 것보다는 낫다.
+
+[170]
+#There was a scant spoonful of sugar.
+#한 스푼이 채 안 되는 설탕이 있다.
+
+[171]
+#There were no fewer than a thousand cars.
+#차가 천 대나 있었다.
+
+[172]
+#There was food and drink aplenty.
+#충분한 음식과 음료가 있다.
+
+[173]
+#There was beer in abundance.
+#맥주가 풍족하게 있다.
+
+[174]
+#There is heaps of time.
+#시간이 충분히 있다.
+
+[175]
+#Where there are magnetic forces,there are poles.
+#자력이 있는 곳이 바로 극이다.
+
+[176]
+#There are many new cars around.
+#대량의 새 차가 시장에 나와 있다.
+
+[177]
+#Some people have naturally frizzy hair.
+#어떤 사람은 나면서부터 곱슬머리이다.
+
+[178]
+#Some people believe that ghosts exist.
+#어떤 사람은 귀신이 존재한다고 믿는다.
+
+[179]
+#You're wanted on the telephone.
+#너에게 전화 왔다.
+
+[180]
+#Something dropped to the floor.
+#물건을 바닥에 떨어뜨렸다.
+
+[181]
+#There are twenty.
+#20개가 있다.
+
+[182]
+#A covered bridge traverses the stream.
+#지붕을 씌운 다리가 계곡에 가로 놓여 있다.
+
+[183]
+#There's a fine apple for you!
+#너에게 줄 사과가 있다.
+
+[184]
+#A man came to grind the knives and scissors.
+#어떤 사람이 칼과 가위를 갈려고 다가온다.
+
+[185]
+#There are books and books.
+#각양각색의 책이 있다.
+
+[186]
+#source materials referring to cattle breeding
+#가축 사육에 관한 자료
+
+[187]
+#There were numerous painting stacked against the walls.
+#많은 그림이 벽에 쌓여 있다.
+
+[188]
+#There are a lot of possibilities.
+#아주 많은 가능성이 있다.
+
+[189]
+#There were lots of people mooching about the streets.
+#길에 많은 사람이 빈둥빈둥 돌아다닌다.
+
+[190]
+#Don't be an oyster.
+#할 말 있으면 빨리 해라.
+
+[191]
+#opportunity makes the thief.
+#틈탈 기회가 있으면 그로부터 도적이 생긴다.
+
+[192]
+#several were absent.
+#몇 분이 결석하셨다.
+
+[193]
+#Several pages have stuck together.
+#여러 페이지가 같이 붙었다.
+
+[194]
+#Ring the bell in an emergency.
+#위급한 상황일 때 벨을 누르십시오.
+
+[195]
+#There are ninety.
+#90개가 있다.
+
+[196]
+#There are ninety-nine.
+#99개가 있다.
+
+[197]
+#There is a tendency toward increased armament.
+#군비를 증강하는 추세에 있다.
+
+[198]
+#Come over and see us sometime.
+#시간 있으면 우리들을 만나러 오세요.
+
+[199]
+#come along and see me some time.
+#한가할 때 나를 만나러 오세요.
+
+[200]
+#There is reason to believe that he is dishonest.
+#그가 불성실하다고 믿는 이유가 있다.
+
+[201]
+#There are sixty.
+#60개가 있다.
+
+[202]
+#Is there any beer going?.
+#맥주 있습니까?
+
+[203]
+#Is there any chance whatever ?.
+#어떤 기회가 있습니까?
+
+[204]
+#You are wanted on the telephone.
+#당신에게 전화 왔어요.
+
+[205]
+#There are some letters for you.
+#당신에게 온 편지 몇 통이 있습니다.
+
+[206]
+#We get women studying law.
+#어떤 여자가 법률을 공부하고 있다.
+
+[207]
+#There are seventy.
+#70개가 있다.
+
+[208]
+#Like father,like son.
+#그 아버지에 그 아들.
+
+[209]
+#like father,like son.
+#그 아버지에 그 아들.
+
+[210]
+#like master,like man.
+#그 주인에 그 하인.
+
+[211]
+#Somebody has given me a cold.
+#누군가가 나에게 감기를 옮겼다.
+
+[212]
+#Somebody has broken the chair.
+#누군가가 의자를 망가뜨렸다.
+
+[213]
+#Somebody heaved a stone at us.
+#누군가가 우리에게 돌을 던졌다.
+
+[214]
+#Somebody has spread the news.
+#누군가가 이 소식을 퍼뜨렸다.
+
+[215]
+#There's somebody on the telephone for you.
+#누군가가 너에게 전화를 했다.
+
+[216]
+#Someone knocked me on the head.
+#누군가가 나의 머리를 때렸다.
+
+[217]
+#Someone shouted to me.
+#누군가 큰소리로 나를 불렀다.
+
+[218]
+#Somebody will find that secret out.
+#누군가가 그 비밀을 발견할 것이다.
+
+[219]
+#Are you being served?
+#누가 당신을 대접했습니까?
+
+[220]
+#Somebody hammered at the door.
+#누군가가 계속 문을 두드렸다.
+
+[221]
+#Someone has left the window open.
+#누가 창문을 안 잠그고 그냥 갔다.
+
+[222]
+#An attempt was made on his life.
+#누군가가 그를 암살하려고 기도했다.
+
+[223]
+#Be human!
+#좀 인정스러워 봐라.
+
+[224]
+#Somebody has left the water running.
+#누군가가 물을 계속 흐르게 했다.
+
+[225]
+#He was discommended for his negligence.
+#어떤 사람은 그가 일을 아주 대강한다고 말한다.
+
+[226]
+#Someone's ripped off my car!
+#누군가가 내 차를 훔쳐 갔어!
+
+[227]
+#Would anybody like a drink?
+#음료수 마시고 싶은 사람 있어요?
+
+[228]
+#The police were given a tip-off.
+#누군가가 경찰에게 신고했다.
+
+[229]
+#There's somebody who wants to speak to you.
+#누군가가 너와 이야기하고 싶어 한다.
+
+[230]
+#he would be made to wait for me.
+#누군가가 그로 하여금 나를 기다리게 했다.
+
+[231]
+#Will anyone play me?.
+#누가 나와 시합하기를 원합니까?
+
+[232]
+#someone is ringing the doorbell.
+#누가 초인종을 누르고 있다.
+
+[233]
+#There is roguery afoot.
+#누군가가 음모를 꾸미고 있다.
+
+[234]
+#There was a treble knock at the door.
+#누군가가 문에서 세 번 두드렸다.
+
+[235]
+#There was a furious knocking at the door.
+#누군가가 맹렬하게 문을 두드리고 있다.
+
+[236]
+#Somebody was pounding at the door.
+#누군가가 심하게 문을 두드리고 있다.
+
+[237]
+#Someone was knocking at the door.
+#누군가가 문을 두드리고 있다.
+
+[238]
+#Is anybody listening?
+#누가 듣고 있습니까?
+
+[239]
+#Someone is speaking to you.
+#누군가가 너와 이야기하고 있다.
+
+[240]
+#Someone is walking on my grave.
+#누군가가 내 묘지 위에서 걷고 있다.
+
+[241]
+#Three people were present.
+#세 사람이 출석했다.
+
+[242]
+#There were three abstentions.
+#세 표가 기권이다.
+
+[243]
+#There are thirty.
+#30개가 있다.
+
+[244]
+#Three chickens have hatched out.
+#병아리 세 마리가 벌써 알을 깠다.
+
+[245]
+#There are three ways by which heat travels.
+#열이 전파되는 세 가지 방법이 있다.
+
+[246]
+#There are eighteen.
+#18개 있다.
+
+[247]
+#There are twelve.
+#12개 있다.
+
+[248]
+#There are ten to choose from.
+#10개 중에서 선택할 수 있다.
+
+[249]
+#There are sixteen.
+#16개가 있다.
+
+[250]
+#There were 10 competitors in the race.
+#10명의 선수가 경주에 참가한다.
+
+[251]
+#There are thirteen.
+#13개 있다.
+
+[252]
+#There are fourteen.
+#14개 있다.
+
+[253]
+#There are fifteen.
+#15개 있다.
+
+[254]
+#Sometimes I go to the movies.
+#때때로 나는 영화를 보러 간다.
+
+[255]
+#Is there something to eat?.
+#뭐 먹을 만한 것이 있습니까?
+
+[256]
+#What peoples have populated America?
+#어느 민족이 미국으로 이민합니까?
+
+[257]
+#There are forty.
+#40개 있다.
+
+[258]
+#It is as well with it as without it.
+#그것이 있든 없든 매한가지다.
+
+[259]
+#She's a useful person to have around.
+#그녀가 곁에 있어서 많이 도와줄 수 있다.
+
+[260]
+#Certain ships required to be reengine ..
+#몇몇 배는 엔진을 교체해야 한다.
+
+[261]
+#Some words are hard to define.
+#어떤 단어들은 정의를 내리기가 매우 어렵다.
+
+[262]
+#Some epicontinental minerals are very useful.
+#몇몇 대륙은 광물이 매우 유용하다.
+
+[263]
+#Some moths simulate dead leaves.
+#어떤 나방의 의태는 죽은 이파리다.
+
+[264]
+#Some nations have diminished in population.
+#몇몇 국가의 인구는 이미 감소했다.
+
+[265]
+#Some flowers have strong smells.
+#어떤 꽃들은 짙은 향기가 있다.
+
+[266]
+#Some diseases are present by heredity.
+#어떤 질병들은 유전적이다.
+
+[267]
+#Some diseases are spread by flies.
+#어떤 질병들은 파리가 전파한다.
+
+[268]
+#Some birds can talk.
+#어떤 새들은 말을 할 줄 안다.
+
+[269]
+#Some people have compared books to friends.
+#어떤 사람들은 책을 친구에 비유한다.
+
+[270]
+#Some people are very hard to satisfy.
+#어떤 사람들은 비위를 맞추기가 매우 어렵다.
+
+[271]
+#Some peoples are an annoyance.
+#어떤 사람들은 사람을 아주 성가시게 한다.
+
+[272]
+#Some people have an antipathy to snakes.
+#어떤 사람들은 뱀을 아주 싫어한다.
+
+[273]
+#There are those who think that the time has come.
+#어떤 사람들은 시간이 되었다고 여겼다.
+
+[274]
+#Some people grind their teeth during their sleep.
+#어떤 사람들은 잠잘 때 이를 간다.
+
+[275]
+#Some people are always complaining.
+#어떤 사람들은 항상 불평하고 있다.
+
+[276]
+#Some stores close on Sundays.
+#어떤 상점들은 일요일에 휴업한다.
+
+[277]
+#Some sankes can swim.
+#어떤 뱀들은 수영을 할 줄 안다.
+
+[278]
+#Some snakes shed their skin each year.
+#어떤 뱀들은 매년 허물을 벗는다.
+
+[279]
+#some fruit is sour.
+#어떤 과일은 시다.
+
+[280]
+#Some objects do not allow light to go through them.
+#어떤 물체는 빛을 통과하지 못한다.
+
+[281]
+#Some children are afraid of the dark.
+#어떤 아이들은 어둠을 무서워한다.
+
+[282]
+#Some children came running.
+#어떤 아이들은 뛰어오고 있다.
+
+[283]
+#Some fish are found at the bottom of the sea.
+#어떤 물고기들은 해저에서 볼 수 있다.
+
+[284]
+#It's never too late to mend.
+#잘못을 고칠 생각이 있으면 늦음을 개의치 않는다.
+
+[285]
+#There were many absentees from the meeting.
+#많은 사람들이 회의에 참석하지 않았다.
+
+[286]
+#There are numbers who believe it.
+#많은 사람들이 그 일을 믿는다.
+
+[287]
+#There was a lot of competition for the job.
+#많은 사람들이 이 일을 경쟁한다.
+
+[288]
+#Many problems are still undealt with.
+#많은 문제가 여전히 처리되지 않고 있다.
+
+[289]
+#There are a hundred.
+#100개가 있다.
+
+[290]
+#There are a million.
+#백만 개가 있다.
+
+[291]
+#There was a large crowd to send him off.
+#많은 사람들이 그를 배웅한다.
+
+[292]
+#There are a thousand.
+#천 개가 있다.
+
+[293]
+#someday you'll understand.
+#언젠가 당신은 이해하게 될 것이다.
+
+[294]
+#Where there's a will,there's a way.
+#뜻만 있으면 일은 반드시 성취된다.
+
+[295]
+#Thank you for the trouble I am causing you.
+#심려를 끼쳐 드렸습니다. 재차 감사 드립니다.
+
+[296]
+#The right opposes the new taxes.
+#우익은 새로운 세금을 징수하는 것에 반대한다.
+
+[297]
+#Another railway carriage has been hitched on.
+#차량 한 대를 또 연결했다.
+
+[298]
+#It's coming round to Christmas again.
+#다시 성탄절을 지낼 것이다.
+
+[299]
+#growth is rapid in infancy.
+#유아기의 성장은 상당히 빠르다.
+
+[300]
+#A young dog is called a puppy.
+#어린 개는 강아지라고 부른다.
+
+[301]
+#A young duck is called a duckling.
+#어린 오리도 새끼오리라고 부른다.
+
+[302]
+#blink your headlights on and off.
+#차의 헤드라이트를 깜박거리게 해라.
+
+[303]
+#Soon public opinion underwent a complete transformation.
+#여론이 단번에 완전히 바뀌었다.
+
+[304]
+#The remainder of the books are in the box.
+#남은 책은 상자 안에 있다.
+
+[305]
+#Fish disagrees with me.
+#물고기는 나에게 맞지 않는다.
+
+[306]
+#The fish thrashed about in the net.
+#물고기가 그물 안에서 마구 뛰어오른다.
+
+[307]
+#The fish were caught in the meshes of the net.
+#물고기가 그물에 걸려들었다.
+
+[308]
+#Fish live in water.
+#물고기는 수중에서 생활한다.
+
+[309]
+#Fish are cold-blooded creatures.
+#물고기는 냉혈동물이다.
+
+[310]
+#The fish bit at the bait.
+#물고기는 미끼를 꽉 물었다.
+
+[311]
+#The fish snapped at the bait.
+#물고기가 낚시 미끼를 꽉 물었다.
+
+[312]
+#The fish is a bit off.
+#물고기는 좀 신선하지 않다.
+
+[313]
+#The fisherman transfixed the shark with a harpoon.
+#어부는 작살로 상어를 꾹 찔렀다.
+
+[314]
+#The fishermen cast their nets into the sea.
+#어부는 어망을 대해에 쳤다.
+
+[315]
+#The fishermen draw in the net.
+#어부들은 망을 거둬 들였다.
+
+[316]
+#The rain broke up the roads.
+#비가 노면을 휩쓸었다.
+
+[317]
+#The rain fell continuously.
+#비가 쉬지 않고 내리고 있다.
+
+[318]
+#The rain kept up all night.
+#비가 밤새도록 그치지 않는다.
+
+[319]
+#The rain beat against the window.
+#비가 창을 때린다.
+
+[320]
+#Drops of rain fell on the window.
+#빗방울이 창문 위에 떨어진다.
+
+[321]
+#Rain drops were spattering on the doorsteps.
+#빗방울이 문 계단 위에 흩어져 떨어진다.
+
+[322]
+#The rain will hold up very soon.
+#비가 곧바로 멈추려고 한다.
+
+[323]
+#The grass is spongy after the rain.
+#비온 뒤의 풀밭은 부드럽고 습윤하다.
+
+[324]
+#The roads are greasy after the rain.
+#비온 뒤의 도로는 아주 미끄럽다.
+
+[325]
+#The ground dried up quickly after the rain.
+#비가 온 후 땅이 금방 마를 것이다.
+
+[326]
+#The rainy season alternates with the dry season.
+#우계와 한계는 돌아가며 교체된다.
+
+[327]
+#The rainy season has set in.
+#우계가 이미 다가왔다.
+
+[328]
+#It began to rain hard.
+#비가 심하게 내리기 시작했다.
+
+[329]
+#The rain slacked off.
+#비가 천천히 멈추고 있다.
+
+[330]
+#The rain drove in his face .
+#비가 그의 얼굴을 심하게 때렸다.
+
+[331]
+#The rain is beating against the windows.
+#비가 창문을 심하게 때리고 있다.
+
+[332]
+#Rain whipped against the window.
+#비가 창을 심하게 때린다.
+
+[333]
+#The rain pelted against the window.
+#비가 심하게 창을 때렸다.
+
+[334]
+#The rain was lash1ing hard against the door.
+#비가 심하게 문을 때리고 있다.
+
+[335]
+#The rain came down in buckets.
+#비가 억수같이 내린다.
+
+[336]
+#The rain prevented us from going there.
+#비가 우리를 그곳에 갈 수 없게 했다.
+
+[337]
+#The rain has slacked to a drizzle.
+#비의 기세가 약해져서 보슬비로 되었다.
+
+[338]
+#The rain splashed on the window.
+#빗물이 창문에 튀어 떨어진다.
+
+[339]
+#The rain began to leak in.
+#빗물이 새어 들기 시작한다.
+
+[340]
+#The rain whipped the windows.
+#빗물이 창문을 세게 때린다.
+
+[341]
+#The rain beat against the windows.
+#빗물이 창문을 친다.
+
+[342]
+#The rain sank into the parched ground.
+#빗물이 바짝 마른 토지에 스며든다.
+
+[343]
+#The rain has gone through my coat.
+#빗물이 내 상의를 흠뻑 적셨다.
+
+[344]
+#The rain has rotted the roof beams.
+#빗물이 들보를 부패시켰다.
+
+[345]
+#The rain soaked through the tear in the umbrella.
+#빗물이 우산의 틈새를 뚫고 들어온다.
+
+[346]
+#The rain has soaked into the ground.
+#빗물이 벌써 땅 속으로 스며들어갔다.
+
+[347]
+#The rain was dripping from the eaves.
+#빗물이 처마에서 한 방울씩 떨어지고 있다.
+
+[348]
+#The wet weather may continue.
+#비오는 날씨는 지속될 것이다.
+
+[349]
+#The rain stopped suddenly.
+#비가 갑자기 멈추었다.
+
+[350]
+#The rain redoubled.
+#비가 아주 심하게 내렸다.
+
+[351]
+#how it rains!
+#비가 아주 많이 내리네!
+
+[352]
+#How the rain is coming down!
+#비가 정말 많이 내리는구나!
+
+[353]
+#How long has it been raining?
+#비가 얼마나 오랫동안 내렸나요?
+
+[354]
+#It has stopped raining.
+#비는 이미 그쳤다.
+
+[355]
+#The rain swelled the rivers.
+#비는 강물을 높이 붇게 한다.
+
+[356]
+#It is raining harder than ever.
+#비가 내릴수록 굵어진다.
+
+[357]
+#It began to rain in earnest.
+#비가 정말 많이 내린다.
+
+[358]
+#The rain is really pelting down.
+#비가 한창 맹렬하게 내리고 있다.
+
+[359]
+#It is raining hard.
+#비가 한창 아주 심하게 내리고 있다.
+
+[360]
+#The grass was greener after the rain.
+#비온 뒤에 풀밭은 더욱 청록색이다.
+
+[361]
+#sort with thieves
+#도적과 한패가 되다.
+
+[362]
+#cast off one's son
+#아들과 관계를 끊다.
+
+[363]
+#bolster up an evil doer
+#나쁜 놈들과 공모하다.
+
+[364]
+#break with one's family
+#가정과 왕래를 끊다.
+
+[365]
+#break off diplomatic relations with a country
+#어느 나라와 외교 관계를 단절하다.
+
+[366]
+#even up debts with sb.
+#누구와 채무를 결산하다.
+
+[367]
+#enter into an alliance with sb.
+#누군가와 동맹을 맺다.
+
+[368]
+#being with you makes me happy.
+#당신과 함께 있는 것이 나를 유쾌하게 한다.
+
+[369]
+#break with a friend
+#친구와 절교하다.
+
+[370]
+#The antithesis of death is life.
+#죽음과 반대되는 것은 삶이다.
+
+[371]
+#settle with a foreign firm
+#외국 상사와 거래를 상담하다.
+
+[372]
+#conspire with a gang of criminals
+#범죄자들과 결탁하다.
+
+[373]
+#What is cosmological finitism ?.
+#우주 유한론이 무엇입니까?
+
+[374]
+#Language is peculiar to mankind.
+#언어는 인류의 독특한 점이다.
+
+[375]
+#Languages are her strong point.
+#언어는 그녀가 잘하는 것이다.
+
+[376]
+#More haste,less speed.
+#서두르고자 하면 이루지 못한다.
+
+[377]
+#The jailer connived at the escape from prison.
+#옥리는 죄인의 탈옥을 눈감아 주었다.
+
+[378]
+#The bathroom is down those stairs.
+#욕실은 바로 계단 아래에 있다.
+
+[379]
+#speculate on the result of a competition
+#시합의 결과를 예측하다.
+
+[380]
+#Please accept our thanks in advance for your usual kind attention.
+#여러분의 적당한 처리에 미리 감사 드립니다.
+
+[381]
+#Fall out!
+#제자리에서 해산해라!
+
+[382]
+#Something is wrong at the point of origin.
+#원래 고장이 있다.
+
+[383]
+#pardon me for interrupting you.
+#제가 당신을 방해한 것을 양해하십시오.
+
+[384]
+#pardon me my clumsiness.
+#나의 우둔함을 양해하십시오.
+
+[385]
+#forgive me for being late.
+#제가 늦은 것을 양해하십시오.
+
+[386]
+#pardon my contradicting you.
+#제가 당신에게 반박한 것을 양해하십시오.
+
+[387]
+#Excuse my scrawl.
+#저의 조잡한 글씨를 양해하십시오.
+
+[388]
+#Raw material is what we are in need of.
+#원료는 우리가 필요로 하는 것이다.
+
+[389]
+#The materials have been ground up into a fine powder.
+#원료는 이미 분말로 빻아졌다.
+
+[390]
+#The log was rotting away.
+#원목이 썩고 있다.
+
+[391]
+#The field was interspersed with stands of trees.
+#벌판에 나무들이 수놓아져 있다.
+
+[392]
+#The field was blanketed with snow.
+#벌판에 눈이 덮여져 있다.
+
+[393]
+#Principles often clash with interests.
+#원칙은 항상 이익과 충돌한다.
+
+[394]
+#institute of atomic energy
+#원자력연구소.
+
+[395]
+#The garden's full of weeds.
+#정원 안에 잡초가 무성하다.
+
+[396]
+#The employees threatened the management with a strike.
+#고용자들은 파업으로 경영자측을 위협한다.
+
+[397]
+#The disc went spinning away into the sky.
+#원반이 회전하면서 공중으로 날아들었다.
+
+[398]
+#Apes branched from man's family tree.
+#원숭이는 인류 족속에서 나왔다.
+
+[399]
+#A gun went off in the distance.
+#먼 곳에서 총소리가 한방 들렸다.
+
+[400]
+#Drums were pounding in the distance.
+#먼 곳에서 북소리가 동동 하고 울리고 있다.
+
+[401]
+#The thunder rumbled in the distance.
+#먼 곳에서 천둥이 우르릉 울린다.
+
+[402]
+#Guns whomped in the distance.
+#먼 곳에서 포성이 우르릉 울린다.
+
+[403]
+#Bad luck to you !
+#악운이나 당해라!
+
+[404]
+#God send you better health!
+#하느님께서 당신이 더욱 건강하도록 보우해 주시기를 빕니다.
+
+[405]
+#God bless you!
+#하느님께서 당신에게 복을 내려주시길 빕니다.
+
+[406]
+#May God send help!
+#하느님께서 도와주시길 기원합니다!
+
+[407]
+#May God send us rain!
+#하느님께서 저희에게 비를 주시길 빕니다!
+
+[408]
+#Peace to his ashes !
+#그의 영혼이 편히 잠드시기를 빕니다!
+
+[409]
+#May his soul rest in peace!
+#그의 영혼이 편히 쉬기를 빕니다.
+
+[410]
+#It is no use quarreling with Providence.
+#하늘을 원망해 보았자 아무 소용없다.
+
+[411]
+#The garden is covered with weeds.
+#정원은 잡초가 무성하다.
+
+[412]
+#The yard is fenced in.
+#정원은 울짱으로 둘러쳤다.
+
+[413]
+#John entered himself for the examination.
+#존은 시험에 등록했다.
+
+[414]
+#John was conditioned in chemistry.
+#존은 화학 추가 시험을 허락 받았다.
+
+[415]
+#John was within a hairbreadth of death.
+#존은 하마터면 죽을 뻔했다.
+
+[416]
+#John has sold off his business.
+#존은 그의 점포를 양보했다.
+
+[417]
+#Pressure of work caused John to crack .
+#존은 일에 억눌려 쓰러졌다.
+
+[418]
+#John and Mary have broken off relations.
+#존은 메리와 절교했다.
+
+[419]
+#John and Paul are enemies.
+#존과 폴은 원수이다.
+
+[420]
+#John exchanged books with Peter.
+#존은 피터와 책을 바꾸었다.
+
+[421]
+#John is quite dissimilar to his brother.
+#존은 그의 형과 전혀 닮지 않았다.
+
+[422]
+#John or I am to blame.
+#존이나 나는 질책 받아 마땅하다.
+
+[423]
+#John's in a temper today.
+#존이 오늘 화를 내고 있다.
+
+[424]
+#Is John repeating?.
+#존은 유급했습니까?
+
+[425]
+#John is easy to please.
+#존은 쉽게 만족한다.
+
+[426]
+#John is accomplished in music.
+#존은 음악을 잘한다.
+
+[427]
+#John lives in a dream.
+#존은 꿈속에서 산다.
+
+[428]
+#John's a regular caller.
+#존은 단골손님이다.
+
+[429]
+#John is a clilnking good fellow.
+#존은 호인이다.
+
+[430]
+#John is the quintessence of good manners.
+#존은 예의의 전범이다.
+
+[431]
+#John is commonly called Jack.
+#존은 통상 잭이라고 불린다.
+
+[432]
+#John has a very cool head.
+#존은 머리가 대단히 냉정하다.
+
+[433]
+#John arrived out of the blue.
+#존이 갑자기 왔다.
+
+[434]
+#John are descended from noble ancestors.
+#존은 명문 자손이다.
+
+[435]
+#John asked Grace to marry him.
+#존은 그레이스에게 구혼했다.
+
+[436]
+#John hitched up his trousers.
+#존은 위쪽으로 바지를 걷어 올렸다.
+
+[437]
+#John wants to play chess.
+#존은 바둑을 두려고 한다.
+
+[438]
+#Has John arrived yet?
+#존이 이미 도착했습니까?
+
+[439]
+#John has converted to Buddhism.
+#존은 이미 불교에 귀의했다.
+
+[440]
+#John's taken to drinking a lot.
+#존은 이미 술을 즐기는 게 중독이 되었다.
+
+[441]
+#John was confined to bed for a week with his cold.
+#존은 감기로 일주일간 침대에 누워 있다.
+
+[442]
+#John's back home once more.
+#존은 또 집에 돌아갔다.
+
+[443]
+#John was prepared for that kind of question.
+#존은 그의 아내와 이별했다.
+
+[444]
+#John got the worst of the argument.
+#존은 변론에서 실패했다.
+
+[445]
+#John is always tagging after his big sister.
+#존은 늘 그의 누나를 따라다닌다.
+
+[446]
+#John sat down in his chair.
+#존은 그의 의자에 앉았다.
+
+[447]
+#John Jones fecit .
+#존 존스 작.
+
+[448]
+#rabbi Jochonan.
+#Jochonan 선생님.
+
+[449]
+#Lord Mayor of York.
+#요크시 시장.
+
+[450]
+#rein in some organization
+#어떤 조직을 단속하다.
+
+[451]
+#Thank you for your letter of April 7.
+#4월 7일 편지 받았습니다.
+
+[452]
+#The moon glanced brightly on the lake.
+#달이 호수 위에 반짝거리며 빛난다.
+
+[453]
+#The moon was screened by clouds.
+#달이 구름에 가렸다.
+
+[454]
+#The beauty of the moon ensorceled us.
+#달의 아름다움이 우리를 미혹시킨다.
+
+[455]
+#The moon climbed slowly.
+#달이 천천히 상승한다.
+
+[456]
+#The moon sank below the hills.
+#달이 산 너머로 떨어졌다.
+
+[457]
+#The moon waxes and wanes every month.
+#달은 매월 한차례씩 차고 이지러진다.
+
+[458]
+#The moon revolves round the earth.
+#달은 지구를 둘러싸고 돈다.
+
+[459]
+#The moon hid itself behind the clouds.
+#달은 구름 뒤로 숨었다.
+
+[460]
+#The moon rose up over the horizon.
+#달은 지평선을 넘어 상승한다.
+
+[461]
+#The moon is rising above the horizon.
+#달이 지평선 위로 오르고 있다.
+
+[462]
+#There is no life on the moon.
+#달에는 생물이 없다.
+
+[463]
+#There is no water on the moon.
+#달에는 물 한 방울도 없다.
+
+[464]
+#A cloud has darkened the sun.
+#구름이 태양을 어둡게 가렸다.
+
+[465]
+#The clouds obscured the moon.
+#구름이 달을 가렸다.
+
+[466]
+#There are several kinds of cloud formation.
+#운층 구조에는 몇 가지나 있다.
+
+[467]
+#the clouds are lying over the mountain top.
+#운층이 산정을 덮고 있다.
+
+[468]
+#The clouds are rolling away.
+#운층이 소용돌이치면서 가고 있다.
+
+[469]
+#The clouds are building up.
+#운층이 모이고 있다.
+
+[470]
+#The clouds are thickening.
+#운층이 밀집하고 있다.
+
+[471]
+#The clouds drove before the wind.
+#구름이 바람을 타고 질주한다.
+
+[472]
+#Clouds scudded across the sky.
+#구름자이 날듯이 하늘을 스쳐간다.
+
+[473]
+#Clouds were scudding across the sky.
+#구름이 하늘을 날고 있다.
+
+[474]
+#Clouds are collecting.
+#구름이 모이고 있다.
+
+[475]
+#The clouds began to break.
+#구름이 흩어지기 시작한다.
+
+[476]
+#The cloud sailed across the sky.
+#구름이 하늘을 떠다닌다.
+
+[477]
+#A cloud is a mass of vapour in the sky.
+#구름은 하늘 속의 수증기 덩어리다.
+
+[478]
+#Clouds are made up of water.
+#구름은 물로 구성된다.
+
+[479]
+#Mist wreathed the hilltops.
+#운무가 산꼭대기를 감쌌다.
+
+[480]
+#The clouds are banking up from the south.
+#구름이 남쪽으로부터 모여들고 있다.
+
+[481]
+#Clouds are building up over the sea.
+#구름이 해수면에 밀집하고 있다.
+
+[482]
+#Exercise gives an edge to the appetite.
+#운동은 식욕을 자극한다.
+
+[483]
+#The energy of motion is called kinetic energy.
+#운동의 에너지는 운동에너지라고 부른다.
+
+[484]
+#Exercise stimulates the body.
+#운동은 신체를 단련시킨다.
+
+[485]
+#Exercise conduces to good health.
+#운동은 건강에 유익하다.
+
+[486]
+#Athletes usually abstain from smoking .
+#운동선수는 통상적으로 담배를 끊는다.
+
+[487]
+#Exercise sharpens your appetite.
+#운동은 너의 식욕을 증진시킨다.
+
+[488]
+#H!
+#운이 나빠! 정말 유감이다!
+
+[489]
+#You never know your luck.
+#운은 예측하기 어렵다.
+
+[490]
+#use your head .
+#너의 머리를 써라.
+
+[491]
+#Seasickness has no personal meaning for me.
+#뱃멀미는 나에게 의미를 갖지 않는다.
+
+[492]
+#Ill weeds grow apace.
+#잡초는 자라기 쉽고 강아지풀도 자라기 쉽다.
+
+[493]
+#Weeds spring up after a rain.
+#잡초는 한바탕 비가 온 후에 자라난다.
+
+[494]
+#Misfortunes came thick and fast.
+#재난이 잇달아 온다.
+
+[495]
+#Apologizing again.
+#다시 미안함을 표합니다.
+
+[496]
+#Another attack will be the end of him.
+#또다시 발작하면 그를 구제할 수 없게 될 것이다.
+
+[497]
+#Thanks again for your courtesy.
+#당신의 호의에 재차 감사 드립니다.
+
+[498]
+#Thanking you again for the loan.
+#당신의 선심에 재차 감사 드립니다.
+
+[499]
+#Sending you my blessing again.
+#또다시 나의 축복을 보낸다
+
+[500]
+#Congratulations on a well-deserved promotion.
+#당신의 승진을 재차 축하 드립니다.
+
+[501]
+#Pour a little more milk in .
+#다시 우유를 더 쏟아 부어라.
+
+[502]
+#Give me a little more butter.
+#다시 나에게 버터를 좀 주시오.
+
+[503]
+#Give him another chance.
+#다시 나에게 기회를 한번 달라.
+
+[504]
+#Give me some more examples.
+#다시 나에게 몇 개 예를 들어라.
+
+[505]
+#Nothing could be better.
+#더 이상 좋을 수는 없다.
+
+[506]
+#Have some more tea!
+#다시 차 좀 마셔!
+
+[507]
+#Have another .
+#한 잔 더 마셔.
+
+[508]
+#Another glass won't hurt you.
+#한 잔 더 마셔도 너한테 무방하다.
+
+[509]
+#Good-bye,Bill.
+#안녕, 빌.
+
+[510]
+#Goodbye,Mrs Smith.
+#안녕히 계세요. 스미스 부인.
+
+[511]
+#See you again.
+#안녕, 다시 만나.
+
+[512]
+#Goodbye for now.
+#안녕, 조금 있다가 보자.
+
+[513]
+#Try again.
+#다시 한번 해라.
+
+[514]
+#Put some more wood on the fire.
+#다시 불 속에 나무 장작을 더 넣어라.
+
+[515]
+#Grip harder.
+#다시 힘껏 꼭 쥐어라.
+
+[516]
+#fit up a telephone in the office
+#사무실에 전화를 설치하다.
+
+[517]
+#rip into sb.in a newspaper
+#신문에서 누군가를 비판하다.
+
+[518]
+#I missed seeing her while in Beijing.
+#북경에 있을 때 나는 그녀를 보지 못했다.
+
+[519]
+#be bowled out in a debate
+#논쟁에서 철저히 패하다.
+
+[520]
+#Refreshments can be obtained at the station.
+#역에서 과자를 살 수 있다.
+
+[521]
+#Look out for Jane at the station.
+#역에서 제인을 잘 찾아 봐라.
+
+[522]
+#hammer at a typewriter
+#타자기에서 타자하다.
+
+[523]
+#job-hopping is common in big cities.
+#대도시에서는 직업을 바꾸는 것이 보통이다.
+
+[524]
+#hollow out a foxhole in the ground
+#지상에서 참호 하나를 파다.
+
+[525]
+#scrape out a hole in the ground
+#지상에서 구멍을 하나 파다.
+
+[526]
+#Take the second turning to the left.
+#두 번째 모퉁이에서 왼쪽으로 도세요.
+
+[527]
+#Wipe your shoes on the mat.
+#매트에서 신발을 깨끗이 터세요.
+
+[528]
+#Put a covering over the hole.
+#구멍에 뚜껑을 덮어라.
+
+[529]
+#There are a few vacancies on the second floor.
+#2층에 빈 방이 몇 개 있다.
+
+[530]
+#fret away one's life
+#근심 속에서 생활하다.
+
+[531]
+#frivol one's life away in dissipation
+#방탕하게 허송세월을 보내다.
+
+[532]
+#fall down in adoration before Buddhist images
+#마치 면전에서 설설 기고 있는 것 같다.
+
+[533]
+#There is no hospital in the vicinity .
+#부근에 병원이 없다.
+
+[534]
+#Don't drop behind in your work.
+#일을 하는데 있어서 뒤처지지 말아라.
+
+[535]
+#burn up the road
+#도로에서 질주하다.
+
+[536]
+#men who go down to the sea in ships
+#바다에서 일하는 사람들
+
+[537]
+#Turn right at the trafficlights.
+#신호등 있는 곳에서 오른쪽으로 도세요.
+
+[538]
+#fill in a sketch with shadow
+#스케치에다 음영을 입히다.
+
+[539]
+#In a few years he would get fat.
+#몇 년 안에 그는 금방 뚱뚱해질 것이다.
+
+[540]
+#What language do they speak in Canada?.
+#캐나다에서는 무슨 언어를 씁니까?
+
+[541]
+#Don't keep on your hat in class.
+#교실에서는 모자를 써서는 안 된다.
+
+[542]
+#hold out at street corners
+#길모퉁이에서 이리저리 어슬렁거리다.
+
+[543]
+#loaf about the streets
+#길에서 할 일 없이 돌아다니다.
+
+[544]
+#hang out in a bar
+#술집에서 시간을 죽이다.
+
+[545]
+#In her despair,she tried to kill herself.
+#절망 속에서 그녀는 자살을 기도했다.
+
+[546]
+#make up one's face
+#얼굴에 화장하다.
+
+[547]
+#I shall have come home by six o'clock.
+#6시 이전에는 나는 집에 돌아올 것이다.
+
+[548]
+#litter down a stable
+#마구간에 짚자리를 깔다.
+
+[549]
+#pax Americana.
+#미국 통제하에서의 평화.
+
+[550]
+#He has no kinsfolk in America.
+#미국에 그는 친척이 없다.
+
+[551]
+#In the United States a state is presided over by a governor.
+#미주에서는 주지사가 주관한다.
+
+[552]
+#what is there ?.
+#거기에 무엇이 있니?
+
+[553]
+#Who's that?.
+#저쪽에 있는 사람이 누구니?
+
+[554]
+#Put your JohnHancock on that line.
+#그 라인에 서명해라.
+
+[555]
+#there you are mistaken.
+#그 점에서 너는 실수했다.
+
+[556]
+#In that respect he was mistaken.
+#그 점에서 그가 실수했다.
+
+[557]
+#After that things changed.
+#그 후에 형세가 변했다.
+
+[558]
+#I put up with the Suns during my stay in the countryside.
+#농촌에 있을 때 나는 손씨네 집에서 살았다.
+
+[559]
+#run up the bidding at an auction
+#경매에서 부르는 값을 높이다.
+
+[560]
+#He who runs may read.
+#뛰고 있는 사람들은 모두 읽을 수 있다.
+
+[561]
+#A colony of bacteria was observed in the culture.
+#배양물에서 균군을 발견했다.
+
+[562]
+#scratch out a hole in the wall
+#벽에 구멍 하나를 파내다.
+
+[563]
+#keep up in a race
+#경주에서 뒤처지지 않다.
+
+[564]
+#when commodity prices fall
+#상품 가격이 내릴 때
+
+[565]
+#get on in the world
+#사회에서 입신 출세하다.
+
+[566]
+#rebury hastily at dead of night.
+#심야에 황급히 다시 매장하다.
+
+[567]
+#Come back before it is dark.
+#날이 어둡기 전에 돌아와야 한다.
+
+[568]
+#Post a guard outside the palace.
+#왕궁 바깥에 초소 하나를 두었다.
+
+[569]
+#Don't barge in on our conversation.
+#우리가 대화할 때에는 끼어들지 말아라.
+
+[570]
+#Sit by me.
+#내 옆에 앉아.
+
+[571]
+#On my left was a brook.
+#내 왼쪽에 작은 시내가 있다.
+
+[572]
+#ferret about in the house
+#집안 곳곳을 수색하다.
+
+[573]
+#Write the address on the envelope.
+#편지봉투 위에 주소를 써라.
+
+[574]
+#be snowed under in an election
+#선거에서 철저히 패배되다.
+
+[575]
+#Get off the bus at the hospital.
+#병원 있는 데서 내려라.
+
+[576]
+#Keep one's account open at a bank.
+#은행에 구좌를 개설해라.
+
+[577]
+#cut in titles in a moving picture
+#영화에 자막을 넣다.
+
+[578]
+#give away medals at a sports meeting
+#운동회에서 상장을 나눠주다.
+
+[579]
+#It is not safe to swim here.
+#여기에서 수영하는 것은 안전하지 않다.
+
+[580]
+#We care for one another here.
+#여기에서 우리는 서로를 돌본다.
+
+[581]
+#Is this a safe place to swim?
+#여기에서 수영하는 것은 안전합니까?
+
+[582]
+#Let there be no mistake about it.
+#이 점에 있어서 착오가 있어서는 안 된다.
+
+[583]
+#He refused to give ground in the argument.
+#쟁론에서 그는 양보하기를 거절했다.
+
+[584]
+#There is a pencel on the desk.
+#책상 위에 펜이 한 자루 있다.
+
+[585]
+#Let's dig out the roots.
+#우리 뿌리를 파내자.
+
+[586]
+#Am checking off the minutes until I see you.
+#우리 그 때 다시 만나자.
+
+[587]
+#Let's break off for water.
+#우리 그만하고 물 마시자.
+
+[588]
+#Give me your hand.
+#우리 손 잡자.
+
+[589]
+#The aye,ays have it.
+#찬성자가 다수를 차지한다.
+
+[590]
+#God be praised !
+#신을 찬미하라! 감지덕지다!
+
+[591]
+#I'm sorry to have left my notes behind.
+#망했다, 나는 공책을 안 가져 왔다.
+
+[592]
+#damn ! I've forgotten my key.
+#큰일 났다! 나는 열쇠를 두고 왔어.
+
+[593]
+#Good morning,sir.
+#안녕하세요, 선생님.
+
+[594]
+#Is breakfast ready?
+#아침은 다 준비되었습니까?
+
+[595]
+#He takes exercise in the morning.
+#새벽에 그는 운동을 한다.
+
+[596]
+#Your early reply will be highly appreciated.
+#일찍 회답을 주시면 대단히 감사하겠습니다.
+
+[597]
+#Is there any advantage in getting there early?
+#일찍 거기에 도착하는 것이 가치가 있습니까?
+
+[598]
+#He went for a run before breakfast.
+#아침 식사 전에 그는 달리기를 하러 간다.
+
+[599]
+#It is time for breakfast.
+#아침 식사 시간이 되었다.
+
+[600]
+#I can't stand getting up early.
+#일찍 일어나는 것을 나는 견딜 수 없다.
+
+[601]
+#Early rising makes for good health.
+#일찍 일어나는 것은 건강에 유익하다.
+
+[602]
+#Early rising is good for the health.
+#일찍 일어나는 것은 건강에 유익하다.
+
+[603]
+#We shall be pleased to hear from you at your earlier convenience.
+#좀 일찍 회답을 주시면 대단히 감사하겠습니다.
+
+[604]
+#Class begins at eight o'clock in the morning.
+#아침 8시에 수업을 시작한다.
+
+[605]
+#Good morning,doctor.
+#안녕하십니까, 의사 선생님.
+
+[606]
+#Morning found him still in bed.
+#아침에 그는 아직도 자고 있다.
+
+[607]
+#I read a book this morning.
+#아침에 나는 책 한 권을 보았다.
+
+[608]
+#secure your seats early.
+#좀 일찍 자리를 맡아라.
+
+[609]
+#The noise grew louder.
+#소음이 더 커졌다.
+
+[610]
+#The noise frets me.
+#소음이 나를 성가시게 한다.
+
+[611]
+#The noise ceased at last.
+#소음이 드디어 그쳤다.
+
+[612]
+#The noise tailed away.
+#소음이 점차 없어진다.
+
+[613]
+#revolt against reactionary rulers
+#
+
+[614]
+#What's the matter; why are you crying?
+#어찌 된 일이야, 너 왜 우니?
+
+[615]
+#How now,my bawcock?.
+#어떻다구? 내 남자가?
+
+[616]
+#How do I dial Paris?
+#어떻게 파리에 전화를 겁니까?
+
+[617]
+#How can it be otherwisethan fatal ?.
+#어떻게 치명적이지 않을 수 있습니까?
+
+[618]
+#sit down before a fortress
+#요새를 주둔하여 포위하다.
+
+[619]
+#The bomb burst.
+#폭탄이 폭발했다.
+
+[620]
+#The debt must be paid in full.
+#채무는 반드시 전부 청산해야 한다.
+
+[621]
+#James Smith Co.
+#제임스 스미스사
+
+[622]
+#The exhibits were laid out in exquisite taste.
+#전시품이 아주 적절하게 진열되었다.
+
+[623]
+#The battle raged.
+#전투가 대단히 극렬하다.
+
+[624]
+#The battle culminated in total victory.
+#전투는 결국 전승을 획득했다.
+
+[625]
+#The soldiers marched along the road.
+#전사들은 도로를 따라 행군한다.
+
+[626]
+#The war has left its trace.
+#전쟁은 흔적을 남겼다.
+
+[627]
+#The war rent the country as under.
+#전쟁은 이 나라를 분열시켰다.
+
+[628]
+#Is war necessary?
+#전쟁은 필요한 것입니까?
+
+[629]
+#war is cruel.
+#전쟁은 잔혹한 것이다.
+
+[630]
+#War must follow.
+#전쟁은 반드시 수반되어 올 것이다.
+
+[631]
+#War separates families.
+#전쟁은 가족들을 이산시킨다.
+
+[632]
+#Stand aside and let us pass!
+#물러서라! 우리가 지나가게 물러서라!
+
+[633]
+#Some people standing by.
+#옆에 서 있는 몇몇 사람들.
+
+[634]
+#Don't move.
+#정지, 움직이지마.
+
+[635]
+#How much does the bill come to?
+#계산서에는 모두 얼마입니까?
+
+[636]
+#Short accounts make long friends.
+#장부 계산이 늘 말끔해야 우정이 오래 지속한다.
+
+[637]
+#The tent was blown over by the wind.
+#천막이 바람이 불어 쓰러졌다.
+
+[638]
+#The tent's riddled with holes.
+#천막에 구멍이 여기저기 났다.
+
+[639]
+#The tent is letting in.
+#텐트가 비가 새고 있다.
+
+[640]
+#The bill amounted to ten dollars.
+#계산서는 총계가 10원이다.
+
+[641]
+#The usher guided us in .
+#접대원이 우리를 들어가도록 안내했다.
+
+[642]
+#come across with the names of one's accomplices
+#공모범의 이름을 자백하다.
+
+[643]
+#The sign was swinging in the wind.
+#간판이 바람 속에서 흔들린다.
+
+[644]
+#run up a foreign trade deficit
+#무역 적자를 초래하다.
+
+[645]
+#No suitable work was available.
+#적당한 일을 찾지 못했다.
+
+[646]
+#Do as you are told.
+#분부 받은 것에 따라 해라.
+
+[647]
+#electric lights that brighten up the streets
+#거리를 밝게 비추는 전등
+
+[648]
+#Do as I bid you.
+#내가 분부한 것에 따라 해라.
+
+[649]
+#Do it like I tell you.
+#내가 너에게 말한 대로 해라.
+
+[650]
+#Do as I say!
+#내가 말한 대로 해!
+
+[651]
+#beat up volunteers
+#지원자를 모집하다
+
+[652]
+#The copy agrees with the original.
+#
+
+[653]
+#The sea is deep here.
+#이곳의 바닷물은 아주 깊다.
+
+[654]
+#The climate here suits me very well.
+#이곳의 기후는 나에게 잘 맞는다.
+
+[655]
+#A tall tree once stood here.
+#여기에는 일찍이 큰 나무가 한 그루 있었다.
+
+[656]
+#The case remains unclosed.
+#이 사건은 아직 해결되지 않았다.
+
+[657]
+#The case was settled out of court.
+#이 사건은 법정 바깥에서 해결되었다.
+
+[658]
+#This knife cuts cleanly.
+#이 칼은 아주 날카롭다.
+
+[659]
+#These scissors are very sharp.
+#이 가위는 대단히 날카롭다.
+
+[660]
+#The spoon is plastic.
+#이 숟가락은 플라스틱이다.
+
+[661]
+#This razor has no edge.
+#이 면도칼은 무디다.
+
+[662]
+#The knife has a horn handle.
+#이 칼은 뿔로 만든 손잡이다.
+
+[663]
+#The seat of the chair is broken.
+#이 의자의 시트가 망가졌다.
+
+[664]
+#This chair has a broken seat.
+#이 의자의 시트가 망가졌다.
+
+[665]
+#This chair doubles as a bed.
+#이 의자는 또 침대용으로도 될 수 있다.
+
+[666]
+#Does this key fit the lock?.
+#이 열쇠가 이 자물쇠에 맞습니까?
+
+[667]
+#The class is well grounded in grammar.
+#이 반의 문법 기초는 매우 좋다.
+
+[668]
+#This train connects well.
+#이 기차는 잘 연결되었다.
+
+[669]
+#This train goes through to Berlin.
+#이 기차는 베를린으로 직행한다.
+
+[670]
+#This assured our safety.
+#이것은 우리의 안전을 보장했다.
+
+[671]
+#It was selected as the site for a monument.
+#여기는 비석을 세울 지점으로 선택되었다.
+
+[672]
+#The book received considerable acclaim.
+#이 책은 배로 찬양 받았다.
+
+[673]
+#This book is even better than that.
+#이 책은 그 책보다 훨씬 좋다.
+
+[674]
+#This book is not to my taste.
+#이 책은 내 구미에 맞지 않는다.
+
+[675]
+#This book is generally accurate.
+#이 책은 대체로 정확하다.
+
+[676]
+#This book is heavy reading.
+#이 책은 읽어보니 아주 무미건조하다.
+
+[677]
+#How much is this book?
+#이 책은 얼마입니까?
+
+[678]
+#It is twenty dollars.
+#이 책은 20원이다.
+
+[679]
+#This book holds up well.
+#이 책은 대단히 인기 있다.
+
+[680]
+#The book is split up into 12 chapters.
+#이 책은 12장으로 나뉜다.
+
+[681]
+#This book was published in two parts.
+#이 책은 두 부분으로 나누어 출판된다.
+
+[682]
+#The book has just come off the press.
+#이 책은 막 출판되었다.
+
+[683]
+#The book runs to 500 pages.
+#이 책은 두께가 500페이지에 이른다.
+
+[684]
+#The book was as dry as dust.
+#이 책은 무미건조하다.
+
+[685]
+#This book deals with economics.
+#이 책은 경제학을 논술한다.
+
+[686]
+#There are two pages missing in this book.
+#이 책은 두 페이지가 빠졌다.
+
+[687]
+#Is this book his?
+#이 책은 그의 것입니까?
+
+[688]
+#This book is mine.
+#이 책은 나의 것이다.
+
+[689]
+#I've read the book twice.
+#이 책을 나는 두 번 읽었다.
+
+[690]
+#I have read this book through six times.
+#이 책을 나는 여섯 번 읽었다.
+
+[691]
+#I can make nothing of the book.
+#이 책을 나는 조금도 이해하지 못한다.
+
+[692]
+#I have already read this book.
+#이 책을 나는 이미 읽은 적이 있다.
+
+[693]
+#This book has no system to it.
+#이 책은 조리 없이 썼다.
+
+[694]
+#Is this book any use?
+#이 책은 어떤 가치가 있습니까?
+
+[695]
+#It is worth reading this book.
+#이 책은 읽을만한 가치가 있다.
+
+[696]
+#This book is worth reading.
+#이 책은 한번 읽을만한 가치가 있다.
+
+[697]
+#This book costs ten dollars.
+#이 책은 값이 10달러이다.
+
+[698]
+#This dictionary has sixty thousand entries.
+#이 자전에는 6만 자가 있다.
+
+[699]
+#This is far better .
+#이것은 이전보다 휠씬 좋다.
+
+[700]
+#This sum will do for me.
+#이 돈은 내가 쓰게 충분할 것이다.
+
+[701]
+#We lost on that job.
+#이 장사에서 우리는 돈을 잃었다.
+
+[702]
+#The sum of money is nothing to sneeze at.
+#이 돈은 무시할 수 없다.
+
+[703]
+#The money was at my disposal.
+#이 돈은 내 자유대로 사용한다.
+
+[704]
+#The investment paid off handsomely.
+#이 투자는 이윤 획득이 좋다.
+
+[705]
+#The ice will not bear.
+#이 얼음은 밟으면 깨질 것이다.
+
+[706]
+#It is not altogether bad.
+#이것은 결코 하나도 옳은 것이 없는 게 아니다.
+
+[707]
+#This glass dish is very fragile.
+#이 유리 접시는 매우 깨지기 쉽다.
+
+[708]
+#It is nothing but a joke.
+#이것은 단지 우스개 소리일 뿐이다.
+
+[709]
+#This will save not only labour but also money.
+#이것은 노동을 아낄 뿐만 아니라 돈도 아낀다.
+
+[710]
+#It's not difficult,but easy.
+#이것은 어렵지 않고 오히려 쉽다.
+
+[711]
+#It's no picnic.
+#이것은 재미있는 일이 아니다.
+
+[712]
+#This is not a good book.
+#이것은 좋은 책이 아니다.
+
+[713]
+#This is not the right way to do it.
+#이것은 정확한 방법이 아니다.
+
+[714]
+#This does not apply to beginners.
+#이것은 초학자에게 적당하지 않다.
+
+[715]
+#This cloth has worn badly.
+#이 천은 질기지 않다.
+
+[716]
+#This elevator stops at every floor.
+#이 엘리베이터는 매층마다 선다.
+
+[717]
+#This car's in A1 shape.
+#이 차는 차 상태가 매우 좋다.
+
+[718]
+#This car handles well .
+#이 차는 아주 잘 나간다.
+
+[719]
+#This car's a real lemon.
+#이 차는 정말 고물이다.
+
+[720]
+#This car drives well .
+#이 차는 잘 나간다.
+
+[721]
+#This car has a soft ride.
+#이 차는 타보니 아주 편안하다.
+
+[722]
+#This machine is a first-rater.
+#이 기계는 제일류이다.
+
+[723]
+#This machine is standing idle.
+#이 기계는 방치되어 있다.
+
+[724]
+#This machine is easy of adjustment.
+#이 기계는 조절하기에 쉽다.
+
+[725]
+#It isn't worth repairing this old car.
+#이 낡은 차는 수리할만한 가치가 없다.
+
+[726]
+#The sales of the book ran up.
+#이 책의 판매량이 극도로 증가했다.
+
+[727]
+#The drama may be termed a comedy.
+#이 연극은 희극이라 부를 수 있다.
+
+[728]
+#The play needed many rehearsals.
+#이 연극은 여러 차례의 리허설을 필요로 한다.
+
+[729]
+#The novel will appear serially.
+#이 소설은 연속 간행될 것이다.
+
+[730]
+#This novel is very interesting,I assure you.
+#이 소설은 확실히 재미있다.
+
+[731]
+#There are two climaxes in this novel.
+#이 소설은 두 개의 클라이맥스가 있다.
+
+[732]
+#This work's of a very high calibre.
+#이 작품은 높은 수준의 것이다.
+
+[733]
+#This tea is mere wash.
+#이 차는 그야말로 물이다.
+
+[734]
+#The tea is too strong.
+#이 차는 너무 짙다.
+
+[735]
+#This tea is too sweet.
+#이 차는 너무 달다.
+
+[736]
+#The game is mine.
+#이 시합을 내가 이겼다.
+
+[737]
+#This rain augurs well for the farmers.
+#이 비는 농민에게는 길조이다.
+
+[738]
+#When will this rain let up?
+#이 비가 언제 그칠까요?
+
+[739]
+#He lost the argument.
+#이 논쟁에서 그가 졌다.
+
+[740]
+#This noise will send me mad.
+#이 잡음이 나로 하여금 미치게 할 것이다.
+
+[741]
+#Is this castle haunted ?.
+#이 성보에 귀신이 나타납니까?
+
+[742]
+#The traffic in the city was chaotic.
+#이 도시의 교통은 완전히 엉망진창이 되었다.
+
+[743]
+#The gear is not quite true.
+#이 기어의 위치가 그다지 정확하지 않다.
+
+[744]
+#The drawer won't pull out.
+#이 서랍은 당겨지지 않는다.
+
+[745]
+#The play had a run of three months.
+#이 연극은 3개월간 연속 공연되었다.
+
+[746]
+#The new play went down quite well.
+#이 새 연극은 매우 환영을 받았다.
+
+[747]
+#The new play comes on tomorrow.
+#이 새 연극은 내일 상연한다.
+
+[748]
+#The ship sailed through the channel.
+#이 배는 해협을 지나갔다.
+
+[749]
+#This ship ran short of provisions.
+#이 배는 음식이 부족했다.
+
+[750]
+#This house is worth a lot of money.
+#이 집은 많은 값이 나간다.
+
+[751]
+#This mattress gives too much.
+#이 매트리스는 너무 푹신하다.
+
+[752]
+#The mattress needs to be aired.
+#이 매트리스는 좀 말려야 한다.
+
+[753]
+#The defeat turned to rout.
+#이번에는 참패했다.
+
+[754]
+#Our side won the match.
+#이 시합은 우리측이 승리했다.
+
+[755]
+#The competition is very strong this time.
+#이번의 상대는 매우 강하다.
+
+[756]
+#Did you have a good flight?.
+#이번 배행도 역시 순조롭겠지요?
+
+[757]
+#This trial has been adjourned.
+#이번 심문은 이미 잠시 중단되었다.
+
+[758]
+#where now ?.
+#이번은 어디인가?
+
+[759]
+#This is my treat.
+#이번에는 내가 한턱 낼게.
+
+[760]
+#This bush flowers in the spring.
+#이 키 작은 나무들은 봄에 꽃이 핀다.
+
+[761]
+#The village is surrounded on three sides by mountain.
+#이 마을은 삼면이 산으로 둘러싸여 있다.
+
+[762]
+#The general has been invested with a decoration.
+#이 대장은 훈장이 수여되었다.
+
+[763]
+#The cost will be ruinous.
+#이 대가는 파멸적일 것이다.
+
+[764]
+#The bag won't fasten properly.
+#이 부대의 입구가 꼭 매지지 않았다.
+
+[765]
+#The rice is growing fine.
+#이 벼는 아주 잘 자랐다.
+
+[766]
+#This dish savours of garlic.
+#이 음식은 마늘 향이 있다.
+
+[767]
+#The road makes a sharp twist to the left.
+#이 도로는 왼쪽으로 급회전한다.
+
+[768]
+#The bridge rests on stone arches.
+#이 다리는 돌 아치 위에 놓여 있다.
+
+[769]
+#This floor won't polish.
+#이 마루는 번쩍거리게 닦지 않았다.
+
+[770]
+#The country was very rough.
+#이곳은 울퉁불퉁하다.
+
+[771]
+#This place is inviting.
+#이곳은 사람을 끌어들인다.
+
+[772]
+#The place is suitable for a picnic.
+#이곳은 피크닉하기에 적합하다.
+
+[773]
+#The wire feeds into a conduit.
+#이 전선은 도선관에 들어가 있다.
+
+[774]
+#Is the tent waterproof?
+#이 텐트는 비를 막습니까?
+
+[775]
+#This law still holds.
+#이 법률은 여전히 유효하다.
+
+[776]
+#It eats well.
+#이것은 먹어보니 맛이 좋다.
+
+[777]
+#The stuff has balled up.
+#이것은 한 덩어리로 되었다.
+
+[778]
+#The thing is quite empty of meaning.
+#이 물건은 완전히 의미가 없다.
+
+[779]
+#What does it cost?
+#이 물건은 어떤 가격입니까?
+
+[780]
+#It weighs six kilos.
+#이 물건은 6킬로그램이 무게가 나간다.
+
+[781]
+#The wall needs to be brushed up.
+#이 벽은 한번 페인트칠을 해야 한다.
+
+[782]
+#The wall was laid up in bricks.
+#이 벽은 벽돌로 쌓은 것이다.
+
+[783]
+#This ribbon doesn't tie well.
+#이 리본은 잘 묶이지 않는다.
+
+[784]
+#The couple agreed very well.
+#이 부부는 사이가 매우 좋다.
+
+[785]
+#It will avail you little .
+#이것은 너에게 쓸모가 없다.
+
+[786]
+#This bodes you no good.
+#이것은 너에게 불길한 징조이다.
+
+[787]
+#It is to his advantage.
+#이것은 그에게 큰 이점이 있다.
+
+[788]
+#What an execrable meal!
+#이 식사는 정말 엉망진창이다!
+
+[789]
+#This flower smells sweet.
+#이 꽃이 향기를 풍긴다.
+
+[790]
+#It tends to rain a lot here.
+#여기는 항상 비가 내린다.
+
+[791]
+#The river is very deep here.
+#여기의 강물은 매우 깊다.
+
+[792]
+#The flowers grow thickest here.
+#여기의 꽃이 가장 빽빽하게 피었다.
+
+[793]
+#There is not much rainfall here.
+#여기의 강수량은 많지 않다.
+
+[794]
+#Is there a telephone near here?
+#여기 부근에 전화가 있습니까?
+
+[795]
+#There's nobody here.
+#여기에는 아무도 없다.
+
+[796]
+#What does this French word mean?
+#이 프랑스의 단어는 무슨 뜻입니까?
+
+[797]
+#The translation is true to the original.
+#이 번역은 원문에 충실하다.
+
+[798]
+#The room was luxuriously furnished.
+#이 방은 사치스럽게 진열되었다.
+
+[799]
+#The air of this room is impregnated with damp.
+#이 방은 습기가 가득하다.
+
+[800]
+#What are the dimensions of this room?
+#이 방의 용적은 얼마입니까?
+
+[801]
+#The room is full of people.
+#이 방은 사람으로 가득 찼다.
+
+[802]
+#This room is exclusively for women.
+#이 방은 여성만이 사용하도록 제공된다.
+
+[803]
+#There are three tables of guests in this room.
+#이 방에는 세 테이블의 손님이 있다.
+
+[804]
+#The room is proof against sound.
+#이 방은 방음이 되어 있다.
+
+[805]
+#This room could do with a cleaning.
+#이 방은 한번 청소해야 한다.
+
+[806]
+#This room needs slicking up.
+#이 방은 깨끗하게 정리해야 한다.
+
+[807]
+#This room has been appropriated to reading.
+#이 방은 이미 열람실이 되었다.
+
+[808]
+#The house has a southfacing aspect.
+#이 방은 남향이다.
+
+[809]
+#The house is made of brick.
+#이 방은 벽돌로 지어져 있다.
+
+[810]
+#The house is built of brick.
+#이 방은 벽돌로 지어져 있다.
+
+[811]
+#The house wants painting.
+#이 방은 한번 페인트칠 해야 한다.
+
+[812]
+#The house shook.
+#이 집이 흔들렸다.
+
+[813]
+#The building has been added to from time to time.
+#이 집은 일찍이 여러 차례 증축되었다.
+
+[814]
+#The house is being built.
+#이 집은 건설하는 중이다.
+
+[815]
+#This newspaper costs 8p.
+#이 신문은 8펜스가 된다.
+
+[816]
+#This copy is for you.
+#이 계약서는 당신이 보존하십시오.
+
+[817]
+#This document is for your eyes only.
+#이 서류는 단지 너만이 훑어볼 수 있다.
+
+[818]
+#This data is very interesting.
+#이 자료는 매우 재미있다.
+
+[819]
+#The letter concluded as follows.
+#이 편지의 결미는 다음과 같다.
+
+[820]
+#Has this letter been stamped?
+#이 편지에 우표를 붙였습니까?
+
+[821]
+#This letter bears a British stamp.
+#이 편지는 영국 우표가 붙어 있다.
+
+[822]
+#I haven't received this letter.
+#이 편지를 나는 받지 않았다.
+
+[823]
+#The letter bears her signature.
+#이 편지에는 그녀의 서명이 있다.
+
+[824]
+#The composition of this picture is poor.
+#이 그림의 구도는 좋지 않다.
+
+[825]
+#This picture has no market value.
+#이 그림은 시가가 없다.
+
+[826]
+#The painting was a work of art.
+#이 그림은 예술품이다.
+
+[827]
+#Who painted this picture?
+#이 그림은 누가 그렸습니까?
+
+[828]
+#This vodka has a lot of kick in it.
+#이 보드카는 정말 강하다.
+
+[829]
+#The woman was carrying the baby on her back.
+#이 부인은 어린아이를 업고 있다.
+
+[830]
+#This lid won't lift.
+#이 뚜껑은 들어 올려지지 않는다.
+
+[831]
+#This handle won't screw well.
+#이 핸들은 잘 돌아가지 않는다.
+
+[832]
+#What's that handle for?
+#이 핸들은 어떤 용도가 있습니까?
+
+[833]
+#The class divided into groups.
+#이 반은 이미 그룹들로 나누어졌다.
+
+[834]
+#This parcel weighs a lot .
+#이 소포는 매우 무겁다.
+
+[835]
+#What is the postage for this parcel?
+#이 소포는 얼마의 우편료가 듭니까?
+
+[836]
+#By whom has the cap been broken?
+#이 컵은 누가 깨뜨렸습니까?
+
+[837]
+#This is a sight better than that.
+#이것은 저것보다 훨씬 더 좋다.
+
+[838]
+#This watch winds easily.
+#이 시계는 쉽게 태엽이 감긴다.
+
+[839]
+#This isn't very good.
+#이것은 그다지 좋지 않다.
+
+[840]
+#The ground played well .
+#이 땅은 시합하기에 적당하다.
+
+[841]
+#The place is unapt for study.
+#이 장소는 공부하기에 적합하지 않다.
+
+[842]
+#There are a number of Negroes in the city.
+#이 도시는 흑인들이 좀 있다.
+
+[843]
+#This town is hedged in by hills.
+#이 도시는 사방이 산으로 둘러싸여 있다.
+
+[844]
+#This town has a tendency to rain.
+#이 도시는 강수량이 많다.
+
+[845]
+#The kitchen needs making over.
+#이 부엌은 보수가 필요하다.
+
+[846]
+#The tradition has persisted to this day.
+#이 전통은 오늘날까지 지속되었다.
+
+[847]
+#This window will not fasten.
+#이 창은 꼭 닫히지 않는다.
+
+[848]
+#This bed dismantles easily.
+#이 침대는 쉽게 뜯어지지 않는다.
+
+[849]
+#How do you spell it?
+#이 단어를 너는 어떻게 쓰니?
+
+[850]
+#This word ends in a consonant.
+#이 단어는 자음으로 끝난다.
+
+[851]
+#The shock unhinged his mind.
+#이 타격은 그를 발광하게 했다.
+
+[852]
+#This cake tastes too sweet.
+#이 케이크는 너무 달다.
+
+[853]
+#This neighborhood is inhabited by rich people.
+#이 지역은 돈 있는 사람들이 살고 있다.
+
+[854]
+#The number is engaged.
+#이 전화는 통화중이다.
+
+[855]
+#This sauce savor,s of lemon.
+#이 양념장은 레몬맛이 있다.
+
+[856]
+#This cost a lot.
+#이 물건은 많은 돈이 필요하다.
+
+[857]
+#The room smelled damp.
+#이 방은 눅눅한 냄새가 난다.
+
+[858]
+#This room is laid aside for reading.
+#이 방은 열람실로 남겨진다.
+
+[859]
+#The room is 6 metres square.
+#이 방은 6평방미터이다.
+
+[860]
+#Four persons live in this room.
+#이 방에는 네 사람이 살았다.
+
+[861]
+#This lid won't screw on properly.
+#이 뚜껑은 꼭 잠겨지지 않는다.
+
+[862]
+#This pastry is quite crisp.
+#이 과자는 아주 바삭거린다.
+
+[863]
+#This idea is widely applicable.
+#이 구상은 광범하게 응용할 수 있다.
+
+[864]
+#The story does not bear repeating.
+#이 이야기는 다시 이야기할 수 없다.
+
+[865]
+#This story makes good reading.
+#이 이야기는 꽤 읽을만한 가치가 있다.
+
+[866]
+#The country is poor in minerals.
+#이 나라는 광물이 풍부하지 않다.
+
+[867]
+#This country abounds with tiger.
+#이 나라는 호랑이가 아주 많다.
+
+[868]
+#What is the depth of this lake?
+#이 호수의 깊이는 얼마입니까?
+
+[869]
+#Whenever the batsman chopped at the ball,he hit it.
+#이 타자는 칠 때마다 안타다.
+
+[870]
+#Is the plan realizable?.
+#이 계획은 실현 가능합니까?
+
+[871]
+#The plan was beset with difficulties.
+#이 계획은 어려움 투성이다.
+
+[872]
+#This memory will never die.
+#이 기억은 영원히 사라지지 않을 것이다.
+
+[873]
+#Who put forward the suggestion?
+#이 건의는 누가 제시한 것입니까?
+
+[874]
+#Does this sentence sound right?
+#이 문장은 맞는 것처럼 들립니까?
+
+[875]
+#This is decidedly better than that.
+#이것은 절대적으로 그것보다 낫다.
+
+[876]
+#The cushion needs to be shaken up.
+#이 쿠션은 푹신하게 두드려 주어야 한다.
+
+[877]
+#This orange is somewhat bitter.
+#이 오렌지는 약간 쓰다.
+
+[878]
+#Altogerther it will take ten days to make the trip.
+#이 여행은 모두해서 열흘 걸린다.
+
+[879]
+#This contradiction is hushed up.
+#이 모순은 해소되었다.
+
+[880]
+#This door won't open.
+#이 문은 아무리 해도 열리지 않는다.
+
+[881]
+#This riddle baffles me.
+#이 수수께끼는 나를 곤란하게 하였다.
+
+[882]
+#This puzzle is a real sod.
+#이 수수께끼는 정말 어렵다.
+
+[883]
+#The girl admired him all the more.
+#이 여자아이는 더욱 그를 존경한다.
+
+[884]
+#what is the price of this bag ?.
+#이 가방은 얼마입니까?
+
+[885]
+#I can't unscrew the top of this bottle.
+#이 병뚜껑을 나는 열 수가 없다.
+
+[886]
+#This bottle takes a litre.
+#이 병은 1리터를 담을 수 있다.
+
+[887]
+#The seal on this bottle is broken.
+#이 병의 봉인 종이가 찢어졌다.
+
+[888]
+#This bottle holds half a pint.
+#이 병은 반 핀트가 담아 있다.
+
+[889]
+#This man is in the pay of the enemy.
+#이 사람은 이미 적에게 수매되었다.
+
+[890]
+#This sofa converts into a bed.
+#이 소파는 침대로 개조할 수 있다.
+
+[891]
+#This food is greasy.
+#이 음식은 기름기가 많다.
+
+[892]
+#The world is his oyster.
+#이 세계가 그의 세력범위다.
+
+[893]
+#This is double as much as that.
+#이것은 그것의 두 배이다.
+
+[894]
+#The watch is guaranteed for three years.
+#이 시계는 3년간 보증된다.
+
+[895]
+#This tap splashes.
+#이 수도꼭지는 물을 뿌릴 수 있다.
+
+[896]
+#The joke is overdone.
+#이 농담은 지나쳤다.
+
+[897]
+#This seat is not yet spoken for.
+#이 자리는 아직 비어 있습니다.
+
+[898]
+#Is this seat free?.
+#이 자리는 앉을 사람이 있나요?
+
+[899]
+#This problem gets me.
+#이 문제는 나를 궁지에 몰았다.
+
+[900]
+#The problem remains unsolved.
+#이 문제는 여전히 해결되지 않았다.
+
+[901]
+#This question is peculiarly difficult.
+#이 문제는 특별히 어렵다.
+
+[902]
+#This question has bobbed up again.
+#이 문제가 또 나왔다.
+
+[903]
+#The problem cries for solution.
+#이 문제는 시급히 해결되어야 한다.
+
+[904]
+#This roof needs reinforcement.
+#이 지붕은 보강해야 한다.
+
+[905]
+#The play did not quite come off.
+#이 연극은 결코 그다지 성공적이지 못하다.
+
+[906]
+#The news broke unexpectedly.
+#이 소식은 갑자기 널리 퍼졌다.
+
+[907]
+#The child can't walk yet.
+#이 아이는 아직 걷지 못한다.
+
+[908]
+#The thief glomed a pile of money.
+#이 좀도둑은 많은 돈을 훔쳤다.
+
+[909]
+#It wants cleaning.
+#이것은 깨끗이 씻어야 한다.
+
+[910]
+#This medicine is efficacious against heart disease.
+#이 약은 심장병에 효과가 있다.
+
+[911]
+#The offer is not to be sniffed at.
+#이 제시가격은 그럭저럭 공평한 셈이다.
+
+[912]
+#This is twice as large as that.
+#이것은 그것의 두 배 만큼 크다.
+
+[913]
+#What is the radius of this circle?.
+#이 원의 반경은 얼마인가?
+
+[914]
+#The rainfall was rather scanty this month.
+#이번달의 강수량은 부족하다.
+
+[915]
+#This magazine comes out once a month.
+#이 잡지는 매월 한번 나온다.
+
+[916]
+#The thief was arrested in the act.
+#이 도둑은 현장에서 붙잡혔다.
+
+[917]
+#The battlefield was a scene of great carnage.
+#이 전장은 이미 시체가 도처에 널려 있다.
+
+[918]
+#The account is in credit.
+#이 구좌에는 저금이 없다.
+
+[919]
+#The job is still open.
+#이 직위는 아지 비어 있다.
+
+[920]
+#How long is the post tenable for?
+#이 직위의 임기는 얼마입니까?
+
+[921]
+#The clock is two minutes slow.
+#이 시계는 2분 느리다.
+
+[922]
+#This clock keeps good time.
+#이 시계는 시간이 아주 정확하다.
+
+[923]
+#This clock strikes the hour.
+#이 시계는 정각에 시간을 알린다.
+
+[924]
+#Who is the governor of this state?
+#이 주의 주지사는 누구입니까?
+
+[925]
+#The idea is very attractive.
+#이 생각은 아주 매력적이다.
+
+[926]
+#It wasn't anything of that kind.
+#이것은 근본적인 그런 일이 아니다.
+
+[927]
+#This wire leads the current in.
+#이 전선은 전류를 인도한다.
+
+[928]
+#Can this rope be relied on?
+#이 로프는 믿을만합니까?
+
+[929]
+#This tool's buggered.
+#이 공구는 이미 사용할 수 없다.
+
+[930]
+#The worker died from the explosion.
+#이 노동자는 폭격으로 사망했다.
+
+[931]
+#This work is really killing.
+#이 일은 정말로 사람을 지치게 한다.
+
+[932]
+#This work is beautifully done.
+#이 일은 대단히 잘 되었다.
+
+[933]
+#The company bust up.
+#이 회사는 파산했다.
+
+[934]
+#The dog has worms.
+#이 개는 벌레를 키운다.
+
+[935]
+#The dog lolled its tongue out,
+#이 개는 혀를 내밀었다.
+
+[936]
+#The dog latched on and wouldn't let go.
+#이 개는 죽어라고 물고 놓지 않는다.
+
+[937]
+#The odor repels me.
+#이 냄새는 정말 역겹다.
+
+[938]
+#This story is founded on tradition.
+#이 이야기는 전설에 근거한 것이다.
+
+[939]
+#The story is a fantasy.
+#이 이야기는 상상의 산물이다.
+
+[940]
+#There's a moral to this story.
+#이 이야기는 우의가 있다.
+
+[941]
+#The pipe leaks gas.
+#이 파이프는 가스가 샌다.
+
+[942]
+#The boy dislikes getting up early.
+#이 아이는 일찍 일어나는 것을 좋아하지 않는다.
+
+[943]
+#The child has great capabilities.
+#이 아이의 잠재능력은 아주 크다.
+
+[944]
+#The baby cannot stand.
+#이 아이는 아직 설 수 없다.
+
+[945]
+#The child was anxious to go to the park.
+#이 아이는 공원에 가고 싶어한다.
+
+[946]
+#The baby is holding a pen.
+#이 아이는 만년필 한 자루를 들고 있다.
+
+[947]
+#The child shrinks from meeting strangers.
+#이 아이는 낯선 사람을 두려워한다.
+
+[948]
+#The child wept with rage.
+#이 아이는 화가 나서 줄곧 울었다.
+
+[949]
+#The child is learning quickly.
+#이 아이는 아주 빨리 배운다.
+
+[950]
+#The child has been ill-treated.
+#이 아이는 줄곧 학대 받았다.
+
+[951]
+#The boy was dying with hunger.
+#이 아이는 기아로 거의 죽게 되었다.
+
+[952]
+#The child is learning to read.
+#이 아이는 글자를 배우고 있다.
+
+[953]
+#It is nothing surprising.
+#이것은 조금도 기괴하지 않다.
+
+[954]
+#How long will the fine weather hold?
+#이 좋은 날씨가 얼마나 지속할까?
+
+[955]
+#The lake is abundant in trout.
+#이 호수에는 송어가 많다.
+
+[956]
+#The garden is rank with weeds.
+#이 화원에는 잡초가 무성하다.
+
+[957]
+#This picture is not worth looking at.
+#이 그림은 볼만한 가치가 없다.
+
+[958]
+#The story won't bear repeating.
+#이 말은 고상한 자리에 내놓기 어렵다.
+
+[959]
+#The subject tires me.
+#이 화제는 나를 지치게 한다.
+
+[960]
+#That remark is capable of being misunderstood.
+#이 말은 다른 사람이 오해할 가능성이 있다.
+
+[961]
+#It leaves something to be desired.
+#이것은 여전히 부족한 점이 있다.
+
+[962]
+#This will increase our difficulties.
+#이것은 우리의 어려움을 증가시킬 것이다.
+
+[963]
+#The organization is still memberless.
+#이 기구는 여전히 회원이 없다.
+
+[964]
+#The machine is getting rusty.
+#이 기계는
+
+[965]
+#These points have great weight with him.
+#이 몇 가지는 그에게 지극히 중요하다.
+
+[966]
+#The walls are three inches thick.
+#이 벽돌은 3인치 두께이다.
+
+[967]
+#These rows were laid down in ( to,with,under) soybeans.
+#이 이랑들에 심은 것은 대두이다.
+
+[968]
+#You look relaxed these days.
+#요 며칠 너는 아주 가쁜해 보인다.
+
+[969]
+#These kinds of books are valuable.
+#이 몇 가지 책들은 가치가 있다.
+
+[970]
+#These colours won't rinse out.
+#이 몇 가지 색깔은 물로 씻기지 않는다.
+
+[971]
+#The plan did not answer my request.
+#이 계획은 나의 요구와 맞지 않는다.
+
+[972]
+#The records afford no explanation.
+#이 기록에는 어떠한 설명도 없다.
+
+[973]
+#There are several gaps in the record.
+#이 기록에는 몇 군데 빈 곳이 있다.
+
+[974]
+#This restaurant has a good name.
+#이 식당은 명성이 아주 좋다.
+
+[975]
+#The restaurant has a good reputation.
+#이 식당은 장사가 잘 된다.
+
+[976]
+#The shop is closed for three weeks.
+#이 상점은 3주간 휴업한다.
+
+[977]
+#The factory has been relocated.
+#이 공장은 이미 이전했다.
+
+[978]
+#The hotel shuts down in winter.
+#이 호텔은 겨울에 휴업한다.
+
+[979]
+#This hotel is very select.
+#이 호텔은 꽤 고급이다.
+
+[980]
+#Are there any vacant rooms in this hotel ?.
+#이 호텔에는 빈 방이 있습니까?
+
+[981]
+#This store sells ladies' garments.
+#이 상점은 여자 옷을 판다.
+
+[982]
+#The plane flew to New York.
+#이 비행기는 벌써 뉴욕으로 날아갔다.
+
+[983]
+#This piano wants keying up.
+#이 피아노는 조음을 해야 한다.
+
+[984]
+#Who ( m) does this radio set belong to?
+#이 라디오는 누구의 것입니까?
+
+[985]
+#How wide is this room?
+#이 방은 너비가 얼마입니까?
+
+[986]
+#This room's in a mess.
+#이 방은 엉망진창이다.
+
+[987]
+#The room was illuminated by candles.
+#이 방은 촛불로 조명한다.
+
+[988]
+#Will this overcoat keep the rain out?
+#이 외투는 비를 막을 수 있습니까?
+
+[989]
+#This work admits of no delay.
+#이 일은 한시도 늦출 수 없다.
+
+[990]
+#This is not a very good job.
+#이 일은 그다지 잘하지 못했다.
+
+[991]
+#This dress makes a good showing.
+#이 숙녀복은 보기에 예쁘다.
+
+[992]
+#This dress doesn't fit me anymore.
+#이 상의는 내 몸에 맞지 않는다.
+
+[993]
+#This coat was good value .
+#이 상의는 꽤 수지가 맞는다.
+
+[994]
+#This coat binds at the shoulders.
+#이 상의는 어깨 부분이 너무 조인다.
+
+[995]
+#The thing is morally certain.
+#이 일은 거의 확정되었다.
+
+[996]
+#It is all over the town.
+#이 일은 마을 도처에 퍼졌다.
+
+[997]
+#What is the truth about the matter ?.
+#이 일의 진상은 어떠한가?
+
+[998]
+#It augurs well for me .
+#이 일은 나에게 있어서는 길조이다.
+
+[999]
+#This matter is secondary to that.
+#이 일은 그 일과 비교하면 부차적이다.
+
+[1000]
+#It's a bit of a gamble.
+#이 일은 꽤나 모험적이다.
+

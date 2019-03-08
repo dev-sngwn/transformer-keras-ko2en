@@ -1,0 +1,1432 @@
+[1]
+#The door fastens with a hook.
+#이 문은 고리로 잠겨졌다. 
+
+[2]
+#This door needs a lick of paint.
+#이 문은 약간의 페인트 칠이 필요하다.
+
+[3]
+#The shop has frontages on two busy streets.
+#이 상점은 북적거리는 두 도로를 마주하고 있다.
+
+[4]
+#The business will go bust soon.
+#이 사업은 바로 망할 것이다.
+
+[5]
+#The major was broken for neglect of duty.
+#그 책임자는 직무태만으로 강등될 것이다.
+
+[6]
+#This statement refers to all of us.
+#이 성명은 우리 모두와 관련이 있다.
+
+[7]
+#What could they be doing at this time of day?
+#이 때 그들은 무엇을 했을까?
+
+[8]
+#The food was rather insipid,and needed gingering up.
+#이 음식은 맛이 부족해 재료를 좀 더 넣어야 한다.
+
+[9]
+#This food is contaminated with impurities.
+#이 음식은 이미 더러운 것으로 오염되었다.
+
+[10]
+#That hindered him from going further.
+#이것이 그를 다시 앞으로 계속할 수 없게 하였다.
+
+[11]
+#This convinced me that she is honest.
+#이것은 나로 하여금 그녀가 분명 성실하다는 것을 믿게 한다.
+
+[12]
+#This puts me in mind of days long past.
+#이것이 나에게 오래 전의 일을 생각나게 하였다.
+ 
+[13]
+#I had never even heard of it.
+#이것은 나는 들어보지도 못했다.
+
+[14]
+#It ate up all his time.
+#이 일은 그의 모든 시간을 차지해버렸다.
+
+[15]
+#The accident was an indirect result of her lack of care.
+#이 사고는 그가 조심하지 않은 간접적인 결과이다.
+
+[16]
+#The veriest baby could do it.
+#이 일은 아주 어린 애기도 할 수 있다.
+
+[17]
+#When did this take place?
+#이 일은 언제 발생한 것입니까?
+
+[18]
+#We must get to the bottom of the matter.
+#이 일은 우리가 반드시 철저히 연구해야 할 일이다.
+
+[19]
+#I'll do it later on.
+#이 일은 내가 조금 늦게 다시 처리 할 것이다.
+
+[20]
+#Has the matter been viewed from his standpoint?
+#이 일은 이미 그의 입장에서 관찰을 하였습니까?
+
+[21]
+#It's none of your business,so please don't butt in.
+#이 일은 너와 관계없으니 제발 간섭하지 말아줘.
+
+[22]
+#This is the task cut out for the next week.
+#이것은 다음주로 안배한 일이다.
+
+[23]
+#This is not to be compared with that.
+#이것은 그것과 비교할 수 없는 것이다.
+
+[24]
+#It's form the dollar-and-cent viewpoint.
+#이것은 금전적인 관점에서 말한 것이다.
+
+[25]
+#This is where they lived at that time.
+#이것은 당시 그들이 살던 곳이다.
+
+[26]
+#This is a firstpersonal pronoun.
+#이것은 일인칭 대명사이다.
+
+[27]
+#That's for the first installment.
+#이것은 분할 납부의 첫번째 금액이다.
+
+[28]
+#It's a good day for a swim.
+#수영하기에 적합한 좋은 날이다.
+
+[29]
+#The story concerns an evil magician.
+#이것은 사악한 마법사의 이야기와 관련이 있는 것이다.
+
+[30]
+#It's a dog-eat-dog world.
+#이것은 동족상잔의 세계이다.
+
+[31]
+#It was an extensive area standing at 1,000m.above sea_level.
+#이것은 해발 1천미터의  넓은 지대이다.
+
+[32]
+#This is the worst accident for years.
+#이것은 몇 년 동안 가장 심한 사고이다.
+
+[33]
+#It is a got-up match.
+#이것은 이기고 지는 경기를 잘 말하였다.
+
+[34]
+#This is the best way to solve the problem.
+#이것은 이 문제를 해결하는 가장 좋은 방법이다.
+
+[35]
+#Is that the best way to solve the problem?
+#이것은 이 문제를 해결하는 가장 좋은 방법입니까?
+
+[36]
+#It's an extrascientific area of experience.
+#이것은 과학 영역 밖의 경험이다.
+
+[37]
+#This could be done,and must be done.
+#이것은 할 수 있는 것이며, 반드시 해야 하는 것이다.
+
+[38]
+#This period was the hightide of Romanticism.
+#이때는 낭만주의가 가장 절정에 달한 시기이다.
+
+[39]
+#It was a hot evening in June.
+#6월에 가장 더욱 저녁이다.
+
+[40]
+#Is this your first visit to London?
+#이번이 네가 런던을 처음 방문하는 것이냐?
+
+[41]
+#This is the right weather for bedding out your tomatoes.
+#이것은 너희가 토마토를 키우기에 적당한 기후이다.
+
+[42]
+#It ' s time you pitched those books out.
+#지금은 네가 그 책들을 버릴 시간이다.
+
+[43]
+#This is a piece of news you want to know.
+#이것은 네가 알고 싶어하는 소식이다.
+
+[44]
+#It is a good chance for you to meet him.
+#이것은 네가 그와 만나는 좋은 기회이다.
+
+[45]
+#This is the method how the potential difference is found.
+#이것은 전위차의 방법을 구해낸 것이다.
+
+[46]
+#This is man's infinite yearning to know the truth.
+#이것은 인류가 추구하는 진리의 끝이 없는 욕심이다.,
+
+[47]
+#This is the printed pure silk fabric produced in Shanghai.
+#이것은 상해에서 생산되는 진짜 날염 견직물이다. 
+
+[48]
+#It's the worst accident for months.
+#이것은 수 개월 동안 가장 심각한 사고이다.
+
+[49]
+#It's a bad habit he should slough off.
+#이것은 그가 당연히 버려야 할 나쁜 습관의 하나이다.
+
+[50]
+#This was a measure against which he had spoken.
+#이것은 그가 발언하여 반대한 조치이다.
+
+[51]
+#This was her third conviction for stealing.
+#이것은 그녀의 절도죄에 대한 세 번째 선고이다. 
+ 
+[52]
+#This is her first crack at writing a book.
+#이것은 그녀가 처음 책을 써보는 것이다.
+
+[53]
+#It's a doublebill doublebill of opera and ballet.
+#이것은 같은 장소에서 연출한 오페라와 발레이다.
+
+[54]
+#I wrote it from his dictation.
+#이것은 내가 그의 구술에 따라 적은 것이다.
+
+[55]
+#That's my coat and hers is over there.
+#이것은 나의 코트이고, 그녀의 코트는 거기에 있다.
+ 
+[56]
+#Here is a small token of my appreciation.
+#이것은 내가 감격한 마음의 작은 상징이다.
+
+[57]
+#This is the biggest animal that I have ever seen.
+#이것은 내가 보았던 가장 큰 동물이다.
+
+[58]
+#This makes our third party this month.
+#이것은 우리가 이번 달 3번째 파티이다.
+ 
+[59]
+#We all pitched in to buy this gift.
+#이것은 우리가 돈을 모아서 너에게 사주는 물건이다.
+
+[60]
+#This is our latest price list.
+#이것은 우리의 최신 가격표이다.
+
+[61]
+#It was our first view of the ocean.
+#이것은 우리가 처음 본 바다이다.
+
+[62]
+#It was the best holiday we've ever had.
+#이것은 우리가 지낸 제일 좋았던 휴가이다.
+
+[63]
+#Here's our file on the Middle East.
+#이것은 우리의 중동에 관한 화일이다.
+
+[64]
+#This is the case which we often deal with .
+#이것은 우리가 항상 처리하는 상황이다.
+
+[65]
+#This is the common desire of our two peoples.
+#이것은 우리 양국 국민의 공동 희망이다.
+
+[66]
+#Here is a big thank you from all of us to you.
+#이것은 우리 전체가 당신에 대한 감격의 의미입니다.
+
+[67]
+#This is the place we met last week.
+#이것은 우리가 지난 주에 만난 곳이다.
+
+[68]
+#This is the best we can do .
+#이것은 우리가 할 수 있는 최대한의 노력이다.
+
+[69]
+#This was something we had not figured on at all.
+#이것은 우리가 전혀 예상하지 못했던 일이다.
+
+[70]
+#This is the most recent copy I could find.
+#이것은 우리가 찾을 수 있는 최신 판본이다.
+
+[71]
+#It is my pride and joy.
+#이것은 나의 자존심과 나의 기쁨이다. 
+
+[72]
+#This is the last time I'll ever ask you to do anything for me.
+#이것은 내가 마지막으로 한 번 너에게 일을 해달라고 부탁하는 것이다.
+
+[73]
+#It's an end-stopped line.
+#이것은 마침표가 있는 줄이다.
+
+[74]
+#This is our inquiry.Would you like to have a look?
+#이것은 문의서니 한 번 봐주세요.
+
+[75]
+#It's a good buy at that price!
+#이것은 가격이 적당한 매매이다.
+
+[76]
+#It was a six-hour flight.
+#이번은 6시간의 비행이다.
+
+[77]
+#This is an example illustrative of the issue under discussion.
+#이것은 토론 중의 문제를 설명한 예이다.
+
+[78]
+#This is a knotless thread.
+#이것은 매듭이 없는 끈이다.
+
+[79]
+#It is a matter of no little interest .
+#이것은 우리와 중대한 관계가 있는 일이다.
+
+[80]
+#This is a badly farcied horse.
+#이것은 심각한 마비저를 앓은 말이다.
+ 
+[81]
+#This is a law forbidding the import.
+#이것은 수입을 금지하는 법률이다.
+
+[82]
+#This is a work of longuehaleine ..
+#이것은 끊임없는 노력이 필요한 작업이다.
+
+[83]
+#This is a handy little box.
+#이것은 사용이 편한 작은 상자이다.
+
+[84]
+#It's a dresser with doored compartments.
+#이것은 문 칸막이의 화장대이다.
+
+[85]
+#It's one of the standard books on the subject.
+#이것은 이 학과에서 쓰는 서적의 하나이다.
+
+[86]
+#It's a really first-chop new play.
+#이것은 진정한 일류의 새로운 연극이다.
+
+[87]
+#This is the rock-bottom price and any further reduction is out of the question.
+#이것은 가장 낮은 가격이므로 더 이상 가격을 낮출 수 없다.
+
+[88]
+#This is a mixture of the best tobacco.
+#이것은 여러 가지 가장 좋은 담배잎을 섞은 것이다.
+
+[89]
+#The townn is one vast slumland.
+#이 도시에는 넓은 빈민가가 있다.
+
+[90]
+#This watch loses 50 minutes a day.
+#이 손목시계는 하루에 50분이 늦는다.
+
+[91]
+#The song was a hit at once.
+#이 노래는 바로 유행했다.
+
+[92]
+#This song is usually attributed to Bach.
+#이 노래는 일반적으로 바하가 작곡한 것으로 여겨진다.
+
+[93]
+#This song comes down to us from the 10th century.
+#이 노래는 10세기부터 전해 내려온 것이다.
+
+[94]
+#This song sings well in French.
+#이 노래는 불어로 부르면 부르기 좋다.
+
+[95]
+#That tune gets me.
+#이 곡은 나의 마음을 울렸다.
+
+[96]
+#The poem shows great intensity of feeling.
+#이 시는 강렬한 느낌을 표현했다.
+
+[97]
+#This poem conveys that he loved nature deeply.
+#이 시는 그의 자연에 대한 깊은 애정을 나타냈다.
+
+[98]
+#The two versions of this poem conflict.
+#이 시의 두 판본은 서로 모순이 된다.
+ 
+[99]
+#This poetry is realistic.I don't care for it very much.
+#이 시는 사실적이라 나는 별로 좋아하지 않는다.
+
+[100]
+#This poem was written by a teacher.
+#이 시는 선생님에 의해 쓰여진 것이다.
+
+[101]
+#This poem speaks of memories of his childhood.
+#이 시가 말하는 것은 그의 어린 시절의 기억이다.
+
+[102]
+#Has the poem ever been set to music?
+#이 시는 곡을 달은 적이 있냐?
+
+[103]
+#This shop only sells paperbacks.
+#이 서점은 엷은 종이를 한 염가판의 책만을 판다.
+
+[104]
+#The books is said to have been translated into many langages.
+#이 책은 이미 몇 개 언어로 번역되었다고 한다.
+
+[105]
+#This book is quite beyond me.
+#이 책은 정말 내가 이해할 수 있는 것이 아니다.
+
+[106]
+#The book is ready for publication.
+#이 책은 이미 준비가 되어 출판할 수 있다.
+
+[107]
+#The book is nothing like as difficult as I expected.
+#이 책은 내가 상상했던 것 만큼 어렵지 않다.
+
+[108]
+#The book appeared at the beginning of the eighteenth century.
+#이 책은 18세기 초엽에 출판되었다.
+
+[109]
+#What is the desk made of?
+#이 책상은 무엇으로 만든 것이냐?
+
+[110]
+#This corset laces at the side.
+#이 코르셋은 옆에서 졸라맨다.
+
+[111]
+#The amount is so small that it hardly counts.
+#수량이 너무 작아 거의 별거 없다.
+
+[112]
+#Where is the pair to this sock?.
+#이 양말의 다른 한 짝은 어디에 있냐?
+
+[113]
+#These shoes are too small;they won't go on.
+#이 신발은 너무 작아 들어가지 않는다.
+
+[114]
+#I can't get into these shoes ; they are too small.
+#이 신발이 너무 작아 나는 신을 수 없다.
+
+[115]
+#Where's the mate to this shoe?.
+#이 신발의 다른 한 짝은 어디에 있냐?
+
+[116]
+#The fruit has spoilt in the hot sun.
+#이 과일은 뜨거운 햇빛에 말라버렸다.
+
+[117]
+#This kettle whistles when it boils.
+#이 물주전자는 물이 끓을 때 삑삑 소리가 난다.
+
+[118]
+#This water is too cold to put on to the crops.
+#이 물은 너무 차가와 농작물에 쓰기는 좋지 않다.
+
+[119]
+#This boat isn't seaworthy; it may sink.
+#이 배는 항해에 적합하지 않은데 침몰할 가능성이 있다.
+
+[120]
+#The ship sank below the waves and was seen no more.
+#이 배는 가라앉아서 다시는 볼 수 없었다.
+
+[121]
+#The ship has been newly fitted out.
+#이 배의 장비는 이미 새롭게 바뀌었다.
+
+[122]
+#The ship is still feeling her helm.
+#그 배는 여전히 배의 키로 항행하고 있다.
+
+[123]
+#Where does ship hail form?
+#이 배은 어디에서 항해해 것이냐?
+
+[124]
+#This ship is destined for Southampton.
+#이 배는 Southampton으로 항해할 것이다.
+
+[125]
+#The motor launch was fitting out as a fishing boat.
+#이 모터보트는 어선으로 만들어 지고 있었다.
+
+[126]
+#All the students of this college live in.
+#이 대학의 학생은 모두 기숙사생이다.
+
+[127]
+#The students in this university are very political.
+#이 대학의 학생은 정치적으로 활발하다.
+
+[128]
+#This university offers a course in business administration.
+#이 대학은 기업관리학 과정이 설치되있다.
+
+[129]
+#The house is tenanted by a politician.
+#이 집은 한 정치가가 사는 곳이다.
+
+[130]
+#This house backs on a lake.
+#이 집은 호수를 등지고 있다.
+
+[131]
+#The house needs painting.It's in bed condition.
+#이 집은 아주 오래되어 페인트칠이 필요하다.
+
+[132]
+#The house is built of wood.
+#이 집은 나무로 만들었다.
+
+[133]
+#The park has become cleaner than before.
+#이 공원은 이전 보다 깨끗하게 변했다.
+
+[134]
+#The school promised rapid results.
+#이 학교는 빠른 결과를 약속하였다.
+
+[135]
+#The approximate number of boys in the school is 300.
+#이 대학의 남학생 수는 300명이다.
+
+[136]
+#The school lacks lodgeable quarters.
+#이 학교는 적당히 숙박할 숙소가 부족하다.
+
+[137]
+#The school was visited by the education officer.
+#이 학교는 교육청의 시찰을 받았다.
+
+[138]
+#The school shuts down during busy farming seasons.
+#이 학교는 농번기에 수업을 안 한다.
+
+[139]
+#The college has excellent sporting facilities.
+#이 학교는 아주 좋은 체육 설비가 있다.
+
+[140]
+#The college is on vacation.
+#이 대학은 바로 방학기간이다.
+
+[141]
+#This hospital is attached to our medical department.
+#이 병원은 우리 의학과 부속이다.
+
+[142]
+#The lathe is being adjusted by the operator.
+#이 선반은 수리공에 의해 정비되고 있다.
+
+[143]
+#You can't get a clear picture on this set.
+#이 텔레비전은 깨끗한 화상을 받지 못했다.
+
+[144]
+#This electric generator can produce a considerable amount of electricity.
+#이 텔레비전은 아주 많은 전량을 내놓았다.
+
+[145]
+#The generator shuts off automatically.
+#이 엔진은 자동적으로 운전을 정지할 수 있다.
+
+[146]
+#The engine goes through a lot of diesel oil.
+#이 발동기는 디젤유를 많이 소모한다. 
+
+[147]
+#What are the temperature readings for this machine?
+#이 기계의 온도 눈금은 얼마입니까?
+
+[148]
+#This machine is broken and must be repaired.
+#이 기계는 고장이 나서 반드시 수리해야 한다.
+
+[149]
+#Is the machine operational yet?
+#이 기계는 조작에 투입할 수 있습니까?
+
+[150]
+#This machine can print 60 pages a minute.
+#이 기계는 매분마다 60장을 인쇄할 수 있다.
+
+[151]
+#The machine can hammer out metal very thin.
+#이 기계는 금속을 아주 얇게 펼 수 있다.
+
+[152]
+#This machine crushes wheat grain to make flour.
+#이 기계는 밀을 가루로 빻을 수 있다.
+
+[153]
+#This machine can bore through solid rock.
+#이 기계는 견고한 암석을 뚫을 수 있다.
+
+[154]
+#The machine is bedded in cement.
+#이 기계는 시멘트로 지상에 고정되었다.
+
+[155]
+#This machine has one big failing.
+#이 기계는 큰 결점이 하나 있다.
+
+[156]
+#This machine only takes five-pence coins.
+#이 기계는 다만 5펜스의 동전을 받아들인다.
+
+[157]
+#This apparatus produces harmful radiations.
+#이 설비는 유해한 복사를 생산한다.
+
+[158]
+#Does this radio belong to you?
+#이 라디오는 너의 것이냐?
+
+[159]
+#This new machine is more efficient than the old one.
+#이 새 기기는 그 오래된 것보다 효율이 높다.
+
+[160]
+#This new cleaner works wonders.
+#이 새로운 청소기는 쓰기에 아주 좋다.
+
+[161]
+#This blue suit gets linty much too quickly.
+#이 남색 슈트는 매우 빨리 보푸라기가 일었다.
+
+[162]
+#This suit has outworn all my others.
+#이 옷은 내 다른 옷보다 낡았다.
+
+[163]
+#What is the price of this suit?
+#이 옷의 가격은 얼마입니까?
+
+[164]
+#The weather wrecked our plans.
+#날씨가 우리의 계획을 망쳤다.
+
+[165]
+#It is sultry rather than warm.
+#날씨는 따뜻하기 보다는 무덥다.
+
+[166]
+#The boundary ranges east and west.
+#이 국경선은 동쪽에서 서쪽으로 뻗었다.
+
+[167]
+#The ship is leaving for New York soon.
+#이 배는 바로 뉴욕을 향해 항해할 것이다.
+
+[168]
+#The boat seemed very slow to answer to any movement of the helm.
+#이 배는 키의 운전을 잘 듣는 것 같지 않다.
+
+[169]
+#The ship has already cleared out.
+#이 배는 이미 출항 수속을 마쳤다.
+
+[170]
+#The ship was cast away during the storm.
+#이 배는 폭풍우에서 실종되었다.
+
+[171]
+#The ship fell on a tempest in theocean.
+#이 배는 대양에서 폭풍우를 만났다.
+
+[172]
+#The ship puts in at Bombay.
+#이 배는 봄베이에서 정박한다.
+
+[173]
+#The ship cleared in yesterday.
+#이 배는 어제 하역 허가 수속을 마쳤다.
+
+[174]
+#This road connects London and Dover.
+#이 도로는 런던과 도버를 연결한다.
+ 
+[175]
+#The road is only negotiable in the dry season.
+#이 도로는 건기에만 통행할 수 있다.
+
+[176]
+#The road climbed steeply up the hill.
+#이 도로는 가파르게 언덕으로 통한다.
+
+[177]
+#The dog always scoffs its food.
+#이 개는 음식을 먹을 때 항상 허겁지겁 먹는다.
+
+[178]
+#The dog has nipped the postmen on the leg.
+#이 개가 우체부의 다리를 물었다.
+
+[179]
+#The dog always barks at the postman.
+#이 개는 항상 우체부를 향해 짖는다.
+
+[180]
+#The rule covers all cases.
+#이 규칙은 모든 상황에 적용된다.
+
+[181]
+#The rule does not allow of more than one interpretation.
+#이 규칙은 한 가지만으로 해석할 수 있다.
+
+[182]
+#The river broadens at this point.
+#이 강은 여기에서 넓게 변하기 시작한다.
+
+[183]
+#This river heads up in the Tianshan Mountains.
+#이 강은 천산산맥에서 시작한다.
+
+[184]
+#This river has been fished too much.
+#이 강 안의 고기가 너무 많이 포획되었다.
+ 
+[185]
+#This river is in danger of being fished out.
+#이 강 안의 고기는 전부 포획될 위험에 처하였다.
+
+[186]
+#The river has been polluted by factory waste.
+#이 하류는 이미 공장 폐기물로 오염되었다.
+
+[187]
+#This river is navigable for 2v ad [T] kilometres.
+#이 강은 200킬로미터로 배가 항해할 수 있다.
+
+[188]
+#This river has a length of 100 kilometers.
+#이 강은 길이가 100킬로미터이다.
+
+[189]
+#The river runs between the two states.
+#이 강은 두 주의 사이를 흐른다.
+
+[190]
+#Several properties in this street are to be let.
+#이 거리에는 몇 군데의 세를 놓으려는 부동산이 있다.
+
+[191]
+#This old wiring needs replacing.
+#이 오래된 노선은 교체해야 한다.
+
+[192]
+#This tie is a good match for that suit.
+#이 넥타이는 그 옷과 서로 잘 어울린다.
+
+[193]
+#The road dips just around the corner.
+#이 도로는 코너를 지나면 바로 내리막이다.
+
+[194]
+#This road will lead you to the town centre.
+#이 도로는 너를 시내로 이끌 것이다.
+
+[195]
+#The road was clear of traffic.
+#이 도로 위에는 차량이 행렬이 없다.
+
+[196]
+#The path cuts the field in two places.
+#이 도로는 두 곳에서 논밭을 통과한다.
+
+[197]
+#There is little traffic on this road.
+#이 도로 위에 차량이 아주 적다.
+
+[198]
+#This road tends south here.
+#이 도로는 여기에서 남쪽으로 통한다.
+
+[199]
+#The belt won't go round my waist.
+#이 가죽 허리띠는 너무 짧아서 내 허리에 두를 수 없다.
+
+[200]
+#This skirt needs letting in at the waist.
+#이 치마의 허리를 줄여야 한다.
+
+[201]
+#This skirt is too short on me.
+#이 치마는 내게 너무 짧다.
+
+[202]
+#It's a nice skirt,but too big round the waist.
+#이 치마는 아주 예쁘나, 허리가 너무 크다.
+
+[203]
+#This mountain range has many high peaks and deep canyons.
+#이 산맥은 많은 고봉과 심곡이 있다.
+
+[204]
+#Does this railway go to the coast?
+#이 철로는 해변으로 통합니까?
+
+[205]
+#This message has just buzzed in.
+#이 메시지는 방금 부저로 전해왔다. 
+
+[206]
+#The brook meandered through the meadow.
+#이 시냇물은 목장을 굽어 흐른다.
+
+[207]
+#The news went over without much comment.
+#이 소식은 많은 견해를 일으키지 않았다.
+
+[208]
+#The path verges on the edge of a precipice.
+#이 좁은 길은 절벽의 가장자리에 인접해있다.
+
+[209]
+#The path climbed zigzag up the slope.
+#이 좁은 길은 지그재그로 경사져 올라갔다.
+
+[210]
+#The big new road mars the beauty of the countryside.
+#이 새로운 대로는 농촌의 아름다운 풍경을 버려놓았다.
+
+[211]
+#The news was sent by telegraph.
+#이 뉴스는 전보로 발송되었다.
+
+[212]
+#The news was beamed to East Africa by satellite.
+#이 신문은 위성으로 동아프리카에 전송되었다.
+
+[213]
+#The news was blacked out by the press.
+#이 뉴스는 신문에서 삭제되었다.
+
+[214]
+#The new road will divide the farm.
+#이 새로 건설된 도로는 밭을 둘로 나누었다.
+
+[215]
+#This fish isn't fresh; it smells!
+#이 고기는 신선하지 않으며 이미 냄새가 난다.
+
+[216]
+#The sea lion seems to enjoy showing off.
+#이 바다사자는 마치 자기를 드러내 보이는 것을 좋아하는 것 같다.
+
+[217]
+#The design was picked out in bright red.
+#이 도안의 색체는 밝은 붉은 색으로 아주 화려하다.
+
+[218]
+#This coat is made of PVC.
+#이 외투는 PVC로 만든 것이다.
+
+[219]
+#The minister deals with important affairs of state.
+#이 부장은 중요한 국가 대사를 처리한다.
+
+[220]
+#The minister's climb to power had taken 20 years.
+#이 부장은 20년이 걸려서 정권을 잡았다.
+
+[221]
+#The piano player was not up to scratch.
+#이 피아노 연주자의 수준은 충분하지 않다.
+
+[222]
+#The nurse is on call tonight.
+#이 간호사는 오늘 밤 당직이다.
+
+[223]
+#This artist uses contrast between light and dark skilfully.
+#이 화가는 교묘하게 명암의 대비를 운용하였다.
+
+[224]
+#This artist uses shade to good effect.
+#이 화가는 효과적으로 음영을 이용하였다.
+
+[225]
+#The general condescended to eat with the soldiers.
+#이 장군은 사병과 함께 음식을 먹었다.
+
+[226]
+#The teacher is good at getting his pupils on.
+#이 교사는 학생의 발전을 잘 이끈다.
+
+[227]
+#This is the girl who typed a letter for me.
+#이 사람이 바로 내 대신에 편지를 써 준 소녀이다.
+ 
+[228]
+#This is Dr.Wang about whom I talked.
+#이 분이 바로 내가 말한 왕부인이다.
+
+[229]
+#The works of this playwright are much sought after.
+#이 극작가의 작품은 아주 인기가 있다.
+
+[230]
+#The old woman mumbled a prayer.
+#이 노부인은 중얼거리며 기도했다.
+
+[231]
+#The old lady climbs the stairs with difficulty.
+#이 노부인은 힘들게 계단을 올라간다.
+
+[232]
+#The old lady can mount the stairs only with difficulty.
+#이 노부인이 계단을 오르는 것은 아주 힘들다.
+
+[233]
+#The old lady has some eccentric habits.
+#이 노부인은 이상한 습관이 있다.
+
+[234]
+#This veteran cadre is looked up to by everybody.
+#이 늙은 간부는 모든 사람들의 존경을 받는다.
+
+[235]
+#The old general has started to write his memoirs.
+#이 노장군은 이미 회고록을 쓰기 시작하였다.
+
+[236]
+#The actress moved the audience with her performance.
+#이 여자 배우는 연기로 관중을 감동시켰다.
+
+[237]
+#The young worker dug into Lu Xun's works.
+#이 젊은 근로자는 노신의 저서를 연구하였다.
+
+[238]
+#This great man is able to command everyone's respect.
+#이 위대한 사람은 모든 사람들의 존경을 받을 수 있다.
+
+[239]
+#The actor was miming the movements of a bird.
+#이 연기자는 새 한 마리의 동작을 흉내내고 있다.
+
+[240]
+#The doctor spent his life combatting disease.
+#이 의사는 한 평생 질병과 싸웠다.
+
+[241]
+#The politician leaked the news to the newspapers.
+#이 정치가는 소식을 신문계에 유출하였다.
+
+[242]
+#The politician retracted his statement.
+#이 정치가는 그의 성명을 취소하였다. 
+
+[243]
+#This writer's plays act well.
+#이 작가의 극본은 상연하기에 적합하다.
+
+[244]
+#The writer's fame was at its zenith.
+#이 작가는 이미 세상에 명성이 자자하다.
+
+[245]
+#The author refers frequently to the Bible.
+#이 작가는 자주 성경을 인용한다.
+
+[246]
+#The question was discussed warmly by them.
+#이 문제는 그들에 의해 토론이 흥이 났다.
+ 
+[247]
+#The problems must be tackled by dint of education.
+#이 문제는 반드시 교육에 의해 해결해야 한다.
+
+[248]
+#The question allows of no dispute.
+#이 문제는 쟁론할 여지가 하나도 없다.
+
+[249]
+#The question was not worth discussing.
+#이 문제는 토론할 가치가 없다.
+
+[250]
+#This question is too hard; I can't answer it.
+#이 문제는 너무 어려워 나는 대답할 수 없다.
+
+[251]
+#The problem must also be viewed from the employer's angle.
+#이 문제도 고용주의 각도에서 봐야 한다.
+
+[252]
+#I've seen it somewhere.
+#이것은 내가 어디선가 본 것이다.
+
+[253]
+#The roof rests on a number of columns.
+#이 지붕은 몇 개의 둥근 기둥으로 받쳐지고 있다.
+
+[254]
+#All this cannot be achieved in a day.
+#이것은 하룻동안에 전부 완성할 수 없다.
+
+[255]
+#The bureau drawers slide in and out easily.
+#이 서랍이 다섯 개 달린 옷장의 서랍은 쉽게 밀어 넣고 당겨낼 수 있다.
+
+[256]
+#This mat is my own work.
+#이 자리는 내 자신이 만든 것이다.
+
+[257]
+#The drama is attributed to Shakespeare.
+#이 희극은 셰익스피어가 쓴 것으로 여겨진다.
+
+[258]
+#The play was adapted from a novel.
+#이 희극은 소설을 개작하여 완성된 것이다.
+
+[259]
+#Here's a fine howdo-youdo!
+#이것은 큰일이다!
+
+[260]
+#These bananas are too green to eat.
+#이 바나나는 아직 익지 않아 먹을 수 없다.
+
+[261]
+#This box is light to carry.
+#이 상자는 아주 가벼워 갖고 다니기 편하다.
+
+[262]
+#This report does not relate to him.
+#이 보고는 결코 그가 말한 것이 아니다.
+
+[263]
+#The change rides on his approval.
+#이 변경은 그의 인가를 얻어 정할 수 있다.
+
+[264]
+#The measure fell in with popular demand.
+#이 조치는 인민의 요구에 부합된다.
+
+[265]
+#This bill will secure the rights of strikers.
+#이 법안은 파업자의 권리를 확보할 것이다.
+
+[266]
+#The law was designed to shut out immigrants.
+#이 법률은 이민의 입국을 거절하는데 있다.
+
+[267]
+#The accomplishment of this task took many years.
+#이 작업의 완성은 몇 년이 걸렸다.
+
+[268]
+#The work took up the whole of Sunday.
+#이 작업은 일요일 하루 종일 걸렸다.
+
+[269]
+#This work may lead nowhere. .
+#이 작업은 아마 전혀 아무런 결과가 없을 것이다.
+
+[270]
+#Someone with creativity is needed for this job.
+#이런 일은 창조적인 사람이 해야 할 필요가 있다.
+
+[271]
+#This work is wanted to be finished quickly.
+#이 일은 빠른 완성이 요구된다.
+
+[272]
+#The skill has been passed down over four generations.
+#이 기예는 이미 4대를 전해졌다.
+
+[273]
+#The plan may even yet succeed.
+#이 계획은 언젠가는 성공할 것이다.
+
+[274]
+#This suggestion requires careful thought.
+#이 건의는 자세한 생각을 필요로 한다.
+
+[275]
+#Unexpected results eventuated from this decision.
+#이 결정은 생각하지 못한 결과를 낳았다.
+
+[276]
+#This decision was taken behind my back.
+#이 결정은 나를 속이고 나온 것이다.
+
+[277]
+#What heading does this come under?
+#이 내용은 어느 표제 밑에 놓아야 하나요?
+
+[278]
+#The design was found much improved.
+#이 설계는 매우 많은 발전이 발견되었다.
+
+[279]
+#The agreement was the result of long negotiations.
+#이 협정은 장기적인 담판의 결과이다.
+
+[280]
+#The new law does not refer to land used for farming.
+#이 새 법률은 농장을 언급하지 않았다.
+
+[281]
+#This new law discriminates against lower-paid workers.
+#이 새 법률은 저임금 노동자를 차별대우한다.
+
+[282]
+#When does the new law come into operation?
+#이 새 법률은 언제 효과가 발생하나요?
+
+[283]
+#Where did you hunt up all this information?
+#이 소식은 네가 어디에서 들은 거냐?
+
+[284]
+#The news broke me all up.
+#이 소식이 나를 어찌할 바 모르게 하였다.
+
+[285]
+#The crowds were elated by the news.
+#이 소식에 군중들은 의기양양하였다.
+
+[286]
+#The news made him jump out of bed.
+#이 소식이 그를 침대에서 벌떡 일어나게 하였다.
+
+[287]
+#The news makes me inclined to change my mind.
+#이 소식은 내가 생각을 바꾸도록 생각케하였다.
+ 
+[288]
+#The pamphlet goes out in 6,000 copies.
+#이 소책자는 6000권을 발행하였다.
+ 
+[289]
+#Over a thousand copies of the pamphlet have now been given out.
+#이 소책자는 이미 1천 권 이상 배포하였다.
+
+[290]
+#The little girl was very fond of dolls.
+#이 어린 여자 아이는 인형을 아주 좋아한다.
+
+[291]
+#This novel was published in certain newspapers.
+#이 소설은 어느 신문에서 발표되었다.
+
+[292]
+#The thief was given a milder punishment than he deserved.
+#이 도둑이 받은 벌은 그가 응당 받아야 할 것보다 가벼웠다.
+
+[293]
+#These safety measures will result in the reduction of work accidents.
+#이 안전조치는 산업재해를 줄일 것이다.
+
+[294]
+#These cups belong on the shelf.
+#이런 컵은 찬장에 놓아야 한다.
+
+[295]
+#Such are the things which we dread so rightfully ..
+#이것은 바로 우리가 응당 두려워해야 하는 것이다.
+
+[296]
+#These parts prevent dirt from entering into the eyes.
+#이 부분이 먼지가 눈에 들어가는 것을 막는다.
+
+[297]
+#All these articles are our best selling lines.
+#이 상품들은 우리의 인기제품들이다.
+
+[298]
+#These legends have come down from time immemorial.
+#이 전설은 먼 옛날 부터 전해내려 온 것이다.
+
+[299]
+#These expressions were exscinded from the text.
+#이 표현은 문장 중에서 삭제하였다.
+
+[300]
+#The undergraduates are going down next week.
+#이 대학생들은 다음 주에 졸업하여 학교를 떠날 것이다.
+
+[301]
+#These bags are too heavy,I can't lift them.
+#이 자루들은 너무 무거워 나는 들 수 없다.
+
+[302]
+#These pipes communicate heat to each room.
+#이 도관은 열을 각 방으로 전한다.
+
+[303]
+#These TV programmes cater for children.
+#이런 텔레비전 제목은 어린이를 위한 것이다.
+
+[304]
+#These nails come in three standard sizes.
+#이 못들은 세 가지의 표준 규격이 있다.
+
+[305]
+#These are the figural representations contained in ancient wall painting.
+#이것들은 모두 고대 벽화 속의 인물화상이다.
+
+[306]
+#These are all questions left over by history.
+#이것들은 역사적으로 내려오는 문제들이다.
+
+[307]
+#They're all free-take any you like.
+#이것들은 모두 공짜니 당신 마음대로 가져가세요.
+
+[308]
+#These ribbons don't match with your hat.
+#이 리본들은 너의 모자와 어울리지 않는다.
+
+[309]
+#These tomatoes were organically grown.
+#이 토마토들은 유기비료로 재배한 것이다.
+
+[310]
+#All these houses belong to the people's commune.
+#이런 집들은 모두 인민공사에 속하는 것이다.
+
+[311]
+#These houses blend well with the trees.
+#이런 집들은 이 나무들과 어울린다.
+
+[312]
+#The expenses ought to be lumped together.
+#이런 비용들은 함께 합쳐야 한다.
+
+[313]
+#These customs have been handed down through the ages.
+#이런 풍속은 대대로 전해 내려오는 것이다.
+
+[314]
+#This dried grass will make good bedding for the animals.
+#이런 건초는 가축에게 깔개를 만들어 줄 수 있다.
+
+[315]
+#These factories are periodically inspected by government officials.
+#이런 공장은 정부관원에 의해서 정기적으로 검사를 받는다.
+
+[316]
+#Have you done all this work off your own bat?
+#이 일은 모두 네가 독립적을 완성한 것이냐?
+
+[317]
+#The work must not be hung up for any reason.
+#이 일은 어쨌든 놓아둘 수 없는 것이다.
+
+[318]
+#These bulls are growthy and rugged.
+#이런 황소는 또 크고 건장하게 자랄 수 있을 것이다.
+
+[319]
+#How much interest will the bonds bear?.
+#이런 공채는 이자가 얼마나 발생합니까?
+
+[320]
+#These shares yield a dividend of 10%.
+#이런 증권은 10%의 주식 배당금이 있다.
+
+[321]
+#These pots clean easily.
+#이 도자기들은 쉽게 닦인다.
+
+[322]
+#The regulations refer only to minors.
+#이런 규칙들은 미성년자에게만 적용한다.
+ 
+[323]
+#The rules will remain in effect until October.
+#이런 규칙들은 10월까지만 실시될 것이다.
+
+[324]
+#The children are very active ,but never play up.
+#이런 아이들은 매우 활발하나 결코 성가시게 하는 적이 없다.
+
+[325]
+#The children have been acting up again.
+#이 아이들은 또 말을 잘 듣지 않고 소란을 피웠다.
+
+[326]
+#These alloys weld at different heats.
+#이런 합금은 다른 온도에서 용접할 수 있다.
+
+[327]
+#These rivers join at that town.
+#이런 하류는 그 도시에서 만난다.
+
+[328]
+#These floods caused loss of life.
+#이런 홍수는 적지 않은 사람이 목숨을 잃었다.
+
+[329]
+#These young plants will soon be ready for bedding .
+#이런 어린 식물은 빠르게 재배할 수 있다.
+
+[330]
+#May I pluck some of these flowers?.
+#내가 이 꽃들을 꺾어도 됩니까?
+
+[331]
+#Don't pick off any of these flowers.
+#이런 꽃들은 한 송이도 꺾지 마세요.
+
+[332]
+#The flowers are wilting for lack of water.
+#이 꽃들은 물이 부족하여 점차 시들어 가고 있다.
+
+[333]
+#These pictures won't fetch you much.
+#이 그림들은 비싸게 팔 수 없다.
+
+[334]
+#These pictures are representative of life in medieval Europe.
+#이 그림들은 중세기의 생활을 묘사하고 있다.
+
+[335]
+#These chemicals dissolve fat.
+#이런 화학 약제는 지방을 분해한다.
+
+[336]
+#The goods do not correspond to the samples you sent me.
+#이런 물건은 당신이 보낸 견본품과 같지 않다.
+
+[337]
+#These goods all fall within this category.
+#이런 화물은 이런 종류에 속한다.
+
+[338]
+#The goods are done up in bundles for shipment.
+#이런 화물은 운송하기 위하여 포장하여 꼭 묶었다.
+
+[339]
+#This freight must be carefully handled when loading.
+#이런 화물은 하역할 때 반드시 조심하여 가볍게 놓아야 한다.
+
+[340]
+#The machines have lain idle for weeks now.
+#이런 기계는 이미 몇 주 방치되었다.
+
+[341]
+#These eggs are 2 dollars for 10 .
+#이 달걀은 10개에 2달러이다.
+
+[342]
+#These enormities cannot be forgiven.
+#이 극악한 폭행은 용서할 수 없다.
+
+[343]
+#These plans must be kept secret from the enemy.
+#이런 계획은 반드시 적에게 비밀로 해야 한다.
+
+[344]
+#The programs will be beamed to Mainland China.
+#이런 프로그램은 중국 대륙에 방송될 것이다.
+
+[345]
+#Which of these rings do you prefer?
+#이 반지들 중에 너는 어느 것을 좋아하느냐?
+ 
+[346]
+#These old clothes are not worth keeping.
+#이 오래된 옷들은 보관할 가치가 없다.
+
+[347]
+#These are arguments in favor of this hypothesis.
+#이런것들은 바로 이 가설을 받쳐주는 논거이다.
+
+[348]
+#The meetings were largely unattended.
+#이 모임들의 출석자는 거의 없다.
+
+[349]
+#All this spending is a drain on the money I have saved.
+#이런 소비는 나의 저축을 소모하고 있다.
+
+[350]
+#Let's set aside all formality.
+#이런 인사치레말을 우리는 말하지 맙시다.
+
+[351]
+#Such theories are unapprehended by ordinary people.
+#이런 이론은 보통 사람들이 이해할 수 없는 것이다.
+
+[352]
+#These supplies will be enough to tide us over the winter.
+#이런 식량은 우리들이 겨울을 나기에 충분하다.
+
+[353]
+#These cracks can be seen under a microscope.
+#이런 균열은 현미경으로 볼 수 있는 것이다.
+
+[354]
+#It is estimated that there parts will last you two years of operation.
+#이런 부속품은 귀사에 2년 사용할 수 있도록 하겠습니다.
+
+[355]
+#These willow saplings will put out fresh leaves very soon.
+#이런 버드나무 묘목은 바로 새로운 잎사귀가 나올 것이다.
+
+[356]
+#There's still some wear in these tyres.
+#이런 타이어는 아직 얼마간 사용할 수 있다.
+
+[357]
+#These tires don't grip on wet roads.
+#이런 타이어는 젖은 도로에서는 콘트롤하기가 좋지 않다.
+
+[358]
+#These bolts and nuts hold the wheels on.
+#이런 볼트와 너트가 바퀴를 고정하였다.
+

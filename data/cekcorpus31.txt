@@ -1,0 +1,4000 @@
+[1]
+#The criminal was told he would be immune from punishment if he helped the police.
+#ÁËÀÎÀº ¸¸¾à ±×°¡ °æÂûÃø¿¡ ÇùÁ¶ÇÏ¸é ÁË¸¦ ¸éÁ¦¹ŞÀ» ¼ö ÀÖ´Ù´Â °ÍÀ» µé¾ú´Ù.
+
+[2]
+#In accordance with this plan,we shall look for the first payment on Sept.1.
+#º» °èÈ¹¿¡ µû¶ó¼­ ¿ì¸®´Â 9¿ù 1ÀÏ¿¡ Á¦1Â÷ ÁöºÒÀ» ¾òÀ» ¾òÀ» ¼ö ÀÖ±â¸¦ Èñ¸ÁÇÑ´Ù.
+
+[3]
+#In accordance with your request,we hand you herewith a statement of your account,which we hope you will find correct.
+#±ÍÃøÀÇ ¿ä±¸¿¡ µû¶ó ¿ì¸®´Â °á»êº¸°í¼­ 1ºÎ¸¦ µå¸®´Ï ¹Ş¾Æ »ìÆìº¸½Ã±â¸¦ ¹Ù¶ø´Ï´Ù.
+
+[4]
+#What would you have done last night if you hadn't had to study?
+#¾îÁ¦ Àú³á ´ç½ÅÀÌ °øºÎ¸¦ ÇÏÁö ¾Ê¾ÒÀ¸¸é ¹«¾ùÀ» ÇßÀ» ±î¿ä?
+
+[5]
+#We went to a concert last night to hear the symphony or chestra.
+#¾îÁ¦ Àú³á ¿ì¸®µéÀº À½¾ÇÈ¸¿¡ Âü¼®ÇØ¼­ ±³Çâ¾Ç´ÜÀÇ ¿¬ÁÖ¸¦ µé¾ú´Ù.
+
+[6]
+#We went to a concert last night to hear the symphony orchestra.
+#¾îÁ¦ Àú³á ¿ì¸®µéÀº À½¾ÇÈ¸¿¡ Âü¼®ÇØ¼­ ±³Çâ¾Ç´ÜÀÇ ¿¬ÁÖ¸¦ µé¾ú´Ù.
+
+[7]
+#I went to a boxing match last night.It was a good fight.
+#¾îÁ¦ Àú³á ³ª´Â ±ÇÅõ°æ±â¸¦ º¸·¯ °¬´Âµ¥, Àç¹ÌÀÖ´Â °İÅõ¿´´Ù.
+
+[8]
+#I was studying yesterday evening when he papped in and cried "Eureka".
+#¾îÁ¬¹ã¿¡ ³»°¡ °øºÎÇÏ°í ÀÖÀ» ¶§ ±×°¡ °©ÀÚ±â "Ã£¾Ò´Ù"ÇÏ°í ¼Ò¸®Ä¡¸ç ¶Ù¾î µé¾ú´Ù.
+
+[9]
+#Yesterday I had Cora come in to wash the kitchen walls,and she did a very good work of it.
+#¾îÁ¦ ³ª´Â ÄÚ¶ó¸¦ ºÒ·¯ ºÎ¾ıÀÇ ³× º®À» Ã»¼ÒÇÏ°Ô ÇÏ¿´´Âµ¥, ±×³à´Â ¾ÆÁÖ ÀßÇß´Ù.
+
+[10]
+#I brought this letter forward yesterday,and all the members discussed it.
+#¾îÁ¦ ³ª´Â ÀÌ ÆíÁö¸¦ ²¨³»¾î ¸ğµç »ç¶÷µéÀÌ ±×°Í¿¡ ´ëÇÏ¿© Åä·ĞÀ» ÇÏ¿´´Ù.
+
+[11]
+#I rang you several times yesterday but couldn't get through (to you).
+#¾îÁ¦ ³ª´Â ³Ê¿¡°Ô ¸î ¹ø ÀüÈ­¸¦ ÇÏ¿´À¸³ª, ¸ğµÎ ÅëÈ­ÇÏÁö ¸øÇß´Ù.
+
+[12]
+#Five trucks piled up at the intersection yesterday.
+#¾îÁ¦ ´Ù¼¸ ´ëÀÇ Æ®·°Àº ½ÊÀÚ·Î¿¡¼­ ¼­·Î ºÎµúÇô ÇÑ ¹«´õ±â ¾ûÄ×´Ù.
+
+[13]
+#We noticed sever al men loitering about the bridling last night.
+#¾îÁ¦ ¹ã¿¡ ¿ì¸®´Â ¸î ¸íÀÌ °Ç¹° ºÎ±Ù¿¡¼­ ¾î½½··°Å¸®´Â °ÍÀ» º¸¾Ò´Ù.
+
+[14]
+#Doing work means moving an object from place to place.
+#ÀÏÇÏ´Â °ÍÀº ¹°Ã¼¸¦ ÇÑ °÷¿¡¼­ ´Ù¸¥ ÇÑ °÷À¸·Î ÀÌµ¿½ÃÅ°´Â °ÍÀ» ÀÇ¹ÌÇÑ´Ù.
+
+[15]
+#A mother mustn't favour one of her children more than the others.
+#¾ö¸¶°¡ µÇ¼­´Â °áÄÚ ÇÑ ¾ÆÀÌ¸¦ Æí¾ÖÇÏ°í ´Ù¸¥ ¾ÆÀÌµéÀ» È¦´ëÇØ¼­´Â ¾ÈµÈ´Ù.
+
+[16]
+#The feudal concept that the wife should defer to her husband in everything has now been shattered.
+#¾Æ³»µÈ »ç¶÷ÀÌ ¸ğµç ÀÏ¿¡ ³²Æí¿¡ º¹Á¾ÇØ¾ß ÇÑ´Ù´Â ºÀ°ÇÀûÀÎ »ç»óÀº ÀÌ¹Ì ±úÁ³´Ù.
+
+[17]
+#As your agent,we'll make greater efforts to push the sales of your products.
+#´ç½ÅÃøÀÇ ´ë¸®ÀÎÀ¸·Î¼­ ¿ì¸®´Â ´õ ¸¹Àº ³ë·ÂÀ¸·Î ´ç½ÅÃøÀÇ »ı»êÇ°À» ÆÇ¸ÅÇÒ °ÍÀÌ´Ù.
+
+[18]
+#The composer kicked the music around for a while,trying it out.
+#ÀÛ°î°¡´Â ÀÌ °îÀ» ¸¶À½´ë·Î Àá½Ã ¸ØÃß°Ô ÇÏ°í ±¦ÂúÀºÁö º¸¾Ò´Ù.
+ 
+[19]
+#Being the eldest son of three children,somehow,I acquired the ability to "lead" my younger brother and sister.
+#ÀåÀÚ·Î¼­ ³ª´Â ÀÚ¿¬½º·´°Ô µ¿»ıÀ» "ÀÌ²ô´Â" ´É·ÂÀ» ±æ·¶´Ù.
+
+[20]
+#She reads well for a six-year-old.
+#6¼¼ÀÇ ¾ÆÀÌ·Î´Â ±×³àÀÇ µ¶¼­ ´É·ÂÀº ¾ÆÁÖ ÁÁ´Ù.
+
+[21]
+#As a college student,it is important to master a foreign language.
+#´ëÇĞ»ıÀ¸·Î¼­ ÇÑ °¡Áö ¿Ü±¹¾î¸¦ ½ÀµæÇÏ´Â °ÍÀº ¾ÆÁÖ Áß¿äÇÏ´Ù.
+
+[22]
+#As a writer she's wonderful,but as a teacher she's not very good.
+#ÀÛ°¡·Î¼­ ±×³à´Â ´ë´ÜÇÏ³ª, ¼±»ı´ÔÀ¸·Î¼­´Â º°·Î ±¦ÂúÁö ¾Ê´Ù.
+
+[23]
+#The author emphasizes that many of the figures quoted are merely estimates.
+#±× ÀÛ°¡´Â ÀÎ¿ëÇÑ ¼ıÀÚ´Â ¾ÆÁÖ ¸¹À¸³ª ´Ù¸¸ ¿¹ÃøÀÏ »ÓÀÌ¶ó°í °­Á¶ÇÏ¿´´Ù.
+
+[24]
+#The author has edited out all references to his own family.
+#ÀÛ°¡´Â Ã¥¿¡¼­ ¾ğ±ŞÇÑ ±× °³ÀÎÀÇ °¡Á¤ È¯°æ¿¡ ´ëÇÑ ºÎºĞÀ» ¸ğµÎ »èÁ¦ÇÏ¿´´Ù.
+
+[25]
+#Get in the car; I'll drive if you hold the map and navigate.
+#Â÷ ¾È¿¡ ¾É¾Æ¶ó. ¸¸¾à ³×°¡ Áöµµ¸¦ µé°í ¹æÇâÀ» ÀÏ·¯ÁÖ¸é ³»°¡ ¿îÀüÀ» ÇÏ°Ú´Ù.
+
+[26]
+#Oh,I just remembered something! I have to apply for a passport.
+#¿À, ³ª´Â ¹æ±İ ÇÑ °¡Áö ÀÏÀÌ »ı°¢³µ¾î! ³ª´Â ¿©±ÇÀ» ½ÅÃ»ÇØ¾ß ÇÑ´Ù.
+
+[27]
+#what do you say to going for a walk ? =.
+#»êÃ¥À» °¡´Â °Ô ¾î¶§?
+
+[28]
+#This kind of book is rare.
+#ÀÌ·± Á¾·ùÀÇ Ã¥Àº µå¹°´Ù.
+
+[29]
+#right you are.
+#³×°¡ ¸»ÇÑ °ÍÀÌ ¸Â´Ù.
+
+[30]
+#"In the family way" is an old-fashioned expression meaning "pregnant".
+#"In the family way"´Â Á» ³°Àº Ç¥Çö ¹æ¹ıÀ¸·Î "ÀÓ½Å"À» ÀÇ¹ÌÇÑ´Ù.
+
+[31]
+#"It was a good idea to tell my mother you didn't like her dress",she said with sarcasm.
+# "³×°¡ ±×³àÀÇ ¿ÊÀ» ½È¾îÇÑ´Ù°í ¿ì¸® ¾ö¸¶¿¡°Ô ¸»ÇÏ´Â °ÍÀº ¾ÆÁÖ ÁÁÀº »ı°¢ÀÌ´Ù"¶ó°í ±×³à°¡ ºñ²¿¸ç ¸»Çß´Ù. 
+
+[32]
+#"Together" is a lovely word -- a word that time endears.
+# "ÇÔ²²"´Â »ç¶û½º·± ´Ü¾î·Î ½Ã°£ÀÌ ¿À·¡ µÉ¼ö·Ï ÀÇ¹Ì°¡ ÁøÇØÁö´Â ´Ü¾îÀÌ´Ù.
+
+[33]
+#"What ! " he broke out surprisingly,"are you really ignorant of his plan? "
+# "¹¹"±×´Â ³î¶ó¼­ ¼Ò¸®Áú·¶´Ù. "³×°¡ Á¤¸» Á¶±İµµ ±×ÀÇ °èÈ¹À» ¸ğ¸¥´Ü ¸»ÀÌ¾ß?"
+ 
+[34]
+#"Where does he stand on this issue?" "I don't know; I must sound him out."
+# "±×´Â ÀÌ ÀÏ¿¡ ´ëÇÑ ÅÂµµ°¡ ¾î¶°³Ä?"³ª´Â Àß ¾ËÁö ¸øÇÑ´Ù. ³ª´Â ±×¸¦ ÇÑ ¹ø ¶°ºÁ¾ß ÇÑ´Ù.
+
+[35]
+#From 1986 to 1987 I was teaching English training courses for students in international trade and mass communication.
+#1986³â¿¡¼­ 1987³â ±îÁö ³ª´Â ¿µ¾î ÈÆ·Ã¹İ¿¡¼­ °¡¸£ÃÆÀ¸¸ç, ÇĞ»ıµéÀº ±¹Á¦¹«¿ª°ú ´ëÁß¸ÅÃ¼ ±â°ü¿¡¼­ ¿Ô´Ù.
+
+[36]
+#On Monday,September the tenth all the faculty members of the English Department will celebrate the Teachers' Day.
+#9¿ù 10ÀÏ(±İ¿äÀÏ) ¿µ¾î°ú Àü±³Á÷¿øÀº ¸ğµÎ ½º½ÂÀÇ ³¯ °æÃàÇà»ç¸¦ ÇÒ °ÍÀÌ´Ù. 
+
+[37]
+#The last volume of Modern History goes down to the eve of the Great October Socialist Revolution.
+#<Çö´ë»ç>ÀÇ ¸¶Áö¸· 1±ÇÀº À§´ëÇÑ 10¿ù »çÈ¸ÁÖÀÇ Çõ¸íÀÇ Àü¾ß¸¦ ½è´Ù.
+
+[38]
+#Ted was thrilled to finally see something with "HIS" name on it.
+#Å×µå´Â À§¿¡ "±×ÀÇ" ÀÌ¸§ÀÌ ¼ö ³õ¿©Áø ¹°°ÇÀ» ¹ß°ßÇÏ°í ³Ê¹« ±â»¼´Ù.
+
+[39]
+#We have received your note of May 3.Kindly arrange with your representative to call on us at once.
+#5¿ù 3ÀÏÀÇ ¼­½ÅÀ» Àß ¹Ş¾Ò½À´Ï´Ù. ´ëÇ¥¸¦ ¹Ù·Î º» È¸»ç¿¡ ÆÄ°ßÇÏ¿© »ó´ãÀ» ÇÒ ¼ö ÀÖµµ·Ï ÇØÁÖ½Ê½Ã¿ä.  
+
+[40]
+#We have to own with thanks the receipt of your order 5th May,which,we assure you,shall be executed in due course.
+#5¿ù 5ÀÏ¿¡ ÁÖ¹®¼­¸¦ ¹Ş¾ÒÀ¸¸ç µ¹ºÁÁÖ½É¿¡ °¨»çµå¸³´Ï´Ù. ¿ì¸®´Â Á¦¶§¿¡ ÀÌ ÁÖ¹®¹°Ç°À» ¿Ï¼ºÇÒ °ÍÀ» º¸ÁõÇÕ´Ï´Ù.
+
+[41]
+#In reply to your letter of July 3,we regret to say that we do not have in stock any such articles as you describe.
+#7¿ù 3ÀÏÀÇ ¼­½Å Àß ¹Ş¾Ò½À´Ï´Ù. À¯°¨½º·´Áö¸¸ ±Í»ç°¡ ¾ğ±ŞÇÑ »óÇ°Àº ½ÇÁ¦·Î ¿ì¸®°¡ °æ¿µÇÏ´Â °ÍÀÌ ¾Æ´Õ´Ï´Ù.
+
+[42]
+#We received your favor of July 7,in which you advised us to forward us a consignment of Japanese goods.
+#7¿ù 7ÀÏ ¼­½Å ÀÌ¹Ì ¹Ş¾ÒÀ¸¸ç, ±Í»ç°¡ ÀÏº»¿¡ º¸³¾ ¹°°ÇÀ» º»»ç¿¡°Ô ´ë¸®ÆÇ¸ÅÇÏ°Ô ÇÑ´Ù´Â °ÍÀ» ¾Ë¾Ò½À´Ï´Ù.
+
+[43]
+#Station WRC is off the air now.They signed off two hours ago.
+#WRC¹æ¼Û±¹Àº ÇöÀç ÀÌ¹Ì ¹æ¼ÛÀ» ¸ØÃß¾ú´Ù. ¹æ¼ÛÀº 2½Ã°£ Àü¿¡ ³¡³µ´Ù.
+
+[44]
+#Several of Eliot's neighbours put up a petition for a right of way over his ground.
+#¿¤¸®¾ùÀÇ ÀÌ¿ôÁıÀº ½ÅÃ»À» ³»¾î ±×ÀÇ ÅäÁö À§¿¡ ÅëÇà±ÇÀ» ¿ä±¸ÇÏ¿´´Ù.
+
+[45]
+#Ada began as an artist but has branched out and is making toys as well.
+#¾Æ´Ù´Â ±×¸²À» ±×¸®±â ½ÃÀÛÇÏ¿´À¸³ª, ÈÄ¿¡ È°µ¿¹üÀ§°¡ È®´ëµÇ¾î ÇöÀç´Â Àå³­°¨µµ ¸¸µç´Ù.
+
+[46]
+#By her sweetness Ivy managed to survive the drawn-out brutality.
+#¾ÆÀÌºñ´Â ÀÚ½ÅÀÇ »ó³ÉÇÑ ¼ºÇ°¿¡ ÈûÀÔ¾î °á±¹ ¿À·¡ °è¼ÓµÇ´Â ÀÜÀÎÇÔ Áß¿¡¼­ »ıÁ¸ÇØ¿Ô´Ù.
+
+[47]
+#Edward does not carry over his business ethics into his personal relationships.
+#¿¡µå¿öµå´Â ±×ÀÇ »ç¾÷¿¡¼­ÀÇ µµ´ö ±ÔÄ¢À» °³ÀÎÀûÀÎ °ü°è¿¡ ÀÌ¿ëÇÏÁö ¾Ê´Â´Ù.
+
+[48]
+#The best place to put panels for radiantheating is in the ceiling,not the floor.
+#³­¹æ¼³ºñ¸¦ À§ÇÏ¿© ÆÇÀ» ´ë´Â °¡Àå ÁÁÀº °÷Àº ÃµÀåÀÌÁö ¸¶·ç°¡ ¾Æ´Ï´Ù.
+
+[49]
+#As to the goods priced on CIF basis,our company will insure against ALL RISKS for 110% of invoice value.
+#CIF °¡°İ¿¡ µû¶ó ¼º¾àÇÑ ¹°°ÇÀº ¿ì¸® È¸»ç°¡ ¼ÛÀå°¡°İ 110%¸¦ º¸Çè¿¡ °¡ÀÔÇÒ °ÍÀÌ´Ù.
+
+[50]
+#At your request,we now keep this firm offer open for a further ten days from 15th January.
+#´ç½ÅÃøÀÇ ¿ä±¸¿¡ µû¶ó ¿ì¸®´Â Áö±İ È®Á¤¿ÀÆÛ À¯È¿±â°£À» 1¿ù 15ÀÏ¿¡¼­ ´Ù½Ã 10ÀÏÀ» ¿¬ÀåÇÒ °ÍÀÌ´Ù.
+
+[51]
+#As requested,we will inform you of the date of despatch immediately upon completing shipment.
+#´ç½ÅÃøÀÇ ¿ä±¸¿¡ µû¶ó ¿ì¸®´Â ¿î¹İÀ» ³¡³½ ÈÄ¿¡ ¹Ù·Î È­¹° ÀÎµµÀÏ½Ã¸¦ ´ç½Å Ãø¿¡ ÅëÁöÇÒ °ÍÀÌ´Ù.
+
+[52]
+#With best wishes,Babs,for a joyous birthday/holiday/anniversary.
+#¹ä½º!,Çàº¹À» ºô¸ç, Áñ°Å¿î »ıÀÏ/ÈŞ°¡/ÁÖ³â/±â³äÀÏÀÌ µÇ±æ º÷´Ï´Ù.
+ 
+[53]
+#The picture that Barber put off on Palmer turned out to be worth less than tenth of the price.
+#¹Ù¹ö°¡ ÆÈ¸Ó¿¡°Ô ÆÇ ±× ±×¸²Àº ÈÄ¿¡ °¡°İÀÌ ÆÇ¸Å°¡ÀÇ ½ÊºĞÀÇ ÀÏµµ ¾ÈµÊÀÌ ¹àÇôÁ³´Ù.
+
+[54]
+#Many characters in Bal-zac's "Human Comedy" figure in more than one novel or story.
+#¹ßÀÚÅ©ÀÇ "ÀÎ°£Èñ±Ø"ÁßÀÇ ¸¹Àº ÀÎ¹°µéÀº ¼Ò¼³¿¡¸¸ ³ª¿À´Â °ÍÀº ¾Æ´Ï´Ù.
+
+[55]
+#Tell him as you told me that you realize you've been wrong too,and that you would like to have a fresh start.
+#³×°¡ ÀÚ½Åµµ Àß¸øÀÌ ÀÖÀ¸¸ç, ¶Ç »õ·Î ½ÃÀÛÇÏ°í ½Í´Ù´Â °ÍÀ» ³ª¿¡°Ô ¸»Çß´ø °Í Ã³·³ ±×¿¡°Ô ¸»ÇØ¶ó.
+ 
+[56]
+#The application of new scientific discoveries to industrial production methods usually makes jobs easier to do.
+#»õ·Î¿î °úÇĞ ¹ß°ßÀ» °ø¾÷»ı»ê¿¡ ¿î¿ëÇÏ¸é ÀÏ¹İÀûÀ¸·Î ÀÏÀÌ ´õ¿í ½¬¿öÁø´Ù.
+
+[57]
+#The strike blacked out the main national newspapers and some local newspapers the day it took place.
+#ÆÄ¾÷ÀÌ ¹ß»ıÇÑ ±×³¯ ÁÖ¿ä Àü±¹ ÀÏ°£Áö¿Í ¾à°£ÀÇ Áö¹æÁö°¡ ÈŞ°£ÇÏ¿´´Ù.
+
+[58]
+#The representatives of the striking workers demanded to see the general manager,but couldn't get beyond his assistant.
+#ÆÄ¾÷ ±Ù·ÎÀÚÀÇ ´ëÇ¥µéÀº ¸Ş´ÏÀú¸¦ È¸°ßÇÏ±æ ¿ä±¸ÇÏ¿´À¸³ª, ±×ÀÇ Á¶¼ö¸¸À» ¸¸³µ´Ù.
+
+[59]
+#Special attention has been paid to its packing,which we trust will prove satisfactory in every respect to your clients.
+#Æ÷Àå ¹®Á¦´Â ÀÌ¹Ì ÃæºĞÇÑ ¼÷ÁöÇÏ¿´À¸¹Ç·Î, ¿ì¸® ÃøÀº ´ç½ÅÃø °í°´À» ¸¸Á·½ÃÅ³ °Å¶ó°í È®½ÅÇÕ´Ï´Ù.
+
+[60]
+#I have also credited you for premium of insurance £¤42,500,the account thereof having been found correct.
+#º¸Çè·á 42500¿øÀº ÀÌ¹Ì ±ÍÇÏ Â÷º¯°èÁ¤¿¡ ±âÀÔÇÏ¿´À¸¸ç, À§ÀÇ °èÁ¤¿¡´Â °è»ê¿¡ Âø¿À°¡ ¾ø´Ù.
+
+[61]
+#The price we offered you is very practical,so we are sorry to say that your counter-offer is unacceptable.
+#´ç½ÅÃø¿¡ ³»³õÀº °¡°İÀº ¾ÆÁÖ ½ÇÁúÀûÀÎ °ÍÀ¸·Î ¹Ì¾ÈÇÏÁö¸¸ ¿ì¸®´Â ´ç½ÅÀÇ Ä«¿îÅÍ¿ÀÆÛ¸¦ ¹Ş¾Æ µéÀÏ ¼ö ¾ø½À´Ï´Ù.
+
+[62]
+#Please quote us your prices C.I.F. ......
+#ÀÔÂû°¡°İ½Ã¿¡ C.I.F¸¦ Æ÷ÇÔÇØ ÁÖ½Ê½Ã¿ä.
+
+[63]
+#The newspapwers are getting a lot of mileage out of the royal wedding--there's a new story about it every day.
+#½Å¹®°è´Â È²½ÇÀÇ °áÈ¥¿¡¼­ ÀûÁö ¾ÊÀº Àç¹Ì¸¦ º¸¾ÒÀ¸¸ç ¸ÅÀÏ °ü·ÃµÈ »õ·Î¿î ÀÌ¾ß±â¸¦ ½Ç¾ú´Ù.
+
+[64]
+#Betty wasn't born into the nobility,she married in.
+#º£Æ¼´Â ±ÍÁ·Ãâ½ÅÀÌ ¾Æ´ÏÁö¸¸, ±ÍÁ·¿¡°Ô ½ÃÁı°¡¼­ ±ÍÁ·ÀÇ ÀÏ¿øÀÌ µÇ¾ú´Ù.
+
+[65]
+#Beethoven did not compose his celebrated symphonies only to delight his own ears.
+#º£Åäº¥Àº ´Ù¸¸ ÀÚ½Å¸¸ µè°í ±â»µÇÏ±â À§ÇÏ¿© ±×ÀÇ À¯¸íÇÑ ±³Çâ¾ÇÀ» Ã¢ÀÛÇÑ °ÍÀº ¾Æ´Ï´Ù.
+
+[66]
+#Bessus draws his sword,turns suddenly,leaps at Darius and runs him through.
+#º£¼ö´Â Ä®À» ²¨³»¾î °©ÀÚ±â ¸öÀ» µ¹·Á ´Ù¸®¿ì½º¿¡°Ô ¶Ù¾î¿Í ±×¸¦ Âñ·¶´Ù.
+
+[67]
+#This offer is subject to our confirmation.If You find it acceptable,let us have your reply as soon as possible.
+#ÀÌ ¿ÀÆÛ´Â ¿ì¸®ÃøÀÇ È®ÀÎÀ» Á¶°ÇÀ¸·Î ÇÕ´Ï´Ù. ¸¸¾à ±ÍÇÏ°¡ Á¢¼ö¸¦ ¼ö¶ôÇÑ´Ù¸é °¡´ÉÇÑ »¡¸® ¿ì¸®¿¡°Ô ´ë´äÀ» ÁÖ½Ê½Ã¿ä.
+
+[68]
+#The outcome to the shipment is not satisfactory,as is certified here by China Commodity Inspection Bureau.
+#º»ÁöÀÇ Áß±¹ »óÇ°°Ë»ç±¹Àº ÀÌ¹Ì ¿î¹İµÈ È­¹°Áú·®Àº ¸¸Á·½º·´Áö ¸øÇÏ´Ù°í Áõ¸íµÇ¾ú´Ù. 
+
+[69]
+#There's a sit-in at the local hospital because the government is trying to close it.
+#ÀÌ°÷ º´¿ø ¹® ¾Õ¿¡ ¾î¶² »ç¶÷ÀÌ Á¤ÁÂÇÏ°í Ç×ÀÇÇÏ°í ÀÖ´Âµ¥, Á¤ºÎ°¡ ÀÌ º´¿øÀ» ´İÀ¸·Á°í ÇÏ±â ¶§¹®ÀÌ´Ù.
+
+[70]
+#We have a large number of inquiries for the supply of approximately 30,000 meters blue serge.
+#º»»ç´Â ¸¹Àº Áú¹®À» ¹Ş¾Ò´Âµ¥, ¾à 3¸¸ ¹ÌÅÍÀÇ ÆÄ¶õ»ö ¼­ÁöÀÇ °ø±ŞÀÌ ÇÊ¿äÇÏ´Ù.
+
+[71]
+#The commission we should require would be 1.5% on the amount realized; bank commission 0.25%.
+#º»»ç´Â ÆÇ¸Å¾×¿¡ µû¶ó 1.5%¸¦  Ä¿¹Ì¼ÇÀ¸·Î Á¦°øÇÏ°í, ÀºÇà ¼ö¼Óºñ´Â 0.25%ÀÏ °ÍÀ» ¿ä±¸ÇÑ´Ù.
+
+[72]
+#The lines you showed for the married women would be most suitable for our market.
+#º»»ç´Â ´ç½ÅÀÌ Àü½ÃÇÑ ±âÈ¥ ¿©¼ºÀÇ º¹ÀåÀÌ ¿ì¸®ÀÇ ½ÃÀåÀÇ ¿ä±¸¿¡ °¡Àå ÀûÇÕÇÑ °ÍÀ¸·Î ¿©±ä´Ù.
+
+[73]
+#Your name has been given to us as a reference by New York Co.,Inc.,New York,who wants to open an account with us.
+#º»»ç´Â ´º¿åÈ¸»ç¿Í »ó¹«°ü°è¸¦ ¼¼¿ì±â¸¦ ¿øÇÏ¿© ´ç½ÅÀÇ ÀÌ¸§À» ½Å¿ëÁ¶È¸È¸»ç¿¡ Á¦°øÇÏ¿´´Ù.
+ 
+[74]
+#We regret that we cannot give as favourable report as we should like to give.
+#º»»ç´Â ¿ø·¡ ´ç½Å¿¡°Ô ÁÁÀº Á¤º¸¸¦ Á¦°øÇÏ±â¸¦ Èñ¸ÁÇÏ¿´À¸³ª, ÇÒ ¼ö ¾ø°Ô µÇ¾ú½À´Ï´Ù. ¿ë¼­ÇÏ½Ê½Ã¿ä.
+
+[75]
+#We have factories producing glass in practically all the industrial cities in our country.
+#º»»ç´Â º»±¹ÀÇ °ÅÀÇ ¸ğµç °ø¾÷µµ½Ã¿¡ °øÀåÀÌ ÀÖ¾î, À¯¸®¸¦ »ı»êÇÕ´Ï´Ù.
+ 
+[76]
+#We are now in full production of Business and Lady models,and have advance orders to fill until the end of August.
+#º»»ç´Â ÃÖ±Ù »ó¾÷¿ë°ú ¿©¼º¿ë ¸ğµ¨À» Àü·Â »ı»êÁßÀ¸·Î ÁÖ¹®¼­´Â ÀÌ¹Ì 8¿ù ¸»¿¡ Á¢¼öÇß½À´Ï´Ù.
+
+[77]
+#There is a steady demand here for high-class goods of this type,especially in the beautiful colors.
+#º»±¹Àº ÀÌ·± °í±Ş¹°Ç°¿¡ ´ëÇÏ¿© ¾ÈÁ¤ÀûÀÎ ¼ö¿ä·®ÀÌ ÀÖÀ¸¸ç, Æ¯È÷ »ö±òÀÌ ¾Æ¸§´Ù¿î °Í¿¡ ±×·¸½À´Ï´Ù.
+
+[78]
+#The premium and charges on this assurance are carried to your debit in the sum of ¡ê52.
+#º» º¸ÇèÀÇ º¸Çè·á¿Í ¼ö¼Óºñ´Â ÇÕ°è 52ÆÄ¿îµåÀÌ¸ç, ÀÌ¹Ì ±ÍÇÏÀÇ Â÷º¯°èÁ¤¿¡ ±âÀÔÇÏ¿´½À´Ï´Ù. 
+
+[79]
+#I regret to report that a fire broke out in our factory stores last night.The cause is not yet known.
+#º»ÀÎÀº ¿ì¸® °øÀå Ã¢°í¿¡¼­ ¾îÁ¦ ¹ã È­Àç°¡ ¹ß»ıÇßÀ½À» ¾Ë·Áµå¸®°Ô µÈ °ÍÀÌ À¯°¨ÀÔ´Ï´Ù. ¾ÆÁ÷ È­Àç ¿øÀÎÀº ¹àÇôÁöÁö ¾Ê¾Ò½À´Ï´Ù.
+
+[80]
+#You are too busy to waste your time on unnecessary things,I know.
+#º»ÀÎÀº ¼±»ı´Ô²²¼­ ¹Ù»Ú¼Å¼­ ºÒÇÊ¿äÇÑ ÀÏ¿¡ ½Ã°£À» ³¶ºñÇÏÁö ¾ÊÀ½À» Àß ¾Ë°í ÀÖ½À´Ï´Ù.
+ 
+[81]
+#Meanwhile,I am arranging for Mr.Smith,one of our inspectors,to call and assess the damage.
+#µ¿½Ã¿¡ º»ÀÎÀº ¿ì¸® ÃøÀÇ °Ë»ç¿ø ½º¹Ì½º¾¾¸¦ ¹èÁ¤ÇÏ¿©, ±ÍÇÏ¸¦ ¹æ¹®ÇÏ¿© ¼Õ½ÇÀ» °è»êÇÏ°í ÀÖ½À´Ï´Ù.
+
+[82]
+#I wish to apply for the position advertised in the enclosed clipping from the morning Herald.
+#º»ÀÎÀº ¸ğ´×Çì·²µå¿¡ ÃÊºù±¤°í¸¦ ÇÏ·Á°í ±¤°íÀ§Ä¡¸¦ ¿À·Á¼­ µ¿ºÀÇÕ´Ï´Ù.
+
+[83]
+#Benson signaled the auctioneer quietly and kicked the bid up another thousand.
+#º¥¼ÕÀº ¸ô·¡ °æ¸ÅÀÎ¿¡°Ô ¼ÕÁşÀ» ÇÑ ÈÄ¿¡ ÀÔÂû°¡¸¦ ¶Ç 1Ãµ¿ø ¿Ã·È´Ù.
+
+[84]
+#Peter's grandfather has fallen into disremembrance because he made so many enemies during his lifetime.
+#ÇÇÅÍÀÇ ÇÒ¾Æ¹öÁö´Â »ì¾Æ°è½Ç ¶§ ÀûÀ» ¸¹ÀÌ ¸¸µå¼Å¼­ »çÈÄ¿¡ »ç¶÷µé¿¡°Ô ±ø±×¸® ÀØÇôÁ³´Ù.
+
+[85]
+#Peter once rated with his friend Henry.
+#ÇÇÅÍ´Â ÇÑ¹ø ±×ÀÇ Ä£±¸ Çî¸®¿Í °°Àº Æ¯º°ÇÑ ´ëÁ¢À» ¹Ş¾Ò´Ù.
+
+[86]
+#I am also permitted to refer to Professor Raymond Powell of the Education Department at the Normal college.
+#³ªµµ »ç¹ü´ëÇĞÀÇ ±³À°°ú ±³¼ö ·ÎÀÌ¸óµå Æ÷À£¿¡°Ô ÁõÀÎµÇ¾î ÁÙ °ÍÀ» ¿äÃ»Çß°í ÀÌ¹Ì ±×ÀÇ µ¿ÀÇ¸¦ ¾ò¾ú´Ù.
+ 
+[87]
+#The other boys called Tommy a mama'sboy because he wouldn't come out to play unless his mother stayed near him.
+#´Ù¸¥ ³²ÀÚ ¾ÆÀÌµéÀÌ Åä¹Ì¸¦ ¸¶¸¶º¸ÀÌ¶ó°í ºÎ¸£´Âµ¥, ¾î¸Ó´Ï°¡ ¿·¿¡ ¾øÀ¸¸é ±×´Â ³ª¿Í ³î·ÁÇÏÁö ¾Ê±â ¶§¹®ÀÌ´Ù.
+
+[88]
+#Don't try to be too clever with Fred ,If he thinks you're fucking him around,he'll clobber you.
+#ÇÁ·¹µå¿¡°Ô ¼ÓÀÓ¼ö¸¦ ¾²Áö ¸»¾Æ¶ó. ¸¸¾à ±×°¡ ³×°¡ ±×¿¡°Ô Çê¼öÀÛÀ» ÇÏ·Á°í ÇÑ´Ù´Â °ÍÀ» ¾Ë¸é ±×´Â ½ÉÇÏ°Ô ³Ê¸¦ ¶§¸± °ÍÀÌ´Ù.
+
+[89]
+#Don't let him organize your trip; he completely cocked up ours.
+#±×·Î ÇÏ¿©±İ ³ÊÈñµéÀÇ ¿©ÇàÀ» Â¥°Ô ÇÏÁö ¸¶¶ó. Áö³­ ¹ø ¿ì¸®ÀÇ ¿©ÇàÀº ±×°¡ ¿ÏÀüÈ÷ ¸ÁÃÆ´Ù.
+
+[90]
+#Don't plan on our visiting next month,for we expect to be very busy then.
+#¿ì¸®°¡ ´ÙÀ½ ´Ş ¾ÈÀ¸·Î ¹æ¹®ÇÒ °ÍÀ» ±â´ëÇÏÁö ¸¶¶ó, ¿Ö³ÄÇÏ¸é ¿ì¸®´Â ±× ¶§ ¾Æ¸¶µµ ¹Ù»Ü°ÍÀÌ´Ù.
+
+[91]
+#Will you please also state your earliest delivery date,your terms of payment,and discounts for regular purchases?
+#°¡Àå ºü¸¥ ÀÎµµ½Ã±â, ±Í»ç ÁöºÒÁ¶°Ç°ú Á¤±â±¸¸ÅÀÇ ÇÒÀÎÀ» ÇÔ²² ¼³¸íÇÏ´Ù.
+
+[92]
+#The Amendment breezed through the House 319 to 80.
+#¼öÁ¤¾ÈÀº ÁßÀÇ¿ø¿¡¼­ 319Ç¥ ´ë 80Ç¥·Î ½±°Ô Åë°úµÇ¾ú´Ù.
+
+[93]
+#There's no need to enter into a lot of unnecessary detail;just tell them the main facts of the case.
+#³Ê¹« ÀÚ¼¼ÇÑ °ÍÀ» ¾ğ±ŞÇÒ ÇÊ¿ä°¡ ¾ø°í, ´Ù¸¸ ±×µé¿¡°Ô ÀÌ ÀÏÀÇ ÁÖ¿ä ÇöÈ²¿¡ ´ëÇÏ¿© ¾Ë·ÁÁÖ¸é µÈ´Ù.
+
+[94]
+#No amount of imperialists' bombs could blot out this heroic city.
+#Á¦±¹ÁÖÀÇÀÚµéÀÌ ¾ó¸¶³ª ¸¹Àº ÆøÅºÀ» ÅõÇÏÇÑ´Ù ÇÏ´õ¶óµµ ÀÌ ¿µ¿õµµ½Ã´Â ¼Ò¸êÇÒ ¼ö ¾ø´Ù.
+
+[95]
+#Believe it or not,it finally happened ----I'm engaged!
+#´ç½ÅµéÀÌ ¹Ïµç ¾È ¹Ïµç ±× ÀÎ»ıÀÇ Áß´ëÇÑ ÀÏÀº ¹ú¾îÁ³´Ù. ³ª´Â ¾àÈ¥Çß´Ù.
+
+[96]
+#Whatever comes to you,we'll stand four-square behind you.
+#¹«½¼ ÀÏÀÌ ³ÊÈñ¿¡°Ô ¹ß»ıÇÑ´Ù ÇÏ¿©µµ ¿ì¸®´Â ³¡±îÁö ³ÊÈñ¸¦ ÁöÁöÇÒ °ÍÀÌ´Ù.
+
+[97]
+#My wife has been my good companion in joy and in sorrow.
+#±â»Ü ¶§³ª ½½ÇÃ ¶§³ª ³ªÀÇ ¾Æ³»´Â ÁÙ°ğ ³ªÀÇ ÁÁÀº ¹İ·ÁÀÚ¿´´Ù.
+
+[98]
+#Don't let that firm handle your auditing; they made a complete balls-up of ours.
+#±× È¸»ç°¡ ´ç½ÅÀÇ ÀåºÎ¸¦ Á¤¸®ÇÏ°Ô ÇÏÁö ¸¶¼¼¿ä. ±×µéÀº ¿ì¸®ÀÇ ÀåºÎ¸¦ ¾û¸ÁÀ¸·Î ¸¸µé¾ú¾î¿ä.
+
+[99]
+#Needless to say,we feel keenly for the plight of the exploited and oppressed people the world over.
+#¸»ÇÒ °Í ¾øÀÌ, ¿ì¸®´Â Àü ¼¼°èÀÇ ¾àÅ»´çÇÏ°í ¾Ğ¹Ú´çÇÏ´Â ÀÎ¹ÎÀÇ ºñÂüÇÑ Ã³Áö¿¡ ´ëÇÏ¿© ±íÀÌ µ¿Á¤À» ÇÑ´Ù.
+
+[100]
+#Shall you need an experienced desk clerk for your hotel next summer? customers alike.
+#´ç½Å È£ÅÚ¿¡´Â ³»³â ¿©¸§ °æÇèÀÌ ÀÖ´Â µ¥½ºÅ©ÀÇ »ç¹«¿øÀÌ ÇÊ¿äÇÕ´Ï±î?
+
+[101]
+#Will you please send us price-list and catalogues all Solex products and terms of payment?
+#Solex »óÇ°ÀÇ ¸ñ·Ï, °¡°İÇ¥¿Í ÁöºÒÁ¶°ÇÀ» º¸³¾ ÁÙ ¼ö ÀÖÀ¸½ÅÁö¿ä?
+
+[102]
+#Somehow Harriet always tried to play herself down to her friends.
+#ÇØ¸®Æ®´Â ¿Ö Ç×»ó ÀÚ½ÅÀ» Ä£±¸µé »çÀÌ¿¡¼­ º¸Àß°Í¾ø´Â °Í Ã³·³ º¸ÀÌ·Á°í ÇÏ´Â Áö ¸ğ¸£°Ú´Ù.
+
+[103]
+#Would $1,000,000 assurance at $1.00 a month interest you?
+#¼±»ı´ÔÀº ¸Å´Ş 1´Ş·¯¸¸ ³»°í 100¸¸ ´Ş·¯ÀÇ º¸Çè¿¡ µé »ı°¢ÀÌ ÀÖÀ¸½ÅÁö¿ä?
+
+[104]
+#"I don't like to see women make up in public," said Browning.
+#"³ª´Â ¿©ÀÚµéÀÌ °ø°øÀå¼Ò¿¡¼­ È­ÀåÀ» ÇÏ´Â °ÍÀ» ½È¾îÇÑ´Ù"°í ºê¶ó¿ì´×ÀÌ ¸»ÇÏ¿´´Ù.
+
+[105]
+#The Browning brothers accused each other,saying " What on earth are you trying to pull off against me? "
+#ºê¶ó¿ì´× ÇüÁ¦´Â µÑÀÌ ¼­·Î ºñ³­ÇÏ¸ç "µµ´ëÃ¼ ¹«½¼ ÀÌÀ¯·Î ¿Í¼­ ³ª¸¦ °ï°æ¿¡ ºü¶ß¸®´Â °Å¾ß?"
+
+[106]
+#Dry your tears,make yourself pretty and tell Gordon you'd like to have one more heart-to-heart talk.
+#´«¹°À» ´Û°í, È­ÀåÀ» ÇÑ ¹øÇÏ°í ÁÒ´Ü¿¡°Ô ³×°¡ ¼Ó¸¶À½À» ÅĞ¾î ³õ°í ÇÑ ¹ø ÀÌ¾ß±â ÇÏ°í ½Í´Ù°í ¸»ÇØ¶ó.
+ 
+[107]
+#The lavatory won't flush; I've tried flushing it several times,but it won't work.
+#È­Àå½ÇÀÌ ¾ÆÁ÷µµ ¸·Çû´Ù. ³»°¡ ÀÌ¹Ì ¹°À» ¸î ¹ø ³»·Á ºÃÀ¸³ª È¿°ú°¡ ¾ø¾ú´Ù.
+
+[108]
+#waltz-length gowns are meeting better acceptance than longer ones.
+#±æÀÌ°¡ Á¾¾Æ¸®¸¦ µ¤Àº ¿¹º¹Àº ±æÀÌ°¡ Á¾¾Æ¸® ÀÌÇÏÀÇ ¿¹º¹º¸´Ù ´õ ÀÎ±â°¡ ÀÖ´Ù.
+
+[109]
+#Chen Hua,finding a spare rade ,fell to and worked with a will.
+#ÃµÈ­´Â ´Ù¸¥ »ç¶÷ÀÌ ¾²Áö ¾Ê´Â È£¹Ì¸¦ Ã£¾Æ¼­ ÀÏÇÏ±â ½ÃÀÛÇÏ¿´°í, ÈûÂ÷°Ô ÀÏÇÏ¿´´Ù.
+
+[110]
+#There's no sense in going by boat when the plane is just as cheap and much quicker.
+#¹è¸¦ Å¸°í °¥ ÀÌÀ¯°¡ ¾ø´Ù. ¿Ö³ÄÇÏ¸é ºñÇà±â¸¦ Å¸´Â °ªÀÌ ¸¶Âù°¡Áö·Î ½Î°í, ¿ÀÈ÷·Á ¾ÆÁÖ ´õ ºü¸£±â ¶§¹®ÀÌ´Ù.
+
+[111]
+#The bearer,Ms Huan,is a classmate of mine at middle school,who has recently been assigned to work in your city.
+#ÆíÁö¸¦ °¡Áö°í ¿Â È²¿©»ç´Â ³ªÀÇ ÁßÇĞ±³ µ¿Ã¢À¸·Î ÃÖ±Ù ±×³à´Â ´ç½ÅÀÇ ½Ã·Î ÆÄ°ßµÇ¾î ÀÏÇÏ°í ÀÖ´Ù.
+
+[112]
+#Net cash 30 days unless specified otherwise.Advise promptly if incorrect.
+#º°µµÀÇ ¼³¸íÀÌ ¾øÀ¸¸é 30ÀÏ ÈÄ¿¡ Àü¾× Çö±İÀ¸·Î ÁöºÒµÉ °ÍÀÌ¸ç ¸¸¾à Âø¿À°¡ ÀÖÀ¸¸é ¹Ù·Î ¿¬¶ôÀ» ÁÖ½Ê½Ã¿ä.
+
+[113]
+#You will not make a good teacher,unless you feel teaching is your vocation.
+#´ç½ÅÀº °¡¸£Ä¡´Â °ÍÀÌ ÃµÁ÷ÀÌ¶ó°í ´À²¸¾ß¸¸ ÇÏ¸ç, ±×·¸Áö ¾ÊÀ¸¸é ÁÁÀº ¼±»ı´ÔÀÌ µÉ ¼ö ¾øÀ» °ÍÀÌ´Ù.
+
+[114]
+#We have been able to execute the whole of your indent except the Pepper,the parcel having been sold.
+#¿ì¸®´Â ¹°°ÇÀÌ ¾ø¾î¼­ ¸ø ÆÄ´Â ÈÄÃß¸¦ Á¦¿ÜÇÑ ±Í»ç°¡ ÁÖ¹®ÇÑ ±âÅ¸ »óÇ°Àº ¸ğµÎ ±¸¸ÅÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+[115]
+#Above the surplus grain sold to the state,the brigade built up a good grain reserve of its own.
+#±¹°¡ÀÇ ¿©À¯½Ä·®À» ÆÄ´Â °Í ¿Ü¿¡ ÀÌ ´ë´ë´Â ¶Ç ÀÚ±âÀÇ ½Ä·®ºñÃàÀ» ÇÏ¿´´Ù.
+
+[116]
+#With a few possible exceptions all atoms have the ability to combine with other atoms.
+#¸î¸î °¡´ÉÇÑ ¿¹¿Ü¸¦ Á¦¿ÜÇÏ°í ¸ğµç ¿øÀÚ´Â ±âÅ¸ ¿øÀÚ¿Í °áÇÕÇÏ´Â ´É·ÂÀÌ ÀÖ´Ù.
+
+[117]
+#The captain charted this area out and it's quite safe to sail in it.
+#¼±ÀåÀÌ ÇØµµ À§¿¡ ÀÌ ±¸¿ªÀ» Ç¥½ÃÇÏ¿´À¸¸ç, ÀÌ ±¸¿ª ¾È¿¡¼­ Ç×ÇØÇÏ´Â °ÍÀº ¸Å¿ì ¾ÈÀüÇÏ´Ù. 
+
+[118]
+#The crew had taken timely precautions against the storm so that not a single mast was carried away.
+#¼±¿øµéÀÌ ÆøÇ³¿¡ Á¦¶§ ¿¹¹æ Á¶Ä¡¸¦ Çß±â ¶§¹®¿¡, µÀ´ë ÇÏ³ª°¡ ºÎ·¯ÁöÁö ¾Ê¾Ò´Ù.
+
+[119]
+#The intruder lunged at Stevens with a knife; Stevens snatched up a briefcase to ward off the blow.
+#Ä§ÀÔÀÚ°¡ Ä®À» µé°í ½ºÆ¼ºì½º¸¦ ÇâÇÏ¿© Âñ·¶´Ù. ½ºÆ¼ºì½º´Â ±ŞÈ÷ ¼­·ù °¡¹æÀ» µé°í ÀúÇ×ÇÏ¿´´Ù.
+ 
+[120]
+#The market here is very active,and the best price we can obtain is US $135 per long ton.
+#ÀÌ ½ÃÀåÀº È°¹ßÇÏ¿© ¿ì¸®°¡ ¾òÀ» ¼ö ÀÖ´Â °¡Àå ÁÁÀº °¡°İÀº ¸Å ·ÕÅæ´ç 135´Ş·¯ÀÌ´Ù.
+ 
+[121]
+#We offer firm F.O.B.Yokohama for your telegraphic reply here by Monday our time.
+#ÀÌ°ÍÀº F.O.B. ¿äÄÚÇÏ¸¶ È®Á¤¿ÀÆÛ·Î, À¯È¿±â°£Àº º»Áö½Ã°£À¸·Î ¿ù¿äÀÏ ±îÁö ´äÀüÀ» ¹Ş´Â °ÍÀÌ´Ù.
+
+[122]
+#This car has full-automatic transmission at a price half of that paid for similar cars on the market.
+#ÀÌ ÀÚµ¿Â÷´Â ÀüÀÚµ¿ Àüµ¿ ½Ã½ºÅÛÀÌ¸ç °¡°İÀº ½ÃÀå¿¡ ³ª¿Â °°Àº ¸ğµ¨ Â÷ÀÇ Àı¹İÀÌ´Ù.
+
+[123]
+#You will find in our letter of August 21 that we quoted you our best prices.
+#8¿ù 21ÀÏÀÇ ¿ì¸®ÀÇ ÆíÁö¿¡¼­ ¿ì¸®ÃøÀÌ Á¦½ÃÇÑ °¡°İÀÌ ÀÌ¹Ì ÃÖÀúÇÑ°è¿¡ ´ŞÇÔÀ» ¾Ë ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù.
+
+[124]
+#The early bus from the village connects with the 7:30 train .
+#±× ¸¶À»¿¡¼­ Ãâ¹ßÇÏ´Â ¾ÆÄ§ ¹ö½º´Â 7½Ã 30ºĞ ±âÂ÷¿Í ¼­·Î ¿¬°áµÈ´Ù.
+
+[125]
+#There can be no doubt about the guilt of a man who is found with stolen money in his pockets.
+#¾î¶² »ç¶÷ÀÇ ÁÖ¸Ó´Ï¿¡¼­ ÈÉÃÄ¿Â µ·ÀÌ ¹ß°ßµÈ´Ù¸é ±×ÀÇ ¹üÁË´Â ÀüÇô ÀÇ½ÉÇÒ ¹Ù°¡ ¾ø´Â °ÍÀÌ´Ù.
+
+[126]
+#You know the inconveniences of going to the office from such a remote quarter of the city.
+#ÀÌ·¸°Ô ¿ÜÁø µµ½Ã¿¡¼­ Ãâ±ÙÇÏ´Âµ¥ »ı±â´Â ¿©·¯ °¡Áö ºÒÆíÀº ºĞ¸í ³×°¡ ¾Ë °ÍÀÌ´Ù.
+
+[127]
+#Dutter was put by in favour of Barber to fill the post because the latter happened to be the manager ' s nephew.
+#Dutter´Â ÇÑ ÂÊÀ¸·Î ¹°·¯³ª°í ÀÌ ÀÚ¸®´Â ¹Ù¹ö°¡ Â÷ÁöÇÏ¿´´Âµ¥, ÈÄÀÚ´Â »çÀåÀÇ Á¶Ä«ÀÌ±â ¶§¹®ÀÌ´Ù.
+  
+[128]
+#A telephone caller said there was a bomb in the hotel but it was just a hoax.
+#ÀüÈ­¸¦ °ÉÀº »ç¶÷ÀÌ ¿©°ü ¾È¿¡ ÆøÅºÀÌ ÇÏ³ª ÀÖ´Ù°í ¸»ÇßÀ¸³ª ÀÌ°ÍÀº Â¢²âÀº Àå³­¿¡ ºÒ°úÇß´Ù.
+
+[129]
+#Most of the pigs are strong and fat,but a few have fallen away in flesh because of poor appetite.
+#´ëºÎºĞÀÇ µÅÁö´Â ¶×¶×ÇÏ°í °­ÇÏ³ª ¸î¸î µÅÁö´Â ½Ä¿åºÎÁøÀ¸·Î »ìÀÌ ºüÁ³´Ù.
+
+[130]
+#Most of those present joined in the dance,but a few preferred to sit out and chat to each other.
+#´ëºÎºĞÀÇ ±×°÷¿¡ ÀÖ´Â »ç¶÷µéÀº ÃãÀ» Ãß¾úÀ¸³ª, ¸î¸î »ç¶÷Àº Â÷¶ó¸® ¾É¾Æ¼­ ÇÑÂÊ¿¡¼­ Àâ´ãÀ» ÇÏ±æ ¿øÇß´Ù.
+
+[131]
+#Everybody flinched at his tactlessness,but he went on regardless.
+#¸ğµÎµé ±×ÀÇ ºĞº°¾øÀ½¿¡ À§ÃàµÇ¾úÀ¸³ª ±×´Â ¾Æ¶û°÷ÇÏÁö ¾Ê°í °è¼Ó ¸»À» ÇÏ¿´´Ù.
+
+[132]
+#The roads being closed for repairs,we had to come round,and so arrived half an hour late.
+#Å« µµ·Î´Â º¸¼ö ÁßÀÌ¶ó¼­ ÅëÇàÇÒ ¼ö ¾ø¾î ¿ì¸®´Â µ¹¾Æ¿Ã ¼ö ¹Û¿¡ ¾ø¾ú´Âµ¥, ±×·¡¼­ 30ºĞÀ» ´Ê¾ú´Ù.
+
+[133]
+#David kept sponging from his friend Jack,though he knew well that Jack's money wouldn't last for ever.
+#µ¥ÀÌºñµå´Â ±×ÀÇ Ä£±¸ ÀèÀÇ µ·ÀÌ ÇÑ°è°¡ ÀÖ´Ù´Â °ÍÀ» ¾Ë¾ÒÀ¸³ª, ±×´Â ¿©ÀüÈ÷ ±×ÀÇ µ·À» µîÃÄ ¸Ô¾ú´Ù.
+
+[134]
+#The public misesteems the scientist,though he has done valuable scientific reserch.
+#´ëÁßµéÀº ±× °úÇĞÀÚ°¡ ºñ·Ï °¡Ä¡ ÀÖ´Â °úÇĞ ¿¬±¸¸¦ ÇÏ¿´¾îµµ ±×¸¦ Á¸ÁßÇÏÁö ¾Ê´Â´Ù.
+
+[135]
+#Davis and mason used to plough back part of their profits into new equipment.
+#Davis and mason È¸»ç´Â ¿¹Àü¿¡ ÀÏ¹İÀûÀ¸·Î ÀÌÀ±ÀÇ ÀÏºÎºĞÀ» »õ·Î¿î ¼³ºñ¸¦ Ãß°¡ÇÏ´Âµ¥ ÅõÀÚÇß´Ù.
+
+[136]
+#The representative will be assigned a specific territory.He will have to limit his activities to this area.
+#´ë¸®ÀÎÀº ÁöÁ¤µÈ Áö¿ª ¾È¿¡¼­ Á÷¹«¸¦ ´ã´çÇØ¾ß ÇÏ¸ç ±×ÀÇ È°µ¿Àº ´Ù¸¸ ÀÌ Áö¿ªÀ¸·Î Á¦ÇÑµÈ´Ù.
+
+[137]
+#New model to replace Stocked Chisels is now being prepared and will be available for delivery from October,19______ .
+#´ëÃ¼µÈ »õ ¸ğµ¨Àº Áö±İ ÁØºñÁßÀÌ¸ç19  ³â 10¿ùºÎÅÍ ¹°Ç°À» ÀÎµµÇÒ ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[138]
+#We shall give you a call when you may have had a chance to come up with some suitable prospects.
+#¿ì¸®Ãø¿¡¼­ Àû´çÇÑ »ç¶÷°ú ÇÔ²²ÇÒ ±âÈ¸¸¦ °¡Áú ¶§ ¿ì¸®°¡ ´ç½Å¿¡°Ô ÀüÈ­¸¦ ÇÏ°Ú´Ù.
+
+[139]
+#He wouldn't mind delaying a day or two; for he knew he could easily fetch it up.
+#ÇÏ·ç ÀÌÆ² Áö¿¬µÇ¾ú¾îµµ ±×´Â ÀüÇô °³ÀÇÄ¡ ¾Ê¾Ò´Ù. ±×´Â ±×°¡ ½±°Ô µû¶ó °¥ ¼ö ÀÖÀ» °ÍÀÌ¶ó´Â °ÍÀ» ¾Ë°í ÀÖ±â ¶§¹®ÀÌ´Ù.
+
+[140]
+#But emotions are a waste of time and don't benefit anyone,so I've thought through a few suggestions:
+#±×·¯³ª °¨Á¤Àº ÀÏÇÏ´Âµ¥ ÀÖ¾î¼­ ´©±¸¿¡°Ô³ª ¹«ÀÍÇÑ °ÍÀ¸·Î ½Ã°£À» ³¶ºñÇÒ »ÓÀÌ´Ù. ¾Æ·¡¿¡ °ÇÀÇ ¸î °¡Áö¸¦ Âü°íÇÏµµ·Ï Á¦°øÇÑ´Ù.
+
+[141]
+#But,English does have one possible mortal enemy-itself.
+#±×·¯³ª ¿µ¾î´Â ºĞ¸í °¡´ÉÇÑ Ä¡¸íÀûÀÎ ÀûÀÌ ÀÖ´Âµ¥, ¹Ù·Î ±× ÀÚ½ÅÀÌ´Ù.
+
+[142]
+#I hope your boss shows his appreciation of your talents by giving you a nice big salary increase.
+#´ç½ÅÀÇ »ó»ç°¡ ´ç½ÅÀÇ Àç´É¿¡ ´ëÇÑ Æ÷»óÀÇ Ç¥½Ã·Î ³ÊÀÇ ºÀ±ŞÀ» ´ëÆø ¿Ã·ÁÁÖ±â ¸¸À» ¹Ù¶õ´Ù.
+
+[143]
+#However,this is our personal opinion and we wish you to make further inquiries on your part.
+#±×·¯³ª ÀÌ°ÍÀº ÀúÈñ ÇÑÂÊ¸¸ÀÇ ÀÇ°ßÀÌ¸ç, ±Í»ç°¡ ´õ ¸¹Àº Á¶»ç¸¦ ÇÏ±â¸¦ ¿øÇÕ´Ï´Ù.
+
+[144]
+#But only time can do that,Margaret -- and it will,as surely as it did for me.
+#±×·¯³ª ½Ã°£¸¸ ÃæºĞÇÏ°í, ³»°¡ °æÇèÇÑ ¹Ù¿Í °°´Ù¸é ºĞ¸í ÃæºĞÈ÷ ÀÌ°ÍÀ» ÇÒ ¼ö ÀÖ´Ù.
+
+[145]
+#We are,however,very much disappointed to have received no news from you about the first shipment.
+#±×·¯³ª Áö±İ±îÁö ±ÍÃøÀÇ Ã¹ ¹øÂ° ÃâÇÏ¿¡ °üÇÑ ¾î¶² ¼Ò½ÄÀ» µèÁö ¸øÇÏ¿© ¾ÆÁÖ ½Ç¸Á½º·´½À´Ï´Ù.
+
+[146]
+#The trees by the roadside whirled past us as the car rushed on.
+#Â÷°¡ ¾ÕÀ» ÇâÇØ ÁúÁÖÇÒ ¶§ µµ·Î ¿·ÀÇ ³ª¹«µéÀº µÚ·Î ³ª´Â µíÀÌ Áö³ª°¬´Ù.
+ 
+[147]
+#When he heard about the success of the company,he tried to buy in.
+#ÀÌ È¸»çÀÇ Àå»ç°¡ ¼º°øÇß´Ù´Â °ÍÀ» µè°í ±×´Â ÁÖÁÖ°¡ µÇ·Á°í ÁÖ½ÄÀ» »ç·ÁÇß´Ù.
+
+[148]
+#The audience cried the speaker down as soon as he started on a third digression.
+#¹ß¾ğÀÚ°¡ ¼¼ ¹øÂ°·Î ÁÖÁ¦¸¦ ¹ş¾î³¯ ¶§ Ã»ÁßÀÌ °íÇÔÀ» Áú·¯ ±×°¡ ¾ê±âÇÏÁö ¸øÇÏ°Ô Çß´Ù.
+
+[149]
+#When the plane came in low,we dashed to where it would land.
+#ºñÇà±â°¡ »ó°øÀ» ³¯¾Æ Á¡Â÷ ÇÏ°­ ÇÒ ¶§ ¿ì¸®´Â ºñÇà±â°¡ Âø·úÇÏ·Á´Â Àå¼Ò·Î ¶Ù¾î°¬´Ù.
+
+[150]
+#Small children are well cared for in nurseries while their parents work in the fields.
+#ºÎ¸ğµé¿¡ µé¿¡¼­ ÀÏÀ» ÇÒ ¶§ ¾ÆÀÌµéÀº Å¹¾Æ¼Ò¿¡¼­ ÁÁÀº º¸»ìÇËÀ» ¹Ş´Â´Ù.
+
+[151]
+#As soon as the goods are despatched,please send us the invoice and shipped specifications.
+#±Í»ç°¡ È­¹°À» º¸³½ ÈÄ¿¡ ¹Ù·Î ¼ÛÀå°ú ¼ö¼ÛÀÇ »ó¼¼ÇÑ ¼³¸í¼­¸¦ º¸³»ÁÖ½Ã¸é ÇÕ´Ï´Ù.
+
+[152]
+#When Herman couldn't get facts ,he would draw on his imagination for his news articles.
+#Çã¸ÕÀº ¼ÒÀç¸¦ ±¸ÇÒ ¹æ¹ıÀÌ ¾øÀ» ¶§ ±×´Â »ó»ó¿¡ ÀÇÁöÇÏ¿© ±×ÀÇ ½Å¹®±â»ç¸¦ ½è´Ù.
+
+[153]
+#When Mr.Robert's old car was stolen,he thought it was goodriddance.
+#·Î¹öÆ®ÀÇ ¿À·¡µÈ Â÷°¡ µµµÏ¸Â¾ÒÀ» ¶§ ±×´Â ±ÍÂúÀº ¹°°ÇÀÌ Á¦°ÅµÇ¾ú´Ù°í »ı°¢Çß´Ù.
+
+[154]
+#The legislator was laughed down by his colleagues when he proposed another freeze on wages.
+#±× ÀÇ¿øÀÌ ÀçÂ÷ ÀÓ±İµ¿°áÀ» Á¦ÀÇÇÏ¿´À» ¶§, ±×ÀÇ µ¿·áµéÀº Á¶¼Ò·Î ±×¸¦ Àß¶ó¹ö·È´Ù.
+
+[155]
+#When more males are born than females,there is a population imbalance.
+#³²¼ºÀÇ Ãâ»ıºñÀ²ÀÌ ¿©ÀÚ º¸´Ù ¸¹À» ¶§ ÀÎ±¸ÁßÀÇ ³²³à ºñÀ²ÀÌ ºÒ±ÕÇüÀ» ÀÌ·ê ¼ö ÀÖ´Ù.
+
+[156]
+#When you listen to my hi-fi set,it's like sitting in concert hall!
+#³×°¡ ³» ÇÏÀÌÆÄÀÌ ½ºÅ×·¹¿À¸¦ µéÀ» ¶§ ¸¶Ä¡ ÄÜ¼­Æ® Àå¿¡ ¾É¾Æ ÀÖ´Â °Í °°´Ù!
+
+[157]
+#She felt she was no longer mistress in her own house when her husband's mother came to stay.
+#½Ã¾î¸Ó´Ï°¡ ±×µéÀÇ Áı¿¡ Àá½Ã ¸Ó¹°·¶À» ¶§ ±×³à´Â ÀÚ±â°¡ ´õ ÀÌ»ó ±×µéÀÇ ÁÖºÎ°¡ ¾Æ´ÔÀ» ´À²¼´Ù.
+
+[158]
+#Smith ran suddenly into Jones and fouled him just as Jones was kicking the ball.
+#Á¸½º°¡ ¹ßÀ» µé¾î °øÀ» Â÷·Á ÇÒ ¶§, ½º¹Ì½º´Â °©ÀÚ±â ±×¿¡°Ô ´Ş·Áµé¾î ¹İÄ¢À» ¹üÇß´Ù.
+ 
+[159]
+#We shall of course be happy to welcome you to Tianjin after you visit the Fair,if so desired.
+#´ç¿¬È÷ ±ÍÃø¿¡¼­ ¶æÀÌ ÀÖ´Ù¸é ¿ì¸®´Â ±Í»ç°¡ ¹Ú¶÷È¸¿¡ °¬´Ù°¡ ÃµÁø¿¡ ¹æ¹®ÇÏ´Â °ÍÀ» È¯¿µÇÕ´Ï´Ù.
+
+[160]
+#Of course,it might be a simple thing,such as our having not sent you our catalog and price-list.
+#¹°·Ğ ÀÏÀº ¾Æ¸¶ ¸Å¿ì °£´ÜÇÒ °¡´É¼ºÀÌ ÀÖ´Ù. ¸¶Ä¡ ¿ì¸®°¡ ´ç½Å¿¡°Ô ¸ñ·Ï°ú °¡°İÇ¥¸¦ ¾È º¸³½ °ÍÃ³·³.
+
+[161]
+#All arrangements for your stay overnight on April 10 will,of course,be made by us at our epense.
+#´ç½ÅÀÌ 10ÀÏ ¹ã¿¡ ¹¬´Â ºñ¿ëÀº ¸ğµÎ º»»ç°¡ ´ç½ÅÀ» ´ë½ÅÇÏ¿© ÁöºÒÇÒ °ÍÀÔ´Ï´Ù.
+ 
+[162]
+#Naturally,I am not surprised at all,but I thought I'd just say "Congratulations." .
+#¹°·Ğ ³ª´Â Á¶±İµµ ³î¶óÁö ¾Ê¾ÒÀ¸³ª, ³ª´Â ¶Ç ´ç½Å¿¡°Ô ÃàÇÏ¸¦ ÇØ¾ß ÇÒ °Í °°´Ù.
+
+[163]
+#Any information given to us will,of course,be treated in strict confidence.
+#¹°·Ğ ´ç½ÅÀÌ º»»ç¿¡ Á¦°øÇÏ´Â ¸ğµç ÀÚ·á´Â º»»ç°¡ ¸ğµÎ Àı´ë ºñ¹ĞÀ» º¸ÀåÇÒ °ÍÀÌ´Ù.
+
+[164]
+#He blundered on hopelessly,when asked to demonstrate the new machine.
+#»ç¶÷µéÀÌ ±×¿¡°Ô ÀÌ »õ·Î¿î ±â°èÀÇ Á¶ÀÛ ½Ã¹üÀ» ¿ä±¸ÇÒ ¶§ ±×´Â ÀüÇô ¹æ¹ıÀÌ ¾ø¾î ½Ç¼ö¸¦ ÇÏ¿´´Ù.
+
+[165]
+#It seemed like providence that the doctor happened to be passing just at the time of the accident.
+#»ç°í°¡ ¹ß»ıÇÒ ¶§ ±× ÀÇ»ç´Â ¸¶Ä§ ÇöÀåÀ» Áö³ª°¡°í ÀÖ¾úÀ¸¸ç ÀÌ°ÍÀº ¸¶Ä¡ ÇÏ´ÃÀÇ ¶æÀÎ °Í °°´Ù.
+
+[166]
+#We ask for payment by check after receipt of the invoice; discounts are already included in the price.
+#¼ÛÀåÀ» ¹ŞÀº ÈÄ¿¡ ¿ì¸®´Â ¼öÇ¥ÁöºÒÀ» ¿ä±¸ÇÏ¿´À¸¸ç ÇÒÀÎÀº ÀÌ¹Ì °¡°İ ¾È¿¡ Æ÷ÇÔµÇ¾ú´Ù.
+
+[167]
+#When they got to the river bank,bad fortune lighted on them: the river area was fog-bound.
+#±×µéÀÌ °­°¡¿¡ µµÂøÇÏ¿´À» ¶§ ¿îÀÌ ÁÁÁö ¾Ê¾Ò´Ù. °­ ÀüÃ¼¿¡ Â£Àº ¾È°³°¡ µ¤¿© ÀÖ¾ú´Ù.
+
+[168]
+#When they made ready to climb the next ridge,they found that their oxygen had given out.
+#±×µéÀÌ »êÇã¸®¿¡ ¿Ã¶úÀ» ¶§ ±×µéÀÇ »ê¼Ò°¡ ÀÌ¹Ì ´Ù ¾²¿´À½À» ¹ß°ßÇÏ¿´´Ù.
+
+[169]
+#When he offered to help me in my translation of the book,I leapt at the offer,
+#±×°¡ ³»°¡ ÀÌ Ã¥À» ¹ø¿ªÇÒ °ÍÀ» µ½´Â °ÍÀ» Á¦ÀÇÇßÀ» ¶§ ³ª´Â ÈçÄèÈ÷ ÀÌ Á¦ÀÇ¸¦ ¹Ş¾Æµé¿´´Ù.
+
+[170]
+#When I read him his own words he drew in and admitted that he had gone too far.
+#³»°¡ ±×°¡ ÇÑ ¸»À» ±×¿¡°Ô ÀĞ¾î µé·ÁÁÖ¾úÀ» ¶§ ±×´Â ½ÅÁßÇØÁö¸é¼­ ÀÚ½ÅÀÌ ³Ê¹« ½ÉÇÏ°Ô ¸»ÇßÀ½À» ÀÎÁ¤ÇÏ¿´´Ù.
+
+[171]
+#We will come back to your inquiry as soon as we can make you an attractive offer.
+#¿ì¸®ÃøÀÌ ±Í»ç¿¡°Ô ¸Å·ÂÀÖ´Â °¡°İÀ¸·Î ÁÙ ¼ö ÀÖÀ» ¶§ ºĞ¸í ´Ù½Ã ´ç½ÅµéÀÇ ¹®ÀÇ°¡°İ¿¡ ´ë´äÀ» ÇÒ °ÍÀÔ´Ï´Ù.
+
+[172]
+#The ailing old man kept puffing out a "Thank you" as I supported him home.
+#³»°¡ ±× º´µç ³ëÀÎÀ» ºÎÃàÇÏ°í Áı¿¡ µ¹¾Æ°¥ ¶§ ±×´Â ²÷ÀÓ¾øÀÌ ¼ûÀ» Çæ¶±°Å¸®¸ç "°¨»çÇÕ´Ï´Ù"ÇÏ°í ¸»Çß´Ù.
+
+[173]
+#They looked perplexed when I told them that their parents had gone.
+#³»°¡ ±×µé¿¡°Ô ¸»ÇÒ ¶§ ±×µéÀÇ ºÎ¸ğ´Â ÀÌ¹Ì °¡¹ö·Á¼­ ±×µéÀº ¾îÂî ÇÒÁÙÀ» ¸ô¶ú´Ù.
+
+[174]
+#I could see him wince when I told him how much the repairs would cost.
+#³»°¡ ±×¿¡°Ô ¼ö¸®ºñ¸¦ ¾ó¸¶¸¦ ³»¾ßÇÏ´À³Ä°í ¹°¾úÀ» ¶§ ³ª´Â ±×°¡ ³î¶ó´Â ¸ğ½ÀÀ» º¸¾Ò´Ù.
+
+[175]
+#When I got back to Manderley,Maxim's hat and gloves were lying on the table.
+#³»°¡ ¸¸µ¨¸®¿¡ µ¹¾Æ¿ÔÀ» ¶§ ¸Æ½ÉÀÇ ¸ğÀÚ¿Í Àå°©Àº ÀÌ¹Ì Å¹ÀÚ À§¿¡ ³õ¿© ÀÖ¾ú´Ù.
+
+[176]
+#Most of my preconceptions about John were proved wrong when I actually met him.
+#³»°¡ ¿äÇÑÀ» ¸¸³µÀ» ¶§, ³ª´Â ¸ÕÀú ±×°¡ ÁöÁöÇÏ´Â °ßÇØ¿¡ ´ëÇÏ¿© ´ëºÎºĞ ¸ğµÎ Àß¸øÀ» Áõ¸íÇÏ¿´´Ù.
+
+[177]
+#We wish to say that when this case was delivered to your carriers,it was a full and sound case.
+#¿ì¸®°¡ ÀÌ »óÀÚ¸¦ ±Í»çÀÇ ¿î¹İÀÎ¿¡°Ô ³Ñ°åÀ» ¶§ ÀÌ »óÀÚÀÇ ³»¿ëÀÌ ¿ÏÀü¹«°áÇÏ¿´À½À» ÀÌ¿¡ ¾Ë·Áµå¸³´Ï´Ù.
+ 
+[178]
+#When we were discussing his suggestion,he asked for two more points to be taken into consideration.
+#¿ì¸®°¡ ±×ÀÇ °ÇÀÇ¸¦ Åä·ĞÇÏ°í ÀÖÀ» ¶§ ±×´Â ¿ì¸®°¡ ´Ù¸¥ µÎ °¡Áöµµ °í·ÁÇÏ±â¸¦ °£Ã»ÇÏ¿´´Ù.
+
+[179]
+#While we were talking,a boy put his head in at the window and asked us the time.
+#¿ì¸®°¡ ´ëÈ­¸¦ ÇÏ°í ÀÖÀ» ¶§ ÇÑ ³²ÀÚ ¾ÆÀÌ´Â Ã¢¹®¿¡¼­ °í°³¸¦ ³»¹Ğ°í ¿ì¸®¿¡°Ô ½Ã°£À» ¹°¾ú´Ù.
+
+[180]
+#As I stepped on the footbridge,I heard someone cry out: "That bridge is not safe!"
+#³»°¡ ±× ÀÛÀº ´Ù¸®¸¦ °È°í ÀÖÀ» ¶§, ³ª´Â ¾î¶² »ç¶÷ÀÌ Å« ¼Ò¸®·Î "±× ´Ù¸®´Â Æ°Æ°ÇÏÁö ¸øÇØ¿ä"ÇÏ°í ¼Ò¸®Ä¡´Â °ÍÀ» µé¾ú´Ù.
+ 
+[181]
+#When he left the hall after his speech,the party leader was mobbed by his supporters.
+#ÀÌ Á¤´çÀÇ ¿µ¼ö°¡ °­¿¬À» ³¡³»°í È¦À» ¶°³¯ ¶§ ÇÑ ¹«¸®ÀÇ ÁöÁöÀÚµéÀÌ ±×¸¦ µÑ·¯½Î°í È¯È£ÇÏ¿´´Ù.
+
+[182]
+#When the lost child was found the commune members searching for him were called off.
+#ÀÒ¾î¹ö·È´ø ¾ÆÀÌ¸¦ Ã£¾ÒÀ» ¶§, ±×¸¦ Ã£°í ÀÖ´ø »ç¿øµéÀÌ ÅëÁö¸¦ µè°í ´Ù½Ã Ã£Áö ¾Ê°Ô µÇ¾ú´Ù.
+
+[183]
+#We are pleased to learn,however,that our general terms and conditions of trade are acceptable to you.
+#¿ì¸® ±³¿ªÀÇ ÀÏ¹İ Á¶Ç×°ú Á¶°ÇÀ» ±Í»ç°¡ ¸ğµÎ ¹Ş¾ÆµéÀÏ ¼ö ÀÖÀ½À» ¾Ë°Ô µÇ¾î ¸Å¿ì ±â»Ş´Ï´Ù.
+
+[184]
+#When you've copied down the exercise that's on the blackboard,we'll go on with the next one.
+#³ÊÈñµéÀÌ Ä¥ÆÇ À§¿¡ ÀÌ ¿¬½À¹®Á¦¸¦ º£³¤ ÈÄ¿¡ ¿ì¸®´Â °è¼Ó ´ÙÀ½ ¿¬½À¹®Á¦¸¦ ÇÏ°Ú´Ù.
+
+[185]
+#You can go back to your law of office after our youngest grows up.
+#¿ì¸®ÀÇ ¸·³» ¾ÆÀÌ°¡ ÀÚ¶õ ÈÄ¿¡ ³Ê´Â º¯È£»ç »ç¹«½Ç¿¡ µ¹¾Æ°¡¼­ ÀÏÇÒ ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[186]
+#The enemy troops came against us in large numbers but were forced to retreat under our heavy fire.
+#Àû±ºÀÌ ¿ì¸®¿¡°Ô ´ë°Å Áø°øÇÏ¿´À¸³ª, ¿ì¸® ±ºÀº Æ÷È­ÀÇ ¸Í·ÄÇÑ Àç°ø°İ ¾Æ·¡¿¡¼­ Ã¶¼öµÇ¾ú´Ù.
+
+[187]
+#We're in a vulnerable position here,with the enemy on the hill above us.
+#Àû±ºÀº ³ôÀº °÷¿¡¼­ ±Á¾îº¸´Â °÷¿¡¼­ ¿õ°ÅÇÏ¿© ¿ì¸®´Â ¿©±â¿¡¼­ ½±°Ô °ø°İÀ» ¹Ş´Â À§Ä¡ÀÌ´Ù.
+ 
+[188]
+#The enemy were unaware of our closing in until two shots beat them up.
+#ÀûÀº µÎ ¹ßÀÇ ÃÑ¼Ò¸®°¡ ±×µéÀ» ³î¶ó°Ô ÇÏ±â Àü ±îÁö ¿ì¸®°¡ ÀÌ¹Ì °¡±î¿üÀ½À» ¾ËÁö ¸øÇß´Ù.
+
+[189]
+#The police got on to the enemy agent and watched his every move shortly after he arrived in the country.
+#°£Ã¸ÀÌ ¸· ±¹°æ¿¡ µé¾î¿ÔÀ» ¶§ °ø¾È´ç±¹Àº ±×¸¦ ÁÖ½ÃÇÏ¸ç ±×ÀÇ ¸ğµç Çàµ¿À» °¨½ÃÇÏ¿´´Ù.
+
+[190]
+#Many of the common materials of the earth's crust may alternate between the living and the nonliving states.
+#Áö±¸Ç¥¸é À§ÀÇ ¸¹Àº º¸Åë ¹°ÁúÀº ¸ğµÎ »ı¸íÀÌ ÀÖ´Â °Í°ú »ı¸íÀÌ ¾ø´Â °Í¿¡¼­ ±³Ã¼µÉ °ÍÀÌ´Ù.
+
+[191]
+#All the efforts made by the imperialists to save the puppet regime went for nothing.
+#Á¦±¹ÁÖÀÇÀÚµéÀÌ ±«·ÚÁ¤±ÇÀ» ±¸ÇÏ±â À§ÇÏ¿© µéÀÎ ¸ğµç ÈûÀº ¸ğµÎ Çê¼ö°í°¡ µÇ¾ú´Ù.
+
+[192]
+#Mr.black of the Electronic Co.has just rung up saying that he will come to see you this Friday morning.
+#ÀüÀÚÈ¸»çÀÇ ºí·¢¾¾°¡ ¹æ±İ ÀüÈ­·Î ÀÌ¹ø ÁÖ ±İ¿äÀÏ ¿ÀÀü¿¡ ´ç½ÅÀ» º¸·¯ ¿Â´Ù°í ÇÕ´Ï´Ù.
+
+[193]
+#ODER7651 WINDOWGLASS 1000CASES WILLAHIP SSEASTWIND SAILING DIRECT YOURPORT MIDJUNE
+#¿À´õ 7651Ã¢À¯¸® 1Ãµ »óÀÚ¸¦ ½Ç¾î 6¿ù Áß¼ø¿¡ ´ç½Å Ç×±¸ÀÇ "µ¿Ç³"È£ Á÷Á¢ ¿îÇ×.
+
+[194]
+#We shall be glad if you will quote us the best discount for cash off list price for this quantity.
+#ÀÌ °°Àº ¼ö·®À» ÁÖ¹® ±¸¸ÅÇÏ´Âµ¥ Çö±İÀ¸·Î ³³ºÎ¿¡ ÃÖ´ëÇÒÀÎÀ» ÅëÁöÇØÁÖ½Ã¸é °¨»çÇÏ°Ú½À´Ï´Ù. 
+
+[195]
+#The director wants to see me about the mistake I made,I'd better go and brave it out.
+#»çÀåÀÌ ³»°¡ ¹üÇÑ Àß¸øÀ¸·Î ³ª¸¦ º¸·Á ÇÑ´Ù¸é, ³ª´Â ÅÂ¿¬ÇÏ°Ô ¹Ğ°í ³ª°¡´Â °ÍÀÌ Á¦ÀÏ ÁÁ´Ù.
+
+[196]
+#Action,gesture,eye,and voice contribute to the greater effectiveness of drama as compared with the novel.
+#µ¿ÀÛ, ¼ÕÁş, ½Ã¼±°ú ¸ñ¼Ò¸®´Â ¿¬±ØÀ» ¼Ò¼³°ú ºñ±³ÇÏ¿© ´õ¿í Å« È¿°ú¸¦ ³»°Ô ÇÑ´Ù.
+
+[197]
+#Intervening showers broke the drought in time to fill out winter wheat.
+#³»·È´Ù ±×ÃÆ´Ù ÇÏ´Â ¼Ò³ª±â°¡ Á¦¶§¿¡ °¡¹³À» ÇØ°¥ÇÏ¿© °Ü¿ï¹ĞÀÌ Àß ¿µ±Û¾ú´Ù.
+
+[198]
+#Kindly tell me what steps you are going to take in the way of compensation for the damage.
+#ÀÌ ¼ÕÇØ°Ç¿¡ ´ëÇØ ±Í»ç°¡ ¾î¶² ¹æ½ÄÀ» ÃëÇÏ¿© ¹è»óÀ» ÇÒ °ÍÀÎÁö ¾Ë·Á ÁÖ½Ã¸é °í¸¿°Ú½À´Ï´Ù.
+
+[199]
+#I'm sorry I was short with you; I ought to have answered your question more politely.
+#ÁË¼ÛÇÕ´Ï´Ù. Á¦°¡ ¹æ±İ ½Ç·Ê¸¦ ¹üÇß½À´Ï´Ù. Àú´Â º»·¡ ¿¹ÀÇ ¹Ù¸£°Ô ´ç½ÅÀÇ ¹®Á¦¸¦ ´ë´äÇÏ·Á Çß½À´Ï´Ù.
+
+[200]
+#We must therefore have your guarantee that the part bearing this number will be suitable for the machine ordered by us.
+#ÀÌ¿¡ ´ëÇØ ÀÌ ¿ì¸®´Â ¹İµå½Ã ´ç½Åµé¿¡°Ô º¸ÁõÀ» Ã»ÇØ¾ß ÇÏ´Âµ¥, ÀÌ ¹øÈ£ÀÇ ºÎÇ°Àº ¹İµå½Ã °è¾àÀ» Ã¼°áÇÑ ±â°è¿¡ Àû¿ëÇØ¾ß ÇÑ´Ù.
+
+[201]
+#We shall be glad if you will quote us the best discount for cash off your list price for this quantity.
+#ÀÌ ¼ö·®¿¡ ÀÖ¾î ¿ì¸®´Â ±ÍÇÏ°¡ Çö¹°¿ÀÆÛ¿¡ ´ëÇÏ¿© ÃÖ´ëÇÑ ÇÒÀÎÀ» ÇØÁÙ ¼ö ÀÖÀ¸½Ã¸é ´ÙÇàÀÌ°Ú½À´Ï´Ù.
+
+[202]
+#Don't you think this annual turnover for a sole agent is rather conservative?
+#µ¶Á¡´ë¸®¿¡ ÀÖ¾î ÀÌ·±1³â ÆÇ¸Å·®Àº ´ç½ÅÀº ³Ê¹« Á¶½É½º·´´Ù°í »ı°¢ÇÏÁö ¾ÊÀ¸¼¼¿ä?
+ 
+[203]
+#We make you an offer £¤600 per qr.as allowance for inferiority of the quality.
+#»óÇ°Áú·®¹®Á¦¿¡ ´ëÇÏ¿© ¿ì¸®´Â ¸Å ÄõÅÍ¿¡ ´ëÇÏ¿© 600¿øÀ» º¸Á¶ÇØÁÖ±â¸¦ ¿øÇÏ´Âµ¥ ÀÌ°ÍÀ¸·Î º¸»óÀÌ µÈ´Ù.
+
+[204]
+#Any information you may give me will,of course,be treated as strictly confidential.
+#±Í»ç°¡ Á¦°øÇÏ´Â Á¤º¸¿¡ ´ëÇÏ¿© ¾î¶² ³»¿ëÀÌµçÁö ¹İµå½Ã ºñ¹ĞÀ» ÁöÅ³ °ÍÀÔ´Ï´Ù.
+ 
+[205]
+#We thank you in advance for whatever information you will give us,strictly in confidence.
+#±Í»ç°¡ Á¦°øÇÏ´Â Á¤º¸¿¡ ´ëÇÏ¿© ¿ì¸®´Â ¹İµå½Ã ºñ¹ĞÀ» ÁöÅ³ °ÍÀÌ¸ç, ÀÌ¿¡ ´ëÇØ °¨»ç¸¦ µå¸³´Ï´Ù.
+
+[206]
+#We very much regret that you have decided upon cancellation,owing to the retirement of your customer from the contract.
+#±Í»ç°¡ °í°´ÀÌ °è¾àÀ» Ã¶È¸ÇÏ¿© ¹°Ç°ÁÖ¹®À» Ãë¼ÒÇÏ±â·Î °áÁ¤ÇÑ °ÍÀº ¿ì¸® Ãø¿¡¼­´Â ¾ÆÁÖ À¯°¨½º·´½À´Ï´Ù.
+
+[207]
+#For future shipments,however,we shall do our best to fulfill your orders within the time stipulated.
+#¿À´Ã ÀÌÈÄÀÇ ¿î¼Û¿¡ ´ëÇÏ¿© ¿ì¸®´Â Àü·ÂÀ» ´ÙÇÏ¿© ±ÔÁ¤µÈ ½Ã°£ ³»¿¡ ´ç½Å ÃøÀÇ ÁÖ¹®¼­¸¦ ÀÌÇàÇÒ °ÍÀÔ´Ï´Ù.
+
+[208]
+#We are ready to assist you at any time on all future insurance contracts.
+#¿À´Ã ÀÌÈÄÀÇ º¸Çè°è¾à¿¡ ´ëÇÏ¿© ¿ì¸®ÃøÀº ¼ö½Ã·Î ±Í»ç¿¡ ¼­ºñ½º¸¦ Á¦°øÇÒ °ÍÀÔ´Ï´Ù.
+
+[209]
+#How could he choke back his indignation at the slanderous charges his opponent levelled against him?
+#±×ÀÇ ¹İ´ëÀÚµéÀÌ ±×ÀÇ ¸Ó¸® À§¿¡ °¡ÇÑ ºñ¹æ¿¡ ´ëÇÏ¿© ±×°¡ ¾îÂî ÀÇºĞÀÌ °¡½¿¿¡ °¡µæÇÏÁö ¾Ê°Ú´Â°¡?
+
+[210]
+#We are really very sorry not to be in a position to accept your order,but hope you will understand our situation.
+#±ÍÇÏÀÇ ÁÖ¹®¼­¸¦ ¹Ş¾ÆµéÀÏ ¹æ¹ıÀÌ ¾øÀ½À» º»»ç´Â ¸Å¿ì ÁË¼Û½º·´°Ô ¿©±â¸ç ±ÍÇÏ°¡ ¿ì¸®ÀÇ Ã³Áö¸¦ ¾çÇØÇØÁÖ½Ã±â¸¦ ¹Ù¶ø´Ï´Ù.
+
+[211]
+#There is little need to comment on this school record; it speaks for itself.
+#ÀÌ ¼ºÀûº¸°í¼­´Â ¹«½¼ ¸»ÀÌ ÇÊ¿äÇÏÁö ¾Ê´Ù. ±× ÀÚÃ¼°¡ ÀÌ¹Ì ¹®Á¦¸¦ ¼³¸íÇÏ¿´´Ù.
+
+[212]
+#When Dorothy came out,she was given a coming-out party.
+#µµ·Î½Ã°¡ Ã³À½À¸·Î »çÈ¸¿¡ µé¾î¼¹À» ¶§ ±×´Â Ã³À½À¸·Î °ü°è¸¦ ¸Î±â À§ÇÑ »ç±³¸ğÀÓÀ» ¿­¾ú´Ù.
+ 
+[213]
+#I had the privilege of knowing your brother in years past,and I realize your great loss.
+#¸î ³â Àü ³ª´Â ´ÙÇàÈ÷ ´ç½ÅÀÇ ÇüÀ» ¾Ë°Ô µÇ¾ú±â ¶§¹®¿¡ ³»°¡ ±×ÀÇ Á×À½ÀÌ ´ç½Å¿¡°Ô Å©³ªÅ« ¼Õ½ÇÀÓÀ» ¾Ğ´Ï´Ù.
+
+[214]
+#He felt obliged to leave after such an unpleasant quarrel.
+#±×·¸°Ô ÇÑ ¹ø ºÒÄèÇÑ ¾ğÀïÀÌ ÀÖÀº ÈÄ¿¡ ±×´Â ¹İµå½Ã °Å±â¸¦ ¶°³ª¾ß °Ú´Ù°í ´À²¼´Ù.
+
+[215]
+#When it happened is immaterial; I want to know why it happened.
+#¾ğÁ¦ ¹ß»ıÇß³ª´Â °áÄÚ Áß¿äÇÏÁö ¾ÊÀ¸¸ç, ³»°¡ ¾Ë°í ½ÍÀº °ÍÀº ¿Ö ÀÌ·± ÀÏÀÌ ¹ß»ıÇß´Â °¡ ÇÏ´Â °ÍÀÌ´Ù.
+
+[216]
+#The speaker was trying to make a serious point,but people kept putting him off by shouting.
+#¹ß¾ğÀÚ´Â ¾à°£ÀÇ ½É°¢ÇÑ ÀÌÄ¡¸¦ ¼³¸íÇÏ·Á ÇÏ¿´À¸³ª, »ç¶÷µéÀº ²÷ÀÓ¾øÀÌ Å«¼Ò¸®·Î ±×ÀÇ ¸»À» Àß¶ú´Ù.
+
+[217]
+#The people of the developing countries have the right to choose and decide on their own social and economic systems.
+#°³¹ßµµ»ó±¹°¡ÀÇ ±¹¹ÎµéÀº ±×µé ÀÚ½ÅÀÇ »çÈ¸¿Í °æÁ¦Á¦µµ¸¦ ¼±ÅÃÇÏ°í °áÁ¤ÇÒ ±Ç¸®°¡ ÀÖ´Ù.
+
+[218]
+#The judge said that nothing could mitigate the cruelty with which the mother had treated her child.
+#ÆÇ»ç´Â ±× ¸ğÄ£À» ÀÜÀÎÇÏ°Ô ÇĞ´ëÇÑ ¾ÆµéÀÇ ÁË¸¦ °æ°¨ÇØÁÙ ¾î¶² ÀÌÀ¯µµ ¾ø´Ù°í ¸»Çß´Ù.
+
+[219]
+#The judge said he would forbear from sending her to prison,on condition that she promised not to steal again.
+#ÆÇ»ç´Â ±×³à¸¦ °¨¿Á¿¡ º¸³»Áö ¾ÊÀ» ¼ö ÀÖ´Ù°í Çß´Âµ¥, Á¶°ÇÀº ±×³à°¡ ¹İµå½Ã ÀÌÈÄ¿¡ ´Ù½Ã Àıµµ¸¦ ÇÏÁö ¾Ê´Â´Ù´Â °ÍÀ» Á¶°ÇÀ¸·Î Çß´Ù.
+
+[220]
+#A law must be stated in the clearest language,so that it is not open to misconstruction.
+#¹ı·ü Á¶Ç×Àº ¹İµå½Ã °¡Àå Á¤È®ÇÑ ¾ğ¾î·Î ½á¾ß ÇÑ´Ù. ÀÌ·¸°Ô ÇØ¾ß ºñ·Î¼Ò °îÇØÇÏÁö ¾Ê´Â´Ù.
+
+[221]
+#The fascists considered that people would believe anything if enough propaganda was pumped in.
+#ÆÄ½Ã½ºÆ®µéÀº ÀÎ°£¿¡ ´ëÇÏ¿© ´ë·®ÀÇ ¼±ÀüÀ» ÇÑ´Ù¸é ±×µéÀÌ ¹«¾ùÀÌµç ¹ÏÀ» °ÍÀÌ¶ó°í ¿©°å´Ù.
+
+[222]
+#Paging through the magazine,I came across a short article on the objective law of social development.
+#ÀÌ ÀâÁöÃ¥À» µÚÀûÀÌ´Ù°¡ ³ª´Â »çÈ¸¹ßÀüÀÇ °´°üÀûÀÎ ±ÔÄ¢À» ³íÇÑ ´Ü¹®À» º¸¾Ò´Ù.
+
+[223]
+#Kindly notify the buyers that we shall make an amendment in the L/C freight collect instead of C & F New York.
+#¼ö°í½º·´°ÚÁö¸¸ »ç´Â ÂÊ¿¡ ¿ì¸®°¡ ½Å¿ëÀå ³»¿¡ CF ´º¿åÀ» »ç´Â ÂÊÀÌ ¿î¹İºñ¸¦ ºÎ´ãÇÏ´Â °ÍÀ¸·Î ¹Ù²Ù¾ú´Ù°í ÅëÁöÇØÁÖ±â ¹Ù¶ø´Ï´Ù.
+
+[224]
+#When questioned by the reactionary police,she came right back with a vehement protest against the false charge.
+#¹İµ¿°æÂû´ç±¹ÀÌ ±×³à¸¦ ½É¹®ÇÒ ¶§, ±×³à´Â ³¯Ä«·Ó°Ô ¸Â¼­¼­ ¹«°í¿¡ ´ëÇÏ¿© °­ÇÑ Ç×ÀÇ¸¦ ³ªÅ¸³Â´Ù.
+
+#36870:·´¶¯\ÊÆÁ¦\×èÖ¹\Éç»áÖ÷Òå\ÊÂÒµ\µÄ\Ò»ÇĞ\ÆóÍ¼\Ö»\ÄÜ\ÒÔ\Ê§°Ü\¶ø\¸æÖÕ\.\
+#All efforts made by reactionary forces against socialism will only end in failure.
+#»çÈ¸ÁÖÀÇ »ç¾÷À» ÀúÁöÇÏ´Â ¹İµ¿¼¼·ÂÀÇ ¸ğµç ½Ãµµ´Â ´Ù¸¸ ½ÇÆĞÇÏ¿© Á¾¸»À» °íÇÒ °ÍÀÌ´Ù.
+
+[225]
+#Opposition leaders were wondering about whether she would abide by the election results if they went against her .
+#¹İ´ë´çÀÇ ¿µ¼ö´Â ¸¸¾à ¼±°Å °á°ú°¡ ±×³à¿¡°Ô ºÒ¸®ÇÏ°Ô µÇ¸é ±×³à°¡ ³²¸¸ ¸øÇÔÀ» ÀÚÀÎÇÒ Áö ¿©ºÎ¿¡ ´ëÇÏ¿© ÀÇ½É½º·¯¿ö Çß´Ù.
+
+[226]
+#Or we shall be compelled to settle the matter seriously,if it cannot be adjusted satisfactorily.
+#¹İ´ë·Î ¸¸¾à ÀÌ ÀÏÀÌ ¸¸Á·½º·´°Ô Ã³¸®µÇÁö ¸øÇÑ´Ù¸é ¿ì¸®´Â ÀåÂ÷ ½ÉÇÑ ´ë¿ì¸¦ ´çÇÒ °ÍÀÌ´Ù.
+
+[227]
+#The room hasn't been properly cleaned; there's fluff and dust under the furniture.
+#¹æÀº ¾ÆÁ÷ ¿ÏÀüÈ÷ Ã»¼ÒÇÏÁö ¾Ê¾Æ, °¡±¸ ¾Æ·¡¿¡´Â ¾ÆÁ÷µµ µÎ²¨¿î ÅĞ°ú ¸ÕÁö°¡ ÀÖ´Ù.
+
+[228]
+#The room was furnished with the simplest essentials,a bed,a chair,and a table.
+#¹æ¾È¿¡´Â °¡Àå °£´ÜÇÑ ÇÊ¼öÇ°ÀÎ Ä§´ë ÇÏ³ª, ÀÇÀÚ ÇÏ³ª¿Í Å¹ÀÚ ÇÏ³ª¸¸ÀÌ ³õ¿©ÀÖ¾ú´Ù.
+
+[229]
+#It really looks different! It is a strange color that's not quite yellow and not quite orange to look at.
+#¹æ¾ÈÀÌ ¿ÏÀüÈ÷ º¯Çß±¸³ª! »ö±òÀÌ ÀÌ»óÇØ¼­ º¸±â¿¡ ¼ø ³ë¶õ»öµµ ¾Æ´Ï°í ±Ö»öµµ ¾Æ´Ï´Ù.
+
+[230]
+#Fish and Galt (were) busted out of that school in the same month.
+#ÇÇ½¬¿Í °ñÅÍ´Â ½ÃÇè¿¡ ÇÕ°İÇÏÁö ¸øÇß±â ¶§¹®¿¡ ÇÑ ´Ş ÀÌ³»¿¡ ±× ÇĞ±³¿¡¼­ ÅğÇĞ´çÇß´Ù.
+
+[231]
+#We regret to have to complain of the bad quality of shipment of sugar per ¡°Asahi Maru.¡±.
+#±Í»çÀÇ "¾Æ»çÈ÷ ¸¶·ç"È£°¡ È­¹°À» ¿î¹İÇÏ¿© ¿Â ¼³ÅÁÀÇ ÁúÀÌ ³Ê¹« ÇüÆí¾ø´Â °ÍÀÌ ¸Å¿ì À¯°¨ÀÔ´Ï´Ù.
+ 
+[232]
+#You were sweet to give a shower for me,and I appreciate it more than I can say.
+#±ÍÇÏ°¡ Àú¸¦ À§ÇÏ¿© È¯¼ÛÈ¸¸¦ ¿­¾î ÁÖ½Å °Í °¨»çÇÕ´Ï´Ù. °¨°İÀ» ¸»·Î ´Ù ÇÒ ¼ö ¾ø½À´Ï´Ù.
+
+[233]
+#Luckily no records were destroyed so that there will be no difficulty in assessing the value of the loss.
+#¸Å¿ì ´ÙÇàÈ÷ ±â·Ï ÆÄÀÏÀº ÀüÇô ¼Õ»óÀÌ ¾ø±â ¶§¹®¿¡ ¼ÕÇØ¾×À» °è»êÇÏ´Â µ¥´Â ¾î·Á¿òÀÌ ¾øÀ» °ÍÀÌ´Ù.
+
+[234]
+#I regret that I have to notify you of so many orders being canceled at the same time.
+#¿ì¸® È¸»ç´Â ÀÌ µ¿ÀÏÇÑ ±â°£ ³»¿¡ ¿©·¯ Á¾·ùÀÇ ÁÖ¹®¼­¸¦ Ãë¼ÒÇØ¾ß ÇÔÀ» ¾Ë·Áµå¸®°Ô µÇ¾î ¸Å¿ì À¯°¨½º·´½À´Ï´Ù.
+
+[235]
+#The plane shot off the end of a runway without taking to the air and piled up in flames in a bog.
+#ºñÇà±â°¡ µµ·ÎÀÇ ³¡À» ¶Õ°í ³ª°¡ ÇÏ´Ã·Î ³ôÀÌ ¿Ã¶ó°¡Áö ¸øÇÏ°í ´Ë¿¡¼­ ºÒÀÌ ºÙ¾î ÅÀ´Ù.
+
+[236]
+#The aircraft came down in flames,and the heat fused most of the parts together into a solid mass.
+#ºñÇà±â°¡ Å¸ ¿Ã¶ó È­¿°ÀÇ ÈûÀÌ ´ëºÎºĞÀÇ ºÎ¼ÓÇ°À» ³ì¿©¼­ ÇÏ³ªÀÇ Å« µüµüÇÑ µ¢¾î¸®·Î ¸¸µé¾ú´Ù.
+
+[237]
+#The plane made a true course toward Iceland.
+#±× ºñÇà±â´Â ÀÚ¿À¼±À» ±âÁØÀ¸·Î ÇÏ¿© Á¤ÇÑ ¹æÀ§´Â Á¤È®ÇÑ Ç×Çà ¹æÇâÀ» ÃëÇØ ¾ÆÀÌ½º·£µå¸¦ ÇâÇØ ³¯¾Æ°¬´Ù.
+
+[238]
+#A steep descent in an airplane like this would have blacked out a fledgling.
+#ºñÇà±âÀÇ ÀÌ·± ±Ş¼ÓÇÑ ÇÏ°­Àº º»·¡ °æÇèÀÌ ¾ø´Â »ç¶÷À» ´« ¾ÕÀÌ ±ô±ôÇÏ°Ô ÇÒ °ÍÀÌ´Ù.
+
+[239]
+#Flight 387 for New York is now boarding at Gate 15.
+#´º¿åÇà 387È£ Á¤±â¿©°´¼±Àº 15¹ø °ÔÀÌÆ®¿¡¼­ ½Â°´ÀÌ Å¾½ÂÇÏ±â¸¦ ±â´Ù¸®°í ÀÖ´Ù.
+ 
+[240]
+#The gangsters threatened to bump him off if he did not tell them where the secret code was hidden.
+#°»µéÀÌ ¸¸¾à ±×°¡ ºñ¹Ğ¹øÈ£°¡ ¾îµğ¿¡ °¨Ãß¾îÁ® ÀÖ´ÂÁö ¸»ÇÏÁö ¾ÊÀ¸¸é ±×¸¦ Á¦°ÅÇÏ°Ú´Ù°í À§ÇùÇÏ¿´´Ù.
+
+[241]
+#To some life means pleasure,to others suffering.
+#¾î¶² »ç¶÷¿¡ ÀÖ¾î ÀÎ»ıÀÇ ÀÇÀÇ´Â ±â»İÀÌ°í, ´Ù¸¥ ¾î¶² »ç¶÷¿¡°Ô ÀÖ¾î¼­´Â °íÅëÀÌ´Ù.
+
+[242]
+#We now have you enclosed the invoice for cotton,amounting to £¤200,000 which we trust you sill find correct.
+#ÃÑ¾× 200,000¿øÀÇ ¸éÈ­ÃâÇÏ ¼ÛÀå 1ºÎ¸¦ µ¿ºÀÇÏ´Ï Á¶»çÇÏ¿© ¹Ş¾ÆÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[243]
+#Otherwise,we shall consider ourselves no longer bound by the S/C and you shall take the consequences.
+#±×·¸Áö ¾ÊÀ¸¸é, ¿ì¸®ÃøÀº ´Ù½Ã´Â ÀÌ ±¸¸Å È®ÀÎ¼­ÀÇ Á¦¾àÀ» ¹ŞÁö¾ÊÀ¸¸ç ±× °á°ú´Â ±ÍÃø¿¡¼­ ½º½º·Î 
+
+[244]
+#Uncle Fred was a loyal member of his party.He always voted the straightticket ..
+#ÇÁ·¹µå ¾ÆÀú¾¾´Â ¼Ò¼Ó´çÀÇ Ãæ½ÇÇÑ ´ç¿øÀÌ¾ú´Ù. ±×´Â Ç×»ó °°Àº ´çÀÇ ÈÄº¸ÀÚ¿¡°Ô Ç¥¸¦ ´øÁ³´Ù.
+
+[245]
+#The father didn't like his son staying out at night,so he put his foot down and forbade him to do it again.
+#¾Æ¹öÁö´Â ¾ÆµéÀÌ ¹Û¿¡¼­ ÀÚ°í µ¹¾Æ¿ÀÁö ¾Ê´Â °ÍÀ» ½È¾îÇÑ´Ù. ±×·¡¼­ ±×´Â ¾ÆµéÀÌ ´Ù½Ã´Â ±×·¸°Ô ÇÏÁö ¸øÇÏµµ·Ï ¸øÀ» ¹Ú¾Ò´Ù.
+
+[246]
+#A booklet including a general introduction ,the scope of business and other topics is enclosed for your reference.
+#Âü°íÇÏµµ·Ï º» È¸»çÀÇ °³È², ¾÷¹« ¹üÀ§¿Í ±âÅ¸ »çÇ×ÀÇ °£·«ÇÑ ¼Ò°³ Ã¥ÀÚ¸¦ º¸³»µå¸³´Ï´Ù.
+
+[247]
+#It was intended that she would sail within three weeks from the date of my last advice of the 12th June.
+#ÀÌ°ÍÀº ³»°¡ ¸¶Áö¸·À¸·Î ÅëÁöÇÑ 6¿ù 12ÀÏ ³¯·Î ºÎÅÍ 3ÁÖ ÀÌ³»¿¡ ÀÌ ¹è´Â ÃâÇ×ÇÒ °ÍÀÌ´Ù.
+ 
+[248]
+#We will increase the letter of credit by 200 tons at the rate of $50 per ton.
+#ÀÌ ½Å¿ëÀå Ç×¸ñ¾Æ·¡ÀÇ È­¹° ¼ö·®Àº 200ÅæÀ¸·Î Áõ°¡ÇÏ¿´À¸¸ç, ¸ÅÅæ ´ç °¡°İÀº 50´Ş·¯ÀÌ´Ù.
+
+[249]
+#Gage,who had established his business in the city,started to push out into the suburbs and open branch shops.
+#Á¶Áö´Â ÀÌ¹Ì µµ½Ã¿¡¼­ »óÁ¡À» ¿­¾ú´Âµ¥, ¶Ç ±³¿Ü·Î È®ÀåÇÏ±â ½ÃÀÛÇÏ¿© ºĞÁ¡À» ¼¼¿ü´Ù.
+
+[250]
+#We thank you for your letter of...and have much pleasure in replying to your various questions as follows...
+#±ÍÇÏÀÇ ...¿ù ...ÀÏ ÆíÁö¿¡¼­ ÄèÈ÷ °¢Á¾ ¹®Á¦¸¦ ¾Æ·¡¿Í °°ÀÌ ´ë´äÇØÁÖ½ÉÀ» °¨»çµå¸³´Ï´Ù.
+
+[251]
+#Thank you for your letter of May 10,1992 inquiring about the warranty on our products exported.
+#±ÍÇÏÀÇ 1992³â 5¿ù 10ÀÏ ÆíÁö¿¡¼­ ¿ì¸® È¸»ç¿¡ ¼öÃâ»óÇ°ÀÇ º¸Áõ¹®Á¦¸¦ ¹®ÀÇÇÑ °Í¿¡ ´ëÇØ °¨»çµå¸³´Ï´Ù.
+
+[252]
+#We thank you for your letter of May 15,1992,together with your quotation for the leasing of leather-tanning equipment.
+#´ç½Å ÃøÀÇ 1992³â 5¿ù 15ÀÏ ¼­½Å¿¡ °¨»çµå¸®¸ç ÇÇÇõÁ¦Á¶ ¼³ºñÀÇ Â÷¿ë °ßÀû¼­¸¦ µ¿ºÀÇÕ´Ï´Ù.
+
+[253]
+#We thank you for informing us that the goods under Contract No.205 were duly shipped on March 15,1992.
+#±ÍÇÏ°¡ Á¦205È£ °è¾àÇ×¸ñ  È­¹°Àº ÀÌ¹Ì 1992³â 3¿ù 15ÀÏ ±âÀÏ´ë·Î ¿î¹İÇÑ °Í¿¡ °¨»çµå¸³´Ï´Ù.
+
+[254]
+#Thank you for your luncheon invitation for Sunday afternoon,January the tenth,at one o'clock.
+#¿ì¸®¸¦ 1¿ù 10ÀÏ(ÀÏ¿äÀÏ)¿ÀÈÄ 1½Ã¿¡ °ÅÇàµÇ´Â ¿ÀÂù¿¡ ÃÊÃ»ÇØÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù.
+
+[255]
+#Thank you for asking me to be guest speaker at the breakfast/luncheon /dinner/meeting at Victory Hotel.
+#±ÍÇÏ°¡ Àú¸¦ ½Â¸®È£ÅÚ¿¡¼­ °ÅÇàµÇ´Â Á¶Âù/¿ÀÂù/¸¸Âù/È¸ÀÇ¿¡ Ãâ¼®ÇÏ¿© °­¿¬ÇÏµµ·Ï ÃÊÃ»ÇØ ÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù.
+
+[256]
+#The steel scaffolding fell down and narrowly missed a couple of bystanders.
+#Ã¶Á¦ ¹ßÆÇÀÌ ¶³¾îÁ® ÇÏ¸¶ÅÍ¸é ¸î ¸íÀÇ ¼­¼­ º¸´ø »ç¶÷µéÀ» ³»·Á Ä¥ »·ÇÏ¿´´Ù. 
+
+[257]
+#cut one's heir off with a shilling
+#ÈÄ°èÀÚ¿¡°Ô 1½Ç¸µÀÌ³ª ¾ÆÁÖ ÀûÀº µ·À» ÁÖ¾î »óÂ¡ÀûÀ¸·Î ±× ½ÇÁ¦ °è½Â±ÇÀ» Ãë¼ÒÇÏ´Ù.
+
+[258]
+#In reply to your letter of the 3rd June,we send you our catalogue of safes as desired.
+#6¿ù 3ÀÏ ÆíÁöÀÇ ¿ä±¸¿¡ µû¶ó ÇöÀç ±ÍÇÏ°¡ ÇÊ¿ä·Î ÇÏ´Â º¸Çè ¸ñ·ÏÀ» º¸³»µå¸³´Ï´Ù.
+
+[259]
+#The record shows that he checked in at the hotel on Sunday evening and checked out on Monday morning.
+#±â·Ï¿¡ ÀÇÇÏ¸é, ±×´Â ÀÏ¿äÀÏ Àú³á¿¡ È£ÅÚ¿¡ Ã¼Å© ÀÎÇÏ¿´°í, ¿ù¿äÀÏ ¾ÆÄ§¿¡ Ã¼Å© ¾Æ¿ôÇÏ¿´´Ù.
+
+[260]
+#In the opinion of some people the pioneer spirit remains in the American mind.
+#¾î¶² »ç¶÷ÀÇ °ßÇØ¿¡ ÀÇÇÏ¸é ¹Ì±¹ÀÎÀÇ ¸¶À½¿¡´Â ¿©ÀüÈ÷ ¼±±¸ÀÚÀÇ °³Ã´Á¤½ÅÀ» °¡Áö°í ÀÖ´Ù°í ÇÑ´Ù.
+
+[261]
+#According to our records your complaint about an incomplete delivery is unfounded.
+#¿ì¸®µéÀÇ ±â·Ï¿¡ ÀÇÇÏ¸é ±Í»ç °ü·Ã È­¹°·® ºÎÁ·À¸·Î »ı±ä ºÒÆòÀº ±Ù°Å°¡ ¾ø´Â °ÍÀÌ´Ù.
+ 
+[262]
+#As requested,we are offering you the following subject to our final confirmation:
+#¿ä±¸¿¡ ÀÇÇÏ¿© ÇöÀç ÀúÈñ ÃøÀº ¹Ù·Î ¾Æ·¡ È­¹°À» ±ÍÇÏ¿¡°Ô °¡°İÀ» ÀÔÂûÇÏ¿© ¿ì¸®ÃøÀÌ ÃÖÈÄ È®ÀÎÀ¸·Î ÁØÇÒ °ÍÀÔ´Ï´Ù.
+
+[263]
+#Most important,my varied background and capabilities will make me a valuable resource foryour company.
+#´õ¿í Áß¿äÇÑ °ÍÀº ÀúÀÇ °ú°Å È­·ÁÇÑ ÀÌ·Â°ú ÀÛ¾÷´É·ÂÀº È¸»çÀÇ ÀÏ¿¡ µµ¿òÀÌ µÉ °ÍÀÔ´Ï´Ù.
+
+[264]
+#The multiplier for the estimate of man-hour costs to take care of overheads and fringe benefits,.
+#±Ù·Î½Ã°£ ºñ¿ëÀÇ °ßÀû ½Â¼ö´Â º¹Áöºñ¿Í °æ¿µ°ü¸®ºñÀÇ ¼ö¿ä¸¦ ¸¸Á·ÇÒ ¼ö ÀÖ´Ù.
+
+[265]
+#The foremen dared not mess about with Wood.He was strong and had the firm backing of the dockers.
+#ÇöÀåÁÖÀÓÀº ´õ ÀÌ»ó ¿ìµå¸¦ °Çµå¸®Áö ¾Ê¾Ò´Ù. ±×´Â µ¢Ä¡°¡ ÁÁ°í ÈûÀÌ ¼¼¸ç, ºÎµÎ ±Ù·ÎÀÚÀÇ À¯·ÂÇÑ ÁöÁö¸¦ ¾ò¾ú´Ù.
+
+[266]
+#Jimmy was not deterred by the foreman's threat to get back at him some day.
+#ÇöÀåÁÖÀÓÀº Áö¹Ì¿¡°Ô ¾ğÁ¨°¡´Â ±×¿¡°Ô º¹¼ö¸¦ ÇÏ°Ú´Ù°í À§ÇùÇÏ¿´À¸³ª, Áö¹Ì´Â ³î¶óÁö ¾Ê¾Ò´Ù.
+
+[267]
+#Heartiest congratulations upon you graduation.May your future be as successful as your college days have been.
+#´ç½ÅÀÇ Á¹¾÷À» ÃàÇÏÇÏ¸ç, ´ç½ÅÀÇ ¾Õ³¯ÀÌ ´ç½ÅÀÇ ´ëÇĞ»ıÈ°Ã³·³ ¼øÁ¶·Ó°Ô ¼º°øÇÏ±æ º÷´Ï´Ù.
+
+[268]
+#The firm's promise to increase our pay was a concession to union demands.
+#È¸»ç°¡ ¿ì¸®ÀÇ ÀÓ±İÀ» ¿Ã·ÁÁÖ°Ú´Ù°í ´ë´äÇÑ °ÍÀº ³ëÁ¶°¡ Á¦ÃâÇÑ ¿ä±¸¿¡ ´ëÇÏ¿© ¾çº¸ÇÑ °ÍÀÌ´Ù.
+
+[269]
+#Communist society cannot come about by itself; it is to be built by the efforts of countless revolutionaries.
+#°ø»êÁÖÀÇ »çÈ¸´Â ÀúÀı·Î ¿Â °ÍÀÌ ¾Æ´Ï´Ù. ±×°ÍÀº ¹«¼öÇÑ Çõ¸í°¡ÀÇ ³ë·ÂÀ¸·Î ÀÎÇÏ¿© ºñ·Î¼­ °Ç¼³µÈ °ÍÀÌ´Ù.
+
+[270]
+#Link up trade contracts and promote economic cooperation----Tianjin General Foreign Trade Corporation.
+#¹«¿ª ¿Õ·¡¸¦ ±³·ùÇÏ°í °æÁ¦ÇÕÀÛÀ» ÃËÁøÇÏ´Â ÃµÁø½Ã ´ë¿Ü ¹«¿ª ÃÑ°ø»ç.
+
+[271]
+#The old saying,"a friend in need is a friend indeed," is a perfect description of you.
+#¿¾¸»¿¡ "¾î·Á¿ï ¶§ Ä£±¸°¡ ÁøÂ¥ Ä£±¸´Ù"¶ó°í ÇÏ¿´´Âµ¥, ´ç½ÅÀº Á¤¸» ÀÌ·± Ä£±¸ÀÔ´Ï´Ù.
+
+[272]
+#Please quote your best prices for 500 pieces of the item C.I.F ......
+#±×·¯¹Ç·Î ±Í»ç°¡ 500°³ÀÇ ¼ÅÃ÷¸¦ C.I.F °¡Àå ÁÁÀº °¡°İÀ¸·Î ÀÔÂûÇÏ¼¼¿ä.
+
+[273]
+#The workers would strike unless the employer agreed to the terms within twenty-four hours.
+#°í¿ëÁÖ°¡ 24½Ã°£ ÀÌ³»¿¡ ±Ù·ÎÀÚÀÇ Á¶°ÇÀ» ¹Ş¾ÆµéÀÌÁö ¾ÊÀ¸¸é, ±Ù·ÎÀÚµéÀº ¹Ù·Î ÆÄ¾÷À» ÇÒ °ÍÀÌ´Ù.
+
+[274]
+#We will carry out your wishes in regard to packing,and make arrangements to forward them as directed.
+#Æ÷Àå¹®Á¦¿¡ ´ëÇÏ¿© ´ç½ÅÃøÀÇ Áö½Ã¿¡ µû¶ó Ã³¸®ÇÒ °ÍÀÌ¸ç ¾î¶»°Ô º¸³¾Áö¿¡ °üÇÏ¿© ´äÀåÁÖ½Ê½Ã¿ä.
+
+[275]
+#About packing,we will contract our manufacturers and call their attention to the matter.
+#Æ÷Àå¹®Á¦¿¡ ´ëÇÏ¿© ¿ì¸®ÃøÀº »ı»êÀÚ¿Í ¿¬¶ôÀ» ÇÏ¿© ±×µéÀÌ ÀÌ¿¡ ´ëÇÏ¿© Áß½ÃÇÏµµ·Ï ¿ä±¸ÇÒ °ÍÀÔ´Ï´Ù.
+
+[276]
+#With reference to your offer on...we have no need of these goods because the quantities are too small to interest us.
+#±ÍÇÏÀÇ ...¿ÀÆÛ¿¡ °üÇÏ¿© ¿ì¸®ÃøÀº ÀÌ ¹°°ÇÀÌ ÇÊ¿äÇÏÁö ¾ÊÀºµ¥ ¼ö·®ÀÌ ³Ê¹« Àû±â ¶§¹®¿¡ ¾ÆÁ÷ Èï¹Ì°¡ ¾ø½À´Ï´Ù.
+
+[277]
+#As regards Article No.5 of the contract,we propose to make some modifications.The modified text reads:
+#°è¾à Á¦ 5Ç×¿¡ °üÇÏ¿© ¿ì¸®´Â ¼öÁ¤À» °ÇÀÇÇÏ¸ç ¼öÁ¤ ÈÄÀÇ ¹®ÀåÀº ¾Æ·¡¿Í °°½À´Ï´Ù. 
+
+[278]
+#Regarding your Order No.1234,please open the L/C by cable so as to enable us to arrange shipment.
+#´ç½ÅÃø Á¦1234È£ ÁÖ¹®¼­¿¡ °üÇÏ¿© ¹Ù·Î Àüº¸·Î ½Å¿ëÀåÀ» ¿­¾î ¿ì¸®°¡ ¿î¹İÀ» ÇÒ ¼ö ÀÖµµ·Ï ÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[279]
+#I can give you references from both these press houses as to my character and ability as an editor.
+#³ªÀÇ ÀÎÇ° ´É·Â¿¡ °üÇÏ¿© ³ª´Â »ó¼úÇÑ µÎ ÃâÆÇ»ç°¡ ¾´ ¼Ò°³ÆíÁö¸¦ Á¦°øÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+[280]
+#Further to our letter of...,we have to inform you that our clients have withdrawn their inquiry for...
+#¿ì¸®ÃøÀÇ ...¿ù ...ÀÏ ÆíÁö¿¡ °üÇÏ¿© ÇöÀç °í°´Àº ÀÌ¹Ì ...¹®ÀÇ¼­¸¦ Ãë¼ÒÇÔÀ» ÀÌ¿¡ ¾Ë·Áµå¸³´Ï´Ù.
+
+[281]
+#As regards our commission,we think you will agree that 5% on net sales is quite reasonable.
+#ÀúÈñ ÃøÀÇ Ä¿¹Ì¼Ç¿¡ ´ëÇÏ¿© ÆÇ¸Å´ë±İÀÇ ¼ø¼ö±İ¾× 5%¸¦ °èÈ¹ÇÏ´Âµ¥ ±Í»ç°¡ ÀÌ°ÍÀÌ ÇÕ¸®ÀûÀÎ °ÍÀÌ¶ó°í µ¿ÀÇÇÏ¸®¶ó »ı°¢ÇÕ´Ï´Ù.
+
+[282]
+#I have not yet been given official permission from the University for my leave from January 1 to March 31.
+#³»°¡ 1¿ù 10ÀÏºÎÅÍ 3¿ù 31ÀÏ±îÁö ±â°£ µ¿¾È ÇĞ±³¸¦ ¶°³­ ÀÏ¿¡ °üÇÏ¿© ¾ÆÁ÷ ÇĞ±³ÃøÀÇ Á¤½Äµ¿ÀÇ¸¦ ¾òÁö ¸øÇÏ¿´´Ù.
+
+[283]
+#As to the account sales,you will please to furnish with a distinct account for each,and remit me for each.
+#ÆÇ¸Å°èÁ¤¿¡ °üÇÏ¿© °¢ Ç×ÀÇ ¼öÀÔÁöÃâÀ» ³ª´©°í, °æºñ¸¦ °¢°¢ º»»ç¿¡ ¼Û±İÇÏ±â ¹Ù¶ø´Ï´Ù. 
+
+[284]
+#Mr.Thompson asked an expert about it,but misunderstood or misremembered the answer.
+#ÀÌ ¹®Á¦ ´ëÇÏ¿© Åè½¼ ¼±»ı°¡ Àü¹®°¡¿¡°Ô ¹°¾ú¾úÀ¸³ª, ±×´Â Àß¸ø ÀÌÇØÇÏ¿´°Å³ª ´äÀ» Àß¸ø ±â¾ïÇÏ¿´´Ù.
+
+[285]
+#We have given our careful consideration to your counter offer against our offer for Woolen sweaters.
+#±ÍÇÏ°¡ º»»çÀÇ ¾ç¸ğ¼ÅÃ÷ ¿ÀÆÛ¿¡ ´ëÇÏ¿© ÇÑ Ä«¿îÅÍ¿ÀÆÛ¿¡ ´ëÇÏ¿© º»»ç´Â ÀÌ¹Ì ½ÅÁßÇÑ °í·Á¸¦ ÇÏ¿´½À´Ï´Ù.
+
+[286]
+#We should be much obliged if you would give us your opinion of their solvency and trustworthiness.
+#±ÍÇÏ°¡ ÀÌ È¸»çÀÇ ÁöºÒ´É·Â°ú ½Å¿ë»óÅÂ¿¡ ´ëÇÏ¿© ¾î¶² °ßÇØ¸¦ °®°í ÀÖ´ÂÁö ¾Ë·ÁÁÖ½Ã¸é Á¤¸» °í¸¿°Ú½À´Ï´Ù.
+
+[287]
+#As soon as the licence is in your hand,you are requested to cable your specific requirements for our firm offer.
+#±ÍÇÏ°¡ ÀÚ°İÀ» ¾òÀº ÈÄ¿¡ ¹Ù·Î ±¸Ã¼ÀûÀÎ ¿ä±¸¸¦ Àüº¸ÃÄ¼­ ¿ì¸®°¡ È®Á¤¿ÀÆÛ¸¦ ³¾ ¼ö ÀÖ°Ô ÇÏ¿© ÁÖ½Ê½Ã¿ä.
+
+[288]
+#Anything that you may be able to tell us as to his financial respectability and management will be appreciated by us.
+#±ÍÇÏ°¡ ¸¸¾à ÀÌ »ç¶÷ÀÇ ÀçÁ¤¹æ¸éÀÇ ½Å¿ë°ú °æ¿µ ¾÷¹« »óÅÂ¸¦ ¾Ë·ÁÁÖ½Ã¸é ¹«Ã´ °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[289]
+#You can readily see that arrears can soon run into a large sum.Your prompt remittance will be appreciated.
+#±ÍÇÏ´Â ÇÑ ´«¿¡ ¹Ù·Î ºÎÃ¤°¡ ³¯ÀÌ °¥¼ö·Ï ¸¹¾ÆÁüÀ» ¾Ë ¼ö ÀÖ½À´Ï´Ù. ¹Ù·Î µ·À» º¸³»ÁÖ½Ã¸é Á¤¸» °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[290]
+#We are obliged for your order,No.500,of yesterday's date,for 100 doz.silk handkerchiefs.
+#ÀúÈñ´Â ¾îÁ¦ ±ÍÇÏÀÇ Á¦500È£ ½ÇÅ©¼Õ¼ö°Ç 100°³ÀÇ ÁÖ¹®¼­¸¦ ÀÌ¹Ì ¹Ş¾Ò½À´Ï´Ù. °¨»çÇÕ´Ï´Ù.
+
+[291]
+#Thank you for your letter of October 10 with the S/C No.352 for 1000 doze raincoats.
+#±Í»çÀÇ 10¿ù 10ÀÏ ¼­ÇÑ°ú ¿ìÀÇ 1000°³ÀÇ Á¦ 352È£ °è¾àÀ» ¸ğµÎ ¹Ş¾Ò½À´Ï´Ù. °¨»çÇÕ´Ï´Ù.
+
+[292]
+#Thank you very much for your letter of May 2nd,1993,in which you proposed to do business with us on consignment basis.
+#±Í»çÀÇ 1993³â 5¿ù 2ÀÏ ÆíÁö¿¡¼­ ±Í»ç¿Í Àú »çÀÌ¿¡ À§Å¹ÆÇ¸Å¸¦ ÁøÇàÇÏÀÚ°í °ÇÀÇÇÑ °Í¿¡ ´ëÇØ °¨»çµå¸³´Ï´Ù.
+
+[293]
+#We have received your letter dated May 6,1993,and welcome your idea of holding an exhibition in Shannon.
+#±Í»çÀÇ 1993³â 5¿ù 6ÀÏ ÆíÁöÀÇ ÃµÁø¿¡¼­ Àü¶÷È¸¸¦ °³ÃÖÇÏÀÚ´Â °ÇÀÇ¿¡ ´ëÇÏ¿© ¿ì¸®´Â È¯¿µÀ» Ç¥½ÃÇÕ´Ï´Ù.
+
+[294]
+#Your offer received too late; market rising,lowest now is 10% advance.
+#±Í»çÀÇ ¿ÀÆÛ´Â ÀÌ¹Ì ½Ã°£ÀÌ Áö³µÀ¸¸ç, ½Ã°¡°¡ ¿Ã¶ó¼­ °¡Àå ½Ñ °Íµµ ÀÌ¹Ì 10%°¡ ¿Ã¶ó°¬´Ù.
+[295]
+#Can you send us samples of paper that you can guarantee in this respect ,and that will also be reasonable in price?
+#±Í»çÀÇ Á¾ÀÌ°¡ ¸¸¾à ¿ì¸®Ãø ¿ä±¸¿¡ ºÎÇÕµÇ°í °¡°İÀÌ ÇÕ¸®ÀûÀÌ¸ç °ßº»À» Á¦°øÇÒ ¼ö ÀÖÀ» Áö¿ä?
+
+[296]
+#When you have obtained the necessary licence,please cable your order immediately for our final confirmation.
+#±Í»ç°¡ ÇÊ¿äÇÑ Çã°¡ÁõÀ» ¾òÀº ÈÄ¿¡ ¿ì¸® ÃøÀÌ ÃÖÈÄ·Î È®Á¤ÇÒ ¼ö ÀÖ°Ô ÁÖ¹®¹°Ç°À» Àüº¸·Î ¾Ë·ÁÁÖ½Ê½Ã¿ä.
+
+[297]
+#Your consignments have caused numerous complaints,and several customers have returned a quantity of them to us.
+#±Í»ç°¡ º¸³»ÁØ ¹°°ÇÀº ¸¹Àº ¿ø¼ºÀ» ÀÏÀ¸Ä×°í ¶ÇÇÑ ¸î °í°´Àº ÀÌ¹Ì ´ë·®À¸·Î ¹İÈ¯À» ÇÏ¿´½À´Ï´Ù.
+
+[298]
+#The following facts are given to your free disposal concerning the firm mentioned in your inquiry of September 15.
+#±Í»çÀÇ 9¿ù 15ÀÏ ÆíÁö¸¦ ÀÌ¹Ì ¹Ş¾ÒÀ¸¸ç Áö±İ »ç½ÇÀ» ¾Æ·¡¿Í °°ÀÌ Âü°íÇÏµµ·Ï Á¦°øÇÕ´Ï´Ù. 
+
+[299]
+#Your various typewriters and calculators would fit us well.
+#±Í»ç°¡ ÃâÇ°ÇÑ ¿©·¯ À¯ÇüÀÇ Å¸ÀÚ±â¿Í °è»ê±â´Â ¾ÆÁÖ ¿ì¸®ÀÇ ÇÊ¿ä¿¡ ÀûÇÕÇÕ´Ï´Ù.
+
+[300]
+#We are unable to manufacture the article you ordered.Enclosed ,we are returning your order.
+#±Í»ç°¡ ÁÖ¹®ÇÑ ¹°Ç°Àº ¿ì¸®°¡ Á¦Á¶ÇÒ ¼ö°¡ ¾øÀ¸¹Ç·Î ÇöÀç ±Í»çÀÇ ÁÖ¹®¼­¸¦ µ¿ºÀÇÏ¿© º¸³À´Ï´Ù.
+
+[301]
+#We think you would like to give us some idea of the terms on which you are willing to handle our products.
+#±Í»ç´Â ¾Æ¸¶ º»»çÀÇ »óÇ°À» ´ë¸®ÆÇ¸ÅÇÏ´Â °ü·ÃÁ¶°ÇÀÇ ¾à°£ÀÇ ¹æ¹ıÀ» ¾ğ±ŞÇÏ±æ ¿øÇÕ´Ï´Ù.
+
+[302]
+#Messrs.Smith & Co.,of your city,desire to open an account with us,and have given us your name as a reference.
+#±Í½ÃÀÇ ½º¹Ì½º È¸»ç´Â º»»ç¿Í ±³¿ªÀ» È®´ëÇÏ±â¸¦ ¿øÇÏ°í ±ÍÇÏ¸¦ ½Å¿ë¿¡ ÁõÀÎÀ¸·Î ÁöÁ¤ÇÏ¿´½À´Ï´Ù.
+
+[303]
+#Parliament ratified the agreement by a vote of 70 to 43,with seven abstentions.
+#±¹È¸´Â Âù¼º 70Ç¥, ¹İ´ë 43Ç¥, ±â±Ç 7Ç¥·Î ÀÌ ÇùÁ¤À» ºñÁØÇÏ¿´´Ù.
+
+[304]
+#The king was so much under the influence of his wife that she was the virtual ruler of the country.
+#±¹¿ÕÀÌ ÀÌ·¸°Ô ¿ÕÈÄÀÇ ¿µÇâÀ» ¸¹ÀÌ ¹Ş¾Æ, ±×³à´Â ±¹°¡ÀÇ ½ÇÁúÀûÀÎ ÅëÄ¡ÀÚ°¡ µÇ°Ô µÇ¾ú´Ù.
+
+[305]
+#When the climbers were three days overdue at the rendezvous,they were given up for lost.
+#3ÀÏÀÌ Áö³­ ÈÄ¿¡µµ µî»ê°¡µéÀÌ ¾ÆÁ÷ ÁıÇÕÀå¼Ò¿¡ Áı°áÇÏÁö ¾Ê¾Ò´Âµ¥, ¸ğµÎµé ±×µéÀÌ ÀÌ¹Ì Á¶³­À» ´çÇßÀ» °ÍÀÌ¶ó°í ¿©°å´Ù.
+
+[306]
+#We have briefly dipped into the past ;now let's turn to the present .
+#°ú°ÅÀÇ ¹®Á¦´Â ÀÌ¹Ì °£´ÜÇÏ°Ô ¿¬±¸ Åä·ĞÇÏ¿´À¸´Ï, ÀÌÁ¦´Â ´ç¸éÇÑ ¹®Á¦¸¦ ¿¬±¸ÇÕ½Ã´Ù.
+
+[307]
+#He's been dogged by failure in the past year;now he is working strenuously to pull out.
+#°ú°Å ÀÏ³â µ¿¾È ±×´Â °è¼Ó ½ÇÆĞ¸¦ ¸¸³µ´Ù. Áö±İ ±×´Â ÀÌ ±¹¸éÀ» ¹ş¾î³ª·Á°í ³ë·ÂÇÏ°í ÀÖ´Ù.
+
+[308]
+#Harry worked a lifetime but was still unable to pay off a home.
+#ÇØ¸®´Â ÀÏ»ıµ¿¾È ÀÏÀ» ÇßÀ¸³ª, ¾ÆÁ÷µµ ÁÖÅÃ ±¸ÀÔ½ÃÀÇ ºÎÃ¤¸¦ ¾ÆÁ÷ ´Ù °±Áö ¸øÇß´Ù.
+
+[309]
+#Harold chimes in with (the opinion of ) his immediate boss as if he had no mind of his own.
+#ÇØ·Ñµå´Â Á÷¼Ó»ó»çÀÇ ¸»¿¡ ºÎÈ­³úµ¿ÇÏ¿© ±×´Â ÀÚ½ÅÀÇ »ı°¢Àº ¾ø´Â °Í °°´Ù.
+
+[310]
+#The children enjoyed going round and round,but I felt giddy just watching them.
+#¾ÆÀÌµéÀº ºùºùµµ´Â °ÍÀ» ÁÁ¾ÆÇÏ´Âµ¥, ³ª´Â º¸±â¸¸ ÇØµµ ¸Ó¸®°¡ ¾îÁö·´°í ´«ÀÌ Ä§Ä§ÇÏ´Ù.
+ 
+[311]
+#Helen has a great many friends indeed,but she does not think she has any she can confide in.
+#Çï·»Àº ºñ·Ï ¸¹Àº Ä£±¸°¡ ÀÖÀ¸³ª, ±×´Â ¼Ó¸¶À½À» ¾ê±âÇÒ ¼ö ÀÖ´Â Ä£±¸°¡ ¾ø´Ù°í »ı°¢ÇÑ´Ù.
+
+[312]
+#As I've been lying wide awake for a couple of hours,I know I've come in for it again tonight.
+#ÀüÇô ¸»¶Ë¸»¶ËÇÏ°Ô ÇÑ µÎ ½Ã°£ ´©¿ö ÀÖÀº ÈÄ¿¡ ³ª´Â ¿À´Ã¹ãµµ ÀáÀ» ¸ø Àß °ÍÀ» ¾Ë¾Ò´Ù.
+
+[313]
+#A good conductor should handle himself as featly as he handles his orchestra.
+#ÈÇ¸¢ÇÑ ÁöÈÖÀÚ´Â ±×ÀÇ µ¿ÀÛÀÌ ±×°¡ °üÇö¾Ç´ÜÀ» Á¶Á¤ÇÏ´Â °ÍÃ³·³ ´É¶õÇÏ°Ô Á¶Á¤ÇØ¾ß ÇÑ´Ù.
+
+[314]
+#Some alcoholic drinks are an acquired taste and are not liked at first.
+#¼úÀ» ¸¶½Ã´Â °ÍÀº ÈÄÃµÀûÀ¸·Î ¾ò¾îÁø ±âÈ£ÀÌÁö, Ã³À½ºÎÅÍ ÁÁ¾ÆÇÏ´Â °ÍÀº ¾Æ´Ï´Ù.
+
+[315]
+#Why not settle this matter now? Just attach your check to this letter,and send it by today's mail.
+#¿Ö ÀÌ ¹®Á¦¿¡ ´ëÇÏ¿© ¹Ù·Î °á»êÀ» ÇÏÁö ¾Ê½À´Ï±î? ¿À´Ã ÆíÁö¿¡ ¼öÇ¥¸¦ Ã·ºÎÇÏ¿©  º¸³»ÁÖ½Ê½Ã¿ä.
+
+[316]
+#S/CNB4586 QINDAO BLACK BRISTLES 200CASES SHIPPED WSSEASTWIND SAILING FOURTENNTH DIRECT YOURPORT
+#
+[317]
+#The Sales Confirmation stipulates shipment to be effected during September and L/C should reach us by the end of August.
+#°è¾à»ó¿¡ ¿î¼Û±â°£Àº 9¿ù·Î ¸í±âµÇ¾î ÀÖÀ¸¹Ç·Î, ½Å¿ëÀåÀº 8¿ù¸» ÀÌÀü¿¡ ¿ì¸® Ãø¿¡ µµÂøÇØ¾ß ÇÕ´Ï´Ù.
+
+[318]
+#The Khrushchev-Eisenhower exchange of visits and summitry does not mean all is well with the world.
+#ÈÄ·ç½ÃÃÊÇÁ¿Í ¾ÆÀÌÁ¨ÇÏ¿ö »óÈ£°£ÀÇ ¹æ¹®°ú °íÀ§ÃşÀÇ È¸´ãÀÌ ¼¼°èÀÇ ÆòÈ­¸¦ ÀÇ¹ÌÇÏ´Â °ÍÀº ¾Æ´Ï´Ù.
+ 
+[319]
+#Well,your bungling has set the project back a month.Now try laughing that off !
+#ÀÌºÁ, ´ç½ÅÀÌ ºúÀº Àß¸øÀ¸·Î ÇÁ·ÎÁ§Æ®°¡ ÇÑ´ŞÀÌ ´Ê¾îÁ³¾î. Áö±İ ´ç½ÅÀº ¿ô¾î ³Ñ±æ »ı°¢ÇÏÁö ¸»¾Æ.
+ 
+[320]
+#We are sorry to inform you that the listed terms of payment do not correspond to customary business practice.
+#½Ç¸° ÁöºÒ¹æ½Ä°ú ¿ì¸®ÀÇ Åë»óÀûÀÎ ¹«¿ª ¹æ¹ıÀÌ ´Ù¸§À» ´ç½ÅÃø¿¡ ¾Ë¸®°Ô µÇ¾î À¯°¨ÀÔ´Ï´Ù.
+
+[321]
+#I thank you for your confidence.I am ready to accept your representation in our country.
+#±ÍÇÏÀÇ ½Å·Ú¿¡ ´ëÇÏ¿© °¨»çµå¸³´Ï´Ù. Àú´Â ±Í»ç°¡ ¿ì¸®³ª¶óÀÇ ¾÷¹« ´ëÇ¥·Î ¹Ş¾Æ µéÀÏ °Í ÀÔ´Ï´Ù.
+
+[322]
+#We are pleased to make you an offer regarding our corduroy dresses and trauser suits in the sizes you require.
+#±ÍÇÏ°¡ ÇÊ¿ä·Î ÇÏ´Â »çÀÌÁîÀÇ ÄÚµà·ÎÀÌ ¿Ê°ú ¾çº¹ÀÇ ¿ÀÆÛ¸¦ º¸³»µå¸®°Ô µÇ¾î ¸Å¿ì ±â»İ´Ï´Ù.
+
+[323]
+#It was a pleasure to receive your inquiry of June 18 concerning the supply of our best electronic ovens.
+#±ÍÇÏÀÇ 6¿ù 18ÀÏ º»»çÀÇ ÃÖ°í ÀüÀÚ·¹ÀÎÁö °ø±Ş¹®ÀÇ ÆíÁö¸¦ ¹Ş°í ±â»¼½À´Ï´Ù.
+
+[324]
+#We are pleased to have your inquiry of May 28 regarding the best-quality sewing machines.
+#±ÍÇÏÀÇ 5¿ù 18ÀÏ ÃÖ°í Ç°ÁúÀÇ ÀçºÀÆ²¿¡ ´ëÇÑ ¹®ÀÇÆíÁö¸¦ ¹Ş°í ¸Å¿ì ±â»¼½À´Ï´Ù.
+
+[325]
+#We are glad to inform you that the goods under your Order No.122 you ordered in March are ready for shipment.
+#±ÍÇÏ²²¼­ 3¿ù¿¡ ÁÖ¹®ÇÑ 122È£ ÁÖ¹®¼­ È­¹°ÀÌ ÀÌ¹Ì ¼±Àû ÁØºñ°¡ µÇ¾úÀ½À» ¾Ë·Áµå¸®°Ô µÇ¾î ±â»İ´Ï´Ù.
+
+[326]
+#We regret we can not tell you anything definite regarding the firm in question.
+#¿ì¸®´Â ±ÍÇÏ¿¡°Ô ÀÌ È¸»çÀÇ Á¤È®ÇÑ »óÈ²À» ¾Ë·Áµå¸± ¼ö ¾øÀ½À» ¸Å¿ì À¯°¨À¸·Î »ı°¢ÇÏ¸ç, ºÎµğ ¾çÇØ¹Ù¶ø´Ï´Ù.
+
+[327]
+#We regret that we are unable to take the goods offered by you,owing to our being overstocked at present.
+#ÇöÀç ÀúÈñÀÇ Àç°í°¡ ³Ê¹« ¸¹¾Æ ÀúÈñ´Â ±Í»ç°¡ °ø±ŞÇÏ´Â »óÇ°À» ¹Ş¾ÆµéÀÏ ¼ö ¾øÀ½À» À¯°¨À¸·Î »ı°¢ÇÕ´Ï´Ù.
+
+[328]
+#We regret to have to inform you that the ...what you sold us on ...has caused numerous complaints.
+#±ÍÇÏ°¡ ...¿ù ...ÀÏ ¿ì¸®¿¡°Ô ÆÇ ...°¡ ÀÌ¹Ì »ó´çÈ÷ ¸¹Àº ºÒ¸¸À» ¾ß±âÇÏ¿´À½À» ¾Ë·Áµå¸®°Ô µÇ¾î À¯°¨ÀÔ´Ï´Ù.
+
+[329]
+#Unfortunately,we cannot accept the payment conditions suggested in your offer dated Feb.15th.
+#¿ì¸®´Â ±ÍÇÏÀÇ 2¿ù 15ÀÏ ¿ÀÆÛ¿¡¼­ ³»³õÀº ÁöºÒÁ¶°ÇÀ» ¹Ş¾ÆµéÀÏ ¼ö ¾øÀ½ÀÌ ¸Å¿ì À¯°¨ÀÔ´Ï´Ù.
+
+[330]
+#Henry VIII decided to dispark the Duchy parks and turn them more profitably into pasture.
+#Çî¸® 8¼¼´Â ¾à°£ÀÇ °øÀÛ »ç³É°ø¿øÀ» °³¹æÇÏ¿© ±×°ÍµéÀ» ´õ À¯ÀÍÇÑ ¸ñÀåÀ¸·Î ¹Ù²Ù¾ú´Ù.
+
+[331]
+#Any information with which you may favour us will be much appreciated and we earnestly await your reply.
+#±Í»ç°¡ º»»ç¿¡ Á¦°øÇÑ ¾î¶² ÀÚ·áµµ È¯¿µÇÒ °ÍÀÌ¸ç, ¿ì¸®´Â °£ÀıÈ÷ ±ÍÇÏÀÇ È¸´äÀ» ±â´Ù¸®°Ú½À´Ï´Ù.
+
+[332]
+#Bits of plaster rained down on their heads from the ceiling,filling their hair and eyes.
+#È¸¹İÁ×ÀÌ ÃµÀå¿¡¼­ ±×µéÀÇ ¸Ó¸® À§·Î ¶³¾îÁ®¼­ ¸Ó¸®¿Í ´«¿¡ µÚÁı¾î ½è´Ù.
+
+[333]
+#I must look into the garage on the way home to book a service for the car.
+#Áı¿¡ °¥ ¶§ ³ª´Â ¹İµå½Ã ÀÚµ¿Â÷ ¼ö¸®°øÀå¿¡ µé·¯¼­ ÀÚµ¿Â÷ ¼ö¸® ¿¹¾à¿¡ ´ëÇØ¼­ ¹°¾îºÁ¾ß ÇÑ´Ù.
+
+[334]
+#I note that I have to debit you with the sum of ¡ê10.8s.received for drawback of duties on the coal.
+#¼®ÅºÀÇ ¼öÃâ°ü¼¼ È¯ºÒ ±İ¾× ¸ğµÎ 10ÆÄ¿îµå 8½Ç¸µÀ¸·Î ±ÍÇÏÀÇ Â÷º¯°èÁ¤³»¿¡ ±âÀÔÇÏ½Ã±â¸¦ ÁÖÀÇ¹Ù¶ø´Ï´Ù.
+
+[335]
+#The meetings end at 1:00 p.m.on Friday so I could come by that afternoon and spent the evening.
+#È¸ÀÇ´Â ±İ¿äÀÏ ¿ÀÈÄ 1½Ã¿¡ ³¡³ª¸ç, ³ª´Â ±×³¯ ¿ÀÈÄ ´ç½Å¿¡°Ô °¡¼­ Àú³áÀ» º¸³¾ ¼ö ÀÖ´Ù.
+
+[336]
+#The time draft is to be countersigned by the Bank of China,Beijing,certifying that your signature is true and valid.
+#¾îÀ½Àº ºÏ°æÁß±¹ÀºÇà¿¡ ÀÇÇØ ¿¬¼­µÇ¾î ´ç½ÅÃø »çÀÎÀÌ ÁøÂ¥ÀÌ¸ç À¯È¿ÇÏ´Ù´Â °ÍÀ» Áõ¸íÇÒ ¼ö ÀÖ´Ù.
+
+[337]
+#John rose gloomily as the train stopped,for he was thinking of his ailing mother.
+#±âÂ÷°¡ ¸ÜÀÚ, Á¸Àº ¿ì¿ïÇÏ°Ô ÀÏ¾î³µ´Ù. ¿Ö³ÄÇÏ¸é ±×´Â º´ÁßÀÇ ¾î¸Ó´Ï°¡ »ı°¢³µ±â ¶§¹®ÀÌ´Ù.
+
+[338]
+#Missilemen were busy at launching pads and hangars,preparing for two new moon shoots.
+#¹Ì»çÀÏ Àü¹®°¡µéÀº ¹ß»ç´ë¿Í °İ³³°í¿¡¼­ ¹Ù»Ú°Ô 2È¸ÀÇ ´Ş ¹Ì»çÀÏ ¹ß»ç ½ÃÇèÀ» ÁØºñÇÏ°í ÀÖ´Ù.
+
+[339]
+#Holt switched into the stock market ,made a killing,and got out.
+#È¦Æ®´Â Áõ±Ç »ç¾÷À¸·Î µ¹·Á ¶¼µ·À» ¹ú¾úÀ¸³ª ±× ÈÄ¿¡ Áõ±Ç ÀüºÎ¸¦ ÆÈ¾Æ Ä¡¿ü´Ù.
+ 
+[340]
+#Payment should be made by confirmed and irrevocable letter of credit to be opened in our favour.
+#ÁöºÒÀº ´ç¿¬È÷ Ãë¼ÒºÒ´É ½Å¿ëÀå¿¡ ÀÇÇÏ¿© ¿ì¸®ÃøÀÌ ¼öÀÍÀÚ°¡ µÇ¾î¾ß ÇÑ´Ù.
+ 
+[341]
+#Foundations and other disbursers of research money should deal directly with universities.
+#±â±İÈ¸¿Í ±âÅ¸ ¿¬±¸ºñÀÇ ÁöºÒ´ç±¹Àº ¸ğµÎ Á÷Á¢ °¢ ´ëÇĞ°ú °ü·ÃÀÌ ÀÖ´Ù.
+
+[342]
+#The machines will correspond in all respects with the quality and specifications as stimulated in the contract.
+#±â°èÀÇ °¢ ¹æ¸éÀº ¸ğµÎ °è¾à¿¡¼­ ±ÔÁ¤ÇÑ ÁúÀÇ ¿ä±¸¿Í ±Ô°İ¿¡ ºÎÇÕµÉ °ÍÀÌ´Ù.
+
+[343]
+#If the worst comes to the worst and the car won't start,we can always go by bus.
+#ÀÏÀÌ ±Øµµ·Î ³ªºüÁö°í ÀÚµ¿Â÷°¡ ½Ãµ¿ÀÌ °É¸® ¾ÊÀ¸¸é ±×·¡µµ ¿ì¸®´Â ¹ö½º·Î °¥ ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[344]
+#Even under the best conditions,we couldn't finish in less than three days.
+#ºñ·Ï °¡Àå ÃÖ»óÀÇ »óÈ²ÀÌ¶óµµ ¿ì¸®µµ 3ÀÏ ÀÌ³»¿¡ ¿Ï¼ºÇÒ ¹æ¹ıÀÌ ¾ø´Ù. 
+
+[345]
+#Even if he is not successful as a singer,he has his training as a teacher to fall back on.
+#ºñ·Ï °¡¼ö·Î ¼º°øÇÏÁö ¸øÇßÁö¸¸, ±×´Â ±³»ç ¾ç¼º ÈÆ·ÃÀ» ¹Ş°í ¹°·¯³ª ±× Â÷¼±À» ±¸ÇÒ ¼ö ÀÖ´Ù.
+
+[346]
+#Several days ago,I reserved two rooms for Professor Johnson for the night to November 10.
+#¸çÄ¥ Àü ³ª´Â Á¸½¼ ±³¼ö¸¦ À§ÇÏ¿© 11¿ù 10ÀÏ ¹ãÀ¸·Î ¹æ 2°³¸¦ ¿¹¾àÇÏ¿´´Ù.  
+
+[347]
+#Several days ago,I reserved two rooms for Professor Johnson for the night of November 12.
+#¸çÄ¥ Àü ³ª´Â Á¸½¼ ±³¼ö¸¦ À§ÇÏ¿© 11¿ù 12ÀÏ ¹ãÀ¸·Î ¹æ 2°³¸¦ ¿¹¾àÇÏ¿´´Ù.  
+
+[348]
+#The mass movement for technical innovation holds forth a fine prospect of rapid development of China's industry.
+#±â¼ú Çõ¸íÀÇ ±ºÁß¿îµ¿Àº Áß±¹°ø¾÷ÀÇ ½Å¼ÓÇÑ ¹ßÀüÀ» À§ÇÏ¿© ÁÁÀº Àüµµ¸¦ Á¦°øÇÏ¿´´Ù.
+
+[349]
+#We are sending you a small box of samples of selected...and hope you will see your way to take up the sale of them.
+#´ç½ÅÃø¿¡ Á¤¼±ÇÑ »ùÇÃ ÀÛÀº »óÀÚ ÇÏ³ª¸¦ º¸³»µå¸®´Ï,´ç½ÅÃøÀÌ ÀÌ ¹°°ÇÀ» ÃÖ´ëÇÑ ÆÇ¸ÅÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[350]
+#Now you asked me about it,I am making a few references to my present activities which might interest you.
+#±â¿Õ ´ç½ÅÀÌ ³»°Ô ¹°À¸´Ï, ³ª´Â °£´ÜÈ÷ ³ªÀÇ ÃÖ±Ù È°µ¿¿¡ ´ëÇÏ¿© ¾ê±âÇÒ ÅÙµ¥, ¾Æ¸¶ ´ç½ÅÀº Èï¹Ì¸¦ ´À³¥ °ÍÀÔ´Ï´Ù.
+
+[351]
+#Now that she is rich and famous,she doesn't deign to visit her former friends.
+#±×³à´Â Áö±İ µ·ÀÌ ÀÖ°í ÀÌ¸§µµ ³­ ÀÌ»ó ´Ù½Ã´Â ÀÌÀüÀÇ Ä£±¸¸¦ º¸±â¸¦ ¿øÇÏÁö ¾Ê¾Ò´Ù.
+
+[352]
+#Your kindness at the time of my mother's death meant more than I can express in words.
+#¾î¸Ó´Ï°¡ µ¹¾Æ°¡¼ÌÀ» ¶§ ´ç½ÅÀÌ º¸³»ÁØ ±ØÁøÇÑ °ü½É¿¡ ´ëÇÏ¿© ³ªÀÇ °¨°İÀº ¸»·Î Ç¥ÇöÇÒ ¼ö ¾ø½À´Ï´Ù.
+
+[353]
+#Heating makes the molecules of a material move faster,increasing the rate of evaporation.
+#°¡¿­Àº ¹°ÁúÀÇ ºĞÀÚ ¿îµ¿À» ´õ ºü¸£°Ô ÇÏ¿© °á°ú´Â Áõ¹ßÀÇ ¼Óµµ¸¦ ´Ã¸°´Ù.
+ 
+[354]
+#A: How is he making out with his new job? B: He's making out quite well.
+#A:±×´Â »õ Á÷Àå¿¡¼­ ÀÏÇÏ´Â °ÍÀÌ ¾î¶»½À´Ï±î?B:±×´Â ¸Å¿ì ÀßÇÏ°í ÀÖ½À´Ï´Ù.
+
+[355]
+#If a plane is flying at Mach 2,it is flying at twice the speed of sound.
+#¸¸¾à ºñÇà±â°¡ ¸¶ÇÏ 2ÀÇ ¼Óµµ·Î ºñÇàÇÑ´Ù¸é ±×°ÍÀÇ ¼Óµµ´Â ¹Ù·Î À½¼ÓÀÇ µÎ¹èÀÌ´Ù.
+
+[356]
+#Should you so desire,we shall insure these goods at your cost.
+#¸¸¾à ±Í»ç°¡ ÀÌ·¸°Ô ÇÏ±æ ¿øÇÑ´Ù¸é ¿ì¸®´Â ÀÌ È­¹°¿¡ ´ëÇÏ¿© º¸Çè¿¡ °¡ÀÔÇÏ°í ºñ¿ëÀº ±Í»ç°¡ ºÎ´ãÇÏ´Â °ÍÀ¸·Î ÇÒ °ÍÀÔ´Ï´Ù.
+
+[357]
+#If you have no other plans for Sunday,December the sixth,come to a little informal luncheon here at my home?.
+#¸¸ÀÏ ±Í°¡ 12¿ù 6ÀÏ(ÀÏ¿äÀÏ)¿¡ ±âÅ¸ ´Ù¸¥ °èÈ¹ÀÌ ¾øÀ¸½Ã´Ù¸é ÀúÈñ Áı¿¡ ¿Í °£´ÜÇÑ ½Ä»ç¸¦ ÇÒ ¼ö ÀÖ½À´Ï±î?
+
+[358]
+#I have received your price-list,and shall be glad if you will send me by rail as early as possible as follows:
+#°¡°İÇ¥´Â ÀÌ¹Ì ¹Ş¾ÒÀ¸´Ï, °¡´ÉÇÑ »¡¸® Ã¶·Î·Î ¾Æ·¡ »óÇ°À» ¿î¹İÇÏ¿© ÁÖ½Ã¸é °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[359]
+#In view of the small amount of this transaction,we are prepared to accept payment by D/P as requested.
+#ÀÌ ±³¿ªÀÇ ±İ¾×ÀÌ ³Ê¹« ÀûÀº °Í¿¡ °¨¾ÈÇÏ¿© º¸ÆíÀûÀ¸·Î °¡°İÀº ÀÏÁ¤½Ã°£ ³»¿¡ ³ôÀº ¼öÁØÀ» À¯ÁöÇÒ °ÍÀ¸·Î ¿©°ÜÁø´Ù.
+
+[360]
+#In view of the present state of the market,it is generally recognized that prices will rule high for some time.
+#½ÃÀåÀÇ ÇöÀç»óÅÂ·Î º¸¸é ÀÏ¹İÀûÀ¸·Î °¡°İÀº ÇÑ µ¿¾È ³ôÀº ¼öÁØÀ» À¯ÁöÇÒ °ÍÀ¸·Î ¿©°ÜÁø´Ù.
+
+[361]
+#In view of your promise to settle by the end of July,we must ask you to be kind enough to remit per return.
+#±ÍÇÏ°¡ ÀÌ¹Ì 7¿ù ¸» ÀÌÀü¿¡ °á»êÇÑ´Ù°í ½Â³«ÇÑ °Í¿¡ °¨¾ÈÇÏ¿© ÀÌ ¼­ÇÑÀ» º¸³»´Ï  ´äÀå°ú °á»êÀ» ÇÏ¿© ÁÖ½Ã¸é °í¸¿°Ú½À´Ï´Ù.
+
+[362]
+#Building millions of apartments for the country and the people.Tianjin General Building Construction Company
+#±¹°¡¿Í ±¹¹ÎÀ» À§ÇÏ¿© ¼ö Ãµ Ã¤ÀÇ ¾ÆÆÄÆ®¸¦ °Ç¼³. ÃµÁø½Ã °Ç¼³°øÁ¤ ÃÑ°ø»ç. 
+
+[363]
+#Building the model railroad was a laboroflove for the retired engineer.
+#±× ¸ğµ¨ÀÇ Ã¶·Î¸¦ °Ç¼³ÇÏ´Â °ÍÀº ±× ÅğÁ÷ÇÑ ±â¼úÀÚ¿¡°Ô ÀÖ¾î ÁÁ¾ÆÇÏ°í ÇÏ±â¸¦ ¿øÇÏ´Â ÀÏÀÌ¾ú´Ù.
+
+[364]
+#You can't imagine how happy I am to be spending Christmas with the best parents in the world.
+#¼¼»ó¿¡¼­ °¡Àå ÁÁÀº ºÎ¸ğ¿Í ÇÔ²² ¼ºÅºÀıÀ» º¸³»´Â °ÍÀº ³ÊÈñµéÀº ³»°¡ ¾ó¸¶³ª ÁÁÀº Áö »ó»óÇÒ ¼ö ¾øÀ» °ÍÀÌ´Ù.
+
+[365]
+#The general mistimed his attack; it should have been made an hour earlier.
+#Àå±ºÀº Àû´çÇÏÁö ¾ÊÀº ½Ã°£¿¡ °ø°İÀ» ¸í·ÉÇÏ¿´´Ù. ±×´Â ÇÑ ½Ã°£ Àü¿¡ ÀÌ·¸°Ô Çß¾î¾ß Çß´Ù.
+
+[366]
+#The impoverishment of his style is apparent when you contrast a recent painting with an old one.
+#±×ÀÇ ÃÖ±ÙÀÇ ±×¸²À» ÀÌÀü °Í°ú ºñ±³ÇÏ¸é ±×ÀÇ È­Ç³¿¡ ÈûÀÌ ºÎÁ·ÇÔÀÌ µÎµå·¯Áø´Ù.
+
+[367]
+#It is why compounds obey this law that will be studied in the next chapter.
+#´ÙÀ½ Àå¿¡¼­ ´õ ¿¬±¸ÇÒ °ÍÀº ¹Ù·Î È­ÇÕ¹°ÀÌ ¿Ö ÀÌ·± ±ÔÄ¢ÀÇ Áö¹è¸¦ ¹Ş´Â °¡ ÇÏ´Â °ÍÀÌ´Ù.
+
+[368]
+#The teacher refused to have his daughter in his class,for fear of showing favour to her.
+#¼±»ı´ÔÀº ÀÚ½ÅÀÇ µşÀÌ ÀÚ±â ¹İ¿¡ µé¾î ¿À´Â °ÍÀ» ¿øÇÏÁö ¾Ê´Âµ¥ µş¿¡°Ô Æí¾Ö¸¦ ÇÏ°Ô µÉ ±îºÁ¼­ ÀÌ´Ù.
+
+[369]
+#Teaching children is more than just a way of making money; it's a vocation.
+#¾Æµ¿À» ±³À°ÇÏ´Â °ÍÀº ´Ù¸¸ µ·À» ¹ú¾î ÀÔ¿¡ Ç®Ä¥ÇÏ´Â ¼ö´ÜÀÌ ¾Æ´Ï¶ó ¹Ù·Î Çõ¸íÀÌ´Ù.
+
+[370]
+#I am so happy to get the letter from you saying that I had been admitted to Moraine Valley Junior College.
+#ÆíÁö¸¦ ¹Ş°í ³ª´Â ÀÌ¹Ì ¸ğ¶óÀÎ ¹ë¸® Àü¹®´ëÇĞ±³¿¡ ºÙ¾úÀ½À» ¾Ë°í ¸Å¿ì ±â»¼´Ù!
+
+[371]
+#We have received your letter reminding us that our payment is overdue on August 15.
+#¿ì¸®°¡ ÁöºÒÇØ¾ßÇÏ´Â Ç×¸ñÀÌ ÀÌ¹Ì 8¿ù 15ÀÏ¿¡ ½Ã±â¸¦ ³Ñ°åÀ½À» ±ÍÇÏÀÇ ÆíÁö¸¦ ¹Ş°í ±ú´Ş¾Ò½À´Ï´Ù.
+ 
+[372]
+#Some street idlers were making Fescennine comments on passing girls.
+#°Å¸®¿¡¼­ ºóµÕ°Å¸®´Â »ç¶÷µéÀÌ µµ·Î¸¦ °Ç³Ê´Â ¿©ÀÚ ¾ÆÀÌµé¿¡°Ô Àú¼ÓÇÑ ¸»·Î ÀÌ·¯Äô Àú·¯Äô ´ë°í ÀÖ´Ù. 
+
+[373]
+#Jack didn't like normal society,so he copped out of (on) it and joined a hippy commune.
+#ÀèÀº Á¤»óÀûÀÎ »çÈ¸»ıÈ°À» ½È¾îÇØ, ±×´Â »çÈ¸¸¦ ¶°³ª È÷ÇÇ¼¼°è·Î µé¾î°¬´Ù.
+
+[374]
+#After farming for ten years in Britain,Jerome sold up and went to Canada.
+#Á¦·Î¸¶´Â ¿µ±¹¿¡¼­ ½Ê³â µ¿¾È ³óÀåÀ» °æ¿µÇÑ ÈÄ¿¡ Àü Àç»êÀ» Ä³³ª´Ù¿¡ ÆÈ¾Æ µ·À» ¸¸µé¾ú´Ù.
+
+[375]
+#The news that the P.L.A.medical team was treating deaf-mutes with acupuncture soon got about.
+#ÇØ¹æ±º ÀÇ·á´ë´Â Ä§À» ³õ´Â Ä¡·á¿ä¹ıÀ¸·Î ³ó¾Æ È¯ÀÚ¸¦ Ä¡·áÇß´Ù´Â ¼Ò½ÄÀÌ ¾ÆÁÖ ºü¸£°Ô ÀüÇØÁ³´Ù.
+
+[376]
+#Before liberation,he used to knock about the docks ,trying to find a little work to earn a few coppers.
+#ÇØ¹æ Àü¿¡ ±×´Â Ç×»ó ºÎµÎ¿¡ °¡¼­ µ· ¸î Ç¬À» ¹ú±â À§ÇÏ¿© ÀÏÀ» Ã£À¸·Á°í ÇÏ¿´´Ù.
+  
+[377]
+#Before liberation,whenever a vacancy appeared,many unemployed young people came after it.
+#ÇØ¹æ Àü¿¡ ÃëÁ÷ ÀÚ¸® ÇÏ³ª¸¸ ÀÖ¾îµµ ÃëÁ÷ÇÏ·Á´Â Á÷¾÷ÀÌ ¾ø´Â Ã»³âµéÀÌ ¹ú¶¼°°ÀÌ ¸ô·Áµé¾ú´Ù.
+
+[378]
+#Before liberation inhabitants in this district were burnt out and were forced to live with relatives.
+#ÇØ¹æ Àü¿¡ ÀÌ Áö¿ªÀÇ ÁÖ¹ÎµéÀº È­Àç·Î ÀÎÇÏ¿© °¥ °÷ÀÌ ¾ø°Ô µÇ¾î ÇÏ´Â ¼ö ¾øÀÌ Ä£Ã´¿¡°Ô °¡¼­ »ì¾Ò´Ù.
+
+[379]
+#We take this opportunity of calling your attention to our revised price -list,as annexed,for old vintages.
+#ÀÌ ±âÈ¸¸¦ ºô¾î ±Í»ç°¡ ¿ì¸®°¡ ¼öÁ¤ÇØ¼­ Á¤ÇÑ ¿À·¡µÈ Æ÷µµÁÖ °¡°İÇ¥¸¦ ¿­½ÉÈ÷ º¸¾ÆÁÖ±â¸¦ Èñ¸ÁÇÕ´Ï´Ù.
+
+[380]
+#It will be most interesting and informative to hear Mr.Smith.
+#ÀÌ¹ø¿¡ ½º¹Ì½º ¾¾ÀÇ °­¿¬À» µéÀ» ¼ö ÀÖ´Ù¸é ºĞ¸í ¾ÆÁÖ Àç¹ÌÀÖ°í °ß¹®À» ³ĞÈú ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+ 
+[381]
+#A great variety of samples,newly designed by our manufacturers,will be on exhibition.
+#Á¤ÇÑ ±âÀÏÀÌ µÇ¸é ÃÖ½Å¼³ºñÀÇ »ùÇÃ, Ç°Á¾ÀÌ ¸¹Àº »ùÇÃÀÇ Àü½Ã°¡ ÀÖ´Âµ¥, ´ç½Åµé¿¡°Ô ¼±ÅÃÇÏ¿© ±¸¸ÅÇÏ°Ô ÇÏ°Ú½À´Ï´Ù.
+
+[382]
+#We shall be glad if you will again avail yourselves of our service in the event of your further requirements.
+#¿À´Ã ÀÌÈÄ ¸¸¾à ´ëÇàÇÒ ÀÏÀÌ ÀÖÀ¸¸é ¾Ë·Á ÁÖ½Ê½Ã¿ä. ÀúÀÇ È¸»ç ´ç½ÅÀ» À§ÇÏ¿© ¿­½ÉÈ÷ ÀÏÇÏ°Ú½À´Ï´Ù.
+
+[383]
+#We now advise you of the shipment of thirty-five bales of cotton,by the ¡°Kitano Maru¡±,for Kobe.
+#¿À´Ã ¿ì¸®´Â ÀÌ¹Ì 35 Æ÷´ëÀÇ ¸éÈ­¸¦ Æ÷ÀåÇÏ¿© °íº£ÀÇ "Å°Å¸³ë ¸¶·ç" È­¹°¼±À¸·Î ¿î¹İÇÔÀ» ¾Ë·Áµå¸³´Ï´Ù.
+
+[384]
+#We are sending you three samples of textiles per sample post and will thank you for an order for them.
+#¿À´Ã ÅØ½ºÅ¸ÀÏ °ßº» ¼¼ °¡Áö¸¦ º¸³» µå¸®´Âµ¥ ±Í»ç°¡ ÁÖ¹®ÇÒ ¼ö ÀÖ´Ù¸é ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[385]
+#I was shocked to learn of the death of your mother today.I have no words to console you.
+#¿À´Ã ´ç½Å ¾î¸Ó´ÏÀÇ º°¼¼¼Ò½ÄÀ» µè°í Àú´Â ±ôÂ¦ ³î¶ú½À´Ï´Ù. ³Ê¹« Å« ½½ÇÄÀ» ¸¸³ª ¹¹¶ó À§·Î¸¦ µå·Á¾ß µÉ Áö ¸ğ¸£°Ú½À´Ï´Ù.
+
+[386]
+#He did attend the lecture this morning,but somehow he did not seem to attend to it.
+#±×´Â ¿À´Ã ¾ÆÄ§ ¼ö¾÷¿¡ µé¾î¿ÔÀ¸³ª, ¿ØÀÏÀÎÁö ±×´Â Á¤½ÅÀ» µıµ¥ ÆÈ´Â °Í °°¾Ò´Ù.
+
+[387]
+#We have today received your cable of ...and very grateful for your prompt attention to this matter.
+#¿ì¸®´Â ¿À´Ã ±ÍÇÏÀÇ ...¿ù ...ÀÏ Àüº¸¸¦ ¹Ş¾ÒÀ¸¸ç ´ç½ÅÃø¿¡¼­ Á¦¶§¿¡ ÀÌ ÀÏÀ» Ã³¸®ÇØÁÖ¼Å¼­ ¸Å¿ì °¨»çÇÕ´Ï´Ù.
+
+[388]
+#On this day I send you New Year's greetings and hope that some day soon we shall be together.
+#¿À´Ã Àú´Â ´ç½Å¿¡°Ô ½Å³â ±â¿øÀ» º¸³»µå¸®¸ç ¿À·¡Áö ¾Ê¾Æ ¹Ù·Î ¿ì¸®°¡ ¼­·Î ¸¸³¯ ¼ö ÀÖ±â¸¦ Èñ¸ÁÇÕ´Ï´Ù.
+
+[389]
+#I'm feeling rather fragile this morning,I must have drunk too much beer last night.
+#¿À´Ã ¾ÆÄ§¿¡ ¿Â¸öÀÌ ÈûÀÌ ¾ø´Â °Í °°Àºµ¥, ºĞ¸í ¾îÁ¦ ¹ã¿¡ ¸ÆÁÖ¸¦ ³Ê¹« ¸¹ÀÌ ¸¶¼Ì±â ¶§¹®ÀÌ´Ù.
+
+[390]
+#We are privileged tonight to have as our main speaker the Foreign Minister of France.
+#ÇÁ¶û½º ¿Ü¹«ºÎ Àå°üÀÌ ¿ì¸®ÀÇ ÁÖ¿ä ¿¬»ç°¡ µÈ °ÍÀº ¿À´Ã Àú³á ¿ì¸®µé¿¡°Ô ¸Å¿ì ¿µ±¤ÀÔ´Ï´Ù.
+
+[391]
+#Pressing business kept him in Leeds,so he sent his deputy on to represent him in Edinburgh.
+#±ä±ŞÇÑ ÀÏ·Î ÀÎÇØ ±×´Â ¸®µå¿¡ ¸Ó¹°·¶°í, ±×´Â ±×ÀÇ ´ë¸®ÀÎÀ» ±×¸¦ ´ëÇ¥ÇÏ¿© ¾Öµò¹ö·¯¿¡ ¸ÕÀú º¸³Â´Ù.
+
+[392]
+#Is it fair to generalize from these two accidents and say that all young people are bad drivers?
+#ÀÌ µÎ ¹øÀÇ »ç°í¿¡¼­ ¾òÀº °á·ĞÀ¸·Î ¸ğµç ÀşÀºÀÌµéÀÌ ¿îÀüÀ» ÀßÇÏÁö ¸øÇÑ´Ù°í ¸»ÇÏ´Â °ÍÀº ÀÌ°ÍÀº °øÆòÇÕ´Ï±î?
+
+[393]
+#A word of congratulation just doesn't seem enough,so I am sending you that I am sure you will find useful.
+#ÇÑ ¸¶µğÀÇ ÃàÇÏ ¸»·Î´Â ºÎÁ·ÇÑ °Í °°¾Æ¼­ ³ª´Â ¼±¹°À» ÇÏ³ª º¸³»µå¸®´Âµ¥ ´ç½Å¿¡°Ô ÇÊ¿äÇÑ °ÍÀÏ °Å¶ó°í ¹Ï½À´Ï´Ù.
+
+[394]
+#We have the pleasure to hand you herewith an invoice for the goods forwarded today per rail to your mill at Osaki.
+#¿À´Ã Ã¶·Î¸¦ ÅëÇÏ¿© ±Í»ç ¿À»çÄ«°øÀåÀÇ È­¹° ¾îÀ½ 1ºÎ¸¦ º¸³»µå¸®´Ï ¹Ş¾ÆÁÖ½Ê½Ã¿ä.
+
+[395]
+#Of recent years,we have done much business with the largest and most prominent houses in your district.
+#±Ù ¸î ³â°£ ¿ì¸®µéÀº ÀÌ¹Ì ÀÌ Áö¿ª¿¡¼­ °¡Àå À¯¸íÇÑ ´ë»óÀÎ°ú ´ë·®ÀÇ ±³¿ªÀ» ÇØ¿Ô´Ù.
+
+[396]
+#Our representation in...has become vacant recently.We could appoint you for this position.
+#ÃÖ±Ù ¿ì¸® È¸»ç´Â ...Áö¿ªÀÇ ´ë¸®»óÀÌ ÀÚ¸®°¡ ºó´Ù. ¿ì¸®´Â ´ç½ÅÀ» ÀÌ ÀÚ¸®¿¡ ÀÓ¸íÇÒ ¼ö ÀÖ´Ù.
+
+[397]
+#He has been rather slack in his work lately; you'd better jack him up a bit.
+#ÃÖ±Ù ±×°¡ ÀÏÇÏ´Â °ÍÀÌ ´ëÃæ´ëÃæÀÌ´Ù. ³×°¡ ±×°¡ ¿­½ÉÈ÷ ÀÏÇÏµµ·Ï ±×¸¦ °İ·ÁÇÏ´Â °ÍÀÌ ÁÁ°Ú´Ù. 
+
+[398]
+#We shall give you further details about plumbing and heating supplies in the next few days.
+#¸çÄ¥ ³»·Î ¿ì¸®ÃøÀº ´ç½ÅÃø¿¡ ¿­À» °ø±ŞÇÏ´Â ÆÄÀÌÇÁ ½Ã½ºÅÛ¿¡ ´ëÇÑ ´õ ÀÚ¼¼ÇÑ °ÍÀ» Á¦°øÇÏ°Ú´Ù.
+
+[399]
+#He might blink at these methods though the results seem reasonable.
+#ºñ·Ï °á°ú°¡ º¸±â¿¡ ÇÕ¸®ÀûÀÎ °Í °°À¸³ª ±×´Â ¿©ÀüÈ÷ ÀÌ·± ¹æ¹ı¿¡ ³î¶ó´Â °Í °°´Ù.
+
+[400]
+#The Red Army men kept up their morale in spite of untold hardships.
+#È«±ºÀü»çµéÀº ºñ·Ï ±ØµµÀÇ Èûµç °ï¶õÀ» ´çÇÏ¿´À¸³ª ¿©ÀüÈ÷ ¿Õ¼ºÇÑ »ç±â¸¦ À¯ÁöÇÏ¿´´Ù.
+
+[401]
+#In spite of resorting to deceit and bribery ,they could not gain over anyone to support their proposal;.
+#ºñ·Ï ±â¸¸°ú ¸Å¼ö¿¡ µµ¿òÀ» Ã»ÇÏ¿´À¸³ª, ±×µéÀº ±×µéÀÇ °ÇÀÇ¸¦ ÁöÁöÇÒ ¼ö ÀÖ´Â »ç¶÷µéÀ» ¾òÀ» ¼ö ¾ø¾ú´Ù.
+
+[402]
+#In the minor role of the hero's uncle,he succeeded in running away with the show.
+#±×°¡ ºñ·Ï ÁÖÀÎ°øÀÇ ¾ÆÀú¾¾ÀÎ Á¶¿¬À» ¿¬±âÇÏ¿´À¸³ª, ±×´Â ÀüÃ¼ ¿¬±Ø¿¡¼­ °¡Àå ¶Ù¾î³ª°Ô ¿¬±â¸¦ ÇÏ¿´´Ù.
+
+[403]
+#Although we are not in want of any at present,we should be glad if you would submit prices in about six weeks.
+#ºñ·Ï ¿ì¸®ÃøÀº ±¸¸ÅÀÇ»ç´Â ¾øÀ¸³ª, ¸¸¾à ±ÍÇÏ°¡ ¾à 6ÁÖ ÈÄ¿¡ °¡°İÀ» Á¦½ÃÇÏ¸é ÀúÈñ´Â ¸Å¿ì ±â»Ú°Ú½À´Ï´Ù.
+
+[404]
+#Although this house is condemned as unfit,an old lady still lives there.
+#ºñ·Ï ÀÌ¹Ì ÀÌ ÁıÀº »ç¶÷ÀÌ »ì±â¿¡ ÀûÇÕÇÏÁö ¾Ê´Ù°í ¼±°íÇßÀ¸³ª, ¿©ÀüÈ÷ ±× ¾È¿¡ ³ëºÎÀÎÀÌ »ì°í ÀÖ´Ù.
+
+[405]
+#Notwithstanding any other agreements,we will make a new contract with the firm.
+#±âÅ¸ÀÇ ÇùÀÇ°¡ ÀÖ´õ¶óµµ ¿ì¸®´Â ¹Ù·Î ÀÌ È¸»ç¿Í »õ·Î¿î ÇùÁ¤À» Ã¼°áÇÒ °ÍÀÌ´Ù.
+
+[406]
+#As soon as these inquiries have been satisfactorily settled,we shall be pleased to send your order.
+#Á¶È¸¸¦ °ÅÄ£ ÈÄ¿¡ ¸¸¾à ¸ğµç °ÍÀÌ ¹®Á¦°¡ ¾ø´Ù¸é ±Í»ç°¡ ÁÖ¹®ÇÑ ¹°Ç°À» ¹Ù·Î º¸³»°ÍÀÔ´Ï´Ù.
+
+[407]
+#By two months of hard cramming Moley squeaked by the finals.
+#2´Ş°£ Èûµé°Ô ¸¶±¸ÀâÀÌ·Î ¿Ü¿î °á°ú ¸ô¸®´Â °á±¹ °Ü¿ì ±â¸»°í»ç¸¦ Åë°úÇÏ¿´´Ù.
+
+[408]
+#After two hours' frustrating delay,our train at last arrived.
+#2½Ã°£ÀÇ »ç¶÷À» ¾È´Ş³ª°Ô ÇÏ´Â ¿¬Âø ÈÄ¿¡ ¿ì¸®ÀÇ ±âÂ÷´Â ¸¶Ä§³» µµÂøÇÏ¿´´Ù.
+
+[409]
+#After three days of observation,they found out why the dam was sinking and took measures to stop it.
+#»ïÀÏ °£ÀÇ °üÂûÀ» ÅëÇÏ¿© ±×µéÀº ´ïÀÇ Ä§ÇÏ ¿øÀÎÀ» Ã£¾Æ ¸·´Â Á¶Ä¡¸¦ ÃëÇÏ¿´´Ù.
+
+[410]
+#Gold prices on the London market are expected to flatten out after a period of fluctuation.
+#ÇÑ µ¿¾ÈÀÇ ÆÄµ¿À» °ŞÀº ÈÄ¿¡ ·±´ø ½ÃÀåÀÇ È²±İ °¡°İÀº ¾ÈÁ¤µÉ °ÍÀÌ¶ó°í ¿¹»óµÈ´Ù.
+
+[411]
+#By mutual consent ,the negotiators kept off political differences,and concentrated on the military issue.
+#½Ö¹æÀÇ µ¿ÀÇ¸¦ °ÅÃÄ ´ëÇ¥´Â Á¤Ä¡Àû Â÷ÀÌ¸¦ ÇÇÇÏ¿© ´ãÆÇÇÏ°í ÁıÁßÀûÀ¸·Î ±º»ç¹®Á¦¸¦ Åä·ĞÇÏ¿´´Ù.
+
+[412]
+#In our art and craft business,we usually pay 5% commission and never 10%,nor do we allow any discount.
+#¿ì¸®ÃøÀÇ °ø¿¹Ç° ¾÷¹«¸¦ °æ¿µÇÏ´Âµ¥ º¸Åë 5%ÀÇ Ä¿¹Ì¼ÇÀ» ³»¸ç 105¸¦ ÃÊ°úÇÑ ÀûÀÌ ¾øÀ¸¸ç ÇÒÀÎµµ ¾ø´Ù.
+
+[413]
+#Kindly take care to get goods of the prime quality,and at the lowest quotation.
+#ºÎµğ Ç°ÁúÀÌ ÃÖ°í±ŞÀÎ ¹°Ç°À» ÃÖÀú°¡ÀÇ °¡°İÀ¸·Î ¿ì¸®¿¡°Ô Á¦°øÇÏ¿© ÁÖ½Ã¸é °í¸¿°Ú½À´Ï´Ù.
+
+[414]
+#By the enclosed pattern-card,we wish to call your attention to the excellence of our Duckling.
+#ºÎµğ ÀúÈñ°¡ º¸³»µå¸®´Â °ßº» Ä«µå¿¡¼­ "ÀÛÀº ¿À¸®Ç¥ »óÇ°"ÀÌ ¾ÆÁÖ Æ¯»öÀÌ ÀÖÀ½À» ÁÖÀÇÇÏ¿© ÁÖ½Ê½Ã¿ä.
+
+[415]
+#Please be assured that we would do all we can to support you as far as your sales territory is concerned.
+#´ç½ÅµéÀÇ ¸Å¸ÅÁö¿ª¿¡ °ü·ÃÇÏ¿© ºÎµğ ¿ì¸®°¡ Àü·ÂÀ» ´ÙÇÏ¿© ´ç½ÅµéÀ» ÁöÁöÇÒ °ÍÀ» ¹Ï¾î ÁÖ½Ê½Ã¿ä.
+
+[416]
+#Just at that moment,she sailed into the room with a pleasant smile on her face.
+#ÀÌ ¶§¿¡ ±×´Â ¿ÂÈ­ÇÏ°í Á¡Àİ°Ô ¹æ¾ÈÀ¸·Î µé¾î¿ÔÀ¸¸ç ¾ó±¼¿¡´Â À¯ÄèÇÑ ¹Ì¼Ò¸¦ ¶ì°í ÀÖ¾ú´Ù.
+
+[417]
+#So far as this commodity is concerned,we can ship as much out as they need.
+#ÀÌ »óÇ°À¸·Î ¸»ÇÏ¸é ¿ì¸®´Â ±×µéÀÌ ¾ó¸¶¸¦ ÇÊ¿ä·Î ÇÏµçÁö º¸³»ÁÙ ¼ö ÀÖ´Ù.
+
+[418]
+#The girl charged with murder was said to be mad and unfit to plead.
+#±× »ìÀÎÁË·Î ±â¼ÒµÈ ±× ¿©ÀÚ ¾ÆÀÌ´Â ¹ÌÃÆÀ¸¸ç ÀÚ½ÅÀ» º¯È£ÇÒ ¼ö ¾ø´Ù°í ÇÑ´Ù.
+
+[419]
+#Tanners were said to be reluctant to quote firm prices because of a rising and uncertain raw material market.
+#¿ø·á½ÃÀåÀÌ »ó½ÂÇÏ°í ¾î¶»°Ô µÉÁö ¾Ë ¼ö ¾øÀ¸¹Ç·Î Á¦Çõ¾÷ÀÚµéÀº ½ÇÁú°¡°İÀ» ¾Ë¸®·Á°í ÇÏÁö ¾Ê´Â´Ù°í ÇÏ¿´´Ù.
+
+[420]
+#We learn that in recent years several Swiss companies have started manufacturing this line.
+#¿ì¸®°¡ ¾Æ´Â ¹Ù·Î´Â ÃÖ±Ù ¸î ³â µ¿¾È ÀÌ¹Ì ¸î¸î ½ºÀ§½º È¸»ç ¿ª½Ã ÀÌ »óÇ°À» Á¦Á¶ÇÏ±â ½ÃÀÛÇß´Ù°í ÇÑ´Ù.
+
+[421]
+#In the play,a wicked old uncle acts as a foil to the noble young prince.
+#±ØÁß¿¡¼­ ±× »ç¾ÇÇÑ ´ÄÀº ¼÷ºÎ´Â °í±ÍÇÏ°í ÀşÀº ¿ÕÀÚ¸¦ µ¸º¸ÀÌ°Ô ÇÏ´Â ¿ªÇÒÀÌ´Ù.
+
+[422]
+#I hate to see all those girls drooling over the singer.
+#¸ğµç ¿©ÀÚ ¾ÆÀÌµéÀÌ ±× °¡¼ö¿¡°Ô ³Ê¹« °¨µ¿ÀûÀ¸·Î ÁÁ¾ÆÇÔÀ» Ç¥½ÃÇÏ´Â °ÍÀ» ºÃÀ» ¶§ ³ª´Â ½È¾ú´Ù.
+ 
+[423]
+#It seemed impossible to pin him down as to when and where he had last seen the man.
+#±×·Î ÇÏ¿©±İ ±×°¡ °¡Àå ¸¶Áö¸·À¸·Î ÀÌ »ç¶÷À» µµ´ëÃ¼ ¾ğÁ¦ ¾îµğ¿¡¼­ º¸¾Ò´ÂÁö ¸íÈ®ÇÏ°Ô ¸»ÇÏ°Ô ÇÏ´Â °ÍÀº ºÒ°¡´ÉÇÑ °Í °°´Ù.
+
+[424]
+#It seems that while both articles mention the event,one of them does not point it up enough.
+#µÎ ÆíÀÇ ¹®ÀåÀº ºñ·Ï µÑ ´Ù ÀÌ ÀÏÀ» ¸»ÇÑ °Í °°À¸³ª, ±× Áß ÇÑÆíÀº °­Á¶°¡ ºÎÁ·ÇÏ´Ù.
+
+[425]
+#Taking into consideration your need in applying for import licence,we would agree to your request.
+#±Í»ç°¡ ½ÅÃ»ÇÑ ¼öÀÔÇã°¡ÁõÀÇ ÇÊ¿ä¸¦ °í·ÁÇÏ¿© ¿ì¸®´Â ±Í»çÀÇ ¿ä±¸¿¡ µ¿ÀÇÇÒ °ÍÀÔ´Ï´Ù.
+
+[426]
+#He did poorly in his examinations,considering how hard he had studied for them.
+#±×°¡ ÀÌ·¸°Ô Èûµé°Ô ÁØºñ¸¦ Çß´ø °ÍÀ» »ı°¢ÇÏ¸é Áö±İ ±×ÀÇ ½ÃÇè¼ºÀûÀº ¸Å¿ì ¾È ÁÁ¾Ò´Ù.
+
+[427]
+#In view of our friendly business relations,we are prepared to meet your claim for the 35 tons shortweight.
+#¿ì¸®µé »çÀÌÀÇ ¾÷¹« °ü°è¸¦ °í·ÁÇÏ¿© ¿ì¸®´Â 35ÅæÀÇ Áß·®ºÎÁ·À» ¹è»óÇÒ °ÍÀÌ´Ù. 
+
+[428]
+#After considering all five possibilities,we checked off the second one.
+#¸ğµç 5°¡ÁöÀÇ °¡´É¼ºÀ» °í·ÁÇÑ ÈÄ¿¡ ¿ì¸®µéÀº 2¹øÂ° °¡´É¼ºÀ» ¹èÁ¦ÇÏ¿´´Ù.
+
+[429]
+#It became clear that Colvin and eked out a victory over Biddle in the primary.
+#Ä®ºóÀÌ ÃÊ¼±¿¡¼­ ÀÌ¹Ì °¡±î½º·Î ºñµéÀ» ÀÌ°åÀ½ÀÌ ºĞ¸íÇß´Ù.
+
+[430]
+#Will you kindly work out a program for this visit? Your early reply will be appreciated.
+#±ÍÇÏ°¡ ÀÌ¹ø ¹æ¹®À» À§ÇÏ¿© ÀÏÁ¤À» Á¤ÇÏ¿© ÁÖ½Ç ¼ö ÀÖ½À´Ï±î? ºü¸¥ È¸´äÀ» ¹ŞÀ» ¼ö ÀÖÀ¸¸é ¸Å¿ì °í¸¿°Ú½À´Ï´Ù.
+
+[431]
+#I regret to inform you that before your letter arrived,I had accepted an offer of admission from another institution.
+#±×·¯³ª ¸Å¿ì À¯°¨½º·´°Ô ´ç½ÅÀÇ ÆíÁö°¡ µµÂøÇÏ±â Àü¿¡ ³ª´Â ÀÌ¹Ì ´Ù¸¥ ÇĞ±³ÀÇ ÀÔÇĞÇã°¡¸¦ ¹Ş¾Æµé¿´½À´Ï´Ù.
+
+[432]
+#Yes,there may be some difference,but it can't exceed 5% of the quantity stipulated.
+#¾à°£ÀÇ ÃâÀÔÀº °¡´ÉÇÏ³ª Á¤½Ã¼±Àû ¼ö·®ÀÇ 5%´Â ÃÊ°úÇÒ ¼ö ¾ø´Ù.
+
+[433]
+#In the Kremlin,the rulership by committee will bring more jockeying for power.
+#Å©·¹¹É¸°±ÃÀÇ Á¤Ä¡±¹À§¿øÈ¸ ÅëÄ¡´Â ÀåÂ÷ ´õ ¸¹Àº ±Ç·ÂÅõÀïÀ» °¡Á®¿Ã °ÍÀÌ´Ù.
+
+[434]
+#Two of the guests,one American and the other Russian,were talking to each other pleasantly.
+#¼Õ´Ô µÎ ¸í Áß ÇÑ ¸íÀº ¹Ì±¹ÀÎÀÌ°í ´Ù¸¥ ÇÑ ¸íÀº ·¯½Ã¾ÆÀÌ¸ç À¯ÄèÇÏ°Ô ÀÌ¾ß±â¸¦ ³ª´©°í ÀÖ¾ú´Ù.
+
+[435]
+#Please let us know what quantities you are able to deliver at regular intervals,quoting your best terms FOB Brisbane.
+#±ÍÇÏ°¡ Á¤±âÀûÀ¸·Î ÃâÇÏÇÒ ¼ö ÀÖ´Â ¼ö·®À» ¾Ë·ÁÁÖ½Ã°í FOB Brisbane ÃÖ°í ¿ì´ë °¡°İÀ¸·Î ÁÖ±â¸¦ Èñ¸ÁÇÕ´Ï´Ù.
+
+[436]
+#You will be so good as to give me timely advice of the shipment,stating the possible cost in effecting the insurance.
+#±Í»ç°¡ ¼±Àû »óÈ²À» °¡´ÉÇÑ »¡¸® ¿ì¸®¿¡°Ô ¾Ë·ÁÁÖ½Ã°í, º¸Çè¿¡ ÇÊ¿äÇÑ ºñ¿ëÀ» ¾Ë·ÁÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[437]
+#The Air Force monitor manipulated dials of his receiver and an unfamiliar voice came through clearly.
+#°ø±º °¨Ã»¿øÀÌ ³ìÀ½±âÀÇ ´ÙÀÌ¾óÀ» µ¹¸®ÀÚ ¾È¿¡¼­ ¶Ç·ÇÇÏ°Ô ³¸¼± ¸ñ¼Ò¸®°¡ µé·Á¿Ô´Ù.
+
+[438]
+#The open fields are now entirely built in.
+#ÇãÇã¹úÆÇÀÌ ÇöÀç´Â »ç¹æ¿¡ ¸ğµÎ °ÇÃà¹°ÀÌ ÀÖ°Å³ª ÇöÀç´Â ¸ğµÎ ÁıÀ¸·Î °¡µæ ¼¼¿öÁ³´Ù.
+
+[439]
+#Please let us know what quantities you are able to deliver at regular intervals,quoting your best terms C.I.F.Cairo.
+#¼­½ÅÀ» ÁÖ½Ç ¶§ Á¤½Ã¹ßÈ­ÀÇ ¼ö·®À» ¾Ë·ÁÁÖ½Ã±â ¹Ù¶ó¸ç, ÃÖ°í Á¶°ÇÀÇ Ä«ÀÌ·Î C.I.F.¸¦ °ßÀûÇÏ¿© ÁÖ½Ê½Ã¿ä.
+
+[440]
+#The old woman went into a decline and nothing the doctor could do would help.
+#³ëºÎÀÎÀÇ ¸öÀÌ ¼è¾àÇØÁ® ÀÇ»çÀÇ ¸ğµç ³ë·Âµµ ±×³àÀÇ °Ç°­À» È¸º¹½ÃÅ³ ¹æ¹ıÀÌ ¾ø¾ú´Ù.
+
+[441]
+#The teacher began by running over what the class had learnt in the previous lesson.
+#¼±»ı´ÔÀº ½ÃÀÛÇÒ ¶§ ÇĞ»ıµéÀÌ Áö³­ ½Ã°£¿¡ ¼ö¾÷ÇÑ °ÍÀ» ´ëÃæ ÇÑ ¹ø ¹İº¹ÇÏ¿´´Ù.
+
+[442]
+#The band drowned out our conversation so we sat and said nothing.
+#¾Ç´ë ¼Ò¸®¿¡ ¿ì¸®ÀÇ ÀÌ¾ß±â ¼Ò¸®°¡ ¾È µé·È±â ¶§¹®¿¡ ¿ì¸®´Â ¾É¾Æ¼­ ¾Æ¹«¸»µµ ÇÏÁö ¾Ê¾Ò´Ù.
+
+[443]
+#The grass is greener on the other side of the fence .
+#´Ù¸¥ »ç¶÷ ¹äÀÇ ÄáÀÌ Ä¿ º¸ÀÎ´Ù.
+
+[444]
+#Even middle-class consumers in the U.S.are beginning to kick against the runaway prices.
+#¹Ì±¹ÀÇ Áß»êÃşÀÇ ¼ÒºñÀÚ Á¶Â÷µµ ¸¶±¸ ¶Ù´Â ¹°°¡¿¡ ´ëÇÏ¿© Ç×ÀÇ¸¦ Ç¥½ÃÇÏ±â ½ÃÀÛÇÏ¿´´Ù.
+
+[445]
+#The two boys got off with only a warning,but the judge sent the man to prison.
+#µÎ ³²ÀÚ ¾ÆÀÌ´Â °æ°í¸¸À» ¹Ş°í Ã³¹úÀº ¹ŞÁö ¾Ê¾ÒÀ¸³ª, ¹ı°üÀº ±× ³²ÀÚ¸¦ °¨¿Á¿¡ º¸³Â´Ù.
+
+[446]
+#The two leaders talked for several hours,and the upshot was a new peace agreement.
+#µÎ ¸íÀÇ ÁöµµÀÚµéÀº ¸î ½Ã°£ È¸´ãÀ» ÇÏ¿©, ¾òÀº °á°ú´Â »õ·Î¿î È­ÆòÇùÀÇ¸¦ ´Ş¼ºÇÑ °ÍÀÌ´Ù.
+
+[447]
+#You will find that we have given you the best terms customary in our business.
+#±ÍÇÏ´Â ¿ì¸®ÃøÀÌ ÀÌ¹Ì ±ÍÇÏ¿¡°Ô ¾÷¹«»ó ÃÖ°í ¿ì´ëÀÇ Á¶°ÇÀ» Á¦°øÇßÀ½À» ¾Ë ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù.
+
+[448]
+#I remain PS.40 dollars dormitory deposit will be advanced to you by Miss Zhang Lei in Los Angeles,California.
+#º°µµ·Î Àå·¹ÀÌ ¾çÀÌ Ä¶¸®Æ÷´Ï¾Æ ·Î½º ¾ØÁ©·¹½º¿¡¼­ º¸³»¿Â ¼÷¼Ò º¸Áõ±İ 40´Ş·¯¸¦ º¸³»µå¸³´Ï´Ù.
+
+[449]
+#Unfortunately my plans have been changed,and I will be returning to Troy on Monday.
+#À¯°¨½º·¯¿î °ÍÀº ³ªÀÇ °èÈ¹ÀÌ ÀÌ¹Ì ¹Ù²î¾î ¿ù¿äÀÏ ³ª´Â ¹İµå½Ã Æ®·ÎÀÌ·Î µ¹¾Æ°¡¾ß ÇÑ´Ù.
+
+[450]
+#Six goes into twelve ,twice.But thirteen into twelve doesn't go (won't go.)
+#6À¸·Î 12¸¦ ³ª´©¾î ¾òÀº ¸òÀº 2ÀÌ³ª, 13À¸·Î 12¸¦ ³ª´©¾î ¾òÀº ¸òÀº 1ÀÌ ¾ÈµÈ´Ù.
+
+[451]
+#The time of the journey depends on a number of variables,such as the amount of traffic on the road.
+#¿©Çà¿¡ ÇÊ¿äÇÑ ½Ã°£Àº ¿©·¯ °¡Áö ºÎÁ¤È®ÇÑ ¿äÀÎ¿¡ ÀÇÇØ °áÁ¤µÇ´Âµ¥, ¿¹¸¦ µé¸é µµ·ÎÀÇ ±³Åë È¥Àâ»óÈ² °°Àº °ÍÀÌ´Ù.
+
+[452]
+#The Bank of China,London can open an L/C in RMB for you against our sales confirmation.
+#·±´øÀÇ Áß±¹ÀºÇàÀº ¿ì¸®ÀÇ ÆÇ¸Å È®ÀÎ¿¡ ±Ù°ÅÇÏ¿© ÀÎ¹ÎÆó ½Å¿ëÀåÀ» °³¼³ÇÒ ¼ö ÀÖ´Ù.
+
+[453]
+#When Dr.Loewe had got through with the grumbling patients,they felt thoroughly ashamed of themselves.
+#ÀÇ»ç ·çÀÌ°¡ ±× ºÒÆòÇÏ°í ÀÖ´Â È¯ÀÚ¿¡°Ô ÇÑ ¹ø Å¸ÀÌ¸£ÀÚ ±×µéÀº ¸Å¿ì ºÎ²ô·¯¿öÇß´Ù.
+
+[454]
+#Margaret had difficulty with her work for the examinations,but her teacher pulled her through.
+#¸¶°¡·¿Àº ½ÃÇèÀ» ÁØºñÇÒ ¶§ ¾î·Á¿òÀ» ´çÇÏ¿´À¸³ª ±×³àÀÇ ¼±»ı´ÔÀÇ µµ¿òÀ¸·Î ±Øº¹ÇÏ¿´´Ù.
+
+[455]
+#Mary wants to change over from gas electricity for her cooking; she says it's cleaner.
+#¸Ş¸®´Â ¿ø·¡ °¡½º·Î ¹äÀ» Áö¾úÀ¸³ª, ±×³à´Â Àü±â ¹ä¼ÜÀ¸·Î ¹Ù²Ü »ı°¢ÀÌ´Ù. ±×³à´Â ÀÌ·¸°Ô ÇÏ´Â °ÍÀÌ ´õ ±ú²ıÇÏ´Ù°í ÇÏ¿´´Ù.
+
+[456]
+#Mary doesn't go for horror films,and she can't understand why anyone likes them.
+#¸Ş¸®´Â °øÆ÷ ¿µÈ­¸¦ º¸·¯ °¡Áö ¾ÊÀ¸¸ç, ±×³à´Â µµ´ëÃ¼ ¿Ö ÀÌ·± ¿µÈ­¸¦ ÁÁ¾ÆÇÏ´ÂÁö ÀÌÇØÇÒ ¼ö ¾ø¾ú´Ù.
+  
+[457]
+#Mary threatened that if her boy friend did not stop gambling ,she would give him up.
+#¸Ş¸®´Â ¸¸¾à ±×ÀÇ ³²ÀÚÄ£±¸°¡ µµ¹ÚÀ» ²÷Áö ¾ÊÀ¸¸é ±×¿Í ¸¸Áö ¾ÊÀ» °ÍÀÌ¶ó°í °æ°íÇÏ¿´´Ù.
+
+[458]
+#Mary threw a stone at John but it was deflected away from him by a tree.
+#¸Ş¸®°¡ Á¸¿¡°Ô µ¹¸æÀÌ ÇÏ³ª¸¦ ´øÁ³À¸³ª, ³ª¹«¿¡ ¸Â°í ºñ½ºµëÈ÷ ¿·À¸·Î °¬´Ù.
+
+[459]
+#Marxism-Leninism-Mao Zedong Thought light up our way forward.
+#¸¶¸£Å©½ºÁÖÀÇ, ·¹´ÑÁÖÀÇ, ¸ğÅÃµ¿»ç»óÀº ¿ì¸®°¡ ÀüÁøÇÏ´Â ±æÀ» ¹àÇû´Ù.
+
+[460]
+#Maxwell House and Good to the Last Drop are registered trademark of General Foods Corporation,NY,USA.
+#¸Æ½ºÀ£ ÇÏ¿ì½º¿Í ±Â Åõ ´õ ·¡½ºÆ® µå¶øÀº ¿©ÀüÈ÷ ¹Ì±¹ ´º¿åÁÖ¿¡¼­ ½ÄÇ°È¸»ç µî·Ï »óÇ¥·Î Åë¿ëµÇ°í ÀÖ´Ù.
+
+[461]
+#Bangkok is surrounded by a vast,damp,alluvial plain,crisscrossed by a network of klong ,.
+#¹æÄÛÀº ±¤È°ÇÏ°í ½ÀÇÑ ÃæÀûÆò¿øÀ¸·Î µ¹·¯ ½Î¿© ÀÖ°í Á¾È¾À¸·Î ±³Â÷ÇÏ´Â ¿îÇÏ¸ÁÀÌ ÀÖ´Ù.
+
+[462]
+#Nobody invited him ,but he somehow managed to ring in on our party.
+#¾Æ¹«µµ ±×¸¦ ÃÊÃ»ÇÏÁö ¾Ê¾ÒÀ¸³ª ±×´Â ¾î¶»°Ô µÈ °ÍÀÎÁö ¿ì¸®ÀÇ »ç±³ ¸ğÀÓ¿¡ Âü°¡ÇÏ¿´´Ù.
+ 
+[463]
+#There is no place where one has more fun along with work than at Madison.
+#Madisonº¸´Ù ÀÏÇÏ¸é¼­ Àç¹ÌÀÖ´Â °÷Àº ¾ø´Ù.
+
+[464]
+#We can live without clothes,but food and drink are essential to life.
+#¿ì¸®´Â ¿Ê ¾øÀÌ´Â »ì ¼ö ÀÖÁö¸¸, À½½Ä°ú ¹°Àº »ı¸íÀ» À¯ÁöÇÏ´Âµ¥ ¹İµå½Ã ÇÊ¿äÇÑ °ÍÀÌ´Ù.
+
+[465]
+#Whenever difficulties or problems crop up in their work every one of us lends a helping hand.
+#¸Å¹ø ±×µéÀÇ ÀÛ¾÷ Áß °ï¶õÀÌ³ª ¹®Á¦°¡ ÀÖÀ» ¶§, ¿ì¸®´Â ¸ğµÎ µµ¿òÀ» ÁÖ¾î ÇØ°áÇÑ´Ù.
+  
+[466]
+#Whenever there is an urgent task to finish,each of the cadres pitches in without the least hesitation.
+#¸Å¹ø ±ä±ŞÇÑ ÀÓ¹«°¡ ÀÖ¾î ¿Ï¼ºÇØ¾ß ÇÒ ¶§ ¸ğµç °£ºÎµéÀº ÁöÃ¼¾øÀÌ ÀÏ¿¡ ÅõÀÔµÇ¾ú´Ù.
+
+[467]
+#On weekends I like to get my mind off my work by reading good books.
+#¸Å ÁÖ¸»¿¡ ³ª´Â Ç×»ó Àç¹ÌÀÖ´Â Ã¥À» º¸´Â °ÍÀ¸·Î ³ªÀÇ ÁÖÀÇ·ÂÀ» ÀÏ¿¡¼­ ¹ş¾î³ª°Ô ÇÏ´Â °ÍÀ» ÁÁ¾ÆÇÑ´Ù.
+
+[468]
+#They can also make cool and refreshing ice cream,popsicles and red bean soup.
+#¸Å¹ø ÇÑ ¿©¸§¿¡ ÆÏÀ¸·Î ¾ÆÀÌ½ºÅ©¸², ÇÏµå, ÆÏºù¼ö µî ¿©¸§¿¡ Àß ÆÈ¸®´Â ¹°°ÇÀ» ¸¸µçµé ¼ö ÀÖ´Ù.
+
+[469]
+#Samples of each lot of such materials shall be sent to us for acceptance before they are shipped;
+#¸Å¹ø ¿ø·á´Â ¹İµå½Ã ¿ì¼± »ùÇÃÀ» Á¦°øÇÏ¿© ¿ì¸®ÃøÀÇ µ¿ÀÇ¸¦ ¾òÀº ÈÄ¿¡ °ßº»´ë·Î È­¹°À» ÀÎµµÇØ¾ß ÇÑ´Ù.
+
+[470]
+#We clean out the stove and fill it with coke every morning,so that we get plenty of hot water all day.
+#¸ÅÀÏ ¾ÆÄ§ ¿ì¸®´Â ³­·Î¸¦ Ã»¼ÒÇÏ°í ÅºÀ» Ã¤¿öÁÖ±â ¶§¹®¿¡ ÇÏ·ç Á¾ÀÏ µû¶æÇÑ ¹°ÀÌ ÃæºĞÇÏ´Ù.
+
+[471]
+#A thing of beauty is a joy for ever.
+#¾Æ¸§´Ù¿î °ÍÀº ºñ·Ï ¼Ò¸êµÈ ÈÄ¿¡µµ Ãß¾ï¸¸ ÀÖÀ¸¸é ±×°ÍÀÇ Áñ°Å¿òÀº ¿µ¿øÈ÷ Áö¼ÓµÈ´Ù.
+
+[472]
+#Has the Art Department pasted up the captions to the illustrations yet? We want them to go to the printer tomorrow.
+#¹Ì¼úºÎ´Â »ğÀÔ±×¸²ÀÇ ¹®ÀåÇØ¼³À» ´ëÁö¿¡ ºÙ¿´½À´Ï±î? ¿ì¸®´Â ³»ÀÏ º¸³»¾î ÀÎ¼âÇÏ·Á°í ÇÕ´Ï´Ù.
+
+[473]
+#The door opened and in came a troop of children in all sorts of fancy dresses.
+#¹®ÀÌ ¿­ÀÚ È×ÇÏ°í °¢¾ç°¢»öÀÇ °¡Àåº¹À» ÀÔÀº ¾ÆÀÌµéÀÌ ¶Ù¾î µé¾î¿Ô´Ù.
+
+[474]
+#From these positions mortar fire was rained down upon reinforcements moving up through the valley.
+#ÁıÁßµÈ ¹Ú°İÆ÷ÀÇ È­·ÂÀº ÀÌ·± ÁøÁöµé¿¡¼­ °è°îÀ» ÅëÇÏ¿© ±× ÂÊÀÇ ¿Ã¶ó¿À´Â Áö¿øºÎ´ëÂÊÀ¸·Î ½î¾ÆÁ³´Ù.
+
+[475]
+#Certain grammatical constructions that are accepted in America adrc frowned on in British English.
+#¹Ì±¹¿¡¼­ Åë¿ëµÇ´Â ¾î¶² ¾î¹ı±¸Á¶´Â ¿µ±¹ÀÎÀÌ »ç¿ëÇÏ´Â ¿µ¾î¿¡¼­ ºñ³­À» ¹Ş´Â °ÍÀÌ´Ù.
+
+[476]
+#Mother read me a story about the weefolk who lived in the forest and came out at night.
+#¾î¸Ó´Ï´Â ³ª¸¦ À§ÇØ ½£¿¡ »ì¸ç ¹ãÀÌ µÇ¾î¾ß ³ª¿À´Â ¾î¸° ½Å¼±¿¡ ´ëÇÑ ÀÌ¾ß±â¸¦ ÇØÁÖ¼Ì´Ù.
+
+[477]
+#The trend is away from aggressive expansionism toward realistic survivalism.
+#ÇöÀçÀÇ Á¶·ù´Â Ä§·«ÀûÀÎ È®ÀåÁÖÀÇ¿¡¼­ Çö½ÇÀûÀÎ »ıÁ¸Á¦ÀÏÁÖÀÇ·Î °¡´Â Ãß¼¼ÀÌ´Ù.
+
+[478]
+#We are presently unable to obtain appropriate materials.Therefore,we cannot make you an offer just now.
+#ÇöÀç ¿ì¸®´Â Àû´çÇÑ Àç·á¸¦ ¾òÀ» ¼ö°¡ ¾ø±â ¶§¹®¿¡ ¿ì¸®ÃøÀº ÇöÀç ¿ÀÆÛ¸¦ ÇÒ ¼ö°¡ ¾ø½À´Ï´Ù.
+
+[479]
+#As we have not yet received your order,we shall be delighted if you will place an initial order with us.
+#ÇöÀç ¿ì¸®´Â ¾ÆÁ÷ ´ç½ÅÀÇ ÁÖ¹®¼­¸¦ ¹ŞÁö ¾Ê¾ÒÀ¸¸ç, ¸¸¾à ´ç½ÅÀÌ ÃÊ±âÁÖ¹®À» ÇÑ´Ù¸é ¿ì¸®´Â ¸Å¿ì ±â»Ú°Ú½À´Ï´Ù.
+
+[480]
+#Because of current strikes we cannot make you an offer.Would you please inquire once more?
+#ÇöÀç ÆÄ¾÷À¸·Î ÀÎÇÏ¿© ¿ì¸®´Â ±ÍÇÏ¿¡°Ô ¿ÀÆÛ¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù. ´Ù½Ã ¼ø°¡¸¦ ÇØÁÖ½Ç ¼ö ÀÖ½À´Ï±î?
+
+[481]
+#The city has decided to do away with overhead wires.
+#±× µµ½Ã´Â °øÁß¿¡ ³õ¿©Áø Àü¼±À» ¾ø¾Ö°í Àü¼±À» ¶¥¿¡ ¹¯À» °ÍÀ» °áÁ¤ÇÏ¿´´Ù.
+
+[482]
+#The landlord thought that he could come over the farm hands one way or another.But he was grossly mistaken.
+#±× ÁöÁÖ´Â ±×°¡ ¾ğÁ¦³ª ±× °í¿ë³óµéÀ» ´Ù½º¸± ¼ö ÀÖÀ» °Å¶ó°í »ı°¢ÇÏ¿´´Ù. ±×·¯³ª ±×´Â ¾ÆÁÖ Å©°Ô ½Ç¼öÇÏ¿´´Ù.
+
+[483]
+#The bad egg assumed a look of innocence,but it did not take us long to see through him.
+#±× ³ª»Û ³ğÀº ¹«°íÇÑ Ã´ÇÏ¿´À¸³ª ¿ì¸®´Â ºü¸£°Ô ±×ÀÇ ²ç¶Õ¾î º¸¾Ò´Ù.
+
+[484]
+#That story about three beautiful girls in a spacecraft is pure escapism.
+#¿ìÁÖ¼± ¾ÈÀÇ ¼¼ ¸íÀÇ ¾Æ¸§´Ù¿î ¾Æ°¡¾¾¿¡ ´ëÇÑ ÀÌ¾ß±â´Â ÀüÇô Çö½ÇÁÖÀÇÀûÀÎ ÀÛÇ°ÀÌ ¾Æ´Ï´Ù.
+  
+[485]
+#The stranger began to open out after he had known us for a while.
+#³¸¼± »ç¶÷Àº ¿ì¸®¸¦ ¾Ë°í ¾ó¸¶ ÀÖÀº ÈÄ¿¡ Ä§¹¬À» ±ú°í ¸»À» ÇÏ±â ½ÃÀÛÇÏ¿´´Ù.
+
+[486]
+#The man was found to have an infectious disease,so his house had to be fumigated.
+#±× ³²ÀÚ´Â Àü¿°º´À» ¾Î´Â °ÍÀÌ ¹àÇôÁ³±â ¶§¹®¿¡, ±×ÀÇ ÁıÀº ¹İµå½Ã ¿¬±â¸¦ ½ı¾î ¼Òµ¶ÇØ¾ß Çß´Ù.
+
+[487]
+#The man's furtive manner made the policeman watch him to see what he would do.
+#±× ³²ÀÚÀÇ ÂŞº²ÂŞº²ÇØ ÇÏ´Â ¸ğ¾çÀÌ °æÂû¿¡°Ô ±×ÀÇ Çàµ¿À» °¨½ÃÇÏ°Ô ÇÏ¿´´Ù.
+
+[488]
+#The farmer burnt out his field by planting the same crop every year for many years.
+#±× ³ó¹ÎÀÌ ¸î ³â µ¿¾È ¶¥¿¡ °°Àº ÀÛ¹°À» ½ÉÀº °á°ú ¶¥ÀÌ ¾ÆÁÖ Ã´¹ÚÇÏ°Ô µÇ¾ú´Ù.
+
+[489]
+#I only caught a glimpse of the thief,so I can't really describe him.
+#±× µµµÏÀº ³»°¡ °Ü¿ì ÇÑ ¹ø º¸¾Ò±â ¶§¹®¿¡ ³ª´Â Á¤¸»·Î ±×ÀÇ ¸ğ½ÀÀ» ±×·Á³¾ ¼ö ¾ø´Ù.
+
+[490]
+#That movement was slow to catch on at first,but a few months afterwards it began to develop rapidly.
+#±× ¿îµ¿Àº ÃÊ±â¿¡´Â ÃµÃµÈ÷ Àü°³µÇ¾úÀ¸³ª ¸î °³¿ù ÀÌÈÄ¿¡´Â ½Å¼ÓÇÏ°Ô ¹ßÀüµÇ¾ú´Ù. 
+
+[491]
+#The youngest boy was laughed at for his naive remarks.
+#±× Á¦ÀÏ ¾î¸° ¾ÆÀÌ°¡ ÃµÁø³­¸¸ÇÑ ¸»À» ÇØ¼­ ¸ğµÎµé Å©°Ô ¿ô¾ú´Ù.
+ 
+[492]
+#The family is doubly troubled; they have no money and now their father is ill.
+#±× °¡Á·Àº Á¤¸» Àç¾ÓÀÌ È¥ÀÚ ¿ÀÁö ¾Ê¾Ò´Ù. ±×µéÀº ¿ø·¡ °¡³­ÇÏ¿´´Âµ¥, Áö±İÀº ±×µéÀÇ ¾Æ¹öÁö°¡ ¶Ç º´ÀÌ ³ª¼Ì´Ù.
+
+[493]
+#The gangsters raided the town's laundry ,ran off the proprietor,and took all the clothing.
+#°»µéÀº ¸¶À»ÀÇ ¼¼Å¹¼Ò¿¡ Ä§ÀÔÇÏ¿© °¡°ÔÀÇ ÁÖÀÎÀ» ÂÑ¾Æ³»°í ¿ÊÀ» ÀüºÎ »©¾Ñ¾Æ °¬´Ù.
+
+[494]
+#The central services of that broadcasting company to some extent feed off the regional stations.
+#±× ¹æ¼Û»çÀÇ Áß¾Ó¹æ¼ÛÀÇ ¾÷¹«´Â ¾î¶² Á¤µµ¿¡¼­´Â Áö¹æ¹æ¼ÛÀÌ Á¦°øÇÏ´Â ÀÚ·á¿¡ ÀÇÇÑ °ÍÀÌ´Ù.
+
+[495]
+#That foreign news agency report hashed up the account of the accident.
+#±× ¿Ü±¹ Åë½Å»ç´Â ÀÌ ÀÏÀÇ º¸µµ¿¡ ´ëÇÏ¿© Á¤¸» Çê¼Ò¸®¸¦ ÇÏ¿´´Ù.
+
+[496]
+#The speaker's speech produced a public katzenjammer which forced him to retract certain statements.
+#±× °­»çÀÇ °­¿¬Àº °ø°³ÀûÀÎ ¼Òµ¿À» ÀÏÀ¸ÄÑ ±×¿¡°Ô ±× ¼º¸íÀ» Ã¶È¸ÇÒ °ÍÀ» °­¿ä¿´´Ù.
+
+[497]
+#The speaker ended his speech with a feelingful expression of his hope for peace.
+#±× °­»ç´Â ±×ÀÇ ÆòÈ­¿¡ ´ëÇÑ °¨Á¤ÀûÀÎ Ç¥ÇöÀ¸·Î ±×ÀÇ ¿¬¼³À» ³¡³Â´Ù.
+
+[498]
+#The old man is only the nominal head of the business; his daughter makes all the decisions.
+#±× ³ëÀÎÀº ±× ±â¾÷ÀÇ ¸íÀÇ»óÀÇ Ã¥ÀÓÀÚ¿¡ ºÒ°úÇÏ°í, ±×ÀÇ µşÀÌ ¸ğµç °áÁ¤À» ÇÑ´Ù.
+
+[499]
+#The little red car ate up the soggy miles.
+#ºÓÀº »ö ÀÛÀº Â÷´Â ¹Ù·Î ¼ö ¸¶ÀÏÀÇ ½ÀÇÑ µµ·ÎÀÇ ¿îÀüÀ» ³¡³Â´Ù.
+ 
+[500]
+#When food supplies were cut off that winter,the sick and wounded soldiers managed to scrape by on wild herbs.
+#±×ÇØ °Ü¿ï ¾ç½Ä°ø±ŞÀÌ ²÷±ä ÀÌÈÄ »ç»óÀÚµéÀº ¾ßÃ¤¸¦ ¸ÔÀ¸¸ç ³­°üÀ» °Ş¾î³ª°¬´Ù.
+
+[501]
+#The door,which has extruded aluminum frame,is said to be weather-resistant,shatterproof,and warp-proof.
+#±× µÎµå·¯Áø ¾Ë·ç¹Ì´½ Å×µÎ¸®·Î µÈ ¹®Àº ºñ¹Ù¶÷¿¡µµ ±úÁöÁö ¾ÊÀ¸¸ç ÈÖ¾îÁöÁöµµ ¾Ê´Â´Ù°í ÇÑ´Ù.
+ 
+[502]
+#In those days,even those few who lasted out the apprenticeship often found themselves jobless in the end.
+#±× ¶§ ºñ·Ï ±× Èûµé¾ú´ø ÇĞµµ½Ã±âÀÇ ¸î »ç¶÷Àº °á±¹ ¿©ÀüÈ÷ Á÷¾÷ÀÌ ¾ø´Ù. 
+
+[503]
+#The frequency of accidents on that road made the council lower the speed limit.
+#±× µµ·Î´Â ±³Åë »ç°í°¡ ºó¹øÇÏ¿© ½Ã ÀÇÈ¸¿¡¼­´Â ±×°÷ÀÇ Â÷·® ¼Óµµ¸¦ Á¦ÇÑÇÏ±âµµ °áÁ¤ÇÏ¿´´Ù.
+
+[504]
+#I gave the taxi driver a large tip for being so helpful.
+#±× ÅÃ½Ã ¿îÀü»ç°¡ ³ª¸¦ ¾ÆÁÖ ¸¹ÀÌ µµ¿Í ÁÖ¾î¼­ ³ª´Â ±×¿¡°Ô ¸¹Àº ÆÁÀ» ÁÖ¾ú´Ù.
+
+[505]
+#The doctor not only gives medical treatment but hands out helpful advice to all his patients as well.
+#±× ÀÇ»ç´Â È¯ÀÚ¿¡°Ô º´À» Ä¡·áÇÏ¿© ÁÙ »Ó ¾Æ´Ï¶ó ±×µé¿¡°Ô ÇÏ³ª ÇÏ³ª À¯ÀÍÇÑ Ãæ°í¸¦ ÇÑ´Ù.
+
+[506]
+#The artist spent years on his monumental painting,which covered the whole roof of the church.
+#±× ¿¹¼ú°¡°¡ ¼ö ³â¿¡ °É·Á ±×·Á ¿Ï¼ºÇÑ °Å´ëÇÑ ÆøÀÇ ±×¸²ÀÌ ±³È¸ÀÇ Àü ÁöºØÀ» ¿ÏÀüÈ÷ µ¤¾ú´Ù.
+
+
+[507]
+#That politician is too closely identified with the former government to become a minister in ours.
+#±× Á¤Ä¡°¡´Â Àü´ëÀÇ Á¤ºÎ¿Í °ü°è°¡ ¹ĞÁ¢ÇÏ¿© º»´ëÀÇ Á¤ºÎ¿¡¼­ ºÎÀåÀÌ µÉ ¼ö ¾ø´Ù°í 
+¿©±ä´Ù.
+
+[508]
+#The novel's heroine,a toothsome superwoman who runs a railroad...
+#±× ¼Ò¼³ÀÇ ¿©ÀÚ ÁÖÀÎ°øÀº ¾ÆÁÖ ¾Æ¸§´ä°í ºñ¹üÇÑ ¿©¼ºÀ¸·Î Ã¶·Î¸¦ °æ¿µÇÏ°í ÀÖ´Ù.
+
+[509]
+#Those poor marines sure luck-ed out in the South pacific,didn't they?
+#Àú ºÒ½ÖÇÑ ÇØ±º À¯Àü´ë »çº´µéÀº ºĞ¸í ³²ÅÂÆò¾ç»ó¿¡¼­ ºÒÇàÀ» ´çÇßÁÒ, ±×·¸ÁÒ?
+
+[510]
+#The surviving sailors managed to keep up for several hours and were eventually picked up by a lifeboat.
+#±× »ıÁ¸ÇÑ ¼±¿øÀº ¼ö¸é¿¡¼­ ¸î ½Ã°£ ¶°ÀÖÀ¸·Á°í ÇÏ¿´°í,°á±¹ ±¸¸íÁ¤¿¡ ÀÇÇØ ±¸Á¶µÇ¾ú´Ù.
+
+[511]
+#You have thereby an excellent standard by which to judge what you meet that is new and modern.
+#±×·¸°Ô ÇÏ¸é ³×°¡ ´ç´ëÀÇ »õ·Î¿î ¹®Á¦¸¦ ¸¸³µÀ» ¶§ ³Ê´Â ¹Ù·Î ÁÁÀº ÆÇ´ÜÀÇ ±âÁØÀÌ ÀÖÀ» °ÍÀÌ´Ù.
+
+[512]
+#The boy had got caught up in the story he was reading,and so didn't notice my coming into the room.
+#±× ³²ÀÚ ¾ÆÀÌ´Â ÀÌ¾ß±â Ã¥À» º¸´Â °Í¿¡ ½ï ºüÁ®¼­ ³»°¡ ÀÌ¹Ì µé¾î¿Í ÀÖ´Â °Íµµ ¾ËÁö ¸øÇß´Ù.
+
+[513]
+#The boy kept interrupting the speaker with questions,and every one of us had to pipe him down.
+#³²ÀÚ ¾ÆÀÌ°¡ ÀÚ²Ù Áú¹®À» ÇØ¼­ ¸»ÇÏ´Â »ç¶÷ÀÇ ¸»À» ²÷¾î ¿ì¸® ¸ğµÎ´Â ÇÏ´Â ¼ö ¾øÀÌ ±×¿¡°Ô ÀÔ ´Ù¹°°Ô Çß´Ù.
+
+[514]
+#The boy got by without answering the teacher's question because a visitor came in.
+#³²ÀÚ ¾ÆÀÌ´Â ¼±»ı´ÔÀÇ ¹®Á¦¿¡ ´ë´äÇÏÁö ¾Ê°í ¼Õ´ÔÀÌ ¿Ô±â ¶§¹®¿¡ µµ¸Á°¡¹ö·È´Ù.
+
+[515]
+#The boy hived off into the garden and we have hardly seen him all day.
+#³²ÀÚ ¾ÆÀÌ°¡ ¼ø°£ ²É¹ç¿¡ ¼ûÀº ÈÄ¿¡ ¿ì¸®´Â °ÅÀÇ ÇÏ·ç Á¾ÀÏ ±×ÀÇ ±×¸²ÀÚ¸¦ ´Ù½Ã º¸Áö ¸øÇß´Ù.
+
+[516]
+#It's a wonderful feeling to have reached this milestone,and I envy opportunities that lie ahead.
+#ÀÌ ÀÏ»ıÀÇ ÀÌÁ¤À» °É¾î³¾ ¼ö ÀÖ´Ù¸é ´ç½ÅÀº ºĞ¸í ±â»Ü °ÍÀÌ´Ù. ³ª´Â ´ç½ÅÀÇ ¾Õ³¯¿¡ ÁÁÀº ÀÏÀÌ ÀÖ±â¸¦ ±â¿øÇÕ´Ï´Ù.
+
+[517]
+#"I can't offer you a job now,but I'll let you know as soon as a vacancy comes up."
+#"³ª´Â Áö±İ ´ç½Å¿¡°Ô ÀÚ¸®¸¦ ÁÙ ¼ö ¾øÁö¸¸, ºó ÀÚ¸®°¡ »ı±â¸é ¹Ù·Î ´ç½Å¿¡°Ô ¿¬¶ôÇÏ°Ú¾î¿ä"ÇÏ°í ´ĞÀÌ ¸»Çß´Ù.
+
+[518]
+#YC30TH GROUNDNUT 500M/T ACCEPTED PURCHASE CONFIRMATION FOLLOWS L/COPENING
+
+[519]
+#You have done a serious disservice to your country by selling military secrets to our enemies.
+#´ç½ÅÀÌ ¿ì¸® ³ª¶óÀÇ ±º»ç ±â¹ĞÀ» Àû¿¡°Ô ÆÈ¾Æ ³Ñ°Ü¼­ ±¹°¡¿¡ ½É°¢ÇÑ ¼ÕÇØ¸¦ ³¢ÃÆ´Ù.
+
+[520]
+#If you compare British football with American football you'll find many differences.
+#´ç½ÅÀÌ ¿µ±¹ Ç²º¼°ú ¹Ì±¹ Ç²º¼À» ºñ±³ÇÑ´Ù¸é ¹Ù·Î ´õ ¸¹Àº ´Ù¸¥ Á¡À» ¹ß°ßÇÒ ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù.
+
+[521]
+#There are a few formalities to settle before you become the lawful owner of the car.
+#´ç½ÅÀº ¹İµå½Ã ¸ÕÀú ¾à°£ÀÇ ¼ö¼ÓÀ» ³¡³½ ÈÄ¿¡¾ß ºñ·Î¼Ò ÀÌ Â÷·®ÀÇ ÇÕ¹ıÀûÀÎ ÁÖÀÎÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù.
+
+[522]
+#You must learn to keep your things together and not leave them all over the house.
+#´ç½ÅÀº ¸ÕÀú ´ç½ÅÀÇ ¹°°ÇÀ» Á¤¸®ÇÏ´Â °ÍÀ» ¹è¿ö¾ßÇÏ°í, Áı¾È °÷°÷À» ¸¶±¸ ¾îÁö·´È÷¸é ¾ÈµË´Ï´Ù.
+
+[523]
+#You can't pass over these painful sources of conflict and hope they'll naturally disappear.
+#´ç½ÅÀº ÀÌ·± °íÅë½º·± Ãæµ¹ÀÇ ±Ù¿øÀ» ÇÇÇÒ ¼ö ¾øÀ¸¸ç, ÀÚ¿¬½º·´°Ô ¾ø¾îÁö±æ ¹Ù¶ø´Ï´Ù.
+ 
+[524]
+#You shouldn't sniff at this opportunity -- you may not get another like it.
+#´ç½ÅÀº ±× ±âÈ¸¸¦ ³õÄ¡¸é ¾ÈµÇ´Âµ¥, ´ç½ÅÀº ´Ù½Ã´Â ÀÌ·± ±âÈ¸¸¦ ¾òÀ» ¼ö ¾øÀ» °ÍÀÔ´Ï´Ù.
+
+[525]
+#Thank you for your letter of ...I shall be pleased to attend for an interview as requested on ...at ...o'clock.
+#´ç½ÅÀÇ ...¿ù...ÀÏ ÆíÁö¸¦ °¨»çÈ÷ ¹Ş¾Ò½À´Ï´Ù. ...ÀÏ ...½Ã¿¡ ¸éÁ¢°í»ç¿¡ ÀÀ½ÃÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[526]
+#Your product has possibilities; with our help it could be a great success.
+#´ç½ÅÀÇ »óÇ°Àº Àü¸ÁÀÌ ÀÖÀ¸¸ç, ¿ì¸®ÀÇ µµ¿òÀÌ ´õÇØÁö¸é ´õ¿í Å« ¼º°øÀ» ÀÌ·ê ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù.
+
+[527]
+#Your examination marks are rather disappointing; I hoped you would do better.
+#´ç½ÅÀÇ ½ÃÇè¼ºÀûÀº ¾ÆÁÖ ½Ç¸Á½º·´½À´Ï´Ù. ³ª´Â ¿ø·¡ ´ç½ÅÀÌ ½ÃÇèÀ» Á» ´õ Àß º¸±â¸¦ ¿øÇß¾ú½À´Ï´Ù.
+
+[528]
+#Your letter calls up the days when we worked together on the docks fifteen years ago.
+#´ç½ÅÀÌ º¸³»ÁØ ÆíÁö´Â ³»°Ô ¿ì¸®°¡ 15³â Àü ÇÔ²² ºÎµÎ¿¡¼­ ÀÏÇÏ´ø ¶§¸¦ ±â¾ïÇÏ°Ô ÇÏ¿´½À´Ï´Ù.
+
+[529]
+#You should base your opinions on facts,not on hearsay.
+#´ç½ÅÀÇ ÀÇ°ßÀº ¹İµå½Ã »ç½Ç¿¡ ±Ù°ÅÇØ¾ß ÇÏ¸ç, ±Ù°Å¾ø´Â Ç³¹®¿¡ ÀÇÇØ¼­´Â ¾ÈµË´Ï´Ù.
+
+[530]
+#Your judgment of the case is based on the presupposition that the witness is telling the truth.
+#ÀÌ ¾È°Ç¿¡ ´ëÇÑ ´ç½ÅÀÇ ÆÇ°áÀº ÁõÀÎÀÌ ¸»ÇÑ °ÍÀº ¸ğµÎ »ç½ÇÀÌ¶ó´Â °¡Á¤¿¡ ±Ù°ÅÇÑ °ÍÀÌ´Ù.
+
+[531]
+#We received your letter of ...and are indebted to you for introducing to Messrs. ...
+#´ç½ÅÃøÀÌ ..¿ù ..ÀÏ¿¡ º¸³»ÁØ ÆíÁö Àß ¹Ş¾ÒÀ¸¸ç,´ç½ÅÀÌ ¿ì¸® È¸»ç¸¦ ..È¸»ç¿¡ ¼Ò°³ÇØÁÖ¿ö¼­ °¨»çÇÕ´Ï´Ù.
+
+[532]
+#Your letter of January 10,1992 has been forwarded to us by the China Council for the Promotion of International Trade.
+#±ÍÇÏÀÇ ...¿ù ...ÀÏ º¸³»½Å ÆíÁö¸¦ Àß ¹Ş¾Ò½À´Ï´Ù. ±ÍÇÏ°¡ ¿ì¸® È¸»ç¸¦ ...È¸»ç¿¡ ¼Ò°³ÇØÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù.
+
+[533]
+#Some of the clauses in your L/C No.57141 are not in agreement with the stipulations of the S/C.
+#±ÍÇÏÀÇ Á¦57141½Å¿ëÀåÁßÀÇ ÀÏºÎ Á¶Ç×°ú ÆÇ¸Å °è¾àÀÇ ±ÔÁ¤Àº ¼­·Î ÀÏÄ¡ÇÏÁö ¾Ê½À´Ï´Ù.
+
+[534]
+#Your order is receiving our immediate attention and you can depend on us to effect delivery well within your time limit.
+#±ÍÇÏÀÇ ÁÖ¹®¼­´Â Áö±İ Á¦¶§ Ã³¸®ÁßÀÌ¸ç, ´ç½ÅÀº ¿ì¸®ÃøÀÌ ±ÔÁ¤µÈ ½Ã°£³»¿¡ ¹ß¼ÛÇÒ ¼ö ÀÖÀ» ¹Ï¾îµµ ÁÁ½À´Ï´Ù.
+
+[535]
+#Your total order last year was small,and in no way demonstrates your ability to act as our agent.
+#±ÍÇÏÀÇ Áö³­ÇØÀÇ ÁÖ¹®ÃÑ·®Àº ¸¹Áö ¾Ê¾Æ, ÀÌ°ÍÀº ±ÍÇÏ°¡ ¿ì¸®ÀÇ ´ë¸®¸¦ ¸ÃÀ» ¼ö ÀÖÀ½À» Áõ¸íÇÒ ¼ö ¾ø½À´Ï´Ù.
+
+[536]
+#You request us to inform you when the goods ordered on August 21 are ready for shipment.
+#±ÍÇÏ´Â 8¿ù 21ÀÏ ÁÖ¹° ¹°Ç°ÀÌ Á¤½Ã¼±ÀûµÉ ¶§ ±ÍÇÏ¿¡°Ô ÅëÁö´Ş¶ó°í º»»ç¿¡ ¿äÃ»ÇÑ ÀûÀÌ ÀÖ½À´Ï´Ù.
+
+[537]
+#Before you know it you'll be flying home for the winter holidays,I can hardly wait!
+#³×°¡ Áı¿¡ µ¹¾Æ¿Í °Ü¿ï ¹æÇĞÀ» º¸³¾ ½Ã°£ÀÌ ¾î´À»õ µÇ¾ú´Âµ¥, ³ª´Â ÀÌ¹Ì ±â´Ù¸®°í ÀÖ´Ù!
+
+[538]
+#Will you investigate your market and propose a price for our study?
+#´ç½Å È¸»ç´Â ´ç½Å ½ÃÀåÀ» Á¶»çÇÏ°í ¿ì¸®ÀÇ ¿¬±¸¸¦ À§ÇØ °¡°İÀ» Á¦°øÇØ ÁÙ ¼ö ÀÖ½À´Ï±î?
+
+[539]
+#You give up too easily.You could do it if you really set your mind to it.
+#´ç½ÅÀº ³Ê¹« ½±°Ô Æ÷±â¸¦ Çß¾î¿ä. ´ç½ÅÀÌ Á¤¸» °á½ÉÀ» ÇÑ´Ù¸é ´ç½ÅÀº ±× ÀÏÀ» ÇÒ ¼ö ÀÖÀ» °Å¿ä. 
+
+[540]
+#The announcement of your engagement to Robert Haines is a delightful surprise.
+#´ç½Å°ú Æ÷¹öÆ® ÇÏÀÎÁî ¾¾ÀÇ ¾àÈ¥ ¼Ò½ÄÀº Á¤¸» ±â»Û ÀÏÀÔ´Ï´Ù.
+
+[541]
+#You would wonder how so much food could be got through by such a small child.
+#ÀÌ·¸°Ô Á¶±×¸¸ ¾ÆÀÌ°¡ ¾î¶»°Ô ÀÌ·¸°Ô ¸¹Àº À½½ÄÀ» ¸ÔÀ» ¼ö ÀÖÀ» Áö ´ç½ÅÀº ÀÌ»óÇÏ°Ô ´À³¥ °ÍÀÔ´Ï´Ù.
+
+[542]
+#Why do you want a new job when you've got such a good one already?
+#´ç½ÅÀº ÀÌ¹Ì ÁÁÀº Á÷¾÷ÀÌ ÀÖ´Âµ¥, ¿Ö ´Ù¸¥ »õ·Î¿î °ÍÀ» Ã£À¸·Á ÇÕ´Ï±î?
+
+[543]
+#You'll see our house on the left,just before the road forks.
+#´ç½ÅÀº ¿ì¸® Áı ¿ŞÂÊÀ¸·Î ±× µµ·Î°¡ ¸· °¥¶óÁö´Â °÷À» º¼ °ÍÀÌ´Ù.
+
+[544]
+#We are highly pleased that your outstanding work is being recognized offer our sincere congratulations.
+#´ç½ÅÀÇ ¶Ù¾î³­ °ø·Î°¡ ÀÎÁ¤À» ¹Ş°Ô µÇ¾î ¿ì¸®´Â ¸Å¿ì ±â»Ş´Ï´Ù. Áø½ÉÀ¸·Î Ãæ½É¾î¸° ÃàÇÏ¸¦ µå¸³´Ï´Ù.
+
+[545]
+#Now that you're graduating it seems like yesterday that you proclaimed to the world that you were going to be a doctor.
+#³×°¡ ÀÇ»ç°¡ µÈ´Ù°í ¼¼»ó¿¡ ¾Ë¸° °ÍÀÌ ¾îÁ¦ °°Àºµ¥ Áö±İ ³×°¡ Á¹¾÷À» ÇÏ°Ô µÇ¾ú±¸³ª!
+
+[546]
+#Do you think we might end the discussion there? I see no point in dragging it out any further.
+#´ç½Å »ı°¢¿¡ ¿ì¸® ¿©±â±îÁö Åä·ĞÇÏ´Â °ÍÀÌ ¾î¶§¿ä? ³»°¡ º¸±â¿¡ ´õ ²ø¾îºÁ¾ß º° ÀÇ¹Ì°¡ ¾ø¾î¿ä.
+
+[547]
+#You will receive a commision of ...% and a ...% share of the profits at the end of each fiscal year.
+#´ç½ÅÀº ..%ÀÇ Ä¿¹Ì¼Ç°ú ¸Åº¯ È¸°è¿¬µµ°¡ ³¡³¯ ¶§¿¡ %ÀÇ ÀÌÀ±À» ¾òÀ» ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[548]
+#You will receive a monthly salary of ...plus a ...% commision on your sales.
+#´ç½ÅÀº ¿ù±Ş...¸¦ ¹ŞÀ» ¼ö ÀÖÀ¸¸ç, ÀÌ¿Ü¿¡ ´ç½ÅÀÇ ÆÇ¸Å¾×À» ±âÁØÀ¸·Î ...%ÀÇ Ä¿¹Ì¼ÇÀÌ Ã·°¡µË´Ï´Ù.
+
+[549]
+#You can lead a horse to water,but you cannot make him drink.
+#´ç½ÅÀÌ ¸»À» ¹°°¡¿¡ ²ø°í °¥ ¼ö´Â ÀÖÁö¸¸, ¹°À» ¸ÔÀÏ ¼ö ´Â ¾ø´Ù.
+
+[550]
+#You cannot straphang in an airliner as you can on a Taipei bus.
+#´ç½ÅÀº Å¸ÀÌÆäÀÌÀÇ ¹ö½º ¾È¿¡¼­ ¼ÕÀâÀÌ¸¦ Àâ°í ¼­ÀÖÀ» ¼ö ÀÖÁö¸¸, ¹ö½º ¾È¿¡¼­´Â ÇÒ ¼ö ¾ø´Ù.
+  
+[551]
+#Please accept our thanks for your prompt response to our letter of August 28 regarding joint venture.
+#´ç½Åµé²²¼­ ¿ì¸®ÀÇ 8¿ù 20ÀÏ  ÇÕÀÚ±â¾÷°ú °ü·ÃµÈ ÆíÁö¿¡ »¡¸® ´äÀåÀ» ÁÖ¼Å¼­ ¿ì¸®´Â ±íÀº °¨»ç¸¦ Ç¥ÇÕ´Ï´Ù.
+
+[552]
+#All of us are miserable since you've moved.The kids keep complaining,"There's no one to play with".
+#´ç½ÅµéÀÌ ¿Å°Ü°£ ÈÄ¿¡ ¿ì¸®´Â ¸ğµÎ »ó½ÉÇß½À´Ï´Ù. ¾ÆÀÌµéÀº ³î»ç¶÷ÀÌ ¾ø´Ù°í ²÷ÀÓ¾øÀÌ ºÒÆòÇÕ´Ï´Ù.
+
+[553]
+#I shall be grateful if you will take necessary measures to trace and recover the camera.
+#¿©·¯ºĞÀÌ ¸¸¾à ÇÊ¿äÇÑ Á¶Ã³¸¦ ÃëÇÏ¿© ÃßÀûÇÏ¿© ±× Ä«¸Ş¶ó¸¦ Ã£À» ¼ö ÀÖÀ¸¸é Á¤¸» ±â»Ú°Ú½À´Ï´Ù.
+
+[554]
+#The ship should be at the port of loading within 15 to 25 days after you have got the goods ready.
+#´ç½ÅµéÀº È­¹°ÁØºñ ÈÄ¿¡ 15ÀÏ¿¡¼­ 25ÀÏ ÀÌ³»¿¡ ¹è¸¦ ¼±ÀûÇ×±¸¿¡ º¸³»¾ß ÇÕ´Ï´Ù.
+
+[555]
+#We have concluded the business on an FOB basis,so the insurance should be effected by you.
+#ÀÌ È­¹°Àº F.O.BÁ¶°ÇÀ¸·Î ¼º¸³µÈ °ÍÀ¸·Î ±ÍÇÏ°¡ ÀÚ°¡º¸ÇèÀ» µé¾î¾ß ÇÕ´Ï´Ù.
+
+[556]
+#Could I impose on you for a little help with this letter? I don't quite know the best way to phrase it.
+#´ç½ÅÀÌ ³»°¡ ÀÌ ÆíÁö¸¦ ¾²´Â °ÍÀ» Á» µµ¿Í ÁÙ ¼ö ÀÖ½À´Ï±î? ³ª´Â µµ´ëÃ¼ ¾î¶»°Ô ´Ü¾î¸¦ ¼±ÅÃÇØ¾ß ÇÒ Áö ¸ğ¸£°Ú¾î¿ä.
+
+[557]
+#You could become a good musician,but your lack of practice is holding you back.
+#´ç½ÅÀº ÈÇ¸¢ÇÑ À½¾Ç°¡°¡ µÉ ¼ö ÀÖÁö¸¸, ´ç½ÅÀÇ ¿¬½ÀºÎÁ·Àº ´ç½ÅÀÇ ¹ßÀüÀ» ¸·À» °ÍÀÌ´Ù.
+
+[558]
+#You could of course have criticized him,but,instead,you cried him down rudely.
+#´ç½ÅÀÌ ±×¸¦ ºñÆòÇÏ´Â °ÍÀº ´ç¿¬ÇÏÁö¸¸, ´ç½ÅÀº ¿ÀÈ÷·Á ¿¹ÀÇ¾øÀÌ ±×¸¦ ÀüºÎ ºÎÁ¤ÇÏ¿´´Ù.
+
+[559]
+#If you pack those things down we can get more into the box.
+#´ç½ÅÀÌ ¸¸¾à ±× ¹°°ÇµéÀ» Á»´õ ´©¸¥´Ù¸é ¿ì¸®´Â ±× »óÀÚ ¾È¿¡ ¹°°ÇÀ» ³ÖÀ» ¼ö ÀÖ´Ù.
+
+[560]
+#If you don't return the article to the shop within a week,you forfeit your right to get your money back.
+#¸¸¾à ´ç½ÅÀÌ »óÇ°À» 1ÁÖÀÏ ÀÌ³»¿¡ »óÁ¡¿¡ µ¹·ÁÁÖÁö ¾ÊÀ¸¸é ´ë±İ°ªÀ» µ¹·Á ¹ŞÀ» ±Ç¸®¸¦ »ó½ÇÇÒ °ÍÀÌ´Ù.
+
+[561]
+#The cells within your body are at work supplying you with the energy you need for life.
+#´ç½Å ½ÅÃ¼¾ÈÀÇ ¼¼Æ÷°¡ ÀÏÇÏ°í ÀÖ¾î, °á±¹Àº ´ç½Å¿¡°Ô »ıÁ¸¿¡ ÇÊ¿äÇÑ ¿¡³ÊÁö¸¦ Á¦°øÇÑ´Ù.
+
+[562]
+#You have assured me that the situation at this point is hopeless and the only choice is divorce.
+#´ç½ÅÀº ¾ÆÁÖ ±àÁ¤ÀûÀ¸·Î ÀÏÀÌ ÀÌ·¸°Ô µÇ¾î ¸¸È¸ÇÒ ¼ö ¾ø°Ô µÇ¾î À¯ÀÏÇÑ ¼±ÅÃÀº ÀÌÈ¥ÀÌ¶ó°í ¸»ÇÏ¿´´Ù.
+
+[563]
+#I had to drop you a line to let you know that the two box-seat tickets you gave me were very much appreciated.
+#´ç½ÅÀÌ ³»°Ô °æ±âÀåÀÇ ¹Ú½º¼® 2ÀåÀ» º¸³» ÁÖ¾î ³ª´Â ¸î ±ÛÀÚ Àû¾î ³ªÀÇ Ãæ½É¾î¸° °¨»ç¸¦ ÀüÇÒ ¼ö ¹Û¿¡ ¾ø½À´Ï´Ù.
+
+[564]
+#You married him with your eyes open,so don't complain now!
+#´ç½ÅÀÌ ±×¿Í °áÈ¥ÇÒ ¶§ ±×ÀÇ ¸ğµç °ÍÀ» ¸Å¿ì Àß ¾Ë°í ÀÖ¾úÀ¸¹Ç·Î, Áö±İ ºÒÆòÇÏÁö ¸¶½Ã¿À!
+
+[565]
+#While you were out,a young man rang up inquiring for you.He said he would ring again later.
+#´ç½ÅÀÌ ¿ÜÃâÇÏ¿´À» ¶§ ÀşÀº ³²ÀÚ°¡ ÀüÈ­¸¦ ÇÏ¿© ´ç½ÅÀ» Ã£¾Ò½À´Ï´Ù. ±×´Â Àá½Ã ÈÄ¿¡ ´Ù½Ã °É°Ú´Ù°í ÇÏ¿´¾î¿ä.
+
+[566]
+#I am doubly indebted to you -- for the party and for your generous gift!.
+#´ç½ÅÀÌ ³ª¸¦ À§ÇÏ¿© È¯¼ÛÈ¸¸¦ ÁØºñÇÏ°í ÇªÁüÇÑ ¼±¹°À» ÁÖ½Å ´ç½ÅÀÇ Á¤¿¡ ´ëÇÏ¿© ³ª´Â ¿µ¿øÈ÷ ´Ù °±À» ¼ö ¾øÀ» °ÍÀÔ´Ï´Ù.
+
+[567]
+#You've broken it now; it can't be helped.
+#³×°¡ ÀÌ¹Ì ±×°ÍÀ» ±ú¹ö·È±â ¶§¹®¿¡ ¾î¶»°Ô ÇÒ µµ¸®°¡ ¾ø´Ù.
+
+[568]
+#You can't go halfway when you're painting the walls--once you've started you have to finish the job.
+#³×°¡ º®¿¡ ÆäÀÎÆ® Ä¥ÇÏ´Â °ÍÀ» Áß°£¿¡ Áß´ÜÇÒ ¼ö´Â ¾øÀ¸¸ç, ÀÏÀ» ³¡³»¾ß ÇÑ´Ù.
+
+[569]
+#do you work here?We all thought you would dig yourself in in Shanghai.
+#´ç½ÅÀº ¿©±â¿¡¼­ ÀÏÇÕ´Ï±î? ¿ì¸® ¸ğµÎ´Â ´ç½ÅÀÌ »óÇØ¿¡¼­ Á¤ÂøÇÒ °ÍÀÌ¶ó°í ¿©°å½À´Ï´Ù.
+ 
+[570]
+#You've lingered long enough over breakfast.Eat up.We're leaving in five minutes.
+#´ç½ÅÀº Á¡½É ÇÑ ³¢ ¸Ô´Â °ÍÀÌ ³Ê¹« ´À¸®±º¿ä. »¡¸® µå¼¼¿ä. ¿ì¸®´Â 5ºĞ ÈÄ¿¡ °¡·Á°í ÇÕ´Ï´Ù.
+
+[571]
+#You must be as blind as a bat.I was standing ten yards away,and you looked straight through me.
+#³Ê Á¤¸» ´«¶á ºÀ»ç±¸³ª. ±×¶§ ³»°¡ °Ü¿ì10¸¶ÀÏ ¹Û¿¡ ¼­ÀÖ¾ú´Âµ¥, ³Ê´Â ³ª¸¦ º¸Áö ¸øÇß¾î.
+
+[572]
+#It's all very well for you to say you're sorry,but I've been waiting here for two hours!
+#³×°¡ ´Ù¸¸ ¹Ì¾ÈÇÏ´Ù´Â ¸»¸¸ÇÏ¿´´Ù¸é ¾Æ¹« ÀÏÀÌ ¾ø¾úÀ» ÅÙµ¥,³ª´Â ¿©±â¼­ 2½Ã°£ÀÌ³ª ±â´Ù·È¾î!
+
+[573]
+#You've always aimed high,and your mother and I encouraged you every step of the way.
+#³Ê´Â Ç×»ó ¸ñÇ¥´Â ³ô°Ô Á¤ÇØ ³ÊÀÇ ¾ö¸¶¿Í ³ªµµ Ç×»ó ³Ê¸¦ ÀÌ·¸°Ô °İ·ÁÇß´Ù. 
+
+[574]
+#You have to be very exact in this job,because a small mistake can make a big difference.
+#³Ê´Â ÀÌ ÀÏÀ» ÇÏ´Âµ¥ ¹İµå½Ã ¾ÆÁÖ Á¶½ÉÀ» ÇØ¾ß ÇÏ´Âµ¥, ¾ÆÁÖ ÀÛÀº ½Ç¼öµµ ¾ÆÁÖ Å« Â÷ÀÌ¸¦ ¸¸µé ¼ö ÀÖ±â ¶§¹®ÀÌ´Ù.
+
+[575]
+#Prince Nesvitsky stood with his big body wedged against the railing.
+#³×½ººñÆ®½ºÅ° °øÀÛÀº ±×ÀÇ ¶×¶×ÇÑ ¸öÀ» ³­°£¿¡ ±â´ë°í ¼­ ÀÖ¾ú´Ù.
+
+[576]
+#Your dinner party of the nineteenth sounded so pleasant,and now I suddenly find that I cannot come.
+#´ç½ÅÀÌ 19ÀÏ¿¡ °ÅÇàÇÏ´Â ¿¬È¸´Â Á¤¸» ´ë´ÜÇÒ °Í °°À¸³ª, ³ª´Â Áö±İ Âü°¡ÇÒ ¼ö°¡ ¾ø½À´Ï´Ù.
+  
+[577]
+#Your help will lead to the solution of the problem and we will be ever grateful to you.
+#´ç½ÅÀÇ µµ¿òÀÌ ÀåÂ÷ ¿ì¸®ÀÇ ¹®Á¦¸¦ ÇØ°áÇÒ ¼ö ÀÖ´Ù¸é ¿ì¸®´Â Á¤¸» °í¸¿°Ô ¿©±æ °ÍÀÔ´Ï´Ù.
+
+[578]
+#In your letter you ask us for a special price discount of 5% off the list price.
+#´ç½ÅÀº ÆíÁö¿¡¼­ ¿ì¸®¿¡°Ô °¡°İÇ¥ÀÇ °¡°İ¿¡¼­ 5%¸¦ Æ¯º°È÷ ÇÒÀÎÇØ´Ş¶ó´Â ¿ä±¸¸¦ Çß½À´Ï´Ù.
+
+[579]
+#Your friend John,as he is known among the English people on board,has a good baritone voice.
+#´ç½ÅÀÇ ¿µ±¹ Ä£±¸ Á¸Àº ¹èÀ§ÀÇ ¿µ±¹ »ç¶÷µé Áß¿¡¼­ ¾ÆÁÖ ÈÇ¸¢ÇÑ »ç¶÷À¸·Î ±×´Â ÈÇ¸¢ÇÑ ¹Ù¸®Åæ ¸ñ¼Ò¸®¸¦ °®°í ÀÖ´Ù.
+
+[580]
+#Your thinking on the subject would contribute greatly to the success of the conference.
+#´ç½ÅÀÌ ÀÌ Àü¹®¹®Á¦ ¹æ¸éÀÇ °ßÇØ°¡ ÀÌ¹ø È¸ÀÇÀÇ ¼º°ø¿¡ ¸¹Àº ÀÛ¿ëÀ» ÀÏÀ¸Å³ °ÍÀÔ´Ï´Ù.
+
+[581]
+#You can watch television or listen to radio programs to help pass the time while you recuperate.
+#´ç½ÅÀÌ ÅÚ·¹ºñÀüÀ» º¸°Å³ª ¶óµğ¿À¸¦ µè°Å³ª ÇÏ¸é ¿ä¾çÇÏ´Â µ¿¾È ½Ã°£À» º¸³»´Â µ¥ µµ¿òÀÌ µÉ °ÍÀÌ´Ù. 
+
+[582]
+#We should appreciate it if you would let us know the proposed title of your paper before December 20,1973.
+#´ç½ÅÀÌ ¸¸¾à 1973³â 12¿ù 20ÀÏ ÀÌÀü¿¡ ´ç½ÅÀÌ ÃÊ¾ÈÇÑ Å¸ÀÌÆ²À» ¾Ë·ÁÁÖ½Ã¸é ¿ì¸®´Â ¸Å¿ì °¨»çÇÒ °ÍÀÔ´Ï´Ù.
+
+[583]
+#I shall be glad if you will send me patterns with your lowest prices and best discount for cash.
+#´ç½ÅÀÌ ¸¸¾à »ùÇÃÀ» º¸³¾ ¼ö ÀÖÀ¸¸é, ÇÔ²² ÃÖÀú °¡°İ°ú Çö±İÁöºÒ ÃÖ°íÇÒÀÎÀ²À» º¸³»ÁÖ½Ã¸é ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[584]
+#I recieve your letter of May 20,we are pleased to suggest the following firms.
+#´ç½ÅÀÌ 5¿ù 20ÀÏ¿¡ º¸³»ÁÖ½Å ÆíÁö¸¦ ÀÌ¹Ì ¹Ş¾ÒÀ¸¸ç, ´ç½ÅÀÌ ±â²¨ÀÌ ¾Æ·¡ ¼­¼úÇÑ È¸»ç¸¦ ¼Ò°³ÇÕ´Ï´Ù.
+
+[585]
+#We are having our best effort and prompt attention in processing the matter in your inquiry of May 10.
+#´ç½ÅÀÌ 5¿ù 10ÀÏÀÇ ¹®ÀÇ ÆíÁö¿¡¼­ ¾ğ±ŞÇÑ ÀÏÀ» ¿ì¸®´Â Áö±İ Àü·ÂÀ» ´ÙÇØ Ã³¸® Áß¿¡ ÀÖ½À´Ï´Ù.
+
+[586]
+#Yours of yesterday to hand,covering a cheque,value £¤200,000 for which we enclose a receipt.
+#´ç½ÅÀÇ ¾îÁ¦ ÆíÁö¿Í ¾×¸é°¡ 20¸¸¿ø ¼öÇ¥¸¦ ÀÌ¹Ì °¨»çÈ÷ ¹Ş¾ÒÀ¸¸ç,¿©±â¿¡ ¿µ¼öÁõÀ» º¸³»µå¸³´Ï´Ù.
+
+[587]
+#The Newcastle coal miners laid in all the collieries in protest of the wage freeze.
+#´ºÄ³½½ Åº±¤ ±Ù·ÎÀÚµéÀº ¸ğµç Åº±¤ÀÇ »ı»êÀ» Áß´ÜÇÏ¿© ÀÓ±İµ¿°á¿¡ Ç×ÀÇÇÏ¿´´Ù.
+
+[588]
+#The girl is only playing with her breakfast;she is really off her feed owing to a bad cold.
+#¿©ÀÚ ¾ÆÀÌ´Â ¾ïÁö·Î ¾ÆÄ§À» Á¶±İ ¸Ô¾ú´Ù. ¿©ÀÚ ¾ÆÀÌ´Â ½ÉÇÑ °¨±â¿¡ °É·Á¼­ Á¤¸»·Î ¸Ô°í ½ÍÁö ¾Ê¾Ò´Ù.
+
+[589]
+#The actress' voice,very low and very soft,made the audience give up whispering and listen.
+#¿©ÀÚ ÁÖÀÎ°øÀÇ ¸ñ¼Ò¸®´Â ¾ÆÁÖ ³·°í ¾ÆÁÖ ºÎµå·¯¿ö °üÁßÀ¸·Î ÇÏ¿©±İ ±Ó¼Ó¸»À» Áß´ÜÇÏ°í ±Í ±â¿ï¿© µè°Ô ÇÏ¿´´Ù.
+
+[590]
+#The hostess didn't know what to do,as she hadn't got enough food to go round so many people.
+#¿©ÀÚ ÁıÁÖÀÎÀº ÀÌ·¸°Ô ¸¹Àº »ç¶÷À» ¸ÔÀÏ ÃæºĞÇÑ À½½ÄÀÌ ¾ø¾î¼­ ¾î¶»°Ô ÇØ¾ß ÇÒ Áö ¸ô¶ú´Ù.
+
+[591]
+#The Parkers brought away rather mixed impressions of their holiday in Spain.
+#ÆÄÄ¿ ÀÏ°¡´Â ½ºÆäÀÎ¿¡¼­ ÈŞ°¡¸¦ º¸³»°í ¿©·¯ °¡Áö ´Ù¸¥ ÀÎ»óÀ» °¡Áö°í ¿Ô´Ù.
+  
+[592]
+#Mrs Pankhurst,who fought for votes for women,was a forerunner of the modern women's movement.
+# Pankhurst ºÎÀÎÀº ¿©ÀÚÀÇ ¼±°Å±ÇÀ» À§ÇÏ¿© ÅõÀïÇÑ Çö´ë ¿©¼º¿îµ¿ÀÇ ¼±±¸ÀÚÀÌ´Ù.
+ 
+[593]
+#We hope that you will realize our awkward situation and give your assistance in our business.
+#±Í»ç°¡ ¿ì¸®ÀÇ °ï¶õÀ» ¾çÇØÇÏ¿© ½Ö¹æÀÇ ±³¿ª¿¡ ÀÖ¾î¼­ ¿ì¸®¿¡°Ô µµ¿òÀ» ÁÖ±â¸¦ ¹Ù¶ø´Ï´Ù.
+
+[594]
+#The renegade attempted to shoot off the captain but was caught before he pulled out his pistol.
+#¹è¹İÀÚ°¡ ´ëÀåÀ» ½î¾Æ Á×ÀÌ·Á°í ÇÏ¿´À¸³ª, ±×°¡ ±ÇÃÑÀ» ´ç±â±â Àü¿¡ ÀâÇû´Ù.
+
+[595]
+#Paley had the cheek to say that he was one of those who had pulled themselves up.
+#Paley´Â »·»·½º·¯¿ö ºÎ²ô·¯¿î ÁÙ ¸ğ¸£°í ±×´Â ÀÚ±â°¡ ³ë·ÂÇÏ¿© ÀÚ¼ö¼º°¡ÇÑ ±×·± ·ùÀÇ »ç¶÷¿¡ ¼ÓÇÑ´Ù°í ¸»ÇÏ¿´´Ù.
+
+[596]
+#The images of his dead friends kept blotting out the pages,he could not think of them without seeing them.
+#Ä£±¸µéÀÇ ¸ğ½ÀÀÌ Ç×»ó Ã¥ ÆäÀÌÁö¸¦ °¡·È´Ù. ±×´Â ±×µéÀ» »ı°¢ÇÏÀÚ¸¶ÀÚ ±×µéÀ» º» °Í °°¾Ò´Ù.
+
+[597]
+#Wanted :Stenographer with some knowledge of bookkeeping.Ability to speak and write English highly desirable.
+#¼Ó±â»ç 1¸í, ºÎ±â¸¦ Á¶±İ ¾Æ´Â »ç¶÷À» ¿øÇÔ. ¿µ¾îÈ¸È­¿Í ¿µÀÛ¹®ÀÌ °¡´ÉÇÑ »ç¶÷À» ¿ì¼± Ã¤¿ëÇÔ.
+
+[598]
+#I had hoped that it would be possible for me to be there,but I now find the rush of business makes it impractical.
+#Ã³À½¿¡ ³ª´Â ÀÌ¹ø È¸ÀÇ¿¡ Âü¼®ÇÏ°í ½Í¾úÀ¸³ª, Áö±İÀº ÀÏÀÌ ¹Ù»Ú´Ù´Â °ÍÀ» ¾Ë°Ô µÇ¾î È¸ÀÇ¿¡ °¥ ¼ö ¾ø´Ù.
+
+[599]
+#He said he was an insurance salesman but later she realized he was a fraud.
+#Ã³À½¿¡ ±×´Â ±×°¡ º¸ÇèÈ¸»çÀÇ ¼¼ÀÏÁî¸ÇÀÌ¶ó°í ÇÏ¿´À¸³ª, ±×³à´Â ÈÄ¿¡ ±×°¡ »ç±â²ÛÀÌ¶ó´Â °ÍÀ» ¾Ë¾Ò´Ù.
+
+[600]
+#Our attempt to climb higher was our undoing: we fell off the rock.
+#´õ ³ôÀº °÷¿¡ ¿Ã¶ó°¡·Á´Â ¿ì¸®ÀÇ ½Ãµµ°¡ ½ÇÆĞÇÑ ÀÌÀ¯´Â ¿ì¸®°¡ ¹ÙÀ§¿¡¼­ ¶³¾îÁ³±â ¶§¹®ÀÌ´Ù.
+
+[601]
+#The salary as agreed in the contract will be transferred monthly to the representative's account.
+#°è¾à¿¡¼­ ÁöºÒÀ» µ¿ÀÇÇÑ ºÀ±ŞÀº ¿ù¸¶´Ù ¾÷¹«´ëÇ¥ ±¸ÁÂ·Î ÀüÀÔµÉ °ÍÀÌ´Ù.
+
+[602]
+#Just a few days ago,we happily rallied here to give Ms Jeanne a warm welcome.
+#°Ü¿ì ¸çÄ¥ Àü¿¡ ¿ì¸®´Â ¿©±â¿¡¼­ Áö´Ï ¿©»ç¸¦ µû¶æÇÏ°Ô È¯¿µÇÏ±â À§ÇÏ¿© Áñ°Ì°Ô ÇÑÀÚ¸®¿¡ ¸ğ¿´¾ú´Ù.
+
+[603]
+#The gunman notched up five victims on the handle of his gun.
+#ÃÑÀâÀÌ´Â ÀÚ½ÅÀÇ ÃÑ¿¡ 5°³ÀÇ ÈçÀûÀ» ¸¸µé¾î 5¸íÀ» Á×ÀÎ °ÍÀ» Ç¥½ÃÇÏ¿´´Ù.
+
+[604]
+#"What will they think if they're shot out and we're moved in? " asked George.
+#"¸¸¾à ±×µéÀ» ÂÑ¾Æ³»°í ¿ì¸®°¡ µé¾î°¡¼­ »ì¸é ±×µéÀÌ ¾î¶»°Ô »ı°¢ÇÒ ±î?ÇÏ°í Á¶Áö°¡ ¹°¾ú´Ù.
+
+[605]
+#The first regnalyear of George V was from May 6,1910 to May 5,1911.
+#ÁÒÁö 5¼¼ÀÇ Ã¹¹øÂ° ÁïÀ§ ±â¿øÀº 1910³â 5¿ù 6ÀÏ¿¡¼­ 1911³â 5¿ù 5ÀÏÀÌ´Ù.
+
+[606]
+#Instead of S.S."..." as previously advised,you are now requested to ship the goods of this order on the S.S."..."
+#ÀÌ ¿À´õ¸¦ ¿ø·¡ ÅëÁöÇÑ ...È£°¡ ¾Æ´Ï¶ó, ...È£·Î Æ÷ÀåÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[607]
+#Please quote us CIF New York including 3% commission.
+#3%ÀÇ Ä¿¹Ì¼ÇÀ» Æ÷ÇÔÇÑ CIF ´º¿åÀ» ¿ì¸®¿¡°Ô ¾Ë·ÁÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[608]
+#Please wait a few minutes ; I must put my thoughts together before I give you a definite reply.
+#¸î ºĞ¸¸ ±â´Ù·Á ÁÖ¼¼¿ä. ³ª´Â ¹İµå½Ã ½Ç¸¶¸®¸¦ Ç®Àº ÈÄ¿¡ ´ç½Å¿¡°Ô Á¤È®ÇÑ ´äº¯À» ÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+[609]
+#If you find anything that will not be available,in the list of things we will need,let me know.
+#¸ñ·Ï¿¡ ÀÖ´Â ¿ì¸®°¡ ¹Ù·Î ¾µ ¹°°Ç Áß¿¡ ´ç½ÅµéÀÌ ºÎÁ·ÇÑ °ÍÀÌ ÀÖ´ÂÁö ¾ø´ÂÁö ³ª¿¡°Ô ¾Ë·ÁÁÖ¼¼¿ä.
+
+[610]
+#Please let us know the formalities and send us the forms to be completed for our consideration.
+#¿ì¸® È¸»ç°¡ ¾î¶² ¼ö¼ÓÀ» Ã³¸®ÇØ¾ß ÇÏ´ÂÁö ¾Ë·ÁÁÖ½Ã°í, º¸³»ÁÖ½Å ¼­½ÄÀº °í·ÁÇÏ´Âµ¥ µµ¿òÀÌ µÉ °ÍÀÔ´Ï´Ù.
+
+[611]
+#I shall be glad if you will send me you price-list of clarets,and state your best terms.
+#ºÓÀº Æ÷µµÁÖ °¡°İÇ¥¸¦ º¸³»ÁÖ½Ã°í, °¡Àå ÁÁÀº ±³¿ª Á¶°ÇÀ» ¾Ë·ÁÁÖ½Ç ¼ö ÀÖÀ¸¸é ¸Å¿ì ±â»Ú°Ú½À´Ï´Ù.
+
+[612]
+#Please send me samples of your sundries as advertised,with the lowest prices and best terms.
+#´ç½ÅÀÌ ³½ ±¤°í ÁßÀÇ ÀâÈ­ °ßº»À» º¸³»ÁÖ½Ã°í ÃÖÀú°¡°İ°ú ÃÖ°í¿ì´ëÁ¶°ÇÀ» µ¿ºÀÇÏ¿© ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[613]
+#Please send 100 bales of cotton,marked £Î¡±1/100,by rail to our address.
+#100Æ÷ÀÇ ¸éÈ­¸¦ Ã¶·Î¸¦ ÅëÇÏ¿© º»»ç¿¡ ¿î¹İÇÏ¿© ÁÖ½Ã°í N /100À» Ç¥½ÃÇØÁÖ½Ê½Ã¿ä.
+
+[614]
+#Please ship my thirty bales cotton,now kept in your warehouse,to Messrs.Okada £¦ Co.,and forward B/L to me.
+#±Í»ç¿¡ 30Æ÷ÀÇ ¸éÈ­¸¦ º¸°üÇÏ¿© °­ÀüÈ¸»ç·Î ¿î¹İÇÏ°í, ¼±ÇÏÁõ±ÇÀ» º»»ç¿¡ º¸³»ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[615]
+#I shall be obliged if you will send me the following by rail,well packed in cases.
+#¾Æ·¡ÀÇ È­¹°À» ³ª¹«»óÀÚ¿¡ Àß Æ÷ÀåÇÏ¿© Ã¶·Î¿î¼Û¹æ½ÄÀ¸·Î ¿ì¸®Ãø¿¡ ¿î¹İÇÏ¿© ÁÖ½Ã¸é ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[616]
+#Please accept the deepest sympathy of all your husband's former colleagues here,and of myself personally.
+#´ç½Å ³²Æí¿¡ ´ëÇÑ º»»çÀÇ ÀüÃ¼ µ¿·á¿Í Àú º»ÀÎÀÇ ±íÀº µ¿Á¤À» ¹Ş¾ÆÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[617]
+#Please could you let me know at once so that if it's not possible,I could make other arrangements.
+#°¡´ÉÇÑ »¡¸® ³ª¿¡°Ô Á¤È®ÇÑ ¼Ò½ÄÀ» ÁÖ½Ê½Ã¿ä. ¸¸¾à ´ç½ÅÂÊÀÌ ¾ÈµÈ´Ù¸é ³ª´Â ´Ù¸¥ ÇÕÀÇ¸¦ Ã£À» ¼ö ÀÖ½À´Ï´Ù. 
+
+[618]
+#Please inform us of your insurance rates as soon as possible.We would appreciate a reply by return mail.
+#°¡´ÉÇÑ »¡¸® ±Í»çÀÇ ¿äÀ²À» ¿ì¸®¿¡°Ô ¾Ë·ÁÁÖ½Ê½Ã¿ä. ÀúÈñ È¸»ç´Â ±ÍÇÏÀÇ È¸´ä¿¡ ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[619]
+#Will you figure it all up and let me know exactly how much is required?
+#±×°ÍÀ» ÀüºÎ ÇÕ»êÇÏ¿© ÇÊ¿äÇÑ ¼ö·®À» Á¤È®ÇÏ°Ô ³ª¿¡°Ô ¾Ë·ÁÁÖ½Ê½Ã¿À.
+
+[620]
+#Please consult your bank and see if they will reduce the required deposit to a minimum.
+#´ç½ÅÀÌ ÀºÇà°ú »óÀÇÇÏ¿© ¸ğµç ÀÚ±İÀ» ÃÖÀúÇÑµµ±îÁö ÁÙÀÏ ¼ö ÀÖ´ÂÁö¿ä?
+
+[621]
+#Come and bring your wife of other guest.We look forward to seeing you.
+#ÀÌ¹ø¿¡´Â ºÎÀÎÀÌ³ª ±âÅ¸ ¼Õ´Ô ÇÑ ºĞÀ» ¸ğ½Ã°í ¿ÍÁÖ½Ê½Ã¿À. ¿ì¸®´Â ´ç½ÅÀÌ ¿À±â¸¦ ±â´ëÇÏ°Ú½À´Ï´Ù.
+
+[622]
+#Could you please tell us the quantity you require so that we may adjust our price accordingly.
+#´ç½ÅµéÀÌ ´ë·« ÁÖ¹®ÇÒ ¼ö·®¿¡ ´ëÇÏ¿© ¾Ë·ÁÁÖ¼Å¼­ ¿ì¸®°¡ »óÀÀÇÏ´Â Á¶Á¤À» ÇÒ ¼ö ÀÖ°Ô ÇÏ¿© ÁÖ½Ê½Ã¿À.
+
+[623]
+#Please advise your buyers to accept the quoted shipment time as it is really the earliest we can obtain.
+#´ç½ÅÀÇ ¹ÙÀÌ¾î¿¡°Ô ¿ì¸®ÃøÀÌ ³»³õÀº ¼±Àû±â°£À» ¹Ş¾ÆµéÀÌµµ·Ï ¼³µæÇÏ¿© ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù. ÀÌ°ÍÀº ¿ì¸®ÃøÀÌ ¾òÀ» ¼ö ÀÖ´Â °¡Àå ºü¸¥ Ãâ¹ü±âÀÏÀÔ´Ï´Ù.
+
+[624]
+#Please fill up from the front----maybe the speaker's voice won't carry to the back.
+#¿ì¼± ¾ÕºÎºĞÀÇ ÀÚ¸®¸¦ Ã¤¿öÁÖ¼¼¿ä. °­»çÀÇ ¸ñ¼Ò¸®°¡ ¾Æ¸¶ µŞÁÂ¼®±îÁö µé¸®Áö ¾ÊÀ» °Ì´Ï´Ù.
+
+[625]
+#Please see to it that the goods are shipped before 15th May and insured against all risks for 150% of invoice value.
+#ÀÌ È­¹°Àº 12¿ù 15ÀÏ Àü¿¡ ¼±ÀûÇØ¾ß ÇÏ¸ç, ¼ÛÀå±İ¾×ÀÇ 150%·Î º¸Çè°¡ÀÔÀ» ÇØ¾ß ÇÏ´Â °ÍÀ» ÁÖÀÇ¹Ù¶ø´Ï´Ù.
+
+[626]
+#Please note that our price of ...has been adjusted to ...per. .CIF...,which supersedes our previous quotation.
+#¿ì¸®ÃøÀº ...°¡°İÀ» ÀÌ¹Ì ¸Å...CIF·Î Á¶Á¤ÇÏ¿© ¿ì¸®ÃøÀÇ Àü¹ø È£°¡¸¦ ´ë½ÅÇÒ ¼ö ÀÖÀ½À» ÁÖÀÇ¹Ù¶ø´Ï´Ù.
+
+[627]
+#Our family went camping last summer.We had to buy a new tent.
+#ÀÛ³â ¿©¸§ ¿ì¸® °¡Á· ÀüºÎ´Â Ä·ÇÎÀ» °¬´Ù. ¿ì¸®´Â »õ ÅÙÆ®¸¦ »ç¾ß Çß´Ù.
+
+[628]
+#The cast ran through the whole play once without lights or scenery.
+#ÀüÃ¼ ¿¬±âÀÚµéÀº Á¶¸íÀÌ³ª ¹«´ë ÀåÄ¡ ¾øÀÌ ºü¸£°Ô ÇÑ ¹ø ¹«´ë ¿¬½ÀÀ» ÇÏ¿´´Ù.
+
+[629]
+#The world listens.The world waits to see what we will do.
+#¿ì¸®°¡ ¹«¾ùÀ» ÇÒ °ÍÀÎÁö Àü ¼¼°è°¡ ÁÖ¸ñÇÏ°í ÀÖ°í, Àü ¼¼°è°¡ ±Í ±â¿ïÀÌ°í ÀÖ°í, Àü ¼¼°è°¡ ±â´Ù¸®°í ÀÖ´Ù.
+
+[630]
+#The pugilist blocked his opponent's blows and then put in a sudden right to the jaw.
+#±ÇÅõ¼±¼ö´Â »ó´ë¹æÀÇ °ø°İÀ» ¸·¾Æ³»°í ÀÌ¾î¼­ ¿À¸¥¼ÕÀ¸·Î ±×ÀÇ ÅÎÀ» ÇâÇØ °©ÀÚ±â ÇÑ´ë ³¯·È´Ù.
+
+[631]
+#Then,just like the storybook romances,my knight in shining armor came one the scenes.
+#±×·± ÈÄ ¸¶Ä¡ ¾ÖÁ¤¼Ò¼³¿¡¼­ ¹¦»çÇÑ °Í Ã³·³ ³ªÀÇ ±â»ç°¡ ¹øÂ½°Å¸®´Â °©¿ÊÀ» °ÉÄ¡°í ³ªÅ¸³µ´Ù.
+
+[632]
+#Wouldn't it be better for her to continue to do this work than to take up something new?
+#±×³à¿¡°Ô ´Ù¸¥ ÀÏÀ» ÇÏµµ·Ï ÇÏ´Â °Íº¸´Ù ÀÌÀÏÀ» °è¼ÓÇÏµµ·Ï ÇÏ´Â °ÍÀÌ ´õ ÁÁÁö ¾ÊÀ» ±î¿ä?
+
+[633]
+#Let's go through the last scene in Act 2 again.We haven't got it right yet.
+#¿ì¸®´Â Á¦2¸·ÀÇ ¸¶Áö¸· ÀåÀ» ´Ù½Ã ÇÑ¹ø ¸®Çã¼³ÇÕ½Ã´Ù. ¿ì¸®´Â ¾ÆÁ÷ ÀÌ ¿¬±ØÀ» Àß ÇÏÁö ¸øÇØ¿ä.
+
+[634]
+#Let's answer the question in general; we haven't time to consider all the niceties.
+#¿ì¸®´Â ÀÌ ¹®Á¦¿¡ ´ëÇÏ¿© ´ë·«ÀûÀ¸·Î ´ë´äÇÕ½Ã´Ù. ¿ì¸®´Â ¸ğµÎ ÀÚ¼¼È÷ »ı°¢ÇÒ ½Ã°£ÀÌ ¾ø¾î¿ä.
+
+[635]
+#Let us rally closer round the Party Central Committee to win still greater victories.
+#¿ì¸®´Â ´õ¿í ±ä¹ĞÇÏ°Ô ´çÁß¾ÓÀÇ ÁÖÀ§¿¡¼­ ´Ü°áÇÏ¿© ´õ Å« ½Â¸®¸¦ ¾òµµ·Ï ÇÕ½Ã´Ù.
+
+[636]
+#Let's carry on with the work even though we may run into still greater difficulties.
+#¿ì¸®´Â ÀÌ ÀÏÀ» °è¼ÓÇØ ³ª°©½Ã´Ù. ºñ·Ï ´õ Å« °ï¶õÀ» ´çÇÑ´ÙÇØµµ ÇØ ³ª°¡¾ß ÇÕ´Ï´Ù.
+
+[637]
+#He was handed a glass filled with a thick,green liquid.It slipped down pleasantly enough.
+#´©±º°¡ ±×¿¡°Ô ÀÜ °¡µæÈ÷ ³ì»öÀÇ ÁøÇÑ À½·á¼ö¸¦ °¡Á®´Ù ÁÖ¾ú´Ù. ±×´Â ¾ÆÁÖ ´Ş°Ô ¸¶¼Å¹ö·È´Ù.
+
+[638]
+#The people themselves feel the misery of having no channels to remove sullage away clear from every habitation.
+#»ç¶÷µéÀº ÁıÁı ¸¶´Ù ¿À¼ö¸¦ ±ú²ıÇÏ°Ô ¹èÃâµÉ ¼ö ÀÖ´Â ¼öµµ°¡ ¾ø´Â °ÍÀ» Èûµé°Ô ´À²¼´Ù.
+
+[639]
+#It's that sanctimonious air that people can't stand--small wonder he's laughed at.
+#»ç¶÷µéÀÌ ÂüÀ» ¼ö ¾ø´Â °ÍÀº ±×ÀÇ °¡Áõ½º·± ¸ğ½ÀÀÌ¾ú´Ù. ¾îÂ¾Áö ±×´Â Á¶¼Ò¸¦ ¹ŞÀ» °ÍÀÌ´Ù.
+
+[640]
+#It is conceivable that there will be a third world war,but I hope it won't happen.
+#»ç¶÷µéÀº Á¦3Â÷ ¼¼°è´ëÀüÀÌ ÀÖÀ» °Å¶ó°í ¹ÏÀ¸³ª, ³ª´Â ±×°ÍÀÌ ¹ß»ıÇÏÁö ¾Ê±â¸¦ Èñ¸ÁÇÑ´Ù.
+
+[641]
+#The people want peace.But if aggressors insist on fighting a war ,you have no alternative but to prepare for war.
+#»ç¶÷µéÀº ÆòÈ­¸¦ ¿øÇÑ´Ù. ±×·¯³ª ¸¸¾à Ä§·«ÀÚµéÀÌ ¹İµå½Ã ½Î¿òÀ» ÇÏ·Á ÇÑ´Ù¸é, ³Êµµ ÇÏ´Â ¼ö ¾øÀÌ ½Î¿òÀ» ÁØºñÇØ¾ß ÇÑ´Ù.
+
+[642]
+#It is laid down in plain terms that any boat fishing off the coast will be apprehended.
+#¾î¶² ¹è°¡ ÀÌ ÀÏ´ë¿¡¼­ Æ÷È¹ÇÏ´Â ÀÏÀ» ÇÏ¸é ±¸·ù¸¦ ´çÇÑ´Ù´Â °ÍÀº ¸í¹®À¸·Î ±ÔÁ¤µÈ °ÍÀÌ´Ù.
+
+[643]
+#Any heart,turned Godward,feels more joy in one short hour of prayer.
+#¾î¶² »ç¶÷ÀÌµç ¸¶À½ÀÌ ½Å¿¡°Ô·Î ÇâÇÏ¸é ÂªÀº 1½Ã°£ ÀÌ³»ÀÇ ±âµµ¿¡¼­ À¯ÄèÇÔÀ» ´À³¥ °ÍÀÌ´Ù.
+
+[644]
+#We have pleasure in recommending to you . .and enclose herewith Quotation No. ..for your consideration.
+#¿µ±¤½º·´°Ô ±ÍÇÏ¿¡°Ô ...À» ÃßÃµÇÏ¸ç, Á¦..È£ °ßÀû¼­¸¦ µ¿ºÀÇÏ¿© º¸³»µå¸®´Ï ±ÍÇÏ°¡ Âü°íÇÏ½Ã±â ¹Ù¶ø´Ï´Ù. 
+
+[645]
+#If not,you will send us a suitable one and bear all expenses in connection with this replacement.
+#¸¸¾à Àû´çÇÏÁö ¾ÊÀ¸¸é ´ç½ÅÀº ¹İµå½Ã Ã¥ÀÓÁö°í ¹Ù²Ù¾î¾ß ÇÏ¸ç, ±³È¯À¸·Î ÀÎÇÏ¿© ¹ß»ıÇÏ´Â ¸ğµç ºñ¿ëÀ» ºÎ´ãÇØ¾ß ÇÑ´Ù.
+
+[646]
+#If you wish these goods to be forwarded immediately,they shall be unloaded direct from the vessel into the trucks.
+#¸¸¾à ±Í»ç°¡ ¹Ù·Î ÀÌ È­¹°À» ¿î¹İÇÏ±â ¿øÇÑ´Ù¸é ¿ì¸®´Â È­¹°¼±¿¡¼­ ¹Ù·Î Æ®·°À¸·Î ¿Å°Ü ½ÇÀ» °ÍÀÔ´Ï´Ù.
+
+[647]
+#If this initial order turns out satisfactory,we shall be able to give you a large order in the near future.
+#¸¸¾à Ã³À½ ¿À´õ°¡ ¸¸Á·½º·¯¿ì¸é ¿ì¸®´Â °¡±î¿î ½ÃÀÏ ¾È¿¡ ±ÍÇÏ¿¡°Ô ´ë·®ÀÇ ¿À´õ¸¦ ÁÙ ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù.
+
+[648]
+#If the agent wishes to work for other firms as well,he must obtain our permission first.
+#¸¸¾à ´ë¸®ÀÎÀÌ ´Ù¸¥ »óÈ£¸¦ À§ÇÏ¿© ÀÏÇÑ´Ù¸é ±×´Â ¿ì¼± ¿ì¸®ÃøÀÇ µ¿ÀÇ¸¦ ¾ò¾î¾ß ÇÑ´Ù.
+
+[649]
+#When it comes down to sheer strength,there is no animal that can match the elephant.
+#¸¸¾à ´ÜÁö Èû¸¸À» ³íÇÑ´Ù¸é ÄÚ³¢¸®¿Í ¼­·Î ºñ±æ¸¸ÇÑ µ¿¹°ÀÌ ¾ø´Ù.
+
+[650]
+#We will allow you a special rebate of ...% if the business comes up to ...in the first quarter.
+#¸¸¾à 1ºĞ±â ¹«¿ª·®ÀÌ ...¿¡ µµ´ŞÇÏ¸é ¿ì¸®´Â ´ç½ÅÃø¿¡ ..%ÀÇ Æ¯º°ÇÑ È¯ºÒ±İÀ» ÁÙ °ÍÀÔ´Ï´Ù.
+
+[651]
+#If you need more objective information concerning our credit ,please direct all inquiries to the First Bank.
+#¸¸¾à ±Í»ç¿¡¼­ ¿ì¸®ÀÇ ½Å¿ë¿¡ ´ëÇÏ¿© ´õ¿í Àß ¾Ë°í ½ÍÀ¸½Ã´Ù¸é, Á¦ÀÏ ÀºÇà¿¡ Á÷Á¢ ¹®ÀÇÇÏ½Ê½Ã¿À.
+
+[652]
+#Many houses could be warmer if they were insulated so that the heat is not lost.
+#¸¸¾à ´Ü¿­À» °¡ÇÏ¿© ¿­·®ÀÌ »õ¾î ³ª°¡Áö ¾Ê°Ô ÇÏ¸é ¸¹Àº ÁıÀÌ ´õ µû¶æÇØÁú °ÍÀÌ´Ù.
+
+[653]
+#If the customer wishes to choose a carrier other than truck,he must bear the additional charges.
+#¸¸¾à °í°´ÀÌ Æ®·° ÀÌ¿ÜÀÇ ¿î¼Û¼ö´ÜÀ» ¿ä±¸ÇÑ´Ù¸é °¡°İ ÀÌ¿ÜÀÇ ºñ¿ëÀ» ¹İµå½Ã ºÎ´ãÇØ¾ß ÇÑ´Ù.
+
+[654]
+#If Mary had taught us last year,we might speak English very well now.
+#¸¸¾à ¸¶¸®°¡ ÀÛ³â¿¡ ¿ì¸®¿¡°Ô ¿µ¾î¸¦ °¡¸£ÃÆ´Ù¸é, ¿ì¸®´Â ÇöÀç ¾Æ¸¶ ¿µ¾î¸¦ ÀßÇÒ °ÍÀÌ´Ù.
+
+[655]
+#I am sure this job would not have come to me without your help.I shall try very hard to make good.
+#¸¸¾à ´ç½ÅÀÇ µµ¿òÀÌ ¾ø¾ú´Ù¸é ³ª´Â ±× Á÷À§¿¡ ¿Ã¶ó °¥ ¼ö°¡ ¾ø¾úÀ» °ÍÀÔ´Ï´Ù. ³ª´Â Èû²¯ ÀÏ ÇÏ°Ú½À´Ï´Ù.
+
+[656]
+#If you leave your bicycle out at night,you'll soon have trouble with rust.
+#¸¸¾à ´ç½ÅÀÌ ÀÚÀü°Å¸¦ ¹Û¿¡ µÎ°í ¹ãÀ» ³ª¸é ±×°Í¿¡ ³ìÀÌ ½½¾î ³Ê´Â ¾Ö¸¦ ¸ÔÀ» °ÍÀÌ´Ù.
+
+[657]
+#If your quotation is compititive,we are ready to place large orders of Men's shirts.
+#´ç½ÅÃøÀÇ È£°¡¿¡ °æÀï·ÂÀ» °®Ãß¾ú´Ù¸é ¿ì¸®´Â ´ë·®À¸·Î ³²ÀÚ ¼ÅÃ÷¸¦ ÁÖ¹®ÇÒ °ÍÀÌ´Ù.
+
+[658]
+#We shall be grateful if you could confirm your order on the revised conditions.
+#¸¸¾à ±ÍÇÏ°¡ ¼öÁ¤ÇÑ´Ù´Â Á¶°ÇÀ¸·Î ´ç½ÅÀÇ ÁÖ¹®¼­¸¦ È®ÀÎÇÑ´Ù¸é ¿ì¸®´Â ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[659]
+#If you rationalize your fears,you can understand them better.
+#¸¸¾à ´ç½Å ÀÚ½ÅÀÌ °øÆ÷ÀÇ ¿øÀÎÀ» ºĞ¼®ÇÑ´Ù¸é, ´ç½ÅÀº ¹Ù·Î ´õ Á¤È®ÇÏ°Ô ÀÌ·± °øÆ÷¸¦ ¾Ë ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[660]
+#If you don't hear something to the contrary I'll meet you at seven o'clock tonight.
+#¸¸¾à ´ç½ÅÀÌ º¯°æµÈ Åëº¸¸¦ µèÁö ¸øÇÏ¿´´Ù¸é, ¿ì¸®´Â ¿À´Ã ¹ã 7½Ã¿¡ ¸¸³ª±â·Î Á¤ÇÕ½Ã´Ù.
+
+[661]
+#If you want to purchase this product,we are able to supply as much as you require.
+#¸¸¾à ¿©·¯ºĞÀÌ ÀÌ »óÇ°À» ±¸¸ÅÇÑ´Ù¸é ¿ì¸®´Â ´ç½ÅµéÀÌ ¿øÇÏ´Â ¼ö·®´ë·Î Á¦°øÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+[662]
+#We'll agree to give you a 3% discount if you increase your order by 6,000 pieces.
+#¸¸¾à 6Ãµ °ÇÀÌ Áõ°¡ÇÏ¸é ¿ì¸®´Â ´ç½Åµé¿¡°Ô 3%ÀÇ µğ½ºÄ«¿îÆ®¸¦ µ¿ÀÇÇÒ ¼ö ÀÖ½À´Ï´Ù.
+
+[663]
+#If you will bear with me a little longer,I'm sure I can find the book for you.
+#¸¸¾à ´ç½ÅÀÌ Á»´õ ÀÎ³»ÇÏ¸ç ÂüÀ¸¸é ³ª´Â ¹İµå½Ã ´ç½Å¿¡°Ô ±× Ã¥À» Ã£¾Æ¼­ ÁÙ °ÍÀÌ´Ù.
+
+[664]
+#You're asking too much of them if you expect them to work at the weekend.
+#¸¸¾à ´ç½ÅÀÌ ±×µéÀÌ ÁÖ¸»¿¡µµ ÀÏÀ» ÇÑ´Ù°í »ı°¢ÇÑ´Ù¸é,´ç½ÅÀº ±×µé¿¡ ´ëÇÑ ±â´ë°¡ ³Ê¹« Å«°ÍÀÌ´Ù.
+
+[665]
+#You're on dangerous ground if you mention modern music to him--he hates it!
+#¸¸¾à ´ç½ÅÀÌ ±×¿¡°Ô Çö´ëÀ½¾ÇÀ» Á¦¾ÈÇÑ´Ù¸é °ø±³·Ó°Ôµµ ±×´Â Çö´ëÀ½¾ÇÀ» ½È¾îÇÑ´Ù.
+
+[666]
+#If you are free to go,Mother will write your mother to request permission from the authorities of your school.
+#¸¸¾à ´ç½ÅÀÌ ½Ã°£ÀÌ ÀÖ¾î¼­ °£´Ù¸é, ³ªÀÇ ¾î¸Ó´Ï´Â ÆíÁö¸¦ ½á¼­ ´ç½ÅÀÇ ¾î¸Ó´Ï¿¡°Ô µå·Á ±×³à·Î ÇÏ¿©±İ ±×µé ÇĞ±³ÃøÀÇ µ¿ÀÇ¸¦ ¾ò°Ô ÇÒ °ÍÀÌ´Ù. 
+
+[667]
+#It will be greatly appreciated,if you will give Mr.Qian a chance to study in your university.
+#¸¸¾à ´ç½ÅÀÌ Àü¼±»ı´Ô¿¡°Ô ±Í±³¿¡¼­ °øºÎÇÒ ±âÈ¸¸¦ ÁÖ½Å´Ù¸é ¿µ±¤À¸·Î ¾Ë°Ú½À´Ï´Ù.
+
+[668]
+#If you're short of petrol you can siphon off a gallon from my tank.
+#¸¸¾à ±â¸§ÀÌ ¸ğÀÚ¶ó¸é ³Ê´Â ³ªÀÇ ¼®À¯ÅÊÅ©¿¡¼­ »çÀÌÆİÀ¸·Î 1°¶·ĞÀ» °¡Á®°¡µµ µÈ´Ù.
+
+[669]
+#If he had taken my advice he would be a rich man now.
+#¸¸¾à ±×°¡ °ú°Å¿¡ ³ªÀÇ ±Ç°í¸¦ µé¾ú´Ù¸é, ±×´Â ÇöÀç µ·ÀÌ ÀÖ´Â »ç¶÷ÀÌ µÇ¾úÀ» °ÍÀÌ´Ù.
+
+[670]
+#He'll be for the high jump when they know he's used the firm's car.
+#¸¸¾à ±×µéÀÌ ±×°¡ È¸»ç Â÷¸¦ ¸¶À½´ë·Î »ç¿ëÇÑ °ÍÀ» ¾È´Ù¸é ±×´Â Ã³¹úÀ» ¹ŞÀ» °ÍÀÌ´Ù.
+
+[671]
+#If he wants my vote he'll have to take a stand on the question of East-West relations.
+#¸¸¾à ±×°¡ ³ª¿¡°Ô ±×ÀÇ Ç¥¸¦ ´øÁø´Ù¸é ±×´Â ¹İµå½Ã µ¿¼­°ü°èÀÇ ¹®Á¦¿¡ ´ëÇÏ¿© ÀÔÀåÀ» Ç¥¸íÇØ¾ß ÇÑ´Ù.
+
+[672]
+#If he is working amid gabbers in a press box,he becomes deaf.
+#¸¸¾à ±×°¡ ½Å¹®±âÀÚ ¼®»ó¿¡¼­ ºÒÆòÇÏ±â ÁÁ¾ÆÇÏ´Â ±Ù·ÎÀÚµé°ú ÀÏÇÑ´Ù¸é ±×´Â ±Í¸Ó°Å¸®°¡ µÉ °ÍÀÌ´Ù.
+
+[673]
+#She wouldn't stop short of stealing if she thought it would help her children.
+#¸¸¾à ±×³à°¡ Àıµµ°¡ ±×³àÀÇ ÀÚ³à¸¦ µµ¿ï ¼ö ÀÖ´Ù°í »ı°¢ÇÑ´Ù¸é, ±×³àµµ Á¶±İÀÇ ÁÖÀúÇÔÀÌ ¾øÀÌ ÇÒ °ÍÀÌ´Ù.
+
+[674]
+#I'll tell you a funny story,if I may digress for a moment.
+#³»°¡ Àá½Ã È­Á¦¸¦ ºø²¸°¡µµ µÈ´Ù¸é, ³»°¡ Àç¹ÌÀÖ´Â ÀÌ¾ß±â ÇÏ³ª ÇÏ°Ú´Ù.
+
+[675]
+#If we are going to finish this today,we'll have to forgo our lunch hour.
+#¸¸¾à ¿ì¸®°¡ ¿À´Ã ÀÌ ÀÏÀ» ³¡³»·Á ÇÑ´Ù¸é Á¡½É ¸Ô´Â ½Ã°£À» ¹ö¸®´Â ¼ö ¹Û¿¡ ¾ø´Ù.
+
+[676]
+#If we can set him off on his pet subject,he will go on for hours.
+#¸¸¾à ¿ì¸®°¡ ±×¿¡°Ô ±×°¡ °¡Àå ÀÚ½ÅÀÖ´Â È­Á¦¸¦ ¾ê±âÇÏ¶ó°í ÇÏ¸é ±×´Â ²÷ÀÓ¾øÀÌ ¸î ½Ã°£À» ÀÌ¾ß±â ÇÒ °ÍÀÌ´Ù.
+
+[677]
+#If we let the children stay up late tonight,it'll be the thin end of the wadge.
+#¸¸¾à ¿ì¸®°¡ ¾ÆÀÌµéÀÌ ¿À´Ã ¹ã ´Ê°Ô ÀÚ°Ô ÇÑ´Ù¸é ÀÌ°ÍÀº ¹Ù·Î ±×µé¿¡°Ô ÀÚ²Ù ´Ê°Ô ÀÚ°í ½Í°Ô ÇÏ´Â ¹ß´ÜÀÌ µÉ °ÍÀÌ´Ù.
+
+[678]
+#If I could live my life over again I would do more for the people.
+#¸¸¾à ³»°¡ ´Ù½Ã »õ·Ó°Ô ÀÏ»ıÀ» »ê´Ù¸é ³ª´Â ÀÎ¹ÎÀ» À§ÇÏ¿© ´õ ¸¹Àº ÀÏÀ» ÇÏ°í ½Í´Ù.
+
+[679]
+#And yet why have I studied so hard to prepare for the exams if I side-step them at the end?
+#¸¸¾à ³»°¡ ÃÖÁ¾ÀûÀ¸·Î ½ÃÇèÀ» ÇÇÇÑ´Ù¸é, ³ª´Â ¿Ö Èûµé°Ô ±×°ÍÀ» ÁØºñÇßÀ» ±î?
+
+[680]
+#When do I have to open the L/C if we want goods to be delivered in June?
+#¸¸¾à ´ç½ÅÀÌ 6¿ù¿¡ ÀÎµµ¸¦ ÇÏ·Á°í ÇÑ´Ù¸é ³ª´Â ¾ğÁ¦ ½Å¿ëÀåÀ» ¿­¾î¾ß ÇÕ´Ï±î?
+
+[681]
+#Transcripts of my undergraduate and graduate records can be arranged.
+#¸¸¾à ÇÊ¿äÇÏ´Ù¸é ³ª´Â ÇĞºÎ¿Í ´ëÇĞ¿ø»ı ¼ö¾÷±â°£ÀÇ ¼ºÀûÇ¥¸¦ ¿ìÆíÀ¸·Î º¸³» ÁÙ ¼ö ÀÖ´Ù.
+
+[682]
+#If a golfer's ball goes into one of these waterhazard,he must add an extra stoke to his score as a penalty.
+#¸¸¾à °ñÆÛ°¡ Ä£ °øÀÌ ¹°Àå¾Ö¹°·Î ¶³¾îÁö¸é ±×´Â ÆĞ³ÎÆ¼·Î ´Ù¸¥ Ã¤¸¦ Ã·°¡ÇØ¾ß ÇÑ´Ù.
+
+[683]
+#Please let us have other inquiries as we shall be only too pleased to meet your requirements if it is within our power.
+#¸¸¾à º»»çÀÇ ´É·ÂÀÌ ´ê´Â °÷ÀÌ¶ó¸é ¿ì¸®´Â ´ç½ÅÀÇ ÇÊ¿ä¿¡ ¸¸Á·½ÃÅ°¸¦ ¿øÇÏ¸ç ´Ù½Ã ¿ì¸®¿¡°Ô ¿¬¶ôÀ» ÁÖ½Ê½Ã¿À.
+
+[684]
+#If this idiotic letter doesn't prod a response,I'll really get depressed.I'm waiting to hear from you!
+#¸¸¾à ÀÌ È²´çÇÑ ÆíÁö°¡ ¹İÀÀÀ» ÀÏÀ¸Å°Áö ¸øÇÑ´Ù¸é, ³ª´Â Á¤¸» ºÒ¾ÈÀ» ´À³¥ °ÍÀÌ´Ù. ³ª´Â È¸´äÀ» ±â´Ù¸®°Ú´Ù.
+
+[685]
+#If the name suggests to you that Charlie can repair just about anything,you're right.
+#¸¸¾à ÀÌ ÀÌ¸§ÀÌ ³×°¡ º¸±â¿¡ ¸¶Ä¡ Âû¸®°¡ ¸»ÇÑ °Í Ã³·³ °íÄ¥ °÷ÀÌ ¾øÀ¸¸é, ³×°¡ ¸Â´Â °ÍÀÌ´Ù.
+
+[686]
+#We must put forth every effort if the task is to be finished by Wednesday.
+#¸¸¾à ÀÌ ÀÓ¹«°¡ 3ÁÖ Àü¿¡ ¿Ï¼ºµÇ¾î¾ß ÇÑ´Ù¸é ¿ì¸®´Â ¹İµå½Ã ÃÖ´ëÇÑÀÇ ³ë·ÂÀ» ±â¿ï¿©¾ß ÇÑ´Ù.
+
+[687]
+#If this card is returned unopened I'll know you aren't ready to reconcile yet,and I'll try again next year.
+#¸¸¾à ÀÌ Ä«µå°¡ °³ºÀµÇÁö ¾ÊÀº Ã¤ µÇµ¹¾Æ¿À¸é ³ª´Â ´ç½ÅÀÌ ¾ÆÁ÷ È­ÇØÇÏ±â¸¦ ¿øÇÏÁö ¾Ê´Â´Ù°í ¾Ë°í, ³ª´Â ³»³â ´Ù½Ã ½ÃµµÇÒ °ÍÀÌ´Ù.
+
+[688]
+#If you are,I would like it so much if you could join us at 6 in the afternoon at 10 Peter St.
+#¸¸¾à ±¦Âú´Ù¸é ¿ù¿äÀÏ ¿ÀÈÄ 6½Ã¿¡ ÇÇÅÍ°¡ 10È£¿¡ ¿ÍÁÖ½Ê½Ã¿À. Àú´Â ´ç½ÅÀÇ ¹æ¹®À» ±â´Ù¸®°Ú½À´Ï´Ù.
+
+[689]
+#Should the quality inquired for be unacailable,you might offer us its nearest equivalent.
+#¸¸¾à Áú·®À» ¹®ÀÇÇÏÁö ¾ÊÀº ¹°Ç°Àº ´ç½ÅÃøÀº ±×°Í°ú °¡Àå ºñ½ÁÇÑ ¹°°ÇÀ» Á¦°øÇÏ¸é µÈ´Ù.
+
+[690]
+#If given the opportunity.I'll do my best to meet your requirements and I am sure I'll be benefited in return.
+#¸¸¾à ±âÈ¸°¡ ÁÖ¾îÁö¸é ³ª´Â ´ç½ÅÀÇ ¿ä±¸¿¡ ´äÇÏ±â À§ÇØ ÃÖ¼±À» ´ÙÇÒ °ÍÀÌ°í, ´ä·Ê·Î ºĞ¸í ÀÌÀÍÀ» ³¾ °ÍÀÌ´Ù.
+
+[691]
+#We should be grateful if you could very shortly let us have your answer to our letter of...concerning...
+#±ÍÇÏ°¡ °¡´ÉÇÑ ºü¸£°Ô ¿ì¸®ÃøÀÇ ...¿ù ...ÀÏÀÇ ...¿¡ °üÇÑ ÆíÁö¿¡ ´ëÇÏ¿© È¸´äÀ» ÁÖ½Ã¸é Á¤¸» °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[692]
+#Should you favour me with your orders,I should spare no trouble to execute them to your satisfaction.
+#¸¸¾à ±Í»çÀÇ ÁÖ¹®¼­¸¦ ¾òÀ» ¼ö ÀÖ´Ù¸é ³ª´Â ¼øÁ¶·Ó°Ô ¿Ï¼ºÇÏ°í ±Í»ç¸¦ ¸¸Á·½ÃÅ³ °ÍÀ» º¸ÀåÇÕ´Ï´Ù.
+
+[693]
+#We shall endeavour to give September delivery if we receive the specimen in good time,but cannot promise otherwise.
+#¸¸¾à Á¦¶§¿¡ °ßº»À» ¹ŞÀ» ¼ö ÀÖÀ¸¸é ³ª´Â °¡´ÉÇÑ 9¿ù¿¡ ¹°Ç°À» ÀÎµµÇÏ°ÚÀ¸³ª ±×·¸Áö ¾ÊÀ¸¸é ¾à¼ÓÇÒ ¼ö ¾ø´Ù.
+ 
+[694]
+#I should be pleased to hear from you at an early date how you find these goods taken among your buyers.
+#¸¸¾à °í°´ÀÌ º» »óÇ°¿¡ ´ëÇÏ¿© ÀÇ°ßÀÌ ÀÖÀ¸¸é ¹Ù·Î ¿ì¸®¿¡°Ô ¾Ë·ÁÁÖ½Ã¸é º»»ç´Â ¸Å¿ì °í¸¿°Ú½À´Ï´Ù.
+
+[695]
+#If you would call here within the next few days,we believe the matter could be arranged to your satisfaction.
+#¸¸¾à ´ç½ÅÀÌ ¿À´Ã ÀÌÈÄ ¸çÄ¥ ÀÌ³»¿¡ ÀüÈ­¸¦ ÇØÁÖ¸é ¿ì¸®´Â ÀÌ ÀÏÀº ´ç½ÅÀ» ¸¸Á·½ÃÅ³ ¼ö ÀÖ°Ô Ã³¸®ÇÒ °ÍÀ» ¹Ï½À´Ï´Ù.
+
+[696]
+#We would appreciate your refunding their price,making check payable to John Harper.
+#¸¸¾à ´ç½ÅÀÌ Ç¥¸¦ ¹Ù²Ù¾î ÁÙ ¼ö ÀÖÀ¸¸é ¼öÇ¥±İ¾×À» Á¸ ÇÏ¹öÀÇ ÀÌ¸§À¸·Î ±â·ÏÇÏ¿© ÁÖ½Ã¸é ¿ì¸®´Â ¸Å¿ì °í¸¿°Ú½À´Ï´Ù.
+
+[697]
+#As you have already realized,electronic pocket translation machines have become very popular here in ......
+#±ÍÇÏ°¡ ¾Æ½Ã´Â ¹Ù¿Í °°ÀÌ Æ÷ÄÏÇü ÀüÀÚ ÀÚµ¿ ¹ø¿ª±â°¡ ½ÃÀå¿¡¼­ ÀÌ¹Ì »ó´çÈ÷ º¸ÆíÈ­µÇ¾ú½À´Ï´Ù.
+
+[698]
+#As you know,we have been in urgent need of these items as we have only a few in stock.
+#±ÍÇÏ°¡ ¾Æ½Ã´Â ¹Ù¿Í °°ÀÌ º»»çÀÇ Àç°íÇ°Àº ÀÌ¹Ì ¸¹Áö ¾Ê±â ¶§¹®¿¡ ÀÌ ¹°Ç°ÀÇ ¼ö¿ä°¡ ¾ÆÁÖ Àı¹ÚÇÕ´Ï´Ù.
+
+[699]
+#If you need further particulars or if you have any other enlightening advice,please do not hesitate to contact us.
+#¸¸¾à ¾ÆÁ÷ ±âÅ¸ ÀÚ·á È¤Àº ±âÅ¸ ¾î¶² °Ç¼³ÀûÀÌ °ÇÀÇ¸¦ Á¦ÀÇ ÇÒ ¼ö ÀÖÀ¸¸é ÀúÈñ¿¡°Ô ¿¬¶ôÁÖ¼¼¿ä.
+ 
+[700]
+#In the event of unforeseen economic developments,parts of the agency contract may be changed by mutual agreement.
+#¸¸¾à ¿ì¹ßÀûÀÎ °æÁ¦ »ç°ÇÀÌ ¹ß»ıÇÏ¸é º» ´ë¸®°è¾àÀÇ ½Ö¹æÀÇ µ¿ÀÇ¸¦ °ÅÃÄ ºÎºĞÀûÀ¸·Î ¼öÁ¤À» ÇÒ ¼ö ÀÖ´Ù.
+
+[701]
+#A comparison of it with one offered otherwise will convince you that our price can not be bettered elsewhere.
+#¸¸¾à ±âÅ¸ ½Ã¼¼¿Í ºñ±³ÇÏ¸é ´ç½ÅµéÀº ¿ì¸®ÀÇ ¿ÀÆÛ°¡ °¡Àå Æ¯Çı°¡ ÀÖÀ½À¸·Î ¾È½ÉÇÒ ¼ö ÀÖÀ» °ÍÀÌ´Ù.
+
+[702]
+#Our terms are 3% cash discount,only within ten days of date of invoice.
+#¸¸¾à ¼ÛÀåÀ» ¹ßÇàÇÑ ³¯¿¡¼­ 10ÀÏ ÀÌ³»¿¡ Çö±İÀ» ³³ºÎÇÏ¸é ¿ì¸®´Â 3%ÀÇ ¿ì´ë¸¦ Á¦°øÇÒ °ÍÀÌ´Ù.
+
+[703]
+#We shall be obliged if you will give us your immediate and careful attention.
+#±Í»ç°¡ ¿ì¸®ÀÇ ±¸¸Å¿¡ ´ëÇÏ¿© ºü¸£°í ½ÅÁßÇÏ°Ô Ã³¸®ÇÑ´Ù¸é ¿ì¸®´Â ¸Å¿ì °¨»çÇÏ°Ú½À´Ï´Ù.
+
+[704]
+#Are you prepared to grant special term for an annual trade of $80,000,000?
+#¸Å³â ±³¿ª¾×ÀÌ 80,000,000´Ş·¯¿¡ ÀÌ¸¥´Ù¸é Æ¯º°ÇÑ ¿ì´ë¸¦ ¹ŞÀ» ¼ö ÀÖ½À´Ï±î?
+
+[705]
+#It would be fun to see you two again.Let me know if this works out okay with you.
+#¸¸¾à ´Ù½Ã ´ç½ÅµéÀ» º¼ ¼ö ÀÖ´Ù¸é ¸Å¿ì ±â»Ü °ÍÀÔ´Ï´Ù. ÀÌ·¸°Ô ¾È¹èÇÏ´Â °ÍÀÌ ¿©·¯ºĞ¿¡°Ô ÆíÇÑÁö ¸»¾¸ÇÏ¿© ÁÖ½Ê½Ã¿ä.
+
+[706]
+#Should you be prepared to reduce the price by,say,5%,we would place our trial order with you.
+#¸¸¾à ±ÍÇÏ°¡ °¡°İÀ» ³»¸°´Ù¸é, ¿¹¸¦ µé¾î 5%¸é ¿ì¸®´Â ±ÍÇÏ¿¡°Ô ÀÌ ¹°°Ç¿¡ ½ÃÇèÁÖ¹®À» ¿øÇÑ´Ù. 
+
+[707]
+#We may be able to supply an additional quantity if you can persuade your end-user to buy this commodity.
+#¸¸¾à ´ç½ÅÀÌ ´ç½ÅÃø °í°´ÀÌ ÀÌ »óÇ°À» ±¸¸ÅÇÏµµ·Ï ¼³µæÇÒ ¼ö ÀÖ´Ù¸é, ¿ì¸®´Â ´Ù½Ã ¾à°£ÀÇ ¼ö·®À» Á¦°øÇÒ ¼ö ÀÖ´Ù.
+
+[708]
+#Samuel Clemens,known as Mark Twain,became a famous American writer.
+#¸¶Å© Æ®¿şÀÎÀ¸·Î ¾Ë·ÁÁø »ç¹«¿¤ Å©·¹¸à½º´Â ¹Ì±¹ÀÇ À¯¸íÇÑ ÀÛ°¡°¡ µÇ¾ú´Ù.
+
+[709]
+#Number three had rowed himself out and was slumped over his oar at the finish line.
+#3¹ø ÀÌ¹Ì ±âÁø¸ÆÁøÇÏ¿© Á¾ÂøÁ¡¿¡ µµÂøÇÏ¿´À» ¶§ ±×ÀÇ ³ë¸¦ ¶³¾î¶ß·È´Ù.
+
+[710]
+#For three years old Jim and his wife scraped along on his small pension.
+#3³â µ¿¾È ´ÄÀº Áü°ú ±×ÀÇ ºÎÀÎÀº ±×ÀÇ ÀûÀº ¾ç·Î¿¬±İÀ¸·Î °Ü¿ì »ì¾Æ°¬´Ù.
+
+[711]
+#The senator placed all his stocks in trust to avoid possible conflictofinterest.
+#ÂüÀÇ¿øÀº ±×ÀÇ ºóÅĞÅÍ¸®°¡ µÉ °¡´É¼ºÀ» ¸éÇÏ±â À§ÇÏ¿© ¸ğµç ÁÖ½ÄÀ» ½ÅÅ¹È¸»ç¿¡ ¸Ã°å´Ù.
+
+[712]
+#The paratroops descended on the village and took it in a matter of minutes.
+#³«ÇÏ»ê ºÎ´ë°¡ ¸¶À» »ó°ø¿¡¼­ ³«ÇÏÇÏ¿© ¸î ºĞ µ¿¾È¿¡ ±×°ÍÀ» °ø°İÇÏ¿´´Ù.
+
+[713]
+#Heaven's vengeance is slow but sure.
+#ÇÏ´ÃÀÇ Â¡¹úÀº ´Ê°Ô ¿Ã¸ÁÁ¤ ¹İµå½Ã ¿Â´Ù.
+
+[714]
+#This offer is firm subject to your immediate reply which should reach us not later than the end of this month.
+#»ó¼úÇÑ ¿ÀÆÛ´Â ±ÍÇÏÀÇ È¸´äÀÌ ÀÌ¹ø ´Ş ¸» Àü¿¡ ¿ì¸®Ãø¿¡ µµÂøÇÏ´Â °ÍÀ¸·Î À¯È¿ÇÏ´Ù.
+
+[715]
+#Comrade Wang,an old friend of mine,who is working in the countryside,had me down last Sunday.
+#Áö³­ ÀÏ¿äÀÏ¿¡ ³ªÀÇ ½Ã°ñ¿¡¼­ ÀÏÇÏ´Â ¿À·¡µÈ Ä£±¸ ¿Õµ¿Áö´Â ³ª¸¦ ±×ÀÇ ÁıÀ¸·Î Ã»Çß´Ù.
+
+[716]
+#We had a pleasant talk last month with your representatives here in Tianjin.
+#Áö³­ ´Ş ¿ì¸®´Â ±Í»çÀÇ ´ëÇ¥¿Í ÃµÁø¿¡¼­ ¾ÆÁÖ ±âºĞÁÁÀº ±³´ãÀ» ÇÑ ¹ø ³ª´©¾ú½À´Ï´Ù.
+
+[717]
+#Christmas time brings many happy memories,and you are always a vital part of them.
+#¼ºÅºÀıÀº Ç×»ó ³ª¿¡°Ô Çàº¹Çß´ø ¸¹Àº ±â¾ïÀ» ºÒ·¯ÀÏÀ¸Å°¸ç, ³Ê´Â Ç×»ó ±× Áß °¡Àå Áß¿äÇÑ ºÎºĞÀÌ´Ù.
+
+[718]
+#We thank for your letter of Oct.27 and should like to discuss the expanding trade with you.
+#10¿ù 27ÀÏ ÆíÁö¸¦ ¹Ş¾Ò½À´Ï´Ù. °¨»çÇÕ´Ï´Ù. ¿ì¸®ÃøÀº ´ç½ÅÃø°ú ¹«¿ªÀ» È®´ëÇÒ °¡´É¼ºÀ» »ó´ãÇÏ°í ½Í½À´Ï´Ù.
+
+[719]
+#Shipment has to be made before October,otherwise we are not able to catch the season.
+#10¿ù ÀÌÀü¿¡ È­¹°Àº ¹İµå½Ã ¹è¿¡ ½Ç·Á¾ß ÇÏ¸ç ±×·¸Áö ¾ÊÀ¸¸é ¿ì¸®´Â ÆÇ¸Å°èÀı¿¡ ¸ÂÃßÁö ¸øÇÒ °ÍÀÌ´Ù.
+
+[720]
+#It was too late to get back,so we slept over at our friend's home.
+# ½Ã°£ÀÌ ÀÌ¹Ì ³Ê¹« ´Ê¾î¼­ Áı¿¡ µ¹¾Æ°¥ ¼ö ¾ø¾î¼­, ¿ì¸®´Â Ä£±¸ÀÇ Áı¿¡¼­ ÇÏ·ç ¹ãÀ» Áö³Â´Ù. 
+
+[721]
+#What made him chop about and accept the plan he had previously opposed?
+#¹«½¼ ÀÌÀ¯°¡ ±×ÀÇ »ı°¢À» º¯È­½ÃÄÑ ±×°¡ ÀÌÀü¿¡ ¹İ´ëÇÏ´ø ±× °èÈ¹À» ¹Ş¾ÆµéÀÌ°Ô ÇÏ¿´´Â°¡?
+
+[722]
+#We regret to say that on the terms mentioned,we find it impossible to fill same.
+#Á¤¸» ÁË¼ÛÇÕ´Ï´Ù. ÀÌ¹ø ±Í»çÀÇ ÁÖ¹®Á¶°Ç¿¡ ´ëÇÏ¿© ¿ì¸® È¸»ç´Â °ø±ŞÀ» ÇÒ ¼ö°¡ ¾ø½À´Ï´Ù.
+
+[723]
+#With a pocket calculator ,the exact answer flashes out as fast as one can punch four buttons.
+#Æ÷ÄÏ °è»ê±â¸¦ »ç¿ëÇÏ¿© ¹æ±İ 4°³ÀÇ ´ÜÃß¸¦ ´©¸£¸é Á¤È®ÇÑ ´ä¾ÈÀÌ ¹Ù·Î ³ª¿Â´Ù.
+
+[724]
+#In some parts of the world small boats are made of skins stretched over a wooden frame.
+#¼¼°èÀÇ ¾î¶² Áö¹æÀº ÀÛÀº ¹è´Â ³ª¹«·Î Æ² À§¿¡ µ¿¹° °¡Á×À» µ¤¾î¼­ ¸¸µç °ÍÀÌ´Ù.
+
+[725]
+#The legitimists opposed him because they were loyal to the descendants of Charles X.
+#¼¼½À¿ÕÀ§ÁÖÀÇÀÚ´Â ±×¸¦ ¹İ´ë¿´´Ù. ¿Ö³ÄÇÏ¸é ±×µéÀº ¸ğµÎ Âû½º 10¼¼ÀÇ ÈÄ´ë¿¡ Ãæ¼ºÀ» ´ÙÇÏ±â ¶§¹®ÀÌ´Ù.
+
+[726]
+#The accident was caused by one motorist completely misapprehending the intentions of the other.
+#»ç°íÀÇ ¹ß»ı ¿øÀÎÀº ÀÚµ¿Â÷ ¿îÀü»ç°¡ ´Ù¸¥ ¿îÀü»çÀÇ ÀÇµµ¸¦ ¿ÏÀüÈ÷ Àß¸ø ÀÌÇØÇß±â ¶§¹®ÀÌ´Ù.
+
+[727]
+#The council found that their traffic plans had been preempted by a government decision.
+#½ÃÀÇÈ¸´Â ±×µéÀÇ ±³Åë °èÈ¹ÀÌ ÀÌ¹Ì Á¤ºÎ°¡ ¸ÕÀú °áÁ¤À» ÇÏ¿© ÃßÁøÇÒ ¼ö ¾øÀ½À» ¹ß°ßÇÏ¿´´Ù.
+
+[728]
+#The council must act before more people are killed on that dangerous road.
+#½ÃÁ¤ºÎ´Â ´õ ¸¹Àº »ç¶÷µéÀÌ ±× À§ÇèÇÑ µµ·ÎÀ§¿¡¼­ ¸ñ¼ûÀ» ÀÒÁö ¾Êµµ·Ï ÇÏ±â À§ÇÏ¿©
+¹İµå½Ã Á¶Ä¡¸¦ ÃëÇÒ °ÍÀÌ´Ù.
+
+[729]
+#The Council opted for a bypass to carry heavy traffic away from the town centre.
+#½ÃÁ¤ºÎ À§¿øÈ¸´Â ½Ã³»ÀÇ ±³Åë È¥ÀâÀ» ÁÙÀÌ±â À§ÇÏ¿© ¿· µµ·Î¸¦ °Ç¼³ÇÏ´Â ¹æ¹ıÀ» ¼±ÅÃÇÏ¿´´Ù.
+
+[730]
+#When the temperature of the room reaches 20'C,the convector heater cuts out.
+#½Ç³»¿Âµµ°¡ ¼·¾¾ 20µµ°¡ µÇ¸é °ø±â´ë·ù°¡¿­±â´Â ÀÚµ¿ÀûÀ¸·Î ÀÛµ¿À» ¸ØÃâ °ÍÀÌ´Ù.
+
+[731]
+#Since receipt of your letter of...we have been trying to find out more about ...
+#±ÍÇÏÀÇ ...¿ù ...ÀÏ ÆíÁö¸¦ ¹ŞÀº ÈÄ¿¡ ¿ì¸®´Â ÁÙ°ğ ´õ ¸¹Àº ...¿¡ °üÇÑ °ÍÀ» ¾òÀ¸·Á°í ÇÏ¿´½À´Ï´Ù.
+
+[732]
+#We thank you for your letter of ...and glad to note that you have received our catalogues.
+#±ÍÇÏÀÇ ...¿ù ...ÀÏÀÇ ÆíÁö¿¡ ¸Å¿ì °¨»çµå¸³´Ï´Ù. ±ÍÇÏ°¡ ÀÌ¹Ì ¿ì¸® Ãø ¸ñ·ÏÀ» ¹Ş¾Æ¼­ ±â»Ş´Ï´Ù.
+
+[733]
+#We are taking the liberty to send you with this letter our quotation sheet for high-quality cameras and lenses.
+#¿ì¸®ÃøÀÇ ¹«·Ê¸¦ ¿ë¼­ÇÏ½Å´Ù¸é ¿ì¸® È¸»çÀÇ ¿ì¼öÇÑ »çÁø±â¿Í ·»ÁîÀÇ °ßÀû¼­ 1ºÎ¸¦ º¸³»µå¸®°Ú½À´Ï´Ù. 
+
+[734]
+#Either side wanted to end the war on its own terms.
+#½Ö¹æÀº ÀüÀïÀÇ Á¾½ÄÀ» ¿ä±¸ÇÏ¿´À¸³ª, ½Ö¹æÀº ÀÚ±âÀÇ Á¶°Ç¿¡ ¸ÂÃß¾î ÀüÀïÀÇ Á¾½ÄÀ» ¿ä±¸ÇÏ¿´´Ù.
+
+[735]
+#The water must be running out somewhere on this side.Can you locate the leak?
+#¹°Àº ¹İµå½Ã ÀÌÂÊ ¾î´À °÷¿¡¼­ »õ´Â °ÍÀÌ´Ù. ´ç½ÅÀº ¾îµğ¼­ »õ´Â Áö Ã£À» ¼ö ÀÖ½À´Ï±î?
+
+[736]
+#You'd be surprised how few of my old friends have kept in touch since we moved to Dallas.
+#¿ì¸®°¡ ´Ş¶ó½º·Î ÀÌ»çÇÑ ÈÄ¿¡ ¿¾³¯ Ä£±¸µé°ú °ÅÀÇ ¿¬¶ôÀ» ÇÏÁö ¾Ê¾Ò´Ù°í ¸»ÇÏ¸é ³î¶ö°ÍÀÌ´Ù.
+
+[737]
+#Stowe tried every means to pull his business through,but all in vain.
+#½ºÆ©´Â ±×ÀÇ ±â¾÷ÀÌ ½ÇÆĞ¸¦ ´çÇÏÁö ¾Êµµ·Ï ¸¹Àº °ÍÀ» ³ë·ÂÇÏ¿´À¸³ª ¸ğµç °ÍÀº Çã»ç¿´´Ù.
+ 
+[738]
+#The quarterback faked to the fullback and handed off to the halfback.
+#ÄõÅÍ¹éÀº °øÀ» Ç®¹é¿¡°Ô º¸³»·Á´Â °ÍÃ³·³ ÇÏ°í´Â ¿ÀÈ÷·Á °øÀ» ÇÏÇÁ¹éÀ¸·Î º¸³Â´Ù.
+
+[739]
+#A quarter of the goods were damaged: that's a wastage of 25.
+#4ºĞÀÇ 1ÀÇ È­¹°Àº ¼Õ»óÀÌ µÇ¾ú´Âµ¥, ±×°ÍÀº ¹Ù·Î ¼Õ½Ç·®ÀÌ 25%ÀÓÀ» ÀÇ¹ÌÇÏ´Â °ÍÀÌ´Ù.
+
+[740]
+#Four horses tied in the first round and will be jumping off this afternoon.
+#¸» ³× ¸¶¸®°¡ Ã¹¹øÂ° ¶ó¿îµåÀÇ Àå¾Ö¹° °æ±â¿¡¼­ ½ÂºÎ°¡ °¡·ÁÁöÁö ¾Ê¾Æ ¿À´Ã ¿ÀÈÄ¿¡ °è¼Ó °æ±â¸¦ ÇÒ °ÍÀÌ´Ù. 
+
+[741]
+#Susan used to racket about,but has mended her ways now.
+#¼öÀÜÀº ¿¹Àü¿¡ Ç×»ó Àç¹ÌÀÖ´Â »ç±³È°µ¿À¸·Î ¹Ù»¦À¸³ª Áö±İÀº ÀÌ¹Ì ¹Ù²î¾ú´Ù.
+
+[742]
+#As you are a world well-known scholar who has written many books in this field.
+#ÀÌ¹Ì ´ç½ÅÀº ÀÌ °úÁ¤¿¡ ´ëÇÏ¿© Á¶¿¹°¡ ±í´Ù. ±×¸®°í ÀÌ ¹æ¸é¿¡ °ü·ÃµÈ Ã¥À» ÃâÆÇÇÏ¿´´Ù.
+
+[743]
+#Though Jack has hired in,he is still in constant fear of losing the job at any time.
+#ºñ·Ï ÀèÀº Á÷¾÷ÀÌ ÀÖÀ¸³ª ±×´Â ¿©ÀüÈ÷ ÇÏ·ç Á¾ÀÏ ½ÇÁ÷´çÇÒ Áö ¸ğ¸£´Â °ÍÀ» °ÆÁ¤ÇÏ¿´´Ù.
+
+[744]
+#His account of what happened approximates to the truth though there may be some small errors.
+#ºñ·Ï ¾î¶² ÀÛÀº ÃâÀÔ¿¡ ´ëÇÏ¿©µµ ±×´Â ÀÌ »ç°ÇÀÇ ¼­¼ú¿¡ ´ëÇÏ¿© »ç½Ç Áø»ó¿¡ Á¢±ÙÇÏ¿´´Ù.
+ 
+[745]
+#Although at first that new technique seemed difficult to them.they soon got on to it.
+#ºñ·Ï Ã³À½¿¡ ±×µéÀº ±× »õ·Î¿î ±â¼ú¿¡ ´ëÇÏ¿© °ï³­À» °Ş¾úÀ¸³ª, ±×µéÀº ºü¸£°Ô ¹è¿ü´Ù.
+
+[746]
+#Though her baby was unwell,she managed to pull away from him to attend an important meeting.
+#ºñ·Ï ±×³àÀÇ ¾Æ±â°¡ º´ÀÌ ³µÀ¸³ª, ±×³à´Â ±×¸¦ ¶°³ª¼­ Áß¿äÇÑ È¸ÀÇ¿¡ Âü¼®Çß´Ù.
+
+[747]
+#Though we've met him several times,we can't claim to have added him up.
+#ºñ·Ï ¿ì¸®´Â ±×¸¦ ¸î¹ø ¸¸³µÀ¸³ª ¿ì¸®´Â ±×¿¡ ´ëÇÏ¿© ÃæºĞÇÏ°Ô ÀÌÇØÇß´Ù°í ¸»ÇÒ ¼ö ¾ø´Ù.
+
+[748]
+#Even thought I haven't had a chance to meet Keith yet,I know from your letters how much you care for him.
+#ºñ·Ï ³ª´Â ¾ÆÁ÷ ÄÉÀÌ½º¸¦ ¸¸³¯ ¼ö ÀÖ´Â ±âÈ¸°¡ ¾ø¾úÀ¸³ª, ³ª´Â ³ÊÀÇ ÆíÁö¿¡¼­ ³×°¡ ±×¸¦ ¸Å¿ì »ç¶ûÇÔÀ» ¾Ë ¼ö ÀÖ´Ù.
+
+[749]
+#Sales are not high,but a good price can be obtained for fashionable designs.
+#ºñ·Ï ÆÇ¸Å·®Àº ¸¹Áö ¾ÊÀ¸³ª, À¯Çà¿¡ ¸Â°Ô ¼³°èµÈ »óÇ°Àº ÁÁÀº °¡°İ¿¡ ÆÈ ¼ö ÀÖ´Ù.
+ 
+[750]
+#She was sixweeks early,but is really a fighter and was big enough to come home with me.
+#±×³à´Â 6ÁÖ ÀÏÂï ÅÂ¾î³µÀ¸³ª, ±×³à´Â ¾ÆÁÖ °Ç°­ÇÏ¿´À¸¸ç ³»°¡ Áı¿¡ µ¥¸®°í ¿Ã ¸¸Å­ ÄÇ´Ù. 
+
+[751]
+#This is a marvelous achievement,though no more than you deserve.
+#ÀÌ ¼º°ú´Â ´ç½Å¿¡ ºñÇÏ¸é ³ôÁö ¾ÊÀ¸³ª ÀÌ¹Ì ´ë´ÜÇÑ ¼º°úÀÌ´Ù.
+
+[752]
+#Enclosed is our new Quotation No.______ in lieu of the previous one.
+#µ¿ºÀÇÏ´Â ¿ì¸® È¸»çÀÇ Á¦..È£ °¡°İÇ¥·Î Àü¿¡ ³½ °¡°İÇ¥¸¦ ´ë½ÅÇÒ ¼ö ÀÖ´Ù.
+
+[753]
+#Enclosed is our revised quotation,with the modified part underlined for your ready attention.
+#µ¿ºÀÇÑ ¼öÁ¤ÇÑ °¡°İÇ¥´Â °ü·ÃµÈ °íÄ£ ºÎºĞ ¾Æ·¡ ÀÌ¹Ì ÁÙÀ» ±×¾úÀ¸´Ï ÁÖÀÇ ¹Ù¶ø´Ï´Ù. 
+
+[754]
+#Enclosed is (are) our contract(s) No. ..in duplicate,of which please return us one copy,duly countersigned.
+#¿ì¸®ÃøÀÇ °è¾à Á¦..È£¸¦ 1¼­½Ä 2ºÎ¸¦ µ¿ºÀÇÏ´Ï, »çÀÎÇÏ¿© 1ºÎ¸¦ ´Ù½Ã º¸³»ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[755]
+#I am enclosing herewith my completed biography and the list of things I think we will need for our work.
+#ÆíÁö¿¡ ÀúÀÇ »ó¼¼ÇÑ ÀÌ·Â°ú ¿ì¸®°¡ ÁøÇàÇÏ´Â ÀÏ¿¡¼­ ÇÊ¿äÇÑ ¹°Ç° ¸®½ºÆ®¸¦ º¸³À´Ï´Ù.
+
+[756]
+#John's money quickly melted away as the double-digit inflation rate continued to soar.
+#µÎ ÀÚ¸® ¼öÀÇ ÅëÈ­ÆØÃ¢À²ÀÌ °è¼Ó »ó½ÂÇÔ¿¡ µû¶ó Á¸ÀÇ µ·Àº ºü¸£°Ô ¹Ù´Ú³µ´Ù.
+
+[757]
+#As the language grows,new words are introduced and many words fall out of use.
+#¾ğ¾îÀÇ ¹ßÀü¿¡ µû¶ó »õ ´Ü¾î´Â ²÷ÀÓ¾øÀÌ Ã¤¿ëµÇ¸ç ¸¹Àº ´Ü¾î´Â ¶Ç »ç¿ëµÇÁö ¾Ê´Â´Ù.
+
+[758]
+#The enclosed resume will give you a quick glimpse of my qualifications for the work with your firm.
+#µ¿ºÀÇÑ º»ÀÎÀÇ ¾à·ÂÀº º»ÀÎÀÌ ±Í»çÀÇ ÀÏ¿¡ ÀûÇÕÇÑÁö ´ëÃ¼·Î ÀÌÇØÇÏ´Âµ¥ ¾²ÀÏ °ÍÀÌ´Ù.
+
+[759]
+#The prices quoted are net without discount,and business between us will be done on principal to principal basis.
+#Á¦½ÃµÈ °¡°İ¸ñ·ÏÀº ¸ğµÎ ÇÒÀÎÀÌ ¾øÀ¸¸ç, ½Ö¹«¹«¿ªÀº Áß°£»óÀÎÀ» ÅëÇÏÁö ¾Ê°í Á÷Á¢ ÁøÇàÇÒ °ÍÀÌ´Ù.
+
+[760]
+#When we both arrived at the bridal shower separately,each without the present,it was embarrassing for both of us.
+#¿ì¸® µÑÀÌ °¢°¢ °áÈ¥½Ä¿¡ Âü°¡ÇÏ¿© ¶Ç ¼±¹°À» °¡Áö°í °¡Áö ¾Ê¾ÒÀ» ¶§ ¿ì¸®´Â ¸Å¿ì °â¿¬Â½¾ú´Ù.
+
+[761]
+#So the next time something breaks down,don't throw it away.Bring it in for a free estimate to:.
+#±×·¡¼­ ´ÙÀ½¹ø¿¡ ¹°°ÇÀÌ °íÀå³ª¸é ±×°ÍÀ» ¹ö¸®Áö ¸¶¼¼¿ä. ±×°ÍÀ» °¡Á®¿À¸é ¹«·á·Î °Ë»çÇØÁİ´Ï´Ù.
+
+[762]
+#We are prepared to offer a special discount of 5% on all orders exceeding US$3,000.
+#¸ğµç 3000´Ş·¯¸¦ ³Ñ´Â ÁÖ¹®¼­´Â ¿ì¸®°¡ ¸ğµÎ 5%ÀÇ Æ¯º° ÇÒÀÎÀ» ÇØÁØ´Ù.
+
+[763]
+#All the theatres and cinemas were closed,as a sign of mourning for the dead president.
+#¼­°ÅÇÑ ´ëÅë·ÉÀ» ¾ÖµµÇÏ±â À§ÇÏ¿© ¸ğµç ±ØÀå°ú ¿µÈ­°üÀº ¿¬±Ø °ø¿¬°ú ¿µÈ­ »ó¿¬À» ÁßÁöÇÏ¿´´Ù.
+
+[764]
+#He made a full-scale model of an elephant but he couldn't get it out of the room.
+#±×´Â ½ÇÁ¦ ºñÀ²¿¡ µû¶ó ÄÚ³¢¸®ÀÇ ¸ğÇüÀ» Á¦ÀÛÇÏ¿´À¸³ª, ±×°ÍÀ» ¹æ¾È¿¡¼­ ¿Å°Ü¿Ã ¹æ¹ıÀÌ ¾ø¾ú´Ù.
+
+[765]
+#His cows didn't recognize him clean shaven and wouldn't give down their mild.
+#±×´Â ¼ö¿°À» ±ú²ıÇÏ°Ô ¹Ğ¾î¹ö·È´Âµ¥ ±×ÀÇ ¾Ï¼ÒµéÀÌ ±×¸¦ ¸ø ¾Ë¾Æº¸°í Á¥À» ³»³õÀ¸·Á ÇÏÁö ¾Ê¾Ò´Ù.
+ 
+[766]
+#He juggled the objects around so quickly that I could not see what was happening.
+#±×´Â ±× ÀÏµéÀ» ±×·¸°Ô ºü¸£°Ô ÇØÄ¡¿ö¼­ µµ´ëÃ¼ ¹«½¼ ÀÏÀÎÁö ³ªµµ ¾ËÁö ¸øÇÏ°Ú´Ù.
+
+[767]
+#He told her about the accident,but hastened to add that no one was hurt.
+#±×´Â »ç°íÀÇ °æ°ú¸¦ ±×³à¿¡°Ô ¾Ë·ÈÀ¸³ª, ±ŞÇÏ°Ô ¹Ù·Î ¾Æ¹«µµ ´ÙÄ£ »ç¶÷ÀÌ ¾ø´Ù°í º¸ÃæÇÏ¿© ¸»ÇÏ¿´´Ù.
+
+[768]
+#He does not seem to me to be justified in chalking up all these mistakes to ignorance or carelessness.
+#±×´Â ÀÌ ¸ğµç Àß¸øÀ» ¹«Áö È¤Àº ºÎÁÖÀÇ·Î µ¹·ÈÀ¸³ª ³»°¡ º¸±â¿¡´Â »ç¸®¿¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.
+
+[769]
+#He gave them the papers which proved his ownership of the land,as a guarantee that he would repay the money.
+#±×´Â ÀÚ±â ¶¥ÀÇ ÅäÁö ¹®¼­¸¦ ±×µé¿¡°Ô Àú´çÇ°À¸·Î »ï¾Æ ±×°¡ ÀÌ µ·À» ¹è»óÇÒ °ÍÀ» º¸ÁõÇÏ¿´´Ù.
+
+[770]
+#He was accused of conspiring ...declared nongrata and thrown out of the country.
+#±×´Â À½¸ğÈ°µ¿À» Çß´Ù°í ±â¼ÒµÇ¾î È¯¿µ¹ŞÁö ¸øÇÏ´Â ÀÎ¹°·Î ÂïÇô¼­ ±¹¿Ü·Î Ãß¹æµÇ¾ú´Ù. 
+
+[771]
+#He thought he wasn't cut out to be a teacher ( for a teacher,for teaching),but he proved to be a good one.
+#±×´Â ¿ø·¡ ÀÚ±â´Â ±³»ç°¡ µÉ ÀÚÁúÀÌ ¾ø´Ù°í ¿©°åÀ¸³ª »ç½ÇÀº ±×°¡ ÁÁÀº ¼±»ı´ÔÀÌ¶ó´Â °ÍÀÌ Áõ¸íµÇ¾ú´Ù.
+
+[772]
+#He ferreted out my address from somewhere,and wrote to ask how I was doing.
+#±×°¡ ¾îµğ¿¡¼­ ³» ÁÖ¼Ò¸¦ Ã£¾Ò´ÂÁö ¸ğ¸£°ÚÀ¸³ª ÆíÁö¸¦ ½á¼­ ³ªÀÇ ±ÙÈ²ÀÌ ¾î¶²Áö ¹°¾ú´Ù.
+
+[773]
+#When he first arrived in England,he found it somewhat difficult to get into the ways of the English.
+#±×°¡ Ã³À½ ¿µ±¹¿¡ °¬À» ¶§ ¿µ±¹ÀÎÀÇ »ıÈ° ½À°ü¿¡ ´ëÇÏ¿© ¾Æ´Âµ¥ ¾à°£ÀÇ °ï¶õÀ» ´À²¼´Ù.
+
+[774]
+#He was in the frame of mind to accept any offer.
+#±×´Â ¾î¶² Á¦ÀÇ¶óµµ ¹Ş¾ÆµéÀÌ·Á°í ÇÑ´Ù.
+
+[775]
+#He breezed in,wearing a light summer suit.
+#±×´Â ¿¶Àº»ö ¿©¸§¿ÊÀ» ÀÔ°í¼­ ½ÅÀÌ ³ª¼­ °É¾î µé¾î¿Ô´Ù.
+
+[776]
+#He was formerly a known player,but turned out a very bad hat indeed.
+#±×´Â ÀÌÀü¿¡ À¯¸íÇÑ ¼±¼ö¿´À¸³ª, ÀåÁ¡ÀÌ¶ó°í´Â ÇÏ³ªµµ ¾ø´Â »ç¶÷À¸·Î µÇ¾ú´Ù.
+
+[777]
+#His house burnt down,his car was stolen,and to crown it all he lost his job.
+#±×ÀÇ ÁıÀº Å¸ ¹ö·È°í Â÷µµ µµµÏÀ» ¸Â¾ÒÀ¸¸ç ´õ ³¶ÆĞ´Â ±×°¡ Á÷¾÷µµ ÀÒ°Ô µÇ¾ú´Ù.
+
+[778]
+#His house is easily picked out from the rest,it has a large black door.
+#±×ÀÇ ÁıÀº °ËÁ¤»ö ´ë¹®ÀÌ¶ó¼­ ´Ù¸¥ Áı°ú ½±°Ô ±¸º°ÀÌ °£´Ù.
+
+[779]
+#His anger smoothed down.
+#±×ÀÇ È­°¡ °¡¶ó ¾É¾Ò´Ù.
+
+[780]
+#What he said did not seem to amount to much,but later on it helped us a great deal.
+#±×ÀÇ ¸»Àº ´ç½Ã¿¡´Â º° Å« ÀÇ¹Ì°¡ ¾ø´Â °Í °°¾ÒÀ¸³ª, ÈÄ¿¡ ¿ì¸®¿¡°Ô ¾ÆÁÖ Å« µµ¿òÀÌ µÇ¾ú´Ù.
+
+[781]
+#What he said burnt into my memory ( mind).
+#±×ÀÇ ¸»Àº ³ªÀÇ ±â¾ï¿¡¼­ Áö¿öÁöÁö ¾Ê´Â ÀÎ»óÀ¸·Î ³²¾Ò´Ù.
+
+[782]
+#He was very good at tennis,but he met his match when he played McEnroe.
+#±×´Â Å×´Ï½º¸¦ ¾ÆÁÖ ÀßÄ¡³ª ±×°¡ ¸ÆÄË·Î¸¦ ´ëÀûÇÏ¿´À» ¶§ ±×´Â Àû¼ö¸¦ ¸¸³µ´Ù.
+
+[783]
+#It seemed as if he had a charmed life; nothing bad ever happened to him.
+#±×ÀÇ ÀÏ»ıÀº ½ÅÀÇ º¸È£¸¦ ¹ŞÀº °ÍÃ³·³ ¹«½¼ Àç¼ö ¾ø´Â ÀÏÀº ±×¿¡°Ô ¹ß»ıÇÏÁö ¾Ê¾Ò´Ù.
+
+[784]
+#His forthright behaviour shows that he's honest,but he seems rude to some people.
+#±×ÀÇ ¼ÖÁ÷ÇÑ Çàµ¿Àº ±×°¡ ¼º½ÇÇÑ »ç¶÷ÀÌ¶ó´Â °ÍÀ» ¼³¸íÇÏ³ª, ¾î¶² »ç¶÷µéÀº ±×°¡ ¹«·ÊÇÏ´Ù°í ¿©±ä´Ù.
+
+[785]
+#The second time he fainted it took a long time to bring him round.
+#±×°¡ µÎ ¹øÂ° ±âÀıÇÑ ÈÄ¿¡ ´Ù¸¥ »ç¶÷ÀÌ ¿À·£ ½Ã°£ÀÌ Áö³­ µÚ¿¡ °Ü¿ì ±ú¾î³µ´Ù.
+
+[786]
+#He rounded off his short speech by thanking everyone who had assisted him.
+#±×´Â ±×ÀÇ ÂªÀº ¿¬¼³À» ³¡³»´Â °ÍÀ¸·Î ±×¸¦ µµ¿Ô´ø ¸ğµç »ç¶÷µé¿¡°Ô »çÀÇ¸¦ Ç¥ÇÏ¿´´Ù.
+
+[787]
+#He made careful investigations of all problems that confronted him and never jumped at conclusions.
+#±×´Â ´ç¸éÇÑ ¸ğµç ¹®Á¦¿¡ ´ëÇÏ¿© ÀÚ¼¼È÷ Á¶»çÇÏ°í ¿¬±¸ÇÏÁö Àı´ë·Î È²±ŞÇÏ°Ô °á·ĞÀ» ³»¸®Áö ¾Ê´Â´Ù.
+
+[788]
+#He tells us of lightless stars,"visible" only to radio antennae.
+#±×´Â ¿ì¸®¿¡°Ô ºûÀ» ¹ßÇÏÁö ¾Ê´Â º°Àº ¶óµğ¿À ¾ÈÅ×³ª°¡ ÀÖ¾î¾ß ºñ·Î¼Ò º¼ ¼ö ÀÖ´Ù°í ¸»ÇØ ÁÖ¾ú´Ù.
+
+[789]
+#His deep knowledge of the historical background enabled him to expatiate upon the significance of the movement.
+#±×´Â ¿ª»çÀû ¹è°æ¿¡ ´ëÇÏ¿© ±íÀÌ ¾Ë°í ÀÖ±â ¶§¹®¿¡ ±×°¡ ÀÌ ¿îµ¿ÀÇ ÀÇÀÇ¸¦ »ó¼¼È÷ °£¼úÇÒ ¼ö ÀÖ¾ú´Ù.
+
+[790]
+#He'd made a bad mistake,but tried to minimize its seriousness.
+#±×´Â ¾ÆÁÖ ½É°¢ÇÑ Àß¸øÀ» ÀúÁú·¶À¸³ª ±×´Â ±×°ÍÀÇ ½É°¢¼ºÀ» ¾ÆÁÖ ÀÛÀº °ÍÀ¸·Î ¸»ÇÏ·ÁÇÏ¿´´Ù.
+
+[791]
+#When he had put aside his belongings ,he began to talk without any unnecessary preliminaries.
+#±×´Â ±×°¡ °¡Áö°í ¿Â ¹°°ÇÀ» ³»·Á³õ°í ´ÜµµÁ÷ÀÔÀûÀ¸·Î ÀÌ¾ß±â¸¦ ½ÃÀÛÇÏ¿´´Ù.
+
+[792]
+#He's too proud to be seen in public with his poorly-dressed mother.
+#±×´Â ³Ê¹« ¿À¸¸ÇÏ¿© °ø°øÀå¼Ò¿¡¼­ ÀÇº¹ÀÌ ³²·çÇÑ ¾î¸Ó´Ï¿Í °°ÀÌ ÀÖ´Â °ÍÀ» »ç¶÷µéÀÌ º¸´Â °ÍÀ» ¿øÇÏÁö ¾Ê¾Ò´Ù.
+ 
+[793]
+#He sketched out his plans,so that we had some idea of what he would do.
+#±×°¡ ±×ÀÇ °èÈ¹¿¡ ´ëÇÏ¿© °£·«ÇÏ°Ô ¼³¸íÇÏ¿© ¿ì¸®´Â ±×°¡ ÇÏ·Á´Â ÀÏ¿¡ ´ëÇÏ¿© ¾à°£ÀÇ °³³äÀÌ »ı°å´Ù.
+
+[794]
+#He started life at the bottom and worked his way to the top.
+#±×°¡ ÀÏÀ» ¸· ½ÃÀÛÇßÀ» ¶§´Â Á÷À§°¡ ¾ÆÁÖ ³·¾ÒÀ¸³ª ³ë·ÂÀ» ÇÏ¿© ÃÖ°íÀÇ ÀÚ¸®¿¡ ¿Ã¶ú´Ù.
+
+[795]
+#He cut his hand but he tied a cloth around it and shrugged it away.
+#±×´Â ±×ÀÇ ¼ÕÀ» Àß¶úÀ¸³ª ±×´Â ÃµÀ¸·Î »óÃ³¸¦ µ¿¿©¸Å°í´Â ¹æÄ¡ÇØµÎ¾ú´Ù.
+
+[796]
+#He has a dual interest in the football team; he's the trainer and his son plays for them.
+#±×´Â ±× Ãà±¸ÆÀ°ú ÀÌÁß°ü°è°¡ ÀÖ´Âµ¥, ±×´Â Ãà±¸ÆÀÀÇ ÄÚÄ¡ÀÌ¸ç ±×ÀÇ ¾ÆµéÀº ¼±¼öÀÌ´Ù.
+
+[797]
+#He sidled up to the stranger and tried to sell him the stolen ring.
+#±×´Â ÂŞ»Ä°Å¸®¸ç ±× ³¸¼± »ç¶÷¿¡°Ô Á¢±ÙÇÏ¿© ÈÉÃÄ¿Â ¹İÁö¸¦ ±×¿¡°Ô ÆÈ·Á°í ÇÏ¿´´Ù.
+
+[798]
+#He's fussy about his food,if it isn't cooked just right,he won't eat it.
+#±×´Â ³Ê¹« ÀÚ½ÅÀÌ ¸Ô´Â °Í¿¡ ½Å°æÀ» ¾´´Ù. ¸¸¾à ¿ä¸®°¡ ÀßµÇÁö ¾Ê¾ÒÀ¸¸é ±×´Â ±×°ÍÀ» ¸ÔÁö ¾Ê¾Ò´Ù.
+
+[799]
+#He used to be quiet,but he has blossomed out since he came to our group.
+#±×´Â ¿¹Àü¿¡´Â ºñ±³Àû Á¶¿ëÇÏ¿´À¸³ª ¿ì¸®ÆÀ¿¡ ¿Â ÀÌÈÄ·Î È°¹ßÇÏ°í À¯ÄèÇØÁ³´Ù.
+
+[800]
+#He got a comfortable pass in zoology,but barely scraped through in botany.
+#±×´Â ÀüÇô ÈûµéÀÌÁö ¾Ê°í µ¿¹°ÇĞ ½ÃÇèÀ» Åë°úÇÏ¿´À¸³ª, ½Ä¹°ÇĞÀº 1Á¡Â÷ÀÌ·Î ÇÕ°İÇÏÁö ¸øÇÏ¿´´Ù.
+
+[801]
+#His memory was so good that he could repeat many Shakespeare plays verbatim.
+#±×´Â ±â¾ï·ÂÀÌ ¾ÆÁÖ ÁÁ¾Æ¼­, ¼ÎÀÍ½ºÇÇ¾îÀÇ ¸¹Àº Èñ±ØÀ» ÇÑ ±ÛÀÚµµ Æ²¸®Áö ¾Ê°í ¿Ü¿ü´Ù.
+
+[802]
+#Now that he has committed the error,what's the use of trying to cover up instead of learning his lesson?
+#±×°¡ ±â¿Õ Àß¸øÀ» ÀúÁú·¶Áö¸¸, ±³ÈÆÀ» »ïÀ¸·ÁÇÏÁö ¾Ê°í ¼û±â·Á ÇÑ´Ù¸é ¶Ç ¹«½¼ ¼Ò¿ëÀÌ ÀÖ³Ä?
+
+[803]
+#He will tell you about our latest product and will be glad to help you with any technical information you may require.
+#±×´Â ´ç½Å¿¡°Ô º»»çÀÇ ÃÖ½Å »óÇ°À» ¼Ò°³ÇÒ °ÍÀÌ¸ç, ´ç½ÅÀÌ ÇÊ¿ä·Î ÇÏ´Â ¾î¶² ±â¼úÀÚ·á¸¦ ±â²¨ÀÌ Á¦°øÇÒ °ÍÀÌ´Ù.
+
+[804]
+#He will never be paid the money they promised him; they're just stringing him along.
+#±×´Â ¿µ¿øÈ÷ ±×µéÀÌ ±×¿¡°Ô ¾à¼ÓÇÑ µ·À» ¹ŞÁö ¸øÇÒ °ÍÀÌ´Ù. ±×µéÀº ±×ÀÇ ºñÀ§¸¦ ¸ÂÃß°í ÀÖÀ» »ÓÀÌ´Ù.
+
+[805]
+#He cheated the old woman of her money by making her sign a paper she didn't understand.
+#±×´Â ±× ³ëºÎÀÎÀ¸·Î ÇÏ¿©±İ ³»¸·À» Àß ¾ËÁö ¸øÇÏ´Â ¹®¼­¿¡ »çÀÎÇÏ°Ô ÇÏ¿© ±×³àÀÇ µ·À» »ç±âÃÄ °¬´Ù.
+ 
+[806]
+#It took all he could do to keep his cart from going over in the tortuous mountain trails.
+#±×´Â ÀÖ´Â ÈûÀ» ´ÙÇÏ¿© ±×ÀÇ Ä«Æ®¸¦ ¸ØÃß°ÔÇÏ¿©, °íºÒ°íºÒÇÑ »ê±æ¿¡¼­ µÚÁı¾îÁöÁö ¾Ê¾Ò´Ù. 
+
+[807]
+#He tried to keep up a calm appearance,but his trembling voice gave him away.
+#±×´Â ÁøÁ¤µÈ ¸ğ½ÀÀ» ÇÏ·Á°í ³ë·ÂÇÏ¿´À¸³ª, ±×ÀÇ ¶³¸®´Â ¸ñ¼Ò¸®¿¡¼­ ±×ÀÇ ½ÉÁ¤ÀÌ µå·¯³µ´Ù.
+
+[808]
+#In spite of poor health ,he would rather continue to work for the collective than gutter out without doing anything.
+#±×´Â °Ç°­ÀÌ ÁÁÁö ¾ÊÀ½¿¡µµ ºÒ±¸ÇÏ°í ±×´Â °è¼ÓÇÏ¿© ´ÜÃ¼¸¦ À§ÇÏ¿© ÀÏÇÏ¿´À¸¸ç ÇÏ´Â ÀÏÀÌ ¾øÀÌ Á×´Â °ÍÀ» ±â´Ù¸®±â¸¦ ¿øÇÏÁö ¾Ê¾Ò´Ù.
+
+[809]
+#Set up by a severe cold in September,he could not throw off his pneumonia.
+#±×´Â 9¿ù¿¡ ½ÉÇÑ °¨±â¿¡ °É·Á¼­ ÀúÇ×·Â¿¡ ¸¹ÀÌ ¶³¾îÁ®¼­ Æó·ÅÀÌ Ä¡À¯°¡ ¾î·Á¿ü´Ù.
+
+[810]
+#He just litters his stuff about - no wonder he can never find anything!
+#±×´Â ¹°°ÇÀ» ¾Æ¹«·¸°Ô³ª ´øÁ®¹ö¸®´Â °ÍÀ» ÁÁ¾ÆÇÏ´õ´Ï, ¾îÂ¾Áö ±×´Â Ç×»ó ¾î¶² °Íµµ Ã£Áö ¸øÇÏ´õ¶ó!
+
+[811]
+#He supports himself and his family by odd jobs and stooplabor in the fields.
+#±×´Â ³¯Ç°ÆÈÀÌ¸¦ ÇÏ°í ¹ç¿¡¼­ Çã¸®¸¦ ±¸ºÎ·Á¾ß ÇÏ´Â ÀÏ¿¡ Á¾»çÇÏ¿© ÀÚ½Å°ú °¡Á·À» ºÎ¾çÇÑ´Ù.
+
+[812]
+#He may think he has the better of us,but we'll settle with him before the week's out.
+#±×´Â ÀÚ½ÅÀÌ ¿ì¸®¿¡°Ô ÀÌÀÍÀ» º¼ ¼ö ÀÖÀ» °Å¶ó°í ¿©°åÀ¸³ª, ÀÌ¹ø ÁÖ¸¦ ³Ñ±âÁö ¸øÇÏ°í ¿ì¸®°¡ ±×¿¡°Ô Ã¢ÇÇ¸¦ ÁÖ¾ú´Ù.
+
+[813]
+#He's sure we'll win the match,but I don't share his faith in the team.
+#±×´Â ¿ì¸®°¡ ÀÌ¹ø °æ±â¿¡ ÀÌ±æ°ÍÀÌ¶ó°í È®½ÅÇÏ¿´À¸³ª ³ª´Â ¿ì¸®ÆÀ¿¡ ´ëÇÏ¿© ÀÌ·± ÀÚ½Å°¨ÀÌ ¾ø´Ù.
+
+[814]
+#He concentrated on the work in hand,and the hubbub outside the room simply flowed over him.
+#±×°¡ ¼öÁßÀÇ ÀÏ¿¡ ¸ôµÎÇÏ¿© ¹Ù±ùÀÇ ¶°µå´Â ¼Ò¸®¸¦ ±×´Â ¸øµéÀº °Í °°´Ù.
+
+[815]
+#His failure to notice my entrance proceeded from his absorption in a technical problem.
+#±×´Â ÇÑÃ¢ ±â¼ú ¹®Á¦¿¡ Àü³äÇÏ°í ÀÖ¾î¼­ ±×´Â ³»°¡ µé¾î¿À´Â °ÍÀ» ¾ËÁö ¸øÇß´Ù.
+
+[816]
+#Each time he asked Margaret to pay her debt,he was put off for another month.
+#±×°¡ ¸Å¹ø ¸¶°¡·¿¿¡°Ô µ·À» °±À¸¶ó°í ¿ä±¸ÇÒ ¶§, ±×³à´Â Ç×»ó ¾î¹°ÂÄ Áö³ª°¡ 1°³¿ùÀ» ±â´Ù¸± ¼ö ¹Û¿¡ ¾ø¾ú´Ù.
+
+[817]
+#They used to be concerned only with heavy metal castings,but have now branched out into light alloys and plastics.
+#±×µéÀº ¿ø·¡ Áß±İ¼Ó ÁÖ¹°¸¸À» °æ¿µÇÏ¿´À¸³ª, Áö±İÀº ÀÌ¹Ì °æÇÕ±İ°ú ÇÁ¶ó½ºÆ½À» °æ¿µÇÏ´Â °ÍÀ¸·Î ¹ßÀüÇÏ¿´´Ù.
+
+[818]
+#Ignoring fatigue,they kept at the job and finished it three weeks quicker than planned.
+#±×µéÀº ÇÇ°ïÇÔÀ» µ¹º¸Áö ¾Ê°í ÀÏÇÏ¿© °èÈ¹º¸´Ù 3ÁÖ ¾Õ´ç°Ü ÀÓ¹«¸¦ ¿Ï¼ºÇÏ¿´´Ù.
+
+[819]
+#The news of rigged ballots has rubbed off much of the shine of their election victory.
+#±×µéÀÌ ÅõÇ¥¸¦ Á¶Á¤Çß´Ù´Â ¼Ò½ÄÀº ±×µéÀÌ ¼±°Å¿¡¼­ ¾òÀº ½Â¸®¸¦ ¸¹ÀÌ Åğ»ö½ÃÄ×´Ù.
+
+[820]
+#So they roughed it out: The boy was going to live with his aunt and the girl with her grandmother.
+#±×µéÀº ´ëÃ¼·Î °èÈ¹À» Á¤ÇÏ¿´´Ù. ±× ³²ÀÚ ¾ÆÀÌ´Â ÀÌ¸ğ¿Í ÇÔ²² »ì °ÍÀÌ°í, ±× ¿©ÀÚ ¾ÆÀÌ´Â ÇÒ¸Ó´Ï¿Í »ì °ÍÀÌ´Ù.
+
+[821]
+#Their office is in central London,so their overheads are very high.
+#±×µéÀÇ »ç¹«½ÇÀº ·±´øÀÇ ½Ã³»¿¡ ÀÖ´Ù. ±×·¡¼­ ±×µéÀÇ ÀÏ»óÀûÀÌ ÁöÃâÀÌ Å©´Ù.
+
+[822]
+#Their sweat irrigated the landlord's fields yet they ended up with empty hands.
+#±×µéÀÇ ¶¡Àº ÁöÁÖÀÇ ¶¥¿¡ Èê·ÈÀ¸³ª, ±×µé ÀÚ½ÅÀº ¿ÀÈ÷·Á ºó¼ÕÀÌ¾ú´Ù.
+
+[823]
+#The theory put forward by them has hashed up the assumption made by some physicists two centuries ago.
+#±×µéÀÇ ÀÌ·ĞÀº ´Ù½Ã 2¼¼±â Àü ¾î¶² ¹°¸®ÇĞÀÚ°¡ ¸¸µé¾ú´ø °¡¼³À» ¾ğ±ŞÇÏ¿´´Ù.
+
+[824]
+#What all their suggestions added up to was that the work might be completed within a shorter period of time.
+#±×µéÀÇ ¿©·¯°¡Áö °ÇÀÇ´Â ÀÌ ÀÏÀÌ ºñ±³Àû ÂªÀº ½Ã°£ ³»¿¡ ¿Ï¼ºµÉ °¡´É¼ºÀ» ÀÇ¹ÌÇÏ°í ÀÖ´Ù.
+
+[825]
+#They have chewed the problem over for hours and hope to reach a decision soon.
+#±×µéÀº ÀÌ ¹®Á¦¿¡ ´ëÇÏ¿© ÀÌ¹Ì ¸î ½Ã°£ Åä·ĞÇÏ¿´´Âµ¥, »¡¸® °áÁ¤À» ³»¸®±â¸¦ Èñ¸ÁÇÑ´Ù.
+
+[826]
+#After they had quarrelled there was a pained silence between them.
+#±×µéÀÌ ½Î¿òÀ» ÇÑ ÀÌÈÄ¿¡ ½Ö¹æÀÌ ¸ğµÎ °¨Á¤ÀûÀ¸·Î ¼Õ»óÀ» ÀÔ¾î¼­ Ä§¹¬À» ÁöÄ×´Ù.
+
+[827]
+#They found the boy lying there all crumpled up and wondered what had happened to him.
+#±×µéÀº ±× ³²ÀÚ¾ÆÀÌ°¡ ¹İ½ÅºÒ¼ö°¡ µÇ¾î °Å±â¿¡ ´©¿öÀÖ´Â °ÍÀ» ¹ß°ßÇÏ¿´´Âµ¥, ±×°¡ µµ´ëÃ¼ ¹«½¼ ÀÏÀÌ ÀÖ¾ú´ÂÁö ¾ËÁö ¸øÇß´Ù.
+
+[828]
+#They gave him a suite of offices to rattle around in but nothing to do.
+#±×µéÀº ±×¿¡°Ô ÅÖÅÖ ºó »ç¹«½ÇÀ» ÁÖ¾î ±×´Â ¾È¿¡¼­ ÀÌ¸®Àú¸® ¶Ù¾î´Ù¹Ğ »Ó ¾Æ¹« ÇÒ ÀÏÀÌ ¾ø¾ú´Ù.
+
+[829]
+#They hit all the targets set out at a distance of 100,150 and 200 metros.
+#±×µéÀº 100,150,200m À§Ä¡ÇÑ ¸ñÇ¥¹°À» ÀüºÎ ÀûÁß½ÃÄ×´Ù.
+
+[830]
+#They have been hammering away at Comrade Yu for a few days,trying to change his mind.
+#±×µéÀº ¸çÄ¥ µ¿¾È ÁÙ°ğ À¯µ¿ÁöÀÇ »ı°¢À» ¹Ù²Ù°Ô ÇÏ·Á°í ³ë·ÂÇÏ¿´´Ù.
+
+[831]
+#They can leave school early today to play football.John's fixed it up with the Headmaster.
+#±×µéÀº Ãà±¸¸¦ ÇÏ±â À§ÇÏ¿© ¿À´Ã ÀÏÂï ÇĞ±³¸¦ ¶°³¯ ¼ö ÀÖ´Ù. Á¸Àº ±³Àå¼±»ı´Ô°ú ÀÌ¹Ì ÀÌ¾ß±â ÇÏ¿´´Ù.
+
+[832]
+#They did all they could to check on the claims of the stranger.
+#±×µéÀº ¸ğµÎ Èû²¯ ±× ³¸¼± »ç¶÷ÀÌ ¸»ÇÑ ¸ğµç »óÈ²ÀÌ »ç½Ç¿¡ ¸Â´ÂÁöÀÇ ¿©ºÎ¸¦ Á¶»çÇÏ¿´´Ù.
+
+[833]
+#They have those political opinions because they've been indoctrinated all their lives.
+#±×µéÀº ±×·± Á¤Ä¡ÁÖÀåÀ» °®°í ÀÖ´Âµ¥, ±×µéÀº ÀÏ»ı µ¿¾È ±×·± °üÁ¡¿¡ ÁÖÀÔÀ» ´çÇÏ¿´±â ¶§¹®ÀÌ´Ù.
+
+[834]
+#They began to speak French,shutting out the boy from their conversation.
+#±×µéÀÌ ºÒ¾î·Î ¸»À» ÇÏ±â ½ÃÀÛÇÏ¿© ÀÌ ³²ÀÚ ¾ÆÀÌ°¡ ±×µéÀÇ ´ëÈ­¿¡ ³¢¾îµé ¼ö ¾ø°Ô µÇ¾ú´Ù.
+
+[835]
+#They have played me along for some time,without telling me what they really want.
+#±×µéÀº ³ª¿¡°Ô Á¤¸» ¹«¾ùÀ» ¿øÇÏ´ÂÁö ¸»ÇÏÁö ¾Ê¾Æ ³ª·Î ÇÏ¿©±İ ÃÊÁ¶ÇÏ°Ô ¾ó¸¶°£À» ±â´Ù¸®°Ô ÇÏ¿´´Ù.
+
+[836]
+#They pore over well-thumbed pages as if touring their favorite market place.
+#±×µéÀÌ ¼÷µ¶ÇÏ¿© Ç×»ó µÚÁö´Â ¸î ÆäÀÌÁö´Â ¸¶Ä¡ ±×µéÀÌ °¡Àå ÁÁ¾ÆÇÏ´Â ½ÃÀåÀ» °Å´Ï´Â °Í°ú °°´Ù. 
+
+[837]
+#They say their actions have not caused unemployment,but I think that's debatable.
+#±×µéÀº ±×µéÀÇ ÇàÀ§°¡ ½Ç¾÷À» Á¶¼ºÇÏÁö ¾Ê¾Ò´Ù°í ¸»ÇÏ¿´À¸³ª ³ª´Â ÀÌ ¸»Àº ¹İµå½Ã Á¤È®ÇÏ´Ù°í ¿©±âÁö ¾Ê´Â´Ù.
+
+[838]
+#They gave us an ultimatum to pay the money back in five days,or they would take us to court.
+#±×µéÀº ¸¸¾à ¿ì¸®°¡ 5ÀÏ ÀÌ³»¿¡ µ·À» °±¾Æ¾ßÁö, ±×·¸Áö ¾ÊÀ¸¸é ¹ı¿ø¿¡ ¹Ù·Î È£¼ÒÇÏ°Ú´Ù°í ÃÖÈÄÅëÃ¸À» ÇÏ¿´´Ù.
+
+[839]
+#They are now playing the football match which was snowed off last Saturday.
+#±×µéÀº Áö±İ Áö³­ Åä¿äÀÏ¿¡ ´ë¼³·Î ¿¬±âµÇ¾ú´ø Ãà±¸ °æ±â¸¦ ÁøÇàÇÏ°í ÀÖ´Ù.
+
+[840]
+#They kept up their spirits by singing one song after another as they went along.
+#±×µéÀº ¾ÕÀ¸·Î °É¾î°¡¸é¼­ Å«¼Ò¸®·Î ÇÑ °î ÇÑ °î ³ë·¡¸¦ ÇÏ¸ç »ç±â¸¦ ºÏµ¸¾Ò´Ù. 
+
+[841]
+#They have redoubled their efforts to smoke out the President on the issues.
+#±×µéÀº ÀÌ¹Ì ´ëÅë·ÉÀÌ ÀÌ ¹®Á¦µé¿¡ ´ëÇÑ ÀÇ°ßÀ» ¸»ÇÏµµ·Ï µÎ ¹èÀÇ ³ë·ÂÀ» ÇÏ¿´´Ù.
+
+[842]
+#They thought the young man would fail through inexperience,but he contrived to put it across.
+#±×µéÀº ÀÌ Ã»³âÀÌ °æÇèÀÌ ºÎÁ·ÇÏ¿© ½ÇÆĞÇÒ °ÍÀÌ¶ó°í »ı°¢ÇÏ¿´À¸³ª, ±×´Â ÀÌ ÀÏÀ» ¿ëÄÉÇØ³»¾î ¿Ï¼ºÇÏ¿´´Ù. 
+
+[843]
+#They fell six votes short of the two-thirds necessary to reverse the veto.
+#±×µéÀº ºÎ°á¾ÈÀ» µÚÁı´Âµ¥ ÇÊ¿äÇÑ 3ºĞÀÇ 2ÀÇ Ç¥¼ö¿¡¼­ 6Ç¥°¡ ¸ğÀÚ¶ó¼­ ÁÂÀı´çÇÏ¿´´Ù.
+
+[844]
+#As they expected to move out almost immediately,they were camping out together in a small room.
+#±×µéÀº ´ëºÎºĞ ¹Ù·Î ¿Å°Ü¾ß ÇÏ±â ¶§¹®¿¡ Àá½Ã ÀÛÀº ¹æ ÇÏ³ª¿¡ ¹¬¾ú´Ù.
+
+[845]
+#They had intended to go shopping in the downtown district,but were put off by reports of traffic jams.
+#±×µéÀº ¿ø·¡ ½Ã³»¿¡ °¡¼­ ¹°°ÇÀ» »ì ¿¹Á¤ÀÌ¾úÀ¸³ª, ±³ÅëÀÌ º¹ÀâÇÏ´Ù°í ÇØ¼­ ±×¸¸µÎ¾ú´Ù.
+
+[846]
+#They agreed to the plan in principle,but there were several details they didn't like.
+#±×µéÀº ¿øÄ¢ÀûÀ¸·Î ÀÌ °èÈ¹¿¡ µ¿ÀÇÇßÀ¸³ª ¸î °¡Áö Á¡¿¡ ÀÖ¾î¼­ ±×µéÀº Âù¼ºÇÏÁö ¾Ê¾Ò´Ù.
+
+[847]
+#They have won the match,but they are not crowing over their defeated opponents.
+#±×µéÀº °æ±â¿¡¼­ ½Â¸®¸¦ °ÅµÎ¾úÀ¸³ª ±×µéÀº ÆĞÇÑ Àû¼ö¿¡ ´ëÇÏ¿© ÀÇ±â¾ç¾çÇØ ÇÏÁö ¾Ê¾Ò´Ù.
+
+[848]
+#They became so ganglike on the bus that all the passengers glared.
+#±×µéÀº ½Ã³»¹ö½º¿¡¼­ ±øÆĞ °°ÀÌ ±¼¾î¼­ ¸ğµç ½Â°´µéÀÌ ±×µéÀ» ¼º³­ ´«À¸·Î º¸¾Ò´Ù.
+
+[849]
+#Their application to add a room to their office goes before the planning committee next week.
+#±×µéÀÌ »ç¹«½Ç ÇÏ³ª¸¦ ´Ã·Á´Ş¶ó´Â ½ÅÃ»Àº ´ÙÀ½ÁÖ¿¡ °èÈ¹À§¿øÈ¸¿¡ ³Ñ°ÜÁ® ½É»ç¸¦ ¹ŞÀ» °ÍÀÌ´Ù.
+
+[850]
+#They had thought he would never pull round,but now he is as strong as ever.
+#±×µéÀº ±×°¡ ´Ù½Ã´Â °Ç°­À» È¸º¹ÇÏÁö ¸øÇÒ °ÍÀÌ¶ó°í ¿©°åÀ¸³ª, ±×´Â Áö±İ °ú°Å¿Í ¸¶Âù°¡Áö·Î °Ç°­ÇÏ´Ù.
+ 
+[851]
+#He slammed on the brake and the car spun out over the shoulder and came to a dead stop on the lawn.
+#±×°¡ °©ÀÚ±â ºê·¹ÀÌÅ©¸¦ ¹â¾Ò´Âµ¥ Â÷´Â ÇÑÂÊÀ¸·Î µ¹¾Æ °«±æÀ» µéÀÌ ¹Ş°í Ç®¹ç À§¿¡ ¸ØÃß¾ú´Ù.
+
+[852]
+#He gets 10commission,so if he sells goods worth ¡ê100 his commission is ¡ê10.
+#±×´Â10%ÀÇ Ä¿¹Ì¼ÇÀ» ¹Ş±â ¶§¹®¿¡ ¸¸¾à 100ÆÄ¿îµå ¾îÄ¡ÀÇ ¹°°ÇÀ» ÆÈ¸é ±×ÀÇ Ä¿¹Ì¼ÇÀº Áï 10ÆÄ¿îµåÀÌ´Ù.
+
+[853]
+#He got hold of a railway timetable and looked up all the trains to London.
+#±×´Â ¿­Â÷ ¿îÇà½Ã°¢Ç¥¸¦ ÇÏ³ª ¼Õ¿¡ ³Ö°í ¸ğµç ·±´øÇà ±âÂ÷ ½Ã°£À» ¾Ë¾Æº¸¾Ò´Ù.
+
+[854]
+#He tried to pick out the tune of a song he had heard on the radio.
+#±×´Â Ã»°¢ ±â¾ï¿¡ ÀÇÁ¸ÇÏ¿© ¶óµğ¿À¿¡¼­ µé¾ú´ø ³ë·¡¸¦ ¿¬ÁÖÇÏ·Á ÇÏ¿´´Ù.
+
+[855]
+#His wife left him,his car was stolen,then to cap it all he lost his job!
+#±×ÀÇ ¾Æ³»°¡ ±×¸¦ ¶°³µ°í ±×ÀÇ Â÷´Â µµ³­À» ´çÇÏ¿´À¸¸ç, ´õ Àç¼ö¾ø´Â °ÍÀº ±×°¡ Á÷ÀåÀ» ÀÒ¾ú´Ù´Â °ÍÀÌ´Ù.
+
+[856]
+#At first he was opposed to the scheme ,but we managed to argue him round.
+#±×´Â Ã³À½¿¡ ÀÌ °èÈ¹À» ¹İ´ëÇÏ¿´À¸³ª, ¿ì¸®°¡ º¯·ĞÀ¸·Î °á±¹Àº ±×¸¦ ¹Ù²Ù¾î³õ¾Ò´Ù.
+
+[857]
+#He disagreed,but we won him round to our point of view.
+#±×´Â Ã³À½¿¡´Â µ¿ÀÇÇÏÁö ¾Ê¾ÒÀ¸³ª, ¿ì¸®´Â ±×¸¦ ¼³µæÇÏ¿© ±×°¡ ¿ì¸®ÀÇ ÀÇ°ßÀ» ÁöÁöÇÏ°Ô ÇÏ¿´´Ù.
+
+[858]
+#He came to the party,but didn't really enter into the spirit of it.
+#±×´Â ÆÄÆ¼¿¡ ¿ÔÀ¸³ª ÁøÁ¤À¸·Î ±×µé°ú ÇÔ²² Áñ°Ì°Ô ½Ã°£À» º¸³»Áö ¾Ê¾Ò´Ù.
+
+[859]
+#He has tried to jazz up the old car with a spot of paint and some accessories.
+#±×´Â ÀûÀº ¾çÀÇ ÆäÀÎÆ®¿Í ¾à°£ÀÇ ºÎ¼ÓÇ°À¸·Î ±× ³°Àº Â÷¸¦ »õ·Ó°Ô ¹Ù²Ù·Á°í ÇÏ¿´´Ù.
+
+[860]
+#He failed many times but he finally broke through to find a successful polio vaccine.
+#±×´Â ¿©·¯ ¹ø ½ÇÆĞ¸¦ ÇÏ¿´À¸³ª, °á±¹Àº È¿°úÀûÀÎ ¼Ò¾Æ¸¶ºñ ¿¹¹æ ¹é½ÅÀ» ¹ß°ßÇÏ¿´´Ù.
+
+[861]
+#He can't keep anything down; he sicked up what little breakfact he had.
+#±×´Â ¾î¶² À½½Äµµ ¸ÔÀ» ¼ö°¡ ¾ø´Ù. Á¶±İ ¸Ô¾ú´ø ¾ÆÄ§µµ ÀüºÎ ÅäÇØ³Â´Ù.
+
+[862]
+#He's a quiet unobtrusive student,but always does well in the examination.
+#±×´Â ¾ÆÁÖ ¸»ÀÌ Àû°í °úºĞÇÏ¿© ÁÖ¸ñ¹ŞÁö ¸øÇÏ´Â ÇĞ»ıÀÌ³ª, ±×ÀÇ ½ÃÇè¼ºÀûÀº Ç×»ó ¾ÆÁÖ ¿ì¼öÇÏ¿´´Ù.
+
+[863]
+#He's a slacker,he actually skipped off and left us to do the clearing away.
+#±×´Â °ÔÀ¸¸§¹ğÀÌ¶ó¼­ ±×´Â Ç×»ó »ìÂ¦ µµ¸Á°¡ Ã»¼Ò¸¦ Ç×»ó ¿ì¸®¿¡°Ô ³²°Ü ÇÏ°Ô ÇÏ¿´´Ù.
+
+[864]
+#He's the dirtiest man I know,and he has the nerve to tell me my shoes need cleaning!
+#±×´Â ³»°¡ ¾Æ´Â °¡Àå ºÒ°áÇÑ »ç¶÷ÀÎµ¥, ±×°¡ µµ´ëÃ¼ ¹«½¼ ¾ó±¼·Î ³ªÀÇ ½Å¹ßÀ» ±ú²ıÇÏ°Ô ´Û¾Æ¾ß ÇÑ´Ù°í ¸»ÇÒ ¼ö ÀÖ³ª!
+
+[865]
+#He tried to salve his conscience with excuses,but he knew he was doing wrong.
+#±×´Â ¿©·¯ °¡Áö ÇÎ°è·Î ÀÚ½ÅÀÇ ¾ç½ÉÀ» À§·ÎÇÏ·Á ÇÏ¿´À¸³ª, ±×´Â ÀÚ½ÅÀÌ Àß¸øÀ» ÇßÀ½À» ¾Ë°í ÀÖ¾ú´Ù.
+
+[866]
+#He said:¡°It is very difficult for me to speak English well and talk with foreigners in English.¡±
+#±×´Â "¿µ¾î¸¦ ÀßÇÏ°í ¿Ü±¹ÀÎ°ú ¿µ¾î·Î ¸»ÇÏ´Â °ÍÀº ³»°Ô ÀÖ¾î ¾ÆÁÖ ¾î·Á¿î ÀÏÀÌ¾ß"¶ó°í ¸»Çß´Ù.
+
+[867]
+#He said what he had to say ,and then,before I could reply,he rang off.
+#±×´Â ÇÒ¸»À» ÇÏ¿´À¸¸ç ÀÌ¾î¼­ ³»°¡ ¾ÆÁ÷ ´ë´äÀ» ÇÏ±â Àü¿¡ ±×´Â ÀüÈ­¸¦ ²÷¾î¹ö·È´Ù.
+
+[868]
+#He said he'd help me do the job,but he was more of a hindrance than a help.
+#±×´Â ³»°¡ ÇÏ´Â ÀÌ ÀÏÀ» µ½°í ½Í´Ù°í ¸»ÇÏ¿´À¸³ª, ±×°¡ µ½´Â´Ù°í ¸»ÇÏ´Â °Íº¸´Ù Â÷¶ó¸® ¹æÇØÇÑ´Ù°í ¸»ÇÏ´Â °ÍÀÌ ³´´Ù.
+
+[869]
+#Although he was small he could keep up with the larger boys in sports.
+#±×´Â ºñ·Ï Å°´Â ÀÛÀ¸³ª ¿îµ¿¿¡¼­´Â ±× º¸´Ù Å°°¡ Å« ¾ÆÀÌµé°ú °ßÁÙ¸¸ÇÏ´Ù.
+
+[870]
+#Though he comes from the north ,he speaks the Shanghai dialect well enough to pass for a native of Shanghai.
+#ºñ·Ï ±×´Â ºÏÂÊ¿¡¼­ Ãâ½ÅÀÌÁö¸¸, »óÇØ¸»À» ¾ÆÁÖ ÀßÇØ¼­ »ç¶÷µéÀÌ »óÇØ»ç¶÷À¸·Î ¿©±æ ¼ö ÀÖ´Ù.
+
+[871]
+#He did the reverse of what we expected; instead of being angry,he bought us a drink.
+#±×°¡ ÇÑ °ÍÀº ¿ì¸®°¡ ¿¹»óÇÑ °Í°ú´Â Á¤¹İ´ë·Î ±×´Â È­¸¦ ³»Áö ¾Ê¾ÒÀ» »Ó ¾Æ´Ï¶ó, ¶Ç ¿ì¸®¿¡°Ô À½·á¸¦ »ç ÁÖ¾ú´Ù.
+ 
+[872]
+#He paused,not for an answer,but to let his words sink in.
+#±×´Â Àá½Ã ¸ØÃß¾ú´Âµ¥, »ç¶÷µéÀÌ ´ë´äÇÏµµ·Ï ÇÏ·Á´Â °ÍÀÌ ¾Æ´Ï°í ±×ÀÇ ¸»À» »ç¶÷µé¿¡°Ô ´õ ±íÀº ÀÎ»óÀ» ÁÖ±â À§ÇÑ °ÍÀÌ´Ù.
+
+[873]
+#As a rule he writes English very well,but occasionally unidiomatic expressions creep in.
+#±×´Â ÀÏ¹İÀûÀ¸·Î ¿µ¾î·Î ±ÛÀ» Àß ¾²³ª °¡²û ½À°ü¿¡ ¸ÂÁö ¾Ê´Â Ç¥Çö¹æ¹ıÀ» ¼¯¾î ¾´´Ù.
+
+[874]
+#He asked about the present condition and I tried to eke out the little knowledge I had collected.
+#±×´Â ÇöÀçÀÇ »óÈ²À» ¹°¾î¼­ ³ª´Â ³»°¡ ¼öÁıÇÑ ¾à°£ÀÇ ÀÚ·áÀ» °¡´ÉÇÑ ±×¿¡°Ô ¾Ë·ÁÁÖ¾ú´Ù.
+
+[875]
+#He led off the conversation by telling us a story of his personal experience.
+#±×°¡ ¸ÕÀú ¿ì¸®¿¡°Ô ÀÚ½ÅÀÌ Á÷Á¢ °ŞÀº °æÇèÀ» ¸»ÇÏ¿´À¸¸ç, ÀÌ·¸°Ô ¸ğµÎµé ÀÌ¾ß±â¸¦ ½ÃÀÛÇÏ¿´´Ù.
+
+[876]
+#He was buoyed up by thinking that he would recover yet,if slowly.
+#±×´Â ºñ·Ï ÃµÃµÈ÷ °Ç°­ÀÌ È¸º¹µÉÁö¶óµµ °Ç°­ÀÌ È¸º¹µÉ °ÍÀÌ¶ó°í »ı°¢ÇÏ¸é ±âºĞÀÌ ¸í¶ûÇØÁ³´Ù.
+
+[877]
+#He was trying to write,but the continuous noise outside his window put him off .
+#±×´Â ¹» Á» ¾²·ÁÇÏ¿´À¸³ª, Ã¢¹Û¿¡¼­ °è¼ÓµÇ´Â ½Ã²ô·¯¿î ¼Ò¸®°¡ ±×¿¡°Ô ÀÇ¿åÀ» ÀÒ°Ô ÇÏ¿´´Ù.
+
+[878]
+#He wants a mature,dependable person,and he doesn't require a knowledge of any specialized vocabularies!
+#±×´Â ¼º¼÷ÇÏ°í ¹ÏÀ» ¸¸ÇÑ »ç¶÷À» ¿øÇÏ´Â °ÍÀÌÁö, °áÄÚ ´ç½Å¿¡°Ô ¾î¶² Àü¹® ¿ë¾î¸¦ ¾Ë±â¸¦ ¿ä±¸ÇÏ´Â °ÍÀº ¾Æ´Ï¿ä!
+
+[879]
+#He asked me to pep his drink up with something stronger.
+#±×´Â ³ª¿¡°Ô À½·á¿¡ Á»´õ °­ÇÑ °ÍÀ» ³Ö¾î ±×°ÍÀ» ¸¶½Ã¸é ÈûÀ» ³¾ ¼ö ÀÖµµ·Ï ÇØ´Ş¶ó°í Çß´Ù.
+
+[880]
+#He failed in business not because of misfortune,but because of his own mistakes.
+#±×°¡ »ç¾÷¿¡¼­ ½ÇÆĞÇÑ °ÍÀº ¿îÀÌ ³ªºü¼­°¡ ¾Æ´Ï¶ó ±×ÀÇ Àß¸øÀ¸·Î ÀÎÇÑ °ÍÀÌ´Ù.
+
+[881]
+#There were various pursuits in which he had dabble from time ---- the violin was his latest.
+#±×´Â ¿©·¯°¡Áö Ãë¹Ì°¡ ÀÖÀ¸³ª ¸ğµÎ Á¶±İ ÇØº¸°í ±×¸¸µÎ¾úÀ¸¸ç, ÃÖ±Ù¿¡ ±×´Â ¶Ç ¹ÙÀÌ¿Ã¸°¿¡ ºüÁ³´Ù.
+
+[882]
+#Memories crowded in on (upon) him as soon as he met the friend whom he had heard nothing of for over thirty years.
+#±×°¡ 30³â µ¿¾È ¼­·Î ¿¬¶ôÀ» ÇÏÁö ¸øÇß´ø Ä£±¸¸¦ ¸¸³µÀ» ¶§ ¸¹Àº ¿¾ÀÏÀÌ ¸¶À½¼Ó¿¡¼­ ÀÚ²Ù ¶°¿Ã¶ú´Ù.
+
+[883]
+#He has already sawn the branches up,now we have plenty of firewood.
+#±×´Â ÀÌ¹Ì ³ª¹µ°¡Áö¸¦ ÇÏ³ª ÇÏ³ª Àß¶ó¼­ Áö±İ ¿ì¸®´Â ÃæºĞÇÑ ³ª¹«°¡ ÀÖ´Ù.
+
+[884]
+#He has put in repeated requests for permission to help to build the big oil refinery.
+#±×´Â ÀÌ¹Ì ¿©·¯ ¹ø ½ÅÃ»À» Á¦ÃâÇÏ¿©, ´ëÇü Á¤À¯°øÀåÀ» ¼¼¿ì´Âµ¥ Âü°¡ÇÏ´Â °ÍÀ» Çã°¡ÇÒ °ÍÀ» ¿ä±¸ÇÏ¿´´Ù.
+ 
+[885]
+#He grew into the job although he wasn't up to it when he started.
+#±×´Â ºñ·Ï Ã³À½¿¡´Â °¨´çÇÒ ¼ö ¾ø¾úÀ¸³ª, ÀÌ¹Ì ÀÌ ÀÏÀ» ´ã´çÇÒ ¼ö ÀÖ°Ô µÇ¾ú´Ù.
+ 
+[886]
+#He improved on his previous performance by swimming the distance in less than a minute.
+#±×´Â 1ºĞÀÌ ¾È µÇ´Â ½Ã°£¿¡ ÀÌ °Å¸®¸¦ ¼ö¿µÇÏ¿© ±×ÀÇ ÀÌÀüÀÇ ±â·ÏÀ» °æ½ÅÇÏ¿´´Ù.
+
+[887]
+#He has been on sick leave for some weeks,and so he has to work hard to catch us all up.
+#±×´Â ¸î ÁÖÀÏÀ» º´°¡¸¦ ³Â±â ¶§¹®¿¡ ¿ì¸®¸¦ ÂÑ¾Æ¿À±â À§ÇÏ¿© ¾îÂ¿ ¼ö ¾øÀÌ ÀÏÀ» ¿­½ÉÈ÷ ÇØ¾ß Çß´Ù.
+
+[888]
+#He was in competition with 10 others,so he did well to win the race.
+#±×´Â 10¸í°ú °æÀïÇÏ¿´´Âµ¥ ±×°¡ ¾ÆÁÖ Àß ´Ş¸®±â ¶§¹®¿¡ ÀÌ ·¹ÀÌ½º¿¡¼­ ½Â¸®ÇÏ¿´´Ù.
+
+[889]
+#A whole morning of Mrs.Hunter was more than he had bargained for.
+#±×´Â ÇåÅÍ ºÎÀÎÀÌ ¿ÀÀü ³»³» ÀÌ·¸°Ô »ç¶÷À» ÂüÀ» ¼ö ¾ø°Ô ÇÏ¸®¶ó°ï »ı°¢À» ÇÏÁö ¸øÇÏ¿´´Ù.
+
+[890]
+#He took over the post in the knowledge that it might endanger his life.
+#±×´Â ºĞ¸í ±×ÀÇ »ı¸íÀÌ À§ÇùÀ» ¹ŞÀ» Áöµµ ¸ğ¸¥´Ù´Â »óÈ²À» ¾Ë°í¼­ ±× Á÷À§¸¦ ÀÌ¾î ¹Ş¾Ò´Ù.
+
+[891]
+#During his graduate years he was one of my favorite students,and now he is a popular lecturer at Nanjin University.
+#±×´Â ´ëÇĞ¿ø»ı ¶§ ³»°¡ ÁÁ¾ÆÇÏ´ø ÇĞ»ıÀ¸·Î Áö±İÀº ³²°æ´ëÇĞ±³¿¡¼­ ÀÎ±âÀÖ´Â ¼±»ı´ÔÀÌ´Ù.
+
+[892]
+#He has some difficulties in his study ,but with his comrades' help he has kept up with the class.
+#±×´Â °øºÎ¿¡ ¾à°£ÀÇ ¹®Á¦°¡ ÀÖÀ¸³ª µ¿ÁöµéÀÇ µµ¿òÀ¸·Î ±×´Â ¹İÀÇ ¼ö¾÷À» µû¶ó °¥ ¼ö ÀÖ°Ô µÇ¾ú´Ù.
+
+[893]
+#He lost an eye in an accident,and now he has a glass eys.
+#±×´Â »ç°í·Î ÇÑ ÂÊ ´«À» ÀÒ¾úÀ¸³ª ±×´Â Áö±İÀº À¯¸®Á¦ÀÇ ÀÇ¾ÈÀ» Çß´Ù.
+
+[894]
+#He was a very fine actor,but I'm afraid he has had his day now.
+#±×´Â ÈÇ¸¢ÇÑ ¹è¿ì¿´À¸³ª ¾Æ¸¶ ±×ÀÇ Àü¼º±â´Â ÀÌ¹Ì Áö³­ °Í °°´Ù.
+
+[895]
+#His foolish behaviour is very immature for a man of 30.
+#±×ÀÇ ÀÌ·± ¿ìµĞÇÑ ÇàÀ§´Â ³ªÀÌ°¡ 30ÀÎ »ç¶÷À¸·Î º¸¸é ¾ÆÁÖ À¯Ä¡ÇÑ °ÍÀÌ´Ù.
+
+[896]
+#He knew that it would be very difficult to win the contest,but hoped that he might be able to pull it off.
+#±×´Â ÀÌ °æ±â¿¡¼­ ÀÌ±ä´Ù´Â °ÍÀÌ ¾ÆÁÖ Èûµé´Ù´Â °ÍÀ» ¾ËÁö¸¸ ±×´Â ¼º°øÇÏ±â¸¦ Èñ¸ÁÇÏ¿´´Ù.
+
+[897]
+#He was ready to stand down so that his friend might be nominated for the post.
+#±×´Â ÈÄº¸¸¦ »ç¾çÇÏ°í ¹°·¯³¯ ÁØºñ¸¦ ÇÏ±â ¶§¹®¿¡ ±×ÀÇ Ä£±¸°¡ ¾Æ¸¶ ±×ÀÇ ÀÚ¸®¿¡ ÈÄº¸·Î µÉ °ÍÀÌ´Ù.
+
+[898]
+#His own cry,which clattered down the silent ravines,was borne back to his ears in the countless repetitions.
+#±× ÀÚ½ÅÀÇ °íÇÔ¼Ò¸®°¡ Á¶¿ëÇÑ »ê¼Ó¿¡¼­ ¸Ş¾Æ¸® ÃÄ ¼¿ ¼ö ¾øÀÌ ÀÚ½ÅÀÇ ±Í·Î µ¹¾Æ¿Ô´Ù.
+
+[899]
+#He is always strict with himself in the hope that he can get up to the high standard required for a communist.
+#±×´Â Ç×»ó °ø»ê´ç¿ø¿¡°Ô ³»³õÀº ³ôÀº Ç¥ÁØ¿¡ µµ´ŞÇÒ ¼ö ÀÖ±â¸¦ Èñ¸ÁÇÏ¸é¼­ ¾ö°İÈ÷ ÀÚ±â¿¡°Ô ¿ä±¸ÇÏ¿´´Ù.
+
+[900]
+#He sat down on a bench,hitching up his trousers ,carefully,as if afraid of destroying a knife-edged crease.
+#±×´Â º¥Ä¡¿¡ ¾É¾Æ¼­ Á¶½É½º·´°Ô ¹ÙÁö¸¦ µé¾î ¿Ã¸®´Â °ÍÀÌ ¸¶Ä¡ »¥»¥ÇÏ°Ô ¼± ¹ÙÁşÁÙÀÌ ±¸°ÜÁú±î °ÆÁ¤ÇÏ´Â °Í °°¾Ò´Ù.
+
+[901]
+#He left me a small legacy in a nuncupative will ,as a token of his kindness to me.
+#±×´Â ³ª¿¡ ´ëÇÑ °ü½ÉÀÇ Ç¥ÇöÀ¸·Î ¸»·ÎÇÏ´Â À¯¾ğ¿¡¼­ ÀûÀº À¯»êÀ» ³ª¿¡°Ô ³²°Ü ÁÖ¾ú´Ù.
+
+[902]
+#She described the events so graphically that I could almost see them.
+#±×³à°¡ ±× ÀÏÀ» ¾ÆÁÖ »ıµ¿°¨ÀÖ°Ô ¹¦»çÇÏ¿© ³ª´Â ¸¶Ä¡ Á÷Á¢ º» °Í °°¾Ò´Ù.
+
+[903]
+#She told us most of the story,but kept back the bit about her uncle.
+#±×³à´Â ÀÏÀÇ ´ëºÎºĞÀ» ¿ì¸®¿¡°Ô ¸»ÇÏ¿´À¸³ª, ±×ÀÇ »ïÃÌ¿¡ °üÇÑ ÀÏºÎºĞÀº °¨Ãß¾ú´Ù.
+
+[904]
+#She doesn't express her thoughts with precision,so people often misunderstand her.
+#±×³à´Â ÀÚ½ÅÀÇ »ı°¢À» Á¤È®ÇÏ°Ô Ç¥ÇöÇÏÁö ¸øÇÏ¿© ÀÚÁÖ ´Ù¸¥ »ç¶÷µéÀÌ ±×³àÀÇ ¶æÀ» ¿ÀÇØÇÑ´Ù.
+
+[905]
+#She doesn't know her father is a thief,and I don't want to disillusion her.
+#±×³à´Â ±×ÀÇ ¾Æ¹öÁö°¡ µµµÏÀÌ¶ó´Â °ÍÀ» ¾ËÁö ¸øÇÏ¿´À¸³ª, ³ªµµ ±×³à¿¡°Ô ±×ÀÇ ¾Æ¹öÁöÀÇ ½ÇÃ¼¸¦ Æø·ÎÇÏ°í ½ÍÁö ¾Ê¾Ò´Ù.
+
+[906]
+#She didn't know why we were laughing at that joke; in a little while she caught on and laughed too.
+#±×³à´Â ¿ì¸®°¡ ±× ¿ì½º°³ ¼Ò¸®¸¦ µè°í ¿Ö ¿ô¾ú´ÂÁö ¸ğ¸£´Ù°¡, Àá½Ã ÈÄ ÀÌÇØÇÏ°í´Â ±×³àµµ ¿ô¾ú´Ù.
+
+[907]
+#She gave him a guileless look,but he knew he couldn't really trust her.
+#±×³à´Â °£ÀıÇÏ°Ô ±×¸¦ º¸¾ÒÀ¸³ª, ±×´Â ±×°¡ ÁøÁ¤À¸·Î ±×³à¸¦ ¹ÏÀ» ¼ö ¾ø´Ù´Â °ÍÀ» ¾Ë¾Ò´Ù.
+
+[908]
+#She fulfilled herself both as a mother and as a successful writer.
+#±×³à´Â ÀÚ½ÅÀ» ¾ö¸¶·Î, ¼º°øÇÑ ÀÛ°¡·Î¼­ Àç´ÉÀ» ÃæºĞÈ÷ ¹ßÈÖÇÏ¿´´Ù.
+
+[909]
+#She's in welfare work; she helps people who have no jobs,family problems,etc.
+#±×³à´Â º¹Áö»ç¾÷¿¡ Á¾»çÇÑ´Ù. ±×³à´Â ½Ç¾÷ÀÚ¿Í °¡Á¤¹®Á¦ µîÀÌ ÀÖ´Â ¿©·¯ »ç¶÷µé¿¡°Ô µµ¿òÀ» ÁÖ±â¸¦ ¿øÇÑ´Ù.
+
+[910]
+#She put on her specs,threaded a needle,and stitch by stitch sewed up the rent in the sleeve.
+#±×³à´Â ¾È°æÀ» ¾²°í ¹Ù´ÃÀ» Àß ²é ÈÄ¿¡ ÇÑ ¶¡ ÇÑ ¶¡ ¿Ê ¼Ò¸ÅÀÇ Âõ¾îÁø °÷À» ¼ö¼±ÇÏ¿´´Ù.
+ 
+[911]
+#She went to him for help,but he put her off with vague promises.
+#±×³à´Â ±×¿¡°Ô °¡¼­ µµ¿Í´Ş¶ó°í ÇßÀ¸³ª ±×´Â ¾Ö¸ÅÇÑ ¾à¼ÓÀ¸·Î ±×°ÍÀ» ¾ó¹ö¹«·È´Ù.
+
+[912]
+#Her plans to go out were nipped in the bud when her mother arrived for the evening.
+#±×³àÀÇ ¾î¸Ó´Ï°¡ ¿À¼Å¼­ ¿©±â¿¡¼­ ÇÏ·ç Àú³á Áö³»·Á ÇÏ¿´±â ¶§¹®¿¡ ±×³àÀÇ ³ª°¡·Á´ø °èÈ¹Àº ¹°°ÅÇ°ÀÌ µÇ¾ú´Ù.
+
+[913]
+#With the last hours of the afternoon went her hopes,her courages,and her strength.
+#±×³àÀÇ Èñ¸Á, ¿ë±â¿Í ÈûÀº ±× ³¯ ¿ÀÈÄ ¸î ½Ã°£°ú ÇÔ²² ¸ğµÎ »ç¶óÁ³´Ù.
+ 
+[914]
+#Her friends condoled with her when her husband had lost a leg in the accident.
+#±×³àÀÇ ³²ÆíÀÌ ÀÌ »ç°í·Î ´Ù¸® ÇÑ ÂÊÀ» ÀÒÀÚ ±×³àÀÇ Ä£±¸µéÀº ±×³à¿¡°Ô À§·Î¸¦ ÀüÇÏ¿´´Ù.
+
+[915]
+#She leads a free and easy sort of life and never troubles much about anything.
+#±×³à´Â ÀÚÀ¯·Ó°Ô ½±°í ÆíÇÑ »ıÈ°À» ÇØ¿Ô°í Áö²û²¯ ¾î¶² ÀÏÀ» Á¶½ÉÇÏ°Å³ª ÇÏÁö ¾Ê¾Ò´Ù.
+
+[916]
+#She's very keen on sport: among other things,she plays tennis twice a week.
+#±×³à´Â Ã¼À°È°µ¿À» ¾ÆÁÖ ÁÁ¾ÆÇÏ´Âµ¥ ´Ù¸¥ È°µ¿ ÀÌ¿Ü¿¡ ±×´Â ¸ÅÁÖ 2¹ø Å×´Ï½º¸¦ Ä£´Ù.
+
+[917]
+#She has a lot of guts; she went on arguing even though no one agreed with her.
+#±×³à´Â ¿ë±â°¡ ÀÖ¾î¼­ ´Ù¸¥ »ç¶÷µéÀÌ ±×³àÀÇ ÀÇ°ß¿¡ µ¿ÀÇÇÏÁö ¾Ê¾Æµµ ³¡±îÁö ÁÖÀåÇÏ¿´´Ù.
+
+[918]
+#She bundled the children off to her elder sister's and caught the first train to Nanjing.
+#±×³à´Â ±ŞÈ÷ ¾ÆÀÌ¸¦ ¾ğ´Ï Áı¿¡ º¸³½ ÈÄ¿¡ ³²°æÇà Ã¹ ±âÂ÷¸¦ ÅÀ´Ù.
+
+[919]
+#She told her boy not to stamp on the floor and disturb the sleeping baby.
+#±×³à´Â ±×³àÀÇ ¾Æµé¿¡°Ô ÀÚ´Â ¾Æ±â°¡ ±úÁö ¾Ê°Ô ¸¶·ç¿¡¼­ ¼Ò¸®³»¸ç °ÈÁö ¸»¶ó°í ÇÏ¿´´Ù. 
+
+[920]
+#Did anyone come up to support her when she had expressed herself on the subject?
+#±×³à´Â ÀÌ Á¦¸ñÀ¸·Î ÀÚ½ÅÀÇ ÀÇ°ßÀ» ¹ßÇ¥ÇÑ ÈÄ¿¡ ´©°¡ ÀÏ¾î³ª ±×³à¸¦ ÁöÁöÇÒ±î¿ä?
+
+[921]
+#It dawned on her that only by emancipating all mankind could the proletariat achieve its own final emancipation,
+#±×³à´Â ¹«»ê°è±ŞÀº ÀüÀÎ·ù¸¦ ÇØ¹æÇØ¾ß ºñ·Î¼Ò ¸¶Áö¸·¿¡ ÀÚ±â¸¦ ÇØ¹æÇÒ ¼ö ÀÖ´Ù´Â °ÍÀ» ¾Ë±â ½ÃÀÛÇÏ¿´´Ù.
+
+[922]
+#She soon gets down ,but she just as soon recovers her cheerfulness.
+#±×³à´Â ¾ÆÁÖ ºü¸£°Ô ÀÇ±â¼ÒÄ§ÇØÁöÁö¸¸ ¸¶Âù°¡Áö·Î ¾ÆÁÖ ºü¸£°Ô ¶Ç ÄèÈ°ÇÏ°Ô º¯ÇÒ ¼ö ÀÖ´Ù.
+
+[923]
+#She gaped at the tall man,not believing that he was her younger brother.
+#±×³à´Â ±×°¡ µµ´ëÃ¼ ÀÚ½ÅÀÇ µ¿»ıÀÌ¶ó´Â °ÍÀ» ¹ÏÀ» ¼ö ¾ø¾î ´«¸¸ ¸Ö¶×°Å¸®¸ç Å°°¡ Å« ³²ÀÚ¸¦ ¹Ù¶óº¸°í ÀÖ¾ú´Ù.
+
+[924]
+#She was nervous of meeting strangers,but she put on a bold front and went to the party.
+#±×³à´Â Àß ¸ğ¸£´Â »ç¶÷À» ¸¸³ª´Â °ÍÀÌ °Ì³µÀ¸³ª ±×³à´Â ¿ë°¨ÇÑ Ã´ ÆÄÆ¼¿¡ Âü¼®ÇÏ¿´´Ù.
+ 
+[925]
+#She tried to hide her feelings,but the tears in her eyes were a dead giveaway.
+#±×³à´Â ÀÚ½ÅÀÇ °¨Á¤À» ¼û±â·Á ÇÏ¿´À¸³ª, ±×³àÀÇ ´«ÀÇ ´«¹°Àº ±×³àÀÇ ºñ¹ĞÀ» ¿ÏÀüÈ÷ µå·¯³Â´Ù.
+
+[926]
+#She says you never finished that story you were telling her about the train that lost its "toot".
+#±×³à°¡ ³Ê¿¡°Ô ¸»ÇÏ±æ ±×³à°¡ ¸»ÇÑ ±× "»Ñ¿õ»Ñ¿õ"¼Ò¸®°¡ ³ªÁö ¾Ê´Â ±âÂ÷ ÀÌ¾ß±â´Â ¾Æ¹«¸®ÇØµµ ³¡³ªÁö ¾ÊÀ» °ÍÀÌ¶ó°í Çß´Ù.
+ 
+[927]
+#She flashed out at Martin: " Do you really believe that no one has any idea what's in the wind?"
+#±×³à°¡ °©ÀÚ±â ¸¶Æ¾¿¡°Ô ¹ßÀÛÀ» ÀÏÀ¸Ä×´Ù. "³Ê´Â Á¤¸» ¾Æ¹«µµ ¹«½¼ ÀÏÀÌ ¹ß»ıÇÒÁö ¸ğ¸¥´Ù°í ¹Ï´À³Ä?"
+
+[928]
+#She was very proud of my achievements,but down deep she really believed no woman is complete without a man.
+#±×³à´Â ³ªÀÇ ¼º°øÀ» ÀÚ¶û½º·¯¿ö ÇÏ¿´À¸³ª, ³»½ÉÀ¸·Î´Â ¿©ÀÚ´Â ³²ÀÚ°¡ ¾øÀ¸¸é Çàº¹ÇÒ ¼ö ¾ø´Ù°í ±»°Ô ¹Ï¾ú´Ù.
+
+[929]
+#She has disappeared as completely as if she had been spirited away to another planet.
+#±×³à´Â ¸¶Ä¡ ´©±º°¡ ±×³à¸¦ À¯±«ÇÏ¿© ´Ù¸¥ º°·Î µ¥·Á °£ °Í Ã³·³ ¿ÏÀüÈ÷ »ç¶óÁ³´Ù.
+
+[930]
+#Her heart inclined to the boy,whose criticism was at once sharp and to the point.
+#±×³à´Â ¼ÓÀ¸·Î ÀÌ ³²ÀÚ¾ÆÀÌ¸¦ ÁÁ¾ÆÇÏ¿´´Âµ¥, ±×ÀÇ ºñÆòÀÌ ³¯Ä«·Ó°í Á¤°îÀ» Âñ·¶±â ¶§¹®ÀÌ´Ù.
+
+[931]
+#Her bitter experiences with men led her to bring up her daughter in a spirit of misandry.
+#±×³àÀÇ ³²ÀÚ¿Í ±³ÀçÇÑ ¾²¶ó¸° °æÇèÀÌ ±×³à¿¡°Ô ³²ÀÚ¸¦ Áõ¿ÀÇÏ´Â ÅÂµµ¸¦ Áö´Ñ Ã¤ µşÀ» ¼ºÀÎÀ¸·Î Å°¿ì°Ô ÇÏ¿´´Ù. 
+
+[932]
+#She has acquired a very good French accent,but her English speech habits still show through.
+#±×³à´Â ¾ÆÁÖ ÀßÇÏ´Â ºÒ¾î ¾ï¾çÀ» ¹è¿üÀ¸³ª, ¿©ÀüÈ÷ ¿µ¾î ¸»Åõ°¡ Æ¢¾î³ª¿Â´Ù.
+
+[933]
+#She sponged the sick child down and put him to bed.
+#±×³à´Â ¼ØÀ¸·Î º´ÀÌ ³­ ¾ÆÀÌÀÇ ¸ö ÀüÃ¼¸¦ ÇÑ ¹ø ´Û¾ÆÁØ ÈÄ¿¡ ±×¸¦ Ä§´ë À§¿¡ ´¯Çû´Ù.
+
+[934]
+#She got the job of science teacher by fraudulent means; she pretended she'd studied at university.
+#±×³à´Â »ç±â¼ö¹ıÀ¸·Î ÀÌ°ú ±³»çÀÇ Á÷À§¸¦ ¾ò¾ú´Âµ¥, ±×³à´Â ´ëÇĞ¿¡¼­ °øºÎÇÏ¿´´Ù°í °ÅÁş¸»ÇÏ¿´´Ù.
+
+[935]
+#She has a working knowledge of car engines and can do most repairs.
+#±×³à´Â ÀÚµ¿Â÷ ¿£Áø¿¡ ´ëÇÑ ½ÇÁ¦ Áö½ÄÀ» °¡Áö°í ÀÖ¾î ´ëºÎºĞ ¼ö¸®ÇÏ´Â ÀÏÀº ¸ğµÎ ÇÒ ÁÙ ¾È´Ù.
+
+[936]
+#Addressing the meeting she pressed for the creation of a special committee to study the subject.
+#±×³à´Â È¸ÀÇ¿¡¼­ ¹ß¾ğÇÏ¿© Æ¯º°À§¿øÈ¸¸¦ Á¶Á÷ÇÏ¿© ÀÌ ¹®Á¦¸¦ ¿¬±¸ÇÒ °ÍÀ» ¿ä±¸ÇÏ¿´´Ù.
+
+[937]
+#In her letter she says she's happy,but reading between the lines I don't think she is.
+#±×³àÀÇ ÆíÁö¿¡¼­ ±×³à´Â Çàº¹ÇÏ´Ù°í ÇßÀ¸³ª, ¹®ÀåÀÇ ¿©±âÀú±â¸¦ º¸°í ³ª´Â ±×·¸´Ù°í ¿©±âÁö ¾Ê´Â´Ù.
+
+[938]
+#Her husband's such a chauvinist that he tries to tell her how to vote.
+#±×³àÀÇ ³²ÆíÀº Á¤¸» ³²¼º ¿ì¿ùÁÖÀÇÀÚÀÎµ¥ ±×³à°¡ ´©±¸¿¡°Ô ÅõÇ¥ÇØ¾ß ÇÏ´ÂÁöµµ ±×°¡ ÁÂ¿ìÇÑ´Ù.
+ 
+[939]
+#She knew how fast she was running,because her trainer was pacing her on a bicycle.
+#±×³à´Â ÀÚ½ÅÀÇ ´Ş¸®±â ¼Óµµ¸¦ ¾Æ´Âµ¥, ±×ÀÇ ÄÚÄ¡°¡ ÀÚÀü°Å¸¦ Å¸°í ±×³à¸¦ À§ÇÏ¿© ¼Óµµ¸¦ Á¤ÇØÁÖ±â ¶§¹®ÀÌ´Ù.
+
+[940]
+#Her recent work in electron microscopy stimulated a new line of research.
+#±×³àÀÇ ÃÖ±Ù ÀÛ¾÷Àº ÀüÀÚ Çö¹Ì°æÇĞ¿¡¼­ »õ·Î¿î ¿¬±¸ ¿µ¿ªÀ» ¿­¾ú´Ù.
+
+[941]
+#Tom said: "I've been in this job for five years now; it's time I was moving on."
+#ÅèÀº "³ª´Â ÀÌ ÀÏÀ» ÀÌ¹Ì 5³â°£ ÇßÀ¸¸ç, Áö±İÀº ³»°¡ ½ÂÁøÇØ¾ß ÇÒ ¶§ÀÌ´Ù."¶ó°í ¸»Çß´Ù.
+
+[942]
+#Tom led in with some flattering references to the visiting speaker's record in the industry.
+#ÅèÀº °³¸·»ç¿¡¼­ Ã»ÇÑ ¿¬»çµé¿¡°Ô ÀÌ ¾÷°è¿¡¼­ÀÇ °æ·Â¿¡¼­ ¾ÆÃ·ÇÏ´Â ¸»À» ÇÑ ¹ÙÅÁÇÏ¿´´Ù.
+
+[943]
+#If your prices are attractive enough,we expect to be able to place large orders with you upon receipt of your samples.
+#¸¸¾à ±Í»çÀÇ °¡°İ¿¡ ¸Å·ÂÀ» ´À³¢°Ô µÇ¸é, °ßº»Ç°À» ¹Ş¾Æ º» ÈÄ¿¡ ´ë·®ÀÇ ¹°°ÇÀ» ÁÖ¹®ÇÏ±æ Èñ¸ÁÇÕ´Ï´Ù.
+ 
+[944]
+#If the future holds only half the fine things you hope for us,we'll be lucky indeed!
+#¸¸¾à ´ç½ÅÀÇ ¾Æ¸§´Ù¿î Ãà¿øÀÌ Àå·¡¿¡ ¹İÀÌ ½ÇÇöµÈ´Ù¸é, ¿ì¸®´Â Á¤¸» Çàº¹ÇÑ ºÎºÎÀÏ ÅÙµ¥! 
+
+[945]
+#In response (reply) to your inquiry of June 23,we have sent today our price-list.
+#´ç½ÅÀÇ 6¿ù 23ÀÏÀÇ Áú¹®À» È¸´äÀ» µå¸®´Âµ¥, ´ç½ÅÀÌ ÇÊ¿ä·Î·Î ÇÏ´Â °¡°İÇ¥¸¦ ÀÌ¹Ì ¿À´Ã º¸³»µå·È½À´Ï´Ù.
+
+[946]
+#Timothy was disillusioned to find that all the heroes of his youth had feeofclay.
+#Æ¼¸ğ½Ã´Â ±×°¡ Àş¾úÀ» ¶§ ¼ş¹èÇÏ´ø ÀÎ¹°ÀÌ »ç¶÷µé¿¡°Ô ¸» ¸øÇÒ ÀÏÀÌ ÀÖ´Ù´Â °ÍÀ» ¹ß°ßÇÏ°í ±×´Â ¾ÆÁÖ ½Ç¸ÁÀ» ÇÏ¿´´Ù.
+ 
+[947]
+#The overlarge and overcolored automobile was an example of vulgarity of midtwentieth-centyry America.
+#Ã¼ÀûÀÌ ³Ê¹« Å©°í »ö±òÀÌ ³Ê¹« ÁøÇÑ ÀÚµ¿Â÷´Â ¹Ì±¹ 20¼¼±â Áß¿± ¼ÓµÈ Ç³ÀÇ ½Ç·ÊÀÌ´Ù.
+
+[948]
+#I hear that comrade Li has had to go into hospital again ; evidently he wasn't completely cured last time.
+#ÀÌ µ¿Áö°¡ ¶Ç ÇÒ ¼ö ¾øÀÌ º´¿øÀÌ ÀÔ¿øÇß´Ù°í ÇÑ´Ù. ºĞ¸í ±×´Â Áö³­¹ø¿¡ È®½ÇÈ÷ Ä¡·á°¡ µÇÁö ¾Ê¾Ò´Ù.
+
+[949]
+#I was distressed to hear that your mother passed away though she had been getting better...
+#¾î¸Ó´Ï²²¼­ ¾ó¸¶Àü¿¡´Â º´¼¼¿¡ Á¡Â÷ È£ÀüµÇ¾ú´Ù°í µé¾ú´Âµ¥ °á±¹Àº ºÒÇàÈ÷µµ µ¹¾Æ°¡¼Ì´Ù´Ï Á¤¸» ¾ÖÅëÀ» ±İÇÒ ¼ö ¾ø½À´Ï´Ù.
+
+[950]
+#The bourgeois politician was scraped down.
+#Ã»ÁßÀÌ ¹ß·Î ¸¶·ç¸¦ ±Ü´Â ½Ã²ô·¯¿î ¼Ò¸® ¶§¹®¿¡ ÀÚ»ê°è±ŞÀÇ Á¤Ä¡°¡´Â ¸»À» ÇØ ³ª°¥ ¼ö°¡ ¾ø¾ú´Ù.
+
+[951]
+#Hearing these old soldiers talk Father was living over again his battle experiences as a Red Army man.
+#ÀÌ ³ëÀü»çÀÇ ¹«¿ë´ãÀ» µéÀ¸¸é¼­ ¾Æ¹öÁö´Â ±×°¡ È«±ºÀü»ç¿´À» ´ç½ÃÀÇ ÀüÅõ °æ·ÂÀ» È¸»óÇÏ¿´´Ù.
+
+[952]
+#I am enclosing a cheque for $55.00 which covers the cost of the book plus the postage charge of 14 cents a volume.
+# 
+
+[953]
+#Enclosed I have now the pleasure to wait on you with the invoice and the duplicate bill of lading for this shipment.
+#¼ÛÀå°ú ¼±ÀûÈ­¹°ÀÇ ¼±ÇÏÁõ±Ç °¢ 1ºÎ¸¦ µ¿ºÀÇÏ´Ï ¹Ş¾Æº¸½Ã°í È¸´ä¹Ù¶ø´Ï´Ù.
+
+[954]
+#I have enclosed a Post Office Money Order for £¤40,000 which includes the express charges.
+#¾×¸é°¡ 40,000¿øÀÇ ¿ìÃ¼±¹¾îÀ½ 1ÀåÀ» µ¿ºÀÇÏ´Ï ¹Ş¾Æº¸½Ã°í ¿µ¼öÁõÀ» ²÷¾îÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[955]
+#Enclosed we hand you a cheque for $500,for which kindly send receipt and oblige.
+#¾×¸é°¡ 500´Ş·¯ ¼öÇ¥ 1ÀåÀ» µ¿ºÀÇÏ´Ï ¹Ş¾Æº¸½Ã°í ¿µ¼öÁõÀ» ²÷¾îÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[956]
+#Enclosed please find five bills of exchange,as noted at foot,amounting to £¤5,620,000.
+#5ÀåÀÇ ¾îÀ½À» µ¿ºÀÇÏ´Âµ¥ ±İ¾× ÃÑÇÕ°è´Â 5,620,000¿øÀ¸·Î ÁÖÇØ¸¦ »ó¼¼È÷ º¸½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[957]
+#My time is also valuable-but I have an assurance proposition that is worth investigating.
+#¸¶Âù°¡Áö·Î º»ÀÎµµ ¹Ù»ÚÁö¸¸, Á¦°¡ ¾ÆÁÖ ±¦ÂúÀº ÀÇ°ßÀ» °¡Áö°í ÀÖ¾î ´ç½Å¿¡°Ô Á¦½ÃÇÕ´Ï´Ù.
+
+[958]
+#The rabbits couldn't get under the wire netting,so for once we were able to grow a few vegetables.
+#Åä³¢°¡ Ã¶»ç ¿ïÅ¸¸® ¾Æ·¡·Î ¶Õ°í µé¾î¿Ã ¼ö ¾ø±â ¶§¹®¿¡ ¸¶Ä§³» ¿ì¸®´Â Ã¤¼Ò¸¦ Á¶±İ ½ÉÀ» ¼ö ÀÖ°Ô µÇ¾ú´Ù.  
+
+[959]
+#The retired worker was telling his grandchildren about his childhood ,pulling at a bottle of water from time to time.
+#ÅğÁ÷ÇÑ ±Ù·ÎÀÚ´Â ¼ÕÀÚµé¿¡°Ô ±×ÀÇ ¾î¸°½ÃÀıÀ» ¾ê±âÇÏ¸é¼­ ¶§·Î ±× º´¿¡¼­ ¹° ÇÑ ¸ğ±İÀ» ¸¶¼Ì´Ù.
+
+[960]
+#There'll be an important meeting this evening,so we'll shut up early today.
+#¹ã¿¡ Áß¿äÇÑ È¸ÀÇ°¡ ÀÖ±â ¶§¹®¿¡ ¿À´Ã ¿ì¸®´Â ¼­µÑ·¯ ¹®À» ´İ°Å³ª Åğ±ÙÇÒ °ÍÀÌ´Ù.
+
+[961]
+#Everything is good in its season.
+#¸ğµç °ÍÀº Ã¶¿¡ ¸ÂÀ» ¶§ ¾Æ¸§´ä´Ù.
+
+[962]
+#We ask you,therefore,to ship the three tape recorders by air-mail immediately on receipt of this letter.
+#±×·¯¹Ç·Î ¿ì¸®´Â ´ç½ÅÃøÀÌ ÀÌ ¼­ÇÑÀ» ¹ŞÀº ÈÄ·Î ¹Ù·Î 3´ëÀÇ ³ìÀ½±â¸¦ Ç×°øÆíÀ¸·Î ºÎÃÄÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[963]
+#Enclosed please find a cheque,value £¤200,000 in payment of same.
+#ÁöºÒÀ» À§ÇÏ¿© ¾×¸é°¡ 200,000´Ş·¯ÀÇ ¼öÇ¥ 1ÀåÀ» µ¿ºÀÇÏ´Ï ¹Ş¾Æ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
+
+[964]
+#Enclosed please find P.O.for £¤5,750 in settlement of account to date.
+#¿À´Ã ±îÁöÀÇ ÀÚ±İÀ» °á»êÇÏ±â À§ÇÏ¿© ¿ìÃ¼±¹ ¾îÀ½ 5,750 ´Ş·¯¸¦ µ¿ºÀÇÏ´Ï ¹Ş¾ÆÁÖ½Ê½Ã¿ä.
+
+[965]
+#Can you make us a special offer for the purpose of introducing your products to our market?
+#¿ì¸®Ãø ½ÃÀå¿¡ ±Í»çÀÇ »óÇ°À» ¼Ò°³ÇÏ±â À§ÇÏ¿© ±Í»ç´Â Æ¯º° °¡°İÀ» Á¦°øÇÒ ¼ö ÀÖ½À´Ï±î?
+
+[966]
+#May we have your check in settlement of this invoice soon? The amount is $50.Thank you.
+#ÀÌ ¼ÛÀåÀÇ °á»êÀ» À§ÇÏ¿© ¹Ù·Î ¼öÇ¥¸¦ º¸³»ÁÖ½Ê½Ã¿ä. ±İ¾×Àº 50´Ş·¯ÀÔ´Ï´Ù. °¨»çÇÕ´Ï´Ù.
+
+[967]
+#To further my knowledge,I wish to do graduate study in your University,concentrating on Folk studies.
+#´õ ¸¹Àº Áö½ÄÀ» ¾ò±â À§ÇÏ¿© Àú´Â ±Í±³¿¡ °¡¼­ ´ëÇĞ¿ø °úÁ¤¿¡¼­ ÁıÁßÀûÀ¸·Î ¹Î¼ÓÇĞÀ» ¿¬±¸ÇÏ°í ½Í½À´Ï´Ù.
+
+[968]
+#For one reason or another,Richardson was pushed off the ticket and Peterson was put on.
+#¾î¶² ÀÌÀ¯·Î ÀÎÇÏ¿© ÈÄº¸ÀÚ ¸í´Ü¿¡¼­ ¸®Â÷µå½¼À» Ãë¼ÒÇÏ°í ÇÇÅÍ½¼À» ¿Ã·Á ³õ¾Ò´Ù.
+
+[969]
+#The gardener pruned the bushes down in order to encourage better growth.
+#°ü¸ñÀ» ´õ Àß ÀÚ¶ó°Ô ÇÏ±â À§ÇÏ¿© Á¤¿ø»ç´Â °ü¸ñÀÇ ¹«°Å¿î °¡Áö¸¦ Àß¶ó³Â´Ù.
+
+[970]
+#They want to drain the land to make crops grow better on it.
+#±×µéÀº ÀÛ¹°À» ´õ Àß ÀÚ¶ó°Ô ÇÏ±â À§ÇÏ¿© ±×µéÀº ¸ÕÀú ±× ¶¥ÀÇ ¹°À» »©¼­ ¸¶¸£°Ô ÇÏ·Á°í ÇÑ´Ù.
+
+[971]
+#Michael was eased out as division head to made way for the manager's son.
+#»çÀåÀÇ ¾Æµé¿¡°Ô ¾çº¸ÇÏ±â À§ÇÏ¿© ¹ÌÃ¿Àº °úÀå ÀÚ¸®¿¡¼­ ¹Ğ·Á³µ´Ù.
+
+[972]
+#In order to attract attention,he cut up a bit as he told us the story.
+#ÁÖÀÇ¸¦ ²ø±â À§ÇÏ¿© ±×´Â ¿ì¸®¿¡°Ô ÀÌ¾ß±âÇÒ ¶§ ¿ì½º¿î µ¿ÀÛÀ» ÇÏ¿´´Ù.
+
+[973]
+#It's not worth while paying the membership fee for one evening.I'll sign you in on my card.
+#ÇÏ·í¹ãÀ» À§ÇÏ¿© È¸¿øºñ ³¾ °¡Ä¡°¡ ¾ø´Ù. ³»°¡ Ä«µå ¼­¸íÀ¸·Î ³Ê¸¦ µ¥¸®°í °¥ ¼ö ÀÖ´Ù.
+
+[974]
+#The bank had to dip into its investments overseas to meet a financial crisis at home.
+#±¹³»ÀÇ ±İÀ¶À§±â¸¦ ´ëÀÀÇÏ±â À§ÇÏ¿© ±× ÀºÇàÀº ¿Ü±¹ÀÇ ÀÚ±İÀ» »ç¿ëÇÏ´Â ¼ö¹Û¿¡ ¾ø¾ú´Ù.
+
+[975]
+#Why not call on us so that the business can be arranged quickly and in your interest.
+#±×·± ÀÏÀ» ´õ »¡¸® Ã³¸®ÇÏ°í ´ç½ÅÃøÀÇ ÀÌÀÍ¿¡ ºÎÇÕµÇ°Ô ¿Ö ¿ì¸®¸¦ Ã£¾Æ¿ÀÁö ¾Ê¾ÒÁÒ.
+
+[976]
+#To acquaint you with our purchase terms,we are enclosing a specimen of our contract for your reference.
+#´ç½ÅµéÀÌ ¿ì¸®Ãø ±³¿ª Á¶Ç×À» Àß ¾Ë±â À§ÇÏ¿© ¿©±â¿¡ °è¾à Çü½Ä 1ºÎ¸¦ µ¿ºÀÇÏ´Ï Âü°í ¹Ù¶ø´Ï´Ù.
+
+[977]
+#The committee reported the bill out.
+#À§¿øÈ¸´Â Åä·Ğ°ú ¼öÁ¤À» °ÅÄ£ ¾ÈÀ» ´Ù½Ã È¸ÀÇ¿¡ È¸ºÎÇÏ¿© º¯·ĞÇÏ°í Ç¥°áÇÏ¿´´Ù.
+
+[978]
+#The committee have been in session on the problem for two hours,and they're still going at it hammer and tongs.
+#À§¿øÈ¸´Â ÀÌ¹Ì ±× ¹®Á¦¿¡ ´ëÇÏ¿© ÀÌ¹Ì 2½Ã°£À» Åä·ĞÇÏ¿´À¸¸ç, ±×µéÀº ¶Ç °İ·ÄÇÏ°Ô ³íÀïÇÏ°í ÀÖ´Ù.
+
+[979]
+#Instead of waiting until problems pile up ,we should try to solve each as it arises .
+#¹®Á¦°¡ »ı±âÀÚ ¸¶ÀÚ ÇØ°áÇÏ·Á°í ÇØ¾ßÁö, ¹®Á¦°¡ »êÀûÇÑ µÚ¿¡¼­¾ß ÇØ°áÇÏ·Á°í ÇØ¼­´Â ¾ÈµÈ´Ù.
+
+[980]
+#I/We will be at 10 Baker street at one sharp,and look forward to seeing you.
+#³ª(¿ì¸®)´Â ÀÏ¿äÀÏ¿¡ ¿ÀÈÄ 1½Ã Á¤°¢¿¡ º£ÀÌÄ¿°¡ 10È£¿¡¼­ ¿ì¸®°¡ ¸¸³ª±â¸¦ ¹Ù¶ø´Ï´Ù.
+
+[981]
+#I love you for your patience and most of all for your willingness to hear my side.
+#³ª´Â ³Ê¸¦ »ç¶ûÇÏ´Âµ¥ ³×°¡ ³ª¿¡°Ô ÀÎ³»½ÉÀ» °®°í ÀÖ±â ¶§¹®ÀÌ¸ç, ´õ¿íÀÌ ³×°¡ ³ªÀÇ ÀÇ°ß¿¡ ±Í ±â¿ïÀÌ±â ¶§¹®ÀÌ´Ù.
+
+[982]
+#I had a browse through the books on the shelf.
+#³ª´Â Ã¥²ÈÀÌÀÇ Ã¥À» ¿©±âÀú±â ÇÑ¹ø µÚÀû¿´´Ù.
+
+[983]
+#I emptied out all the drawers in the hope of getting back the missing key.
+#³ª´Â ±× ÀÒ¾î¹ö¸° ¿­¼è¸¦ Ã£À» ¼ö ÀÖ±â¸¦ ¹Ù¶ó¸é¼­ ¸ğµç ¼­¶øÀ» µÚÁı¾ú´Ù.
+
+[984]
+#I don't really like my rich uncle,but I'm always friendly to him out of self-interest.
+#³ª´Â ºÎÀÚ »ïÃÌÀ» Á¤¸»·Î ÁÁ¾ÆÇÏ´Â °ÍÀº ¾Æ´ÏÁö¸¸, ÀÌÀÍÀ» À§ÇÏ¿© ³ª´Â Ç×»ó ±×¿¡°Ô ÀßÇß´Ù.
+
+[985]
+#I didn't really mean my partner is a snake; it was just a figure of speech.
+#³ª´Â Á¤¸»·Î ³» ÆÄÆ®³Ê°¡ ¹ìÀÌ¶ó´Â ÀÇ¹ÌÇÏ´Â °ÍÀº ¾Æ´Ï´Ù. ÀÌ°ÍÀº ´Ù¸¸ Çü»óÈ­ÇÑ Ç¥ÇöÀÎ °ÍÀÌ´Ù.
+
+[986]
+#I'm learning how to put together a watch as well as how to take it apart.
+#³ª´Â ½Ã°è¸¦ ¾î¶»°Ô ¶â´ÂÁö¸¦ °øºÎÇßÀ» »Ó ¾Æ´Ï¶ó, ±×°ÍÀ» ¾î¶»°Ô Á¶¸³ÇÏ´ÂÁöµµ ¹è¿ì°í ÀÖ´Ù.
+
+[987]
+#I won't tell you what time to leave--you're old enough to use your own discretion.
+#³ª´Â ³Ê¿¡°Ô ¾ğÁ¦ ¶°³ª¾ß ÇÒÁö ¸»ÇÏÁö ¾Ê°Ú´Ù. ³Ê´Â ÄÇÀ¸´Ï ÀÚ±â°¡ ÆÇ´ÜÀ» ³»·Á¾ß ÇÑ´Ù. 
+
+[988]
+#I wasn't satisfied with our treatment at that hotel,so I shall complain to the proprietor.
+#³ª´Â ¿ì¸®°¡ ±× ¿©°ü¿¡¼­ ¹ŞÀº ´ë¿ì¿¡ ´ëÇÏ¿© ¸¸Á·½º·´Áö ¸øÇØ¼­ ³ª´Â ¿©°ü ÁÖÀÎÀ» °í¼ÒÇß´Ù.
+ 
+[989]
+#I can't say that I've read the book carefully; I've just leafed through it.
+#³ª´Â ÀÌ Ã¥À» ÀÚ¼¼È÷ º¸¾Ò´Ù°í ¸»ÇÒ ¼ö ¾ø´Ù. ³ª´Â ´Ù¸¸ ºü¸£°Ô ÇÑ ¹ø ÈÈ¾îº¸¾ÒÀ» »ÓÀÌ´Ù.
+
+[990]
+#I didn't enjoy working there--there was too much backbiting.
+#³ª´Â °Å±â¿¡¼­ ÀÏÇÏ´Â °ÍÀ» ½È¾îÇÏ´Âµ¥, ¿Ö³ÄÇÏ¸é °Å±â »ç¶÷Àº µÚ¿¡¼­ ´Ù¸¥ »ç¶÷ Çè´ãÇÏ´Â °ÍÀ» ¾ÆÁÖ ÁÁ¾ÆÇÏ±â ¶§¹®ÀÌ´Ù.
+
+[991]
+#I don't like the noise of these high- pitched loudspeakers,but I've learnt to live with it.
+#³ª´Â ÀÌ ³ªÆÈÀÇ ³ôÀº À½ÀÇ ½Ã²ô·¯¿î ¼Ò¸®¸¦ ½È¾îÇÏ³ª, ³ª´Â ÀÌ¹Ì ±×°Í¿¡ ÀûÀÀÇÏ´Â °ÍÀ» ¹è¿ü´Ù.
+
+[992]
+#whether through love or duty I don't know,but he has served us well.
+#³ª´Â »ç¶û¿¡¼­ ÀÎÁö ÀÇ¹«°¨¿¡¼­ ÀÎÁö ¾Ë ¼ö ¾øÁö¸¸, ¾îÂ·µç ±×´Â ¿ì¸®¸¦ ¾ÆÁÖ Àß ´ëÇØÁØ´Ù.
+
+[993]
+#I kept looking at my watch,but he just continued talking: he can't take a hint.
+#³ª´Â ²÷ÀÓ¾øÀÌ ¼Õ¸ñ½Ã°è¸¦ º¸¾ÒÀ¸³ª, ±×´Â °è¼ÓÇÏ¿© ÀÌ¾ß±â¸¸ ÇÏ¿´°í, ±×´Â ´«Ä¡¸¦ Ã¤Áö ¸øÇÏ¿´´Ù.
+
+[994]
+#I'm not crawling about in that dusty attic and mussing up my new dress.
+#³ª´Â ±× ¸ÕÁö°¡ ½×ÀÎ °è´Ü À§¿¡¼­ ¿Ã¶ó°¬´Ù ³»·Á°¬´Ù ÇÏ¿© ³ªÀÇ »õ ¿ÊÀ» ´õ·´È÷´Â °ÍÀÌ ±âºĞ ³ª»Ú´Ù.
+
+[995]
+#I came near to telling him the whole truth but then thought better of it.
+#³ª´Â ÇÏ¸¶ÅÍ¸é ±×¿¡°Ô ±× »ç½ÇÀÇ Áø»óÀ» ÀÖ´Â ´ë·Î ´Ù º¸ÀÌ·Á°í ÇÏ¿´À¸³ª, ´Ù½Ã ÇÑ ¹ø »ı°¢ÇÏ°í ÀÌ·± »ı°¢À» ±×¸¸ µÎ¾ú´Ù.
+
+[996]
+#I think about you very often,wonderingwhat you're up to,so I enjoy hearing your news.
+#³ª´Â ´ç½ÅÀ» »ı°¢ÇÏ°í ÀÖ°í ´ç½ÅÀÌ ¹«¾ùÀ» ÇÏ°í ÀÖ´ÂÁö ¾Ë°í ½Í¾î ´ç½ÅÀÇ ¼Ò½ÄÀ» µéÀ¸¸é Ç×»ó ±â»Ş´Ï´Ù.
+
+[997]
+#I knew the kid was bad news first morning I met him.
+#³»°¡ Ã³À½ ´ç½ÅÀ» ¸¸³ª´ø ±×³¯ ¾ÆÄ§, ÀÌ ¾ÆÀÌ°¡ Á¤¸» »ç¶÷À» ±ÍÂú°Ô ÇÏ´Â ³ğÀÌ¶õ °ÍÀ» ¾Ë¾Ò´Ù.
+
+[998]
+#I believe I am intelligent and quick to learn.I stated working for IBM in March 1983.
+#³ª´Â ¶È¶ÈÇØ¼­ »¡¸® ¹è¿î´Ù. 1983³â 3¿ù¿¡ ±¹Á¦»ó¾÷±â°èÈ¸»ç¿¡ µé¾î°¡ ÀÏÇß´Ù.
+
+[999]
+#I will be home,of course,for new year's day.But I want to wish you a special new year's wish.
+#³ª´Â ´ç¿¬È÷ µ¹¾Æ¿Í ¼³À» ¼ê Å×Áö¸¸, ³ª´Â Áö±İ ´ç½ÅÀÇ ºÎ¸ğ´Ô²² ³ªÀÇ »õÇØ ÀÎ»ç¸¦ µå¸®·Á°í ÇÕ´Ï´Ù.
+

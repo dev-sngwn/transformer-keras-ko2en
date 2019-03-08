@@ -1,0 +1,476 @@
+[1]
+#You look very tired,you'd better ease off
+당신은 아주 피곤해 보이는군요. 아무래도 일을 좀 줄이세요.
+
+[2]
+#Would you rather put off the sightseeing till another date?
+당신이 보기에 여행 날짜를 좀 늦출 수 있을 것 같아요?
+
+[3]
+#You look troubled; what's worrying you?
+당신은 아주 괴로워보이는군요. 무엇이 당신을 괴롭게 합니까?
+
+[4]
+#You look a mess--you can't' go to the office like that.
+너 얼굴이 지저분해 보인다. 이렇게 해서는 출근할 수 없다.
+
+[5]
+#Do you think we can clean away all these finger marks?
+네 생각에 우리가 이 지문들을 완전히 지워버릴 수 있겠느냐?
+
+[6]
+#Do you think these two colours go well together?
+너는 이 두 색깔이 함께 놓이면 조화롭다고 생각하니?
+
+[7]
+#You can insert additional pages into that book.
+너는 첨부된 페이지를 그 책에 끼워 넣을 수 있다.
+
+[8]
+#You can put this cost down to business expenses.
+너는 이 비용을 영업 지출 장부에 기록할 수 있다.
+
+[9]
+#You can keep this book for your very own.
+너는 이 책을 보유해도 좋다. 자기의 것이라고 여겨라.
+
+[10]
+#You may call him a genius,but you can not call him a man of character.
+너는 그를 천재라고 부를 수는 있지만 그가 인격이 있다고 말할 수는 없다.
+
+[11]
+#You can have a boiled egg and that's it.
+너는 찐 달걀을 하나 먹을 수 있다. 다른 것은 없다.
+
+[12]
+#You may rely on it that the work will be finished ahead of time.
+너는 안심해도 된다. 이 일은 앞당겨서 완성될 것이다.
+
+[13]
+#You can borrow my old car,such as it is.
+너는 내 낡은 자동차를 빌려도 좋다. 비록 그다지 좋진 않지만.
+
+[14]
+#You can take it from me that he won't help you.
+너는 내 말을 믿어도 된다. 그는 너를 도와주지 않을 꺼야.
+
+[15]
+#You can trust John to behave with perfect propriety.
+너는 존의 행동이 꼭 들어맞는다고 믿을 수 있다.
+
+[16]
+#You may feed them anything you like.
+너는 제가 좋아하는 어떠한 것이라도 그것들을 먹일 수 있다.
+
+[17]
+#You can get that paper at your local newsagent's shop.
+너는 그 곳의 신문 중개 판매소에서 그 신문을 살 수 있다.
+
+[18]
+#You can quickly roll off some extra copies of the document on the duplicating machine.
+너는 복사기에서 이 서류를 별도로 몇 부 복사할 수 있다.
+
+[19]
+#You'll find a public telephone down the first turning on the left.
+너는 왼쪽의 첫번 째 교차로에서 공중 전화를 찾을 수 있다.
+
+[20]
+#Will you show me how to use this machine?
+너는 나에게 어떻게 이 기계를 사용하는 지를 좀 보여줄 수 있느냐?
+
+[21]
+#Can you conjugate "to have" in all its tenses?
+너는 동사 "have"의 모든 시태 변화를 열거해 낼 수 있니?
+
+[22]
+#You just stay there,I'll see to everything here.
+너는 거기에 남아 있는 게 좋겠다. 이 곳의 모든 일은 내가 돌볼께.
+
+[23]
+#I wish you could see us carry one about her.
+너는 우리가 그녀를 갖고 놀 때 얼마나 유치하고 가소로운지 모지 못했다.!
+
+[24]
+#You really missed out by not coming to the party.
+너는 집회에 참가하지 않았으니, 아주 좋은 기회를 놓쳤다.
+
+[25]
+#You have no cause for worry.
+너는 걱정해야 할 이유가 없다. 너는 걱정할 필요가 없다.
+
+[26]
+#You can get a room at the hotel for ↔20 a day.
+너는 매일 20파운드를 내면 그 호텔에서 방 하나를 얻을 수 있다.
+
+[27]
+#At what rate can you insure against F.P.A.?
+당신들은 어떤 보험 비율에 따라서 손해 보험을 담보합니까?
+
+[28]
+#You must vacate the hotel room by Friday.
+너희들은 반드시 금요일 전에 호텔 객실을 떠나야 한다.
+
+[29]
+#You must experiment,reason,think out new devices.
+너희들은 반드시 실험을 하고 추리를 해서 새로운 방법을 생각해 내어야 한다.
+
+[30]
+#You will all be punished,I can except no one.
+너희들 모두는 벌을 받아야 한다. 나는 한 사람도 용서하지 않는다.
+
+[31]
+#You will all profit by this experience.
+너희들 모두는 이 경험에서 좋은 점을 얻을 것이다.
+
+[32]
+#Who bought that new house down the street fron you?
+너희들 중 대로 그 쪽의 그 새 집을 누가 샀느냐?
+
+[33]
+#The sooner you buckle to it,the better.
+너희들은 이 일을 진지하게 해야 한다. 빠를수록 좋다.
+
+[34]
+#What types of cover does your insurance company usually underwrite?
+당신들 보험 회사는 일반적으로 어떠한 보험들을 담보합니까?
+
+[35]
+#Your cheering was a real tonic for our team.
+너희들의 갈채와 응원은 정말로 우리 팀으로 하여금 사기를 진작시킨다.
+
+[36]
+#Your price is higher than those we got from elsewhere.
+당신들의 가격은 우리가 다른 곳에서 얻은 제시가보다 더 높습니다.
+
+[37]
+#Please let us know when your manager will come Guangzgou.
+당신들의 사장님이 언제든지 광주에 오시면 알려주십시오.
+
+[38]
+#This plan of yours cuts into our schedule rather badly.
+당신들의 이 계획은 내 일정표 안의 많은 시간을 차지할 것입니다.
+
+[39]
+#The total value of your order amounts to US ＄50,000.
+당신들이 주문한 이 화물의 총액은 5만 달러입니다.
+
+[40]
+#How old do you have to be to vote in the national elections?
+당신들은 몇 살이 되어야 비로소 국민 투표에 참가할 수 있습니까?
+
+[41]
+#We assure you that any order from you will have our best attention.
+당신들이 부친 주문서는 우리가 아주 잘 주의할 것입니다.
+
+[42]
+#If you're planning a trip to London,count me in.
+당신들이 런던 여행을 계획한다면 나도 끼워주세요.
+
+[43]
+#The enthusiasm of your side and the determination of the other balance each other out.
+당신들은 힘이 충분하고, 상대방도 결심이 아주 대단하니, 양자가 막상막하입니다.
+
+[44]
+#What a shame that it rained on the day of your garden party!
+당신들이 가든 파티를 연 그 날에 비가 내렸으니 대단히 유감스럽습니다.
+
+[45]
+#Will it put you two out to show us round the house?
+당신들이 우리들을 데리고 이 집을 좀 보여주는 것이 어떻습니까?
+
+[46]
+#Ye Shall not minish aught from your bricks of daily task. .
+당신들의 매일 벽돌을 만드는 일은 조금도 줄어들어서는 안됩니다.
+
+[47]
+#Can you speed it up and let us have it today?
+당신들은 오늘 계약을 우리에게 줄 수 있습니까?
+
+[48]
+#Will you please promptly inform us what your wishes are in this matter?
+당신들은 즉시 이 일에 대한 계획을 알려줄 수 있습니까?
+
+[49]
+#You can calculate on at least five hundred people coming to the lecture.
+당신들은 적어도 500명은 이 강좌에 출석할 것이라고 기대할 수 있습니다.
+
+[50]
+#We are ready to accede to your request for further information.
+당신들이 만약 자료를 더 원한다면 우리는 기꺼이 수시로 제공합니다.
+
+[51]
+#Your recommendations on improving packing would be appreciated.
+당신들이 더 좋은 포장 방식이 있다면 우리에게 추천할 수 있습니다.
+
+[52]
+#If you're playing football in this weather you can count me out.
+당신들이 이런 날씨에 축구를 한다면 나를 끼워 넣지 마시오.
+
+[53]
+#Can you tell me the prices of these goods?
+당신들은 이러한 상품들의 가격을 좀 말해줄 수 있습니까?
+
+[54]
+#Have you got the one which has an output of 150 horsepower?
+당신들은 수출 공력이 150마력이었습니까?
+
+[55]
+#Do you approve of her as the accountant for our production team?
+당신들은 그녀가 우리 생산대의 회계가 되는 것에 찬성합니까?
+
+[56]
+#May I know what particular line you are interested in this time?
+당신들은 이번에 와서 주로 어느 방면의 비지니스를 이야기하려고 합니까?
+
+[57]
+#What kind of climate do you have? Is it mild?
+당신들의 이 곳은 어느 기후에 속합니까? 따뜻합니까?
+
+[58]
+#I'd like to know in what lines of business you would like to participate with us.
+당신들은 우리들과 어느 방면의 업무를 합자 경영하려고 합니까?
+
+[59]
+#You can't hear the speaker from the back of the ball.
+당신들은 홀의 뒤에 앉아 있어서 강연자의 연설을 들을 수 없다.
+
+[60]
+#When you come tomorrow morning I shall be working in the laboratory.
+당신이 내일 아침에 올 때, 나는 실험실에서 일하고 있을 것이다.
+
+[61]
+#Your mother tells me you have the mumps and must be absent for half a month.
+너의 어머니께서 나에게 말씀하시길, 네가 이하선염을 앓고 있으니 반드시 반 개월간 결석해야 한다고 하셨다.
+
+[62]
+#"Where are you going to find room for another silver cup?
+너는 어디에 가서 또 다른 은컵을 딸 기회를 찾니?
+
+[63]
+#Your beautiful garden puts my few little flowers to shame.
+너의 그 아름다운 화원은 나의 몇 그루 작은 꽃들로 하여금 부족함을 드러나게 한다.
+
+[64]
+#You'll end up in hospital if you drive your car like that.
+네가 그렇게 함부로 자동차를 모는 것은 결국 병원에 들어가야만 끝날 것이다.
+
+[65]
+#That hen of yours is a nuisance.You ought to do away with it.
+너의 그 어미닭은 너무 밉살스럽다. 너는 그것을 죽여버려야 한다.
+
+[66]
+#Would you be so vile as to steal a coat from a blind man?
+네가 설마 그 맹인의 겉옷을 훔칠 정도로 수치스럽지는 않겠지?
+
+[67]
+#Can you arrange for us to visit (our visiting) the Shanghai Industrial Exhibition tomorrow?
+당신은 우리가 내일 상해 공업 전람회를 참관하도록 스케줄을 짤 수 있습니까?
+
+[68]
+#Can you cut out the white cow from the herd?
+당신은 그 흰 어미소를 소떼에서 알아낼 수 있습니까?
+
+[69]
+#Can you boil down the facts to a short statement?
+당신은 이러한 사실들을 간단한 성명으로 작성할 수 있습니까?
+
+[70]
+#Can you nail the concept down a little more precisely?
+당신은 이 개념을 좀 더 정확하게 해석할 수 있습니까?
+
+[71]
+#Can you help me with this sum,please! It won't come out.
+당신은 나를 도와 총수를 한 번 계산할 수 있습니까? 나는 아무리 해도 계산할 수가 없습니다.
+
+[72]
+#Can you answer for the correctness of all these figures?
+당신은 이 숫자들이 다 정확하다고 보장할 수 있습니까?
+
+[73]
+#Can you guess what I was doing this morning?
+당신은 오늘 아침 내가 무엇을 하고 있었는지 맞힐 수 있습니까?
+
+[74]
+#Can you produce any proof of your date of birth?
+당신은 당신의 생일 날짜와 관련된 어떤 증거를 내보일 수 있습니까?
+
+[75]
+#We are glad that you were able to put in an appearance at our gathering.
+당신이 우리의 집회에 출석할 수 있어서 우리는 기쁩니다.
+
+[76]
+#Can you catalogue the furniture you sell and send me a copy?
+당신은 당신들이 판매한 가구를 목록을 짜서 나에게 한 부 보낼 수 있습니까?
+
+[77]
+#Will you help me prepare for the party?
+당신은 나를 도와 이번 모임을 위해서 준비 작업을 잘 할 수 있습니까?
+
+[78]
+#Could you tell me where the nearest telephone is?
+당긴은 나에게 여기에서 가장 가까운 곳 어디에 전화가 있는지 말해줄 수 있습니까?
+
+[79]
+#Can you tell me how to make these ink stains come out?
+당신은 나에게 어떻게 이 먹물 얼룩들을 제거하는지 말해줄 수 있습니까?
+
+[80]
+#Can you fit me up with a new watch crystal?
+당신은 나에게 새 표면 유리를 끼워줄 수 있습니까?
+
+[81]
+#Can you suggest how we can get there in time?.
+당신은 우리들에게 어떻게 해야 제 시간에 거기에 도착할 수 있는 지를 건의할 수 있습니까?
+
+[82]
+#Can you lend me ten pounds,to tide me over this week?
+당신은 나에게 10파운드를 빌려 주어서 내가 이번 주를 지낼 수 있도록 도와줄 수 있습니까?
+
+[83]
+#Could you lend me ten dollars? I left my wallet at home.
+당신은 나에게 10파운드를 빌려줄 수 있습니까? 나는 지갑을 집에 두고 왔습니다.
+
+[84]
+#Could I borrow a dollar from you? I'll repay you tomorrow.
+당신은 나에게 1원을 빌려줄 수 있습니까 내가 내일 당신에게 갚겠습니다.
+
+[85]
+#Are you quite sure this is the right bus?
+당신은 이것이 바로 우리가 타야 할 버스라고 확신할 수 있습니까?
+
+[86]
+#Are you positive he's the man you saw yesterday?
+당신은 그가 바로 당신이 어제 만났던 그 사람이라고 확정하 수 있습니까?
+
+[87]
+#Will you do us the honor,honour) of dining with us next Sunday ?.
+당신은 다음 주에 왕림하셔서 저희들과 함께 저녁 식사를 하실 수 있습니까?
+
+[88]
+#Can you lift that box up onto the shelf for me?
+당신은 나 대신 그 상자를 선반 위에 옮길 수 있습니까?
+
+[89]
+#Will you match me this cloth?=Will you match this cloth for me?.
+당신은 나 대신 이 옷감과 어울리는 옷감을 찾아줄 수 있습니까?
+
+[90]
+#Can you think of any explanation for his rudeness?
+당신은 그의 그런 거칠고 무례한 것에 대한 설명을 생각해낼 수 있습니까?
+
+[91]
+#Can you imagine George cooking the dinner?
+당신은 조오지가 저녁밥을 하는 정경을 상사할 수 있습니까?
+
+[92]
+#Can you visualize what it will be like to live in the 21st century ?.
+당신은 21세기에 생활하는 모습을 상상할 수 있습니까?
+
+[93]
+#Can you imagine them becoming more friendly with each other?.
+당신은 그들이 서로 더욱 우호적으로 변했음을 상상할 수 있습니까?
+
+[94]
+#Could you take over the sale of our products in your area?
+당신은 그 곳에서 우리 측 상품의 판매를 접수 관리할 수 있습니까?
+
+[95]
+#You can see a row of neat summer cottages on the lakefront.
+너는 호수변 평지 위에서 가지런한 피서 오두막들을 볼 수 있다.
+
+[96]
+#Did you ever find out why he left his last job?
+너는 그가 최근 이 일을 그만 둔 원인을 알아냈느냐?
+
+[97]
+#Are you going to see y wife off when she leaves for America?
+너의 아내가 미국으로 갈 때 너는 그녀를 위해 배웅했느냐?
+
+[98]
+#Will you see if Adam wants his tea yet?
+네가 가서 아담이 지금 차를 마시기를 원하는 지를 좀 보겠니?
+
+[99]
+#Do you think those shelves can support so many books?
+너는 그 서가들이 이렇게 많은 책을 지탱할 것이라고 생각하니?
+
+[100]
+#Do you think you have really crumpled up your opponent?
+너는 네가 이미 진정으로 너의 상대를 쓰러뜨렸다고 생각하니?
+
+[101]
+#Do you think life is a sequence of agreeable events?.
+너는 인생은 바로 계속되는 유쾌한 일이라고 생각하니?
+
+[102]
+#What do you think his motives were in buying the director a drink?
+너는 그가 이사에게 술을 대접한 동기가 무엇이라고 생각하니?
+
+[103]
+#Do you think I put my idea across?
+너는 내가 나의 생각을 이미 나타냈다고 생각하니?
+
+[104]
+#What do you think of my book? Please be frank .
+너는 나의 책이 어떻다고 생각하니? 솔직하게 나에게 말해 줘.
+
+[105]
+#Do you think you can polish off these sheets of typing before four o'clock?
+너는 4시 이전에 이 몇 페이지를 다 칠 수 있을 것이라고 생각하니?
+
+[106]
+#What annual turnover would you suggest for the new agreement then?
+너는 새로운 협의에서 연 판매량이 얼마이어야 한다고 생각하니?
+
+[107]
+#Do you think it possible to patch up a piece of furniture or two with this wood?
+너는 이 목재가 한 두 가지 가구를 그럭저럭 만들 수 있을 것이라고 생각하니?
+
+[108]
+#Do you think these little trees will put forth before long?
+너는 이 작은 나무들이 곧 잎이 날 것이라고 생각하니?
+
+[109]
+#Do you think football is an exciting sport?
+너는 축구가 사람 마음을 흥분시키는 운동이라고 생각하니?
+
+[110]
+#If you push him too hard,he may make mistakes in his work.
+네가 만약 그에게 너무 다급하게 재촉하면, 그는 일하는데 실수를 할 수 있을 것이다.
+
+[111]
+#If you don't concentrate more on your work you'll lose your job.
+네가 일에 좀 더 몰두하지 않으면, 곧 해고당할 것이다.
+
+[112]
+#If you carry on like this you'll come in for it sooner or later.
+네가 늘 이렇게 한다면 조만간에 재수가 없게 될 것이다.
+
+[113]
+#You can't work here without a permit.
+네가 허가증이 없다면 여기에서 일할 수 없다.
+
+[114]
+#You'll be talked about if you go there too often.
+네가 지나치게 자주 거기에 간다면 이것은 다른 사람들의 구설에 오를 것이다.
+
+[115]
+#If you stop breathing you'll soon become unconscious.
+네가 호흡을 멈춘다면 아주 빨리 지각을 잃게 될 것이다.
+
+[116]
+#I can spare you some,if you want,at cost.
+네가 만약 원한다면, 나는 원가에 따라서 너에게 조금 양도할 수 있다.
+
+[117]
+#You'll have to shift for yourself when you live in the city.
+네가 도시에서 생활하기를 원한다면, 반드시 스스로 생활을 도모해야 한다.
+
+[118]
+#If you don't stop that din,I'll come in and sort you out!
+네가 더 이상 떠드는 것을 멈추지 않는다면, 내가 들어가서 너를 혼내 줄 것이다.
+
+[119]
+#You must drive at a regular speed if you want to save petrol.
+네가 만약 휘발유를 아끼려고 한다면, 규칙적인 속도록 차를 몰아야 한다.
+

@@ -1,0 +1,572 @@
+[1]
+#He is loyal to the Party and he will always remain so.
+#그는 당에 아주 충성적이며, 또한 그는 영원히 충성할 것이다.
+
+[2]
+#He is prejudiced against French wine because he is Italian.
+#그는 프랑스 술에 대해 편견을 갖고 있는데, 그는 이태리인이기 때문이다.
+
+[3]
+#He was surprised that his father had sold the farm.
+#그는 부친이 이미 농장을 팔아버린 일에 대해서 깜짝 놀랐다.
+
+[4]
+#He has a clear vision of the future he wants for his children.
+#그는 아이들의 미래에 대해 확실한 비전을 갖고 있다.
+
+[5]
+#He made a conservative guess at the population of London.
+#그는 런던 인구에 대하여 조심스런 예측을 하였다.
+
+[6]
+#His interest in his new job soon began to pall.
+#그는 그 새로운 일에 대해 바로 흥미를 잃었다.
+
+[7]
+#He describes the scene with startling reality.
+#그는 그 광경에 대한 묘사가 놀라울 정도로 사실에 가깝다.
+
+[8]
+#He gave the car the once-over and decided not to buy it.
+#그는 그 자동차를 대충 한번 보고, 사지 않기로 결정했다.
+
+[9]
+#His hunger for knowledge drove him to the library.
+#그의 지식탐구에 대한 강한 열망이 그를 도서관으로 몰게 했다.
+
+[10]
+#His analysis of the accident showed what had happened.
+#그의 사고에 대한 분석은 사고 발생의 경과를 설명하였다.
+
+[11]
+#His account of the matter jibes with what I have seen.
+#그의 사건에 대한 묘사는 내가 본 것과 같다.
+
+[12]
+#He dressed the facts up to make them more interesting.
+#그가 사실에 대해 과장을 해서 그것들을 더욱 재미있게 하였다.
+
+[13]
+#He has rather jaundiced opinions about all these modern ideas.
+#그는 모든 이런 현대적인 관념에 대하여 아주 편견을 갖고 있다.
+
+[14]
+#He's no wrapped up in her,he can't see her faults.
+#그는 그녀에 대해 이렇듯 반해서, 그녀의 결점조차도 보지 못했다.
+
+[15]
+#His faith in the future success of his business was strong and firm.
+#그는 미래 사업의 성공에 대한 믿음감은 확고하였다.
+
+[16]
+#His rudeness to me still rankles.
+#그가 나에게 거칠고 예의 없는 것이 나를 여전히 분개하게 하였다.
+
+[17]
+#His interest in my work was a great encouragement.
+#그가 나의 작품에 대해 흥미를 느끼는 것은 아주 큰 격려가 된다.
+
+[18]
+#He disputed the truth of my statement.
+#그는 나에게 그 말의 진실성에 대해 의심을 표시했다.
+
+[19]
+#I'll make him pay for being so rude to me.
+#그가 나에게 이렇게 무례하니, 나는 그로 하여금 이것을 위해 대가를 치르게 할 것이다.
+
+[20]
+#He tells me you are his prize patient.
+#그가 내게 말하길, 너는 대단한 환자라고 했다.
+
+[21]
+#He waved aside my offer of help.
+#그는 내가 도움 주기를 원하는 표시에 대해 본 체 만 체했다.
+
+[22]
+#He always condescends to his inferiors.
+#그는 부하에게 언제나 사람에게 은혜를 베푸는 태도를 보였다.
+
+[23]
+#His opinions about sex are very Victorian.
+#그는 성에 대한 생각이 아주 융통성이 없다.
+
+[24]
+#He became irritated at the speaker and finally cried,"Hold on
+#그는 연사에 대해 화가 나서, 결국 "멈춰"라고 소리쳤다.
+
+[25]
+#He's interested in anything to do with photography.
+#그는 모든 촬영과 관련 있는 것에 대해 흥미를 느낀다.
+
+[26]
+#He marveled at the morbidezza of the ltalian women.
+#그는 이태리 여성의 피부가 부드러운 것에 대해 아주 감탄했다.
+
+[27]
+#He was dissatisfied at getting no better treatment.
+#그는 더 좋은 대우를 받지 못하는 것에 대해 불만을 느꼈다.
+
+[28]
+#He has a bee in his bonnet about health foods.
+#그는 건강식품에 대하여 이상한 생각을 갖고 있다.
+
+[29]
+#He showed no gratitude for the service done.
+#그는 받은 모든 서비스에 대해 감사의 표시를 하지 않았다.
+
+[30]
+#His strong reaction against my proposal surprised me.
+#그가 나의 제의에 대해 강하게 거부해 나를 놀라게 했다.
+
+[31]
+#He was deaf to all requests for money.
+#그는 돈에 대한 모든 요구에 대해 들은 체 만 체했다.
+
+[32]
+#He was dissatisfied with his treatment.
+#그는 자신이 받는 모든 대우에 대해 불만을 느꼈다.
+
+[33]
+#His account of the war includes a lot of extraneous details.
+#그는 전쟁에 관한 서술에서 많은 양의 주제를 벗어나는 세세한 것을 포함한다.
+
+[34]
+#He set up a new opinion regarding the project.
+#그는 이 계획에 대하여 새로운 의견을 내놓았다.
+
+[35]
+#He chuckleed at the child's mischievousness.
+#그는 이 아이의 개구쟁이 짓에 대해 싱글벙글 웃었다.
+
+[36]
+#His knowledge of the subject is the strength of his argument.
+#그의 이 학과에 대한 지식은 그의 논거의 유력한 뒷받침이다.
+
+[37]
+#His political ardour led him into many arguments.
+#그의 정치에 대한 열정이 그를 여러 번 논쟁에 휘말리게 했다.
+
+[38]
+#He gave vent to his anger by shouting at the children.
+#그는 아이들에게 크게 소리치고 분노를 터뜨렸다.
+
+[39]
+#He is blind to the probable results of his behaviour.
+#그는 자신의 행위가 일으킬 수 있는 결과에 대해 잘 알지 못했다.
+
+[40]
+#He became ill after breathing coal dust for many years.
+#그는 몇 년 동안 석탄 먼지를 마셔서, 결국 병에 걸렸다.
+
+[41]
+#He dodged the falling rock and escaped unhurt.
+#그는 떨어지는 바윗돌을 피해서 다치지 않았다.
+
+[42]
+#He discovered the girl to be his real daughter.
+#그는 그 여자아이가 자신의 친딸임을 발견했다.
+
+[43]
+#He followed up his letter with a visit the next week.
+#그는 편지 한 통을 보냈고, 그 다음주에는 친히 방문하였다.
+
+[44]
+#He burnt them up when he found out what they had done.
+#그는 그들이 한 일을 발견하고 심하게 그들을 한바탕 욕했다.
+
+[45]
+#He finds any kind of study a real grind.
+#그는 모든 공부는 명실상부한 고역임을 발견하였다.
+
+[46]
+#He discovered that his duties were more sanctionative than administrative.
+#그는 그의 직책의 구속작용이 행정 관리보다 큼을 발견하였다.
+
+[47]
+#He tried hard to recollect the old scenes of his hometown.
+#그는 이리저리 그의 고향의 옛 시절 모습을 기억하려 애썼다.
+
+[48]
+#All is grist that comes to his mill.
+#그는 모든 기회를 잘 이용한다.
+
+[49]
+#His only objection to the plan is that it costs too much.
+#그가 이 계획을 반대하는 유일한 이유는 비용이 너무 높다는 것이다.
+
+[50]
+#He hammered away at the point that his friend would not accept the offer.
+#그는 반복해서 그의 친구가 이 제의를 받아들이지 않을 거라고 강조했다.
+
+[51]
+#He had done wrong in lippening a boat to such a young crew.
+#그는 잘못을 하여 배를 이렇게 젊은 선원에게 맡겼다.
+
+[52]
+#The large box in his room can serve as a desk too.
+#그 방안의 그 큰 상자는 탁자로도 쓸 수 있다.
+
+[53]
+#He has given away a good chance of winning the match.
+#그는 이 게임을 이길 수 있는 좋은 기회를 놓쳤다.
+
+[54]
+#He spoiled the soup by putting too much salt in it.
+#그는 소금을 너무 많이 넣어, 그 국을 못 먹게 되었다.
+
+[55]
+#The reasonwhy he left his work is that his health is not good.
+#그가 일을 그만 둔 이유는 건강이 좋지 않기 때문이다.
+
+[56]
+#He was so rude she refused to speak to him.
+#그가 매우 거칠고 무례해서, 그녀는 그와 대화하기 원하지 않았다.
+
+[57]
+#He was very embarrassed,but somehow he got the apology out.
+#그는 매우 부끄러워했으나, 결국 미안하다는 말을 했다.
+
+[58]
+#He's so gullible you could sell him anything.
+#그는 아주 쉽게 속으므로, 너는 그에게 어떤 물건이든 팔 수 있다.
+
+[59]
+#He contrived to get himself disliked.
+#그는 심혈을 기울였으나, 오히려 자신은 다른 사람에게 미움을 받쳤다.
+
+[60]
+#He ordered that everything be ready before the experiments.
+#그는 실험하기 전에 모든 것을 잘 준비해야 한다고 분부하였다.
+
+[61]
+#He fought his way through life .
+#그는 힘껏 살 길을 열었다.
+
+[62]
+#He was ordered to snipe at anyone moving about the camp.
+#그는 야영지 부근에서 돌아다니는 어떤 사람이라도 사격하라는 명령을 받았다.
+
+[63]
+#He freaked out for several hours.
+#그는 마약을 복용한 후에 흥분하여 몇 시간을 보냈다.
+
+[64]
+#His parents did not sympathize with his desire to become a journalist.
+#그의 부모는 그가 신문기자가 되려는 희망에 찬성하지 않았다.
+
+[65]
+#He drew on and away from the other runners.
+#그는 다른 달리기 선수를 따라잡고 추월하였다.
+
+[66]
+#He felt it his duty to save state property.
+#그는 국가의 재산을 구하는 것은 자신의 의무라고 느꼈다.
+
+[67]
+#He was very angry,but he has quieted down now.
+#그는 방금 화가 났었는데, 지금은 이미 가라앉았다.
+
+[68]
+#He has just come after the book he left here yesterday.
+#그는 방금 와서 그가 어제 여기에 놓고 간 책을 가져갔다.
+
+[69]
+#He has just made a proposal acceptable to us all.
+#그는 방금 우리 모두 받아들일 수 있는 건의를 하나 제의했다.
+
+[70]
+#He had just got up to their boat when a strong wind hit them.
+#그는 마침 그들의 배에 접근했을 때 광풍이 한바탕 불어왔다.
+
+[71]
+#As soon as he finished his speech,thunderous applause broke out.
+#그가 연설을 끝내자마자 우뢰와 같은 박수소리가 울렸다.
+
+[72]
+#He just had time to peek into the room before the door closed.
+#그는 방금 방안을 슬쩍 보고 문을 닫았다.
+
+[73]
+#He told me to take these pills every four hours.
+#그는 내게 4시간마다 한 번씩 이 알약들을 복용하라고 했다.
+
+[74]
+#He told me that he had discussed the problem with the teachers.
+#그는 내게 그는 이미 선생님들과 이 문제를 상의했다고 말했다.
+
+[75]
+#He told me that he had met her the night before .
+#그는 내게 그는 그 하루 전 날 밤에 그녀를 보았다고 말해줬다.
+
+[76]
+#He cut his finger but he brushed it off as not important and kept working.
+#그는 손가락이 잘렸으나, 그는 아무 일이 없다는 듯이 계속 일을 했다.
+
+[77]
+#He put a reserve of $100,000 on the house.
+#그는 그 집을 10만 달러의 저가로 계약을 하였다.
+
+[78]
+#He jollied her into helping with the work.
+#그는 그녀에게 칭찬을 해서, 그녀가 그 일을 돕게 했다.
+
+[79]
+#The waiters liked him for being a big tipper.
+#그는 팁을 많이 주기 때문에 웨이터들은 그를 좋아한다.
+
+[80]
+#He drew the conclusion by building on his own investigation.
+#그는 자신의 연구 조사에 근거하여 이 결론을 내렸다.
+
+[81]
+#His work finished,he prepared to return to his institute.
+#그는 일이 끝났고, 바로 학원으로 돌아갈 준비를 하고 있었다.
+
+[82]
+#She felt washed-out after working all night.
+#그는 밤새워 일을 한 후에 기진맥진했다.
+
+[83]
+#He works hard,but gets only boardwages.
+#그는 일이 매우 고되지만, 얻는 보수는 겨우 식사비 정도이다.
+
+[84]
+#He took stock of his situation and decided he needed a holiday.
+#그는 자신의 상태를 고려한 후에 필요한 휴가를 결정했다.
+
+[85]
+#He hazarded all his money to save the business.
+#그는 최후 승부를 걸며 모든 돈을 내서 기업을 구제했다.
+
+[86]
+#He plucked up his courage to tell us the whole story.
+#그는 용기를 내서 모든 일의 경과를 우리에게 얘기했다.
+
+[87]
+#He dug in and turned a deaf ear to our reasoning.
+#그는 자신의 의견을 고집하고, 우리가 말하는 이치에 대하여는 전혀 들으려 하지 않았다.
+
+[88]
+#he scraped away the wallpaper and found paneling underneath.
+#그가 별지를 찢어내서 안의 판넬을 보았다.
+
+[89]
+#He turned the corner in time to see the rascal making off down the street.
+#그는 코너를 돌 때 마침 그 건달이 도로쪽으로 도망가는 것을 보았다.
+
+[90]
+#He came running round the corner cannoned into me,and knocked me over.
+#그는 코너를 돌 때 뛰어와 나와 부딪혀 나를 넘어뜨렸다.
+
+[91]
+#He closed the door so hard that he wrenched the handle off.
+#그가 문을 닫을 힘을 너무 세게 하여 옆문 손잡이도 비틀었다.
+
+[92]
+#His account of the matter cuts across hers.
+#그의 이 일에 대한 설명은 그녀가 말한 것과 크게 다르다.
+
+[93]
+#He used to do such work as he could pick up.
+#그는 항상 찾을 수 있는 무슨 일을 찾아서 일을 한다.
+
+[94]
+#He'd had a chequered past but was now determined to be successful.
+#그는 과거에 산전수전을 겪었으나, 지금은 성과를 이루기로 결심하였다.
+
+[95]
+#His past misdeeds redounded on him.
+#그가 과거에 한 나쁜 일은 그 자신에게 다시 돌아왔다.
+
+[96]
+#He lived a life that was essentially monachist in tone.
+#그는 본질적으로 수도승 같은 생활을 하였다.
+
+[97]
+#He brought off his speech with ease.
+#그는 전혀 힘을 들이지 않고 자신의 연설을 성공시켰다.
+
+[98]
+#Without flinching he dashed into the burning house to save the children.
+#그는 조금도 겁내지 않고 불타는 건물 안으로 들어가 어린아이를 구해냈다.
+
+[99]
+#He didn' t hesitate to plunge into the river to save the child.
+#그는 조금도 주저 않고 강으로 뛰어들어 그 아이를 구했다.
+
+[100]
+#He made no plans; he just blundered into that position.
+#그는 계획이 전혀 없었는데, 그렇게 한 것은 다만 우연일 뿐이다.
+
+[101]
+#He's no better,but he's lingering on by sheer will power.
+#그는 전혀 좋아지지 않으나, 그는 의지력에 전적으로 기대어 계속 살아 있다.
+
+[102]
+#He had some difficulty in matching up the statements taken from the two witnesses.
+#그는 겨우 이 두 명의 증인의 진술을 맞췄다.
+
+[103]
+#He has long since arrived.
+#그는 오래 전에 도착했다.
+
+[104]
+#Thoug he seemed to listen carefully,he was inattentive and misapprehensive.
+#그는 주의해서 듣고 있는 것 같으나, 전혀 신경을 쓰지 않아 뜻을 오해하였다.
+
+[105]
+#He appeared to be utterly ignorant that he had made that noise.
+#그는 자신이 그런 소리를 냈다는 것을 전혀 알지 못하는 것 같았다.
+
+[106]
+#He doesn't seem loaded down with his fresh responsibilities.
+#그는 그의 새 일로 인해 눌려 숨도 못 쉬는 것 같지 않다.
+
+[107]
+#He seems to have a new girlfriend every week.
+#그는 매주마다 새 여자친구가 있는 것 같다.
+
+[108]
+#He seems to have come to terms with losing his sight.
+#그는 이미 자신이 실명하게 될 이 사실을 받아들인 것 같다.
+
+[109]
+#He always becomes maudlin after he's had a few drinks.
+#그는 술 몇 잔을 마신 후에는 항상 쉽게 감상에 빠져버렸다.
+
+[110]
+#He chased the whisky down with a pint of beer.
+#그는 위스키를 다 마신 후에 이어서 또 1파인트의 맥주를 마셨다.
+
+[111]
+#His connection with that magazine dates from 1971.
+#그는 그 잡지와 1971년부터 관계가 있었다.
+
+[112]
+#He had two appointments with me,but let me down on both occasions.
+#그는 나와 두 번 약속을 했었는데, 그는 두 번 다 약속을 지키지 않았다.
+
+[113]
+#He was so hungry he shoveled his food into his mouth.
+#그는 배가 고파서, 꾸역꾸역 음식을 입안으로 집어넣었다.
+
+[114]
+#He was glad to find the garden unrooted out.
+#그는 화원의 꽃나무가 뿌리까지 뽑히지 않았음을 발견하고 매우 기뻐했다.
+
+[115]
+#He was very attentive to the old lady and did everything for her.
+#그는 그 노부인에게 잘해 주었으며, 무슨 일이든 노부인을 위해 했다.
+
+[116]
+#He's very artful and usually succeeds in getting what he wants.
+#그는 아주 약해서, 보통 그가 원하는 물건을 얻을 수 있다.
+
+[117]
+#He cut back through the woods to where he had been standing before.
+#그는 아주 빠르게 삼림을 지나 원래 서 있던 자리로 돌아왔다.
+
+[118]
+#He read off the names of the places he had visited.
+#그는 아주 빠르게 방문했던 적이 있던 곳의 이름을 읽어나갔다.
+
+[119]
+#He quickly seized on a flaw in his opponent's argument.
+#그는 빠르게 상대방 논거중의 허점을 잡았다.
+
+[120]
+#He soon rallied from the shock of his father's death.
+#그는 부친 사망의 쇼크에서 아주 빠르게 회복되기 시작했다.
+
+[121]
+#He quickly established himself as a powerful member of the new government.
+#그는 빠르게 자신을 신정부에서 세력이 있는 구성원으로 만들었다.
+
+[122]
+#He was so tired that he balled up on even simple problems.
+#그는 아주 피곤해서 간단한 문제조차도 혼란스러웠다.
+
+[123]
+#He's very young and inexperienced,and doesn't know about the ways of the world.
+#그는 젊고 경험이 없어 사회를 잘 알지 못한다.
+
+[124]
+#He screwed out half a pound for the taxi fare.
+#그는 아주 아까운 듯이 반 파운드를 꺼내 택시비를 냈다.
+
+[125]
+#He was so mulish that my admonitions just flowed over him.
+#그는 아주 완고해서 나의 충고는 그에게 있어 지나가는 바람에 불과하다.
+
+[126]
+#He came back to the tent very late and crept in as silently as he could.
+#그는 늦게 텐트에 돌아왔고, 가능한 한 소리를 내지 않고 살그머니 기어들었다.
+
+[127]
+#He wanted to speak but thought better of it and held in.
+#그는 말하고 싶었으나, 자세히 생각해보고는 참고 말하지 않았다.
+
+[128]
+#He was very conciliatory but I still can't forgive him.
+#그는 다시 사이가 좋아지길 원했으나, 나는 여전히 그를 용서할 수 없다.
+
+[129]
+#He was very emotional; he cried when I left.
+#그는 매우 감성적이어서, 내가 갈 때 큰소리로 울었다.
+
+[130]
+#He left early and caught the train by a good margin.
+#그는 일찍 출발해서 기차 시간에 대기에 충분하다.
+
+[131]
+#He spent a lot of time jauting about on the Continent.
+#그는 유럽 대륙 도처를 돌아다니는데 많은 시간을 보냈다.
+
+[132]
+#He spent much moeny grading up his herd of cattle.
+#그는 그 무리 소의 품종 질량을 개량하는데 많은 돈을 썼다.
+
+[133]
+#He spent several weeks digging into the problem.
+#그는 몇 주 동안 이 문제에 대해 깊이 연구했다.
+
+[134]
+#He twisted his ankle skiing,with the consequence that he was unable to take his exams.
+#그는 스키 타다가 발목을 삐어, 그는 시험에 참가할 수 없었다.
+
+[135]
+#He scored their names off and wrote in some others.
+#그는 그들의 이름을 지워버리고, 다른 몇 명의 이름을 써 넣었다.
+
+[136]
+#He rolled out the words,so that everyone could hear.
+#그는 말소리가 아주 커서, 모든 사람이 들을 수 있었다.
+
+[137]
+#He missed the companionship he'd enjoyed in the navy.
+#그는 해군 복무시에 느꼈던 동료의 우의를 그리워했다.
+
+[138]
+#He can't dress himself yet because he's too young.
+#그는 나이가 너무 어려, 아직 혼자 옷을 입을 수 없다.
+
+[139]
+#seeing he is young,his salary is not so bad.
+#그는 아직 젊기 때문에 이런 월급을 그런대로 괜찮은 편이다.
+
+[140]
+#"Is he on active service? " "No,he's been boarded out."
+#"그는 아직도 현역에서 복무합니까?" "아니오, 그는 이미 병으로 제대하였습니다."
+
+[141]
+#He eased the piano through the narrow door.
+#그는 천천히 조심스럽게 그 피아노로 그 좁은 문을 밀었다.
+
+[142]
+#He waved his magic wand and pulled a rabbit out of the hat.
+#그는 마술 지팡이를 흔들며 모자 안에서 토끼 한 마리를 꺼냈다.
+
+[143]
+#He couldn't answer the question and so gave it up.
+#그는 그 문제에 대답하지 못하고, 다만 포기했다.
+

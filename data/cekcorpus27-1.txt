@@ -1,0 +1,980 @@
+[1]
+#Don't try to win his support in that way---- he hates to be fawned on.
+#그런 방법으로 그의 지지를 얻으려 하지 마라. 그는 다른 사람이 아부하는 것을 제일 싫어한다.
+
+[2]
+#Don't preach me a lesson about patience.
+#내가 인내하려는 것에 대하여 훈계하지 마라.
+
+[3]
+#Don't give her any extra jobs,she's snowed under already.
+#별도의 일을 또 그녀에게 주지 마라. 그녀는 이미 너무 바쁘다.
+
+[4]
+#Stop prying: you shouldn't read my letters!
+#다시는 다른 사람의 사적인 일을 캐려고 하지 마라. 너는 내 편지를 훔쳐 봐서는 안 된다.
+
+[5]
+#Don't be so rude; that's a nice way to behave to your aunt!
+#이렇게 거칠게 굴지 마라. 그렇게 너의 고모를 대하는 것은 아주 안 좋은 태도이다.
+
+[6]
+#Oh ,stop all this gallivanting about,and settle down to something!
+#이렇게 건들건들 돌아다니지 말고, 좀 얌전히 일을 좀 해라.
+
+[7]
+#Don't be so inquisitive; I'm not telling you what I did last night.
+#이렇게 남의 일 참견하기 좋아하지 마라. 나는 너에게 내가 어제 저녁에 무엇을 했는지 얘기하지 않을 것이다.
+
+[8]
+#Don't expect me to wait on you hand and foot; make your own breakfast!
+#내가 굽신거리며 너에게 시중들 거라고 기대하지 말고, 직접 아침밥을 만들어라!
+
+[9]
+#Don't worry about your job -- your salary or your work.Take things easy.
+#항상 너의 직업에 대하여 걱정하지 마라. 임금과 너의 일에 대하여 단념해라.
+
+[10]
+#The sick boy had an unhealthy flush and breathed with difficulty.
+#병이 난 아이의 얼굴에 건강하지 않은 발열이 있고 또 호흡이 곤란하였다.
+
+[11]
+#Not all labor is hard; some is pleasant.
+#모든 노동이 결코 다 힘든 것은 아니다. 어떤 것은 즐겁다.
+
+[12]
+#You're not the wholeshow just because you got all A's.
+#결코 네가 모두 A를 받았기 때문이 아니라, 네가 학교에서 스타이기 때문이다.
+
+[13]
+#The day Poland was invaded was a black-letter day for the world.
+#폴란드가 침공을 당한 그날은 전세계적으로 불행한 날이었다.
+
+[14]
+#Boyd tried to palm off a secondhand radio as a new one on Crane.
+#Boyd는 사용한 라디오를 Crane에게 새것으로 속여 팔려고 하였다.
+
+[15]
+#The ferryboat in the harbor got op steam for the crossing to the island.
+#항구에 정박해 있던 카페리카 보일러의 기압을 높여 그 섬으로 운전해 가려 한다.
+
+[16]
+#Don't bother buttering up to me.I'm too old a hand to be won over by flattery.
+#나에게 아부하느라 헛걸음할 필요 없습니다. 그러나 나는 경험자라서 그런 수법이 먹히지 않는다.
+
+[17]
+#I have to request you that you will lose no time in putting on board a full and sufficient loading of coals.
+#당신측에 가장 짧은 시간 내에 가능한 빨리 충분한 양의 석탄을 운반해 달라고 청할 수 밖에 없다.
+
+[18]
+#After-burners have to be used.As a result fuel consumption is heavier.
+#애프터 버너를 사용해야 했다. 결국 연료 소모량이 증가했다.
+
+[19]
+#Recurrent slave uprisings brought about the downfall of the ancient Roman Empire.
+#끊임없이 일어난 노예의 봉기는 고대 로마제국의 멸망을 가져왔다.
+
+[20]
+#We will see the struggle through,whatever happens.
+#무슨 일이 발생하든 우리들도 이 싸움을 끝까지 진행할 것이다.
+
+[21]
+#He'll hammer some information in whether that child likes it or not.
+#그 어린아이가 좋아하든 좋아하지 않든, 그는 반복적으로 지식을 그에게 주입시켰다.
+
+[22]
+#However closely you may observe,they remain just isolated facts.
+#네가 얼마나 자세히 관찰했든지 관계 없이 그것들은 여전히 독립적인 사실이다.
+
+[23]
+#In spite of all you say,I still aver that his report is true.
+#네가 무슨 말을 하든, 나는 여전히 그의 보고가 진실이라고 단언한다.
+
+[24]
+#whether by accident or design,we met there again.
+#우연의 일치이든 혹은 계획된 것이든 상관 없이 우리는 또 그곳에서 만났다.
+
+[25]
+#Whatever false appearances they put on,they can never get over the people of the Third World countries.
+#그들이 위를 덮어 무엇을 위장하여도 제3세계 각국의 국민을 절대로 속일 수 없다.
+
+[26]
+#I believe,however,we can get at least some pure materials before the end of this year.
+#하지만 연말 이전에 우리는 최소한 소량의 순물질을 얻을 수 있다.
+
+[27]
+#Not only all the planets but also the sun itself is in constant motion.
+#모든 행성 뿐 아니라 태양 자체도 끊임없이 운동하고 있다.
+
+[28]
+#It soon came out that Peter and Alice were going to get married.
+#얼마 안 있어 피터와 앨리스가 결혼할 거라는 소식을 알았다.
+
+[29]
+#Something seemed to be preying on her health not long ago ,but she is now as strong as ever.
+#얼마 전에 그녀는 병이 났던 것 같으나, 현재는 이전과 마찬가지로 건강하다.
+
+[30]
+#An irrevocable L/C gives your exports the protection of a banker's guarantee.
+#취소할 수 없는 신용장을 수출 상품에 은행 담보를 증가시켰다.
+
+[31]
+#unreasonably,she still expects him to behave like a child.
+#이치에 맞지 않는 것은 그녀는 여전히 그가 어린이 마냥 멋대로 행동하길 원한다.
+
+[32]
+#This paint will adhere to any surface ,whether rough or smooth.
+#표면이 거칠든 매끄럽든 상관 없이 이 페인트는 모두 칠할 수 있다.
+
+[33]
+#Whatever may happen,we must stick together.
+#무슨 일이 발생했든지 간에, 우리는 반드시 같이 있어야 하고 나누어져서는 안 된다.
+
+[34]
+#We should not support war,whether just or unjust.
+#정의든 정의가 아니든 관계 없이 우리는 전쟁을 지지해서는 안 된다.
+
+[35]
+#Don't trust that man.He just goes out for anything he can get.
+#그 사람을 믿지 마라. 그는 수단이 좋아서 손에 넣으려는 것은 모든 것을 넣을 수 있다.
+
+[36]
+#CANT USE UR BRND AS ITS ALRDY REGD BY OTRS -cannot use your brand as it is already registered by others.
+#당신의 브랜드를 사용할 수 없습니다. 왜냐하면 이 상표는 다른 사람이 이미 등록을 했어요.
+
+[37]
+#Bill and I are overwhelmed by the wealth of lovely linens we have suddenly received.
+#뜻밖에 네가 보내준 린넨 직물을 받아서, 나와 빌은 매우 불안하다.
+
+[38]
+#Unfamiliar footsteps may sound creepily in a haunted house.
+#잘 모르는 발자국 소리가 귀신의 집에서 들리면 모골이 송연할 것이다.
+
+[39]
+#Miseries are attendant on vice.
+#불행은 항상 사악한 행위를 따라 온다.
+
+[40]
+#Don't drive so fast--there's no hurry.
+#차를 이렇게 빨리 몰지 마라. 이렇게 서두를 필요가 없다.
+
+[41]
+#Don't take my remarks about your plan personally.
+#나의 의사표시를 당신의 계획에 개인적으로 쓰지 마세요.
+
+[42]
+#Don't repeat what I told you to anyone; it's private.
+#내가 네게 말한 일을 누구에게도 알리지 마라. 이 일은 비밀이다.
+
+[43]
+#Don't throw these odd pieces of cloth away; they may come in for something or other.
+#이 자투리 천들을 버리지 마라. 그것은 쓸데가 있을 것이다.
+
+[44]
+#Don't be awkward: we have to get this finished by five o'clock.
+#어렵게 하지 마라. 우리는 5시 이전에 이 일을 반드시 끝내야 한다.
+
+[45]
+#Don't sniff at his effort.He's made great progress.
+#그의 노력을 깔보지 마라. 그는 이미 많은 거두었다.
+
+[46]
+#Don't always leave your pen about or you will lose it one day.
+#항상 네 펜을 이리저리 놓지 말아라. 그렇지 않으면 성과를 언젠가 잃어버린 것이다.
+
+[47]
+#Don't worry about meeting my father; I'm sure he'll put you at your ease.
+#우리 아버지 만나는 것을 겁내지 마라. 그가 너를 조금도 어렵게 안할 거라고 나는 믿는다.
+
+[48]
+#Don't let those grasping taxi-drivers charge you too much.
+#그 탐욕스런 운전기사로 하여금 네게 터무니 없는 가격을 부르지 않게 해라.
+
+[49]
+#Don't let work in other fields black out our central task.
+#다른 방면의 일로 하여금 우리의 중요한 임무를 덮어 감추지 마라.
+
+[50]
+#Don't overload the electrical system by using too many machines.
+#전기공급 체계에 과부하가 일어나므로 너무 많은 기계를 사용하지 마라.
+
+[51]
+#Don't gabble,Lucy,I can't understand when you run your words together.
+#너무 빠르게 말하지 마라, 루시! 네가 말하는 것이 꼭 속사포 같아 나는 못 알아 듣겠다.
+
+[52]
+#Don't quibble over the money; pay her what she asks.
+#그 돈 때문에 싸우지 말고 그녀가 원하는 대로 그녀에게 지불하세요.
+
+[53]
+#Don't force your foot into the shoe; it's too small for you.
+#억지로 네 발을 신발에 쑤셔 넣지 마라. 그것은 네게 너무 작다.
+
+[54]
+#Stop moaning; you really have nothing to complain about.
+#다시 원망하지 마라, 사실 너는 원망할만한 일이 없다.
+
+[55]
+#Don't read more into her letter than she intended.
+#그녀의 그 편지의 본의 이외에 다시 다른 의미를 추측하지 마라.
+
+[56]
+#I'll look after the bill.
+#네 자신의 이익만을 구하고, 다른 사람의 이익을 구하지 않는 짓을 하지 마라.
+
+[57]
+#Soon it will be commonplace for people to travel to the moon.
+#오래지 않아 사람들이 달에 여행가는 것은 흔한 일이 될 것이다.
+
+[58]
+#Spare me the details; just tell me about what they decided.
+#내게 자세한 것을 말할 필요 없고, 다만 내게 그들이 무슨 결정을 내렸는지 얘기해라.
+
+[59]
+#It never rains but it pours.
+#화는 혼자 오지 않는다.
+
+[60]
+#Cases not beard in court are sometimes heard in the judge's chambers.
+#법정에서 개정되지 않은 안건은 때로 법관 회의실에서 심리한다.
+
+[61]
+#Will you please make a feasibility study of this case free of charge?
+#귀측에서 이 사항의 가능성에 대한 연구를 무료로 해줄 수 있습니까?
+
+[62]
+#I am writing to you about the possibility of a visiting scholar's appointment in your department next spring.
+#당신의 과에서 다음 학기 춘계반에 저를 방문학자로 임용할 수 있습니까?
+
+[63]
+#Mr.Brown was elected by the greatest majority.
+#브라운씨는 기타 후보자가 얻은 표의 총수보다 가장 많은 표수로 당선되었다.
+
+[64]
+#Miss Brown disliked her job so much that she finally gave it up.
+#미스 브라운은 그녀의 일을 싫어하므로 결국은 그것을 포기하였다.
+
+[65]
+#My wife insisted on glamming up the house for the Browns'visit.
+#브라운씨 일가가 방문하므로, 내 아내는 집안을 단장해야 한다고 끝까지 주장했다.
+
+[66]
+#Don't stand talking at the gate ,Bruce.Invite your friend in.
+#브루스, 대문에 서서 얘기하지 말고, 네 친구를 들어오라고 해라.
+
+[67]
+#The infantry opened up a corridor across the mine-field for the armour to pass through.
+#보병이 지뢰매설 지역에서 통로를 열어 장갑 부대가 통과할 수 있게 하였다.
+
+[68]
+#The minister was compromised by the news of his relationship with the prostitute and had to leave Parliament.
+#장관과 술집 여자가 내왕한다는 소문이 부장의 명예를 훼손하여 의회를 떠날 수 밖에 없었다.
+
+[69]
+#The minister cited the latest crime figures as proof of the need for more police.
+#장관은 최근의 범죄 통계 숫자를 인용하여 경찰의 증원이 필요함을 증명하였다.
+
+[70]
+#Two months after he joined up he was sent to the front and saw immediate action.
+#참군 2개월 후에 그는 전선으로 보내져 실제 전투를 경험했다.
+
+[71]
+#The staff officers mapped out the area thoroughly.
+#참모들은 지도상에서 이 지역을 정확히 표시하였다.
+
+[72]
+#The council set up a committee to enquire into local unemployment.
+#의회는 그 지역의 실업 상황을 조사하기 위하여 위원회를 세웠다.
+
+[73]
+#By an overwhelming vote the Senate disagreed with the House motion.
+#참의원은 압도적으로 우세한 표수로 중의원의 동의를 부결했다.
+
+[74]
+#We refer to our Contract No.10 four months ago for 500 doz.shirts.
+#제10호 계약을 참고하여 4개월 전에 우리는 당신들에게 500타스이 셔츠를 구입했다.
+
+[75]
+#We refer to our letter of...in which we asked you...
+#우리측은 ...월 ...일의 서류를 참고하여 우리는 당신에게 ...을 요구했다.
+
+[76]
+#The quality of our product has been improved again and again,and we are sure that you will be fully satisfied with it.
+#생산품의 질량이 이미 한번 또 한번 올라가 당신측이 매우 만족할 거라고 믿습니다.
+
+[77]
+#An antenatal clinic is a place where women who are expecting babies go for medical examinations and exercises.
+#출산전 검사 클리닉은 산모가 신체검사와 운동을 하는 곳이다.
+
+[78]
+#David has talked of you so often,and with such affection,that I'm looking forward to meeting you.
+#너에 대해 얘기하면, 그는 너의 우정에 대하여 말과 표현에 넘쳐나, 나는 당신을 보기를 원한다.
+
+[79]
+#The usual word "pub" is short for "public house".
+#상용하는 "pub'"라는 단어는 "public house"의 간략한 형태이다.
+
+[80]
+#Long experience enabled them to hammer out a correct and practical scheme.
+#장기간의 경험이 그들로 하여금 정확하고 확실한 방안을 정할 수 있게 하였다.
+
+[81]
+#The writer's long separation.from social life dried up his imagination.
+#오랜 기간 사회 생활과 격리돼 이 작가의 상상력이 고갈되었다.
+
+[82]
+#Our packing has proven successful for quite some time in many export shipments.
+#오랜 기간 동안 우리들의 많은 수입 화물의 포장은 성공적임을 증명한다.
+
+[83]
+#The coach jolted its passengers over the miserable road.
+#장거리 자동차가 안 좋은 도로에서 운전하여 승객들이 흔들려서 힘들었다.
+
+[84]
+#The top rallyist could run a 200-mile rally with less than a minute error.
+#장거리 경주차의 훌륭한 선수는 200마일의 경기를 달릴 수 있으며 조금의 실수도 없었다.
+
+[85]
+#For every 50 pieces sold in excess of the quota,we'll give you 1% additional commission.
+#정액을 초과한 후 매년 50대가 팔리면 우리는 커미션을 1% 올려줄 것이다.
+
+[86]
+#The tide's out now,but it starts to come in at about six o'clock.
+#조수가 지금은 빠지나 6시 쯤이면 또 올라오기 시작한다.
+
+[87]
+#The ruts must be filled in so that traffic can pass.
+#행인과 차량의 통행을 위하여 차 바퀴에 눌린 흔적을 반드시 평평하게 메꾸어야 한다.
+
+[88]
+#The crew of the sinking boat were in danger,but we got them off.
+#침몰한 배의 선원이 위험한 지경에 처했으나, 우리가 그들을 구해냈다.
+
+[89]
+#After a few minutes'silence,they perked up and argued enthusiastically again.
+#몇 분간 침묵한 후에 그들은 활발해지기 시작했고, 또 격렬한 변론을 시작했다.
+
+[90]
+#Mrs.Chen Ping graduated from the physics Department of Tianjin Normal University in 1982.
+#진평 여사는 1982년 천진사범대학 물리학과를 졸업했다.
+
+[91]
+#I hasten to reply before I get bogged down with other work.
+#다른 일이 아직 나를 하지 않는 틈을 타, 나는 빨리 대답하겠다.
+
+[92]
+#You'd better clear out of here before you cause any more trouble.
+#아직 더 많은 번거로움이 생기기 전을 틈타, 당신은 빨리 이곳을 떠나시오.
+
+[93]
+#The town was surrounded but the people held out until help came.
+#도시는 포위되었으나, 사람들은 줄곧 구원이 올 때까지 견디었다.
+
+[94]
+#The city's bright lights,theatres,films,etc,are great attractions.
+#도시의 밝은 등, 극장, 영화 등등은 매우 사람을 끄는 물건이다.
+
+[95]
+#A special group was organized to dig up the particulate of the case.
+#전문적인 그룹을 만들어 이 안의 각 세부사항을 조사하여 밝히다.
+
+[96]
+#Thousands of people poured into the stadium to watch the football match.
+#수천의 사람들이 체육관으로 몰려 들어가 축구 경기를 관전하였다.
+
+[97]
+#Twenty minutes in the car ate up the distance between the two shipyards.
+#20분 동안 차를 타고서 두 곳의 조선공장 사이의 노선을 다 돌았다.
+
+[98]
+#If he was not industrious in his youth,he now works very hard.
+#확실히, 그는 젊었을 때 열심히 일하지 않았으나, 현재 그는 매우 열심히 일한다.
+
+[99]
+#We are indebted for your name to Messrs.A & Co.,who informed us that you are the largest manufacturer of bicycles.
+#A회사가 우리에게 귀사가 자전거의 대형 제조상임을 추천했다.
+
+[100]
+#Contributins of $5,000 before the drive began gave the charity fund a runningstart.
+#모금 시작 전에 5000달러의 성금이 있어, 이 자선기금은 좋은 출발이 될 것이다.
+
+[101]
+#The odds-on favourite came in last,to everyone's surprise.
+#모든 사람의 예상을 뒤엎고 인기 있는 말이 결국 가장 늦게 종점에 도착했다.
+
+[102]
+#The honor attendants wore street-length dresses of lavender shantung.
+#참석한 귀빈들은 모두 많이 길지 않은 옅은 자색의 산동 실크 옷을 입고 있었다.
+
+[103]
+#UNLESS ADVISED CONTRARY WILL UNDSTND ITOK -unless you advise to the contrary,we will understand it all right (O.K.)
+#반대의 통지를 받지 않으면, 우리들은 이 일은 당신들이 이미 동의했다고 이해할 것이다.
+
+[104]
+#Unless you can see your way to reduce your prices,business prospects are rather remote.Please revise your offer.
+#당신측이 가격을 줄여야 하며, 그렇지 않으면 희망이 없습니다. 당신측의 호가를 바꿔주세요.
+
+[105]
+#Have you any other source of income apart from your job?
+#근로 수입 외에 당신은 또 기타 경제 수입이 있습니까?
+
+[106]
+#Next to acquiring good friends,the best acquisition is that of good books.
+#좋은 친구를 얻은 것 외에 가장 의의가 있는 수확은 좋은 책을 얻은 것이다.
+
+[107]
+#This hotel has nothing to recommend it to travellers except cheapness.
+#가격이 저렴하다는 것 이외에 이 여관은 여관으로 말하자면 얻을만한 것이 없다.
+
+[108]
+#I answered up to all the questions except two.
+#두 가지 문제 외에 다른 문제를 나는 빠르게 대답했다.
+
+[109]
+#No one but Pinky and Sister Heavenly knew his straight moniker,monicker .
+#Pinky와 Heanvenly 자매 외에 다른 사람은 그의 정확한 이름을 알지 못한다.
+
+[110]
+#In addition to a commission and the usual expenses,Mr. ..receives a fixed a monthly salary of...
+#커미션과 보통 비용을 제한 ...씨의 고정 월급은 ...이다.
+
+[111]
+#I know nothing about it except what I read in the paper.
+#신문에 읽은 것 외에 나는 이 일에 대해 아는 것이 하나도 없다.
+
+[112]
+#He supplements his wages from the factory by working as a gardener at weekends.
+#공장에서 일하는 것 외에 그는 또 주말에는 정원사가 되어 수입을 늘린다.
+
+[113]
+#Besides doing the cleaning I help my husband.
+#청소하는 일 이외, 나는 또 나의 남편의 일을 돕는다.
+
+[114]
+#As our ship began to sink,we sent out flares to attract attention.
+#배가 가라앉기 시작할 때, 우리들은 사람들의 주의를 끌기 위해 섬광 신호를 보냈다.
+
+[115]
+#Though the ship carried away in the storm,no casualties have been reported.
+#배가 폭풍우에 비록 선구를 잃어버렸으나, 사상소식은 듣지 못했다.
+
+[116]
+#There weren't enough beds,but the matter was resolved by making George sleep on the floor.
+#침대가 부족하나, 죠지더러 바닥에 자게 하여 이 문제는 바로 해결되었다.
+
+[117]
+#The hammer slipped and hit my fingers instead of the nail.
+#망치가 내 손에서 미끄러져 못을 때리지 않고 오히려 내 손가락 위를 때렸다.
+
+[118]
+#Leaving her first job was a watershed in her life.
+#그녀가 첫 번째 작업을 그만 둔 것은 그녀 생활에서 하나의 전환점이 되었다.
+
+[119]
+#This offer is firm subject to your reply reaching us not later than the 14th.
+#이 호가는 실가로 당신측의 회답 도착이 14일을 넘지 않는 것으로 정한다.
+
+[120]
+#The freight for the voyage must not exceed ↔500 with five per cent.primage.
+#이번 운반 비용은 5%의 운임 할증금 후에 500파운드를 넘어서는 절대 안 된다.
+
+[121]
+[122]
+#이번 호가는 실가로 당신측이 10월말 이전에 회답하는 것은 유효하다.
+
+[123]
+#Comrade Li isn't in at the moment.Would you like to ring back later?
+#지금 이동지가 안 계십니다. 잠시 후에 다시 전화를 해주시겠습니까?
+
+[124]
+#The matter has been gone into very thoroughly,and we find there are no grounds for the allegations.
+#이 일은 이미 철저한 조사를 거쳤으며, 우리는 이 논단은 근거가 없다는 것을 발견하였다.
+
+[125]
+#We understand from Messrs.A.B.C.&Co.that you can supply fruits and nuts.
+#A.B.C 회사로부터 귀사가 과일과 견과류를 제공할 수 있다는 것을 들었습니다.
+
+[126]
+#I learned from Richard's letter that you are ill in bed.I hope you will get well soon.
+#리차드의 편지에서 네가 아파 누워 있다는 것을 알았다. 나는 네가 빨리 회복되길 바란다.
+
+[127]
+#We are very sorry indeed to hear from your letter of that...
+#당신의 ...월 ...일 편지에서 ...을 알게 되었는데, 우리는 무척 유감입니다.
+
+[128]
+#Theoretically it's my job,but in fact I don't do it.
+#이론적으로 말하면 이것은 나의 일이나, 실제적으로는 내가 하지 않는다.
+
+[129]
+#Ideally,I would like to be a teacher,but there are no jobs.
+#이상을 말하면 나는 교사가 되고 싶으나, 자리가 없다.
+
+[130]
+#A breakaway group within the old political party formed a new one.
+#그 구정당에서 분열되어 나간 한 파는 또 새정당 하나를 만들었다.
+
+[131]
+#It was obvious from their appearance that the young trees had been gnawed at by some small creature.
+#그 어린 나무의 외형으로 보면 확실히 무슨 작은 동물이 쏠았다.
+
+[132]
+#It's difficult to opt from so many choices.
+#그렇게 많은 선택할 수 있는 물건 중에서 선택하는 것은 곤란하다.
+
+[133]
+#How long has it been since you've heard from your uncle?
+#네가 지난번 너의 숙부의 편지를 받은 이후 얼마나 되었냐?
+
+[134]
+#In former times the British army kept lots of soldiers at Fort William in Scotland.
+#이전에 영국 육군은 항상 많은 사병을 스코틀랜드의 윌리엄 요새에 파견 주둔시켰다.
+
+[135]
+#He paid afriendly visit to China from October 5 to 25.
+#10월 5일부터 25일까지 그는 중국에 대하여 방문을 진행하였다.
+
+[136]
+#Away over their crests opened out a broad,sunny landscape.
+#나뭇가지 끝으로 보니 넓게 햇빛 비치는 아름다운 친선 풍경이 펼쳐져 있다.
+
+[137]
+#To look at him ,you wouldn't think he's in his eighty-fifth year.
+#그의 외모로 보면 너는 그가 이미 85세가 되어 간다고 여기지 않을 것이다.
+
+[138]
+#From the way they talked I presumed they were married.
+#그들의 대화하는 모양을 보고 나는 그들이 이미 결혼했다고 믿었다.
+
+[139]
+#I saw the gleam of her white teeth between her parted lips.
+#그녀가 벌린 입술 사이에서 나는 그녀의 하얀 치아가 희미한 빛을 번쩍이는 것을 보았다.
+
+[140]
+#By the enclosed protest you will perceive that this bill has been refused acceptance.
+#동봉한 지급 거절증서로 알 수 있듯이, 이 수표는 이미 지불을 거절당했다.
+
+[141]
+#I learned from Wang Ying that you were graduated with high honours from Tsinghua University yesterday.
+#왕영에게서 당신이 우수한 성적으로 청화대학을 졸업했다는 것을 알았습니다.
+
+[142]
+#The district has been built up since I was last there.
+#내가 지난번에 그곳에 간 이후로 그 지역은 이미 집들이 가득 지어졌다.
+
+[143]
+#Beginning next month you can work as our agent in ...
+#다음달부터 너는 우리 회사 ... 지역의 대리 업무를 담당할 수 있다.
+
+[144]
+#Since 1927 kelp has been growing naturally around Dalian.
+#1927년부터 미역은 대련 일대에서 자연적으로 생장하였다.
+
+[145]
+#We can dope out from this that out enemy is trying to spring a surprise on us.
+#여기에서 우리는 적군이 한창 우리에게 기습공격을 하려 한다는 것을 볼 수 있다.
+
+[146]
+#The essence drawn out from this medicinal herb is good for high blood pressure.
+#이 약초에서 추출해 낸 정화는 고혈압을 치료하는데 효과가 있다.
+
+[147]
+#The village children are bussed to the school in the nearest town.
+#마을의 아이들은 시내버스로 가장 가까운 도시로 보내져 등교한다.
+
+[148]
+#With Philippine Airlines you can go to Manila,or for that matter,to Singapore.
+#필리핀 항공은 마닐라에 갈 수 있으며, 말하자면 당신은
+
+[149]
+#Only the whir of the air conditioner broke the silence in the office.
+#사무실 안 정적을 깨는 것은 다만 에어컨의 윙윙 돌아가는 소리 뿐이다.
+
+[150]
+#A typewriter has a carriage which holds and moves the paper.
+#타자기에 미끄럼기가 있어 타자 종이를 고정하고 이동하는데 사용된다.
+
+[151]
+#The boss was ready to pounce on the typist when she made the slightest mistake.
+#타자수가 아주 적은 잘못을 했다 할지라도, 상관은 바로 잡고 놓아주지 않았다.
+
+[152]
+#Long,medium and short overcoats.Winter wear,jacket,coat,long,medium and short jumpers.
+#대, 중과 짧은 코트, 방한복, 재킷, 코트, 길이가 중간과 짧은 점퍼.
+
+[153]
+#The libraries in large cities are well supplied with books on most subjects.
+#대도시의 도서관은 장서가 풍부하여 대부분 주제별 서적이 있다.
+
+[154]
+#Big cities have theatres,films,football matches,and many other amusements.
+#대도시에는 극장, 영화, 축구와 많은 기타 오락활동이 있다.
+
+[155]
+#The metropolitanism is affecting most of our social institution.
+#대도시 생활의 특징은 바로 우리 대부분의 사회제도에 영향을 미쳤다.
+
+[156]
+#Most children go through a phase of opposing all their parents' wishes.
+#대다수 아이들은 부모의 모든 희망에 반항하는 과정을 거친다.
+
+[157]
+#Most people are willing to condemn violence of any sort as evil.
+#대다수의 사람은 모든 폭력행위를 악행으로 보고 비난하길 좋아한다.
+
+[158]
+#Most people have been conditioned to accept what they see on television.
+#대다수의 사람들은 임 TV에서 보는 것을 받아들일 수 있는 것이 훈련이 되었다.
+
+[159]
+#The sea shut the natives of America off from the rest of the world for centuries.
+#대해가 미국 토착민을 세계의 다른 곳과 많은 세기를 격리하였다.
+
+[160]
+#The final session of the conference will be brought forward from Friday to Tuesday.
+#대회의 마지막 1회 회의는 금요일에서 화요일로 앞당겨 거행될 것이다.
+
+[161]
+#The Congress set up a special committee to investigate the matter.
+#대회는 전문 위원회를 하나 설립하여 이 문제에 대하여 조사 연구를 진행했다.
+
+[162]
+#Everyone liked the stranger,but in reality he was a criminal.
+#모두들 이 낯선 사람을 좋아하나, 실은 그는 죄인이다.
+
+[163]
+#The people enjoyed the singer so much that the clapping continued for a long time.
+#모두들 그 가수가 노래하는 것을 아주 좋아해서 박수소리가 오래도록 끊기지 않았다.
+
+[164]
+#The flood of hunters killed off most of the buffaloes in that area.
+#수많은 사냥꾼이 그 지역의 대부분의 버팔로를 죽였다.
+
+[165]
+#The gate was locked but we went through a gap in the fence.
+#대문이 잠겼으나, 우리는 울타리의 구멍으로 뚫고 나갔다.
+
+[166]
+#Rice pudding is a sweet dish made by baking rice with milk and sugar.
+#라이스 푸딩은 쌀에 우유와 설탕을 넣어 구워 만든 단 음식이다.
+
+[167]
+#A noisy interruption from the back of the hall drew the speaker up sharp.
+#홀 뒤에서 누군가 큰소리로 끼어들어 강사가 갑자기 멈추었다.
+
+[168]
+#More than 1,000 persons had filled the hall and the latecomers spilled over into adjacent rooms.
+#홀에 1천여 명의 사람이 가득 차서, 후에 온 사람들은 옆방으로 밀어닥쳤다.
+
+[169]
+#As an undergraduate,I managed to get fairly high grades.I shall graduate at the top of my class.
+#대학시절에 나는 열심히 공부하여 성적이 우수하여, 졸업 때는 등수 안에 들 수 있을 것이다.
+
+[170]
+#In my four years of college life,I had several chances to present my art specialty aside from course works; .
+#대학 4년 동안 수업 외에도 적지 않은 과외 활동에 참가하였다.
+
+[171]
+#The workers had to lie off for a few days as the snow made building impossible.
+#대설로 인해 건설 작업을 진행할 수 없어, 근로자들은 하는 수 없이 잠시 며칠 쉬었다.
+
+[172]
+#The gangsters used threats of violence to force the Morrises to pay up.
+#갱들은 무력으로 모리스네에게 돈을 가져 오라고 협박하곤 했다.
+
+[173]
+#Lead the way with the police dog,he'll soon smell the fellow out.
+#경찰견을 데리고 가세요. 그 개는 바로 그 사람의 행적을 냄새 맡을 수 있어요.
+
+[174]
+#But Mr.Li has returned to his work after an absence of two weeks and is still unable to carry on his normal duties.
+#그러나 이선생님은 2주 쉰 후에도 여전히 정상적으로 일을 할 수 없었다.
+
+[175]
+#But you couldn't expect the capitalists to change over their machinery.
+#
+
+[176]
+#But you promised to help us,you rat!
+#하지만 너는 우리를 돕겠다고 응답했었는데, 너는 약속을 지키지 않는 놈이구나!
+
+[177]
+#But I am sorry the time had be right now.
+#하지만 일이 꼭 이런 때 발생하여 정말 유감이다.
+
+[178]
+#However,there are some stocks of "B" Brand of same quality and similar model ready for delivery.
+#그러나 우리는 비슷한 모델, 질이 같은 "B"표 재고품이 있어 물품을 인도할 수 있다.
+
+[179]
+#We appreciate your interest but we can no longer supply it as the production has been discontinued.
+#그러나 이 모양의 기기는 이미 재생산을 않으므로, 우리는 공급할 수 없게 되어 매우 죄송합니다.
+
+[180]
+#We regret to have heard nothing from you though nearly a month has passed.
+#그러나 지금까지 이미 거의 1개월이 되가는데 아직 당신측의 회답을 얻지 못해 심히 유감입니다.
+
+[181]
+#As the boat drew near the rock,I eased up and went slow and cautious.
+#배가 암석에 가까워졌을 때 나는 속도를 늦춰 느리고 조심스럽게 저었다.
+
+[182]
+#When the light turns green,I go across the road,through a gate and into a park.
+#등이 녹색으로 변할 때 나는 도로를 건너 대문을 통과해 공원에 들어갔다.
+
+[183]
+#When the curtain was rung down on the first performance ,the audience broke into enthusiastic applause.
+#첫번째 공연이 끝났을 때, 관중들은 열렬한 박수소리로 보답했다.
+
+[184]
+#You can feel the vibrations when a plane flies over our house.
+#비행기가 우리집 상공을 날아갈 때, 너는 집이 진동하는 것을 느낄 수 있다.
+
+[185]
+#The goods were in perfect condition when they left here,and the damage evidently occurred during transit.
+#화물이 여기를 떠날 때는 완전무결하였으므로, 파손은 분명 운반 도중에 발생하였다.
+
+[186]
+#I felt humiliated when the teacher told the whole class that my family was poor.
+#선생님이 반 전체 학생에게 우리집이 아주 가난하다고 말했을 때 나는 굴욕적이었다.
+
+[187]
+#Teachers don't earn very much money.Maybe I'll know what I want to do when I grow up.
+#선생님이 되면 돈을 많이 못 번다. 아마 내가 자란 후에 나는 내가 무엇을 하고 싶은지 알 수 있을 것이다.
+
+[188]
+#When Bill's name was called out another boy answered "Present!"
+#빌의 이름을 불렀을 때 다른 한 아이가 "예"하고 대답했다.
+
+[189]
+#When the unexpected guests came,we rose to the occasion by making a meal.
+#불청객이 왔었을 때, 우리는 음식을 준비해 이 상황을 대충 지나갔다.
+
+[190]
+#With cooling water flowing through the internal pipes,much of the heat in the condensing unit is carried away.
+#냉각수가 내부 관을 흘러 통과할 때 냉응기 중의 많은 열량이 빼앗긴다.
+
+[191]
+#After five years as a director,she won't take a back seat now.
+#5년 간의 ...를 맡은 후 그녀는 지금은 중요하지 않은 직위를 맡지 않을 것이다.
+
+[192]
+#When his turn came,he led back the trumps.
+#그가 패를 낼 차례가 되었을 때 그는 반혁명 단짝을 호응하여 비장의 카드를 내놓았다.
+
+[193]
+#When you are older you can watch whatever program you like.
+#네가 좀더 자랐을 때 너는 네가 좋아하는 무슨 프로그램이든 볼 수 있다.
+
+[194]
+#When the girl came to her senses ,she gazed round at the people beside her bed.
+#여자아이가 깨어났을 때, 그녀는 놀라서 침대 주위의 사람들을 둘러 보았다.
+
+[195]
+#Naturally all parts are replaceable,and our quotation includes prices of spare parts.
+#물론, 모든 부품을 모두 교체가 가능하며, 우리의 호가는 부품을 포함한 가격이다.
+
+[196]
+#Of course,I'd like very much to see you,and this seems a marvelous opportunity if you're going to be there.
+#몰론, 나는 너를 몹시 보고 싶은데, 네가 집에 있다면 너무 잘된 것이다.
+
+[197]
+#I may turn home to teach forts and then go back to the United States every summer for further studies.
+#물론 나도 먼저 귀국하여 가르친 후에 매년 여름에 미국에 가 연수할 것이다.
+
+[198]
+#I will,of course,be happy to assist with training my replacement in the time remaining.
+#물론 떠나기 전에 나는 내 대신 훈련을 받는 사람을 힘껏 도울 것이다.
+
+[199]
+#The crowd cheered the runners on as they started on the last lap of the race.
+#달리기 선수가 마지막 한 바퀴를 뛰기 시작했을 때, 관중들은 그들에게 환호로 용기를 주었다.
+
+[200]
+#When it comes to character depicting,his prose dips into the ordinary.
+#인물 묘사를 집필할 때, 그의 문장은 중용으로 흘렀다.
+
+[201]
+#He was being spat at and reviled by the people who had once supported him.
+#당시 그는 과거에 한번 그를 지지했던 그의 사람들의 멸시와 욕을 먹었다.
+
+[202]
+#At the time,we did not think the accident was serious enough to report.
+#당시에 우리는 이 사고가 결코 심각한 것이 아니라 여겨서 당신에게 보고하지 않았다.
+
+[203]
+#It was difficult to keep a straight face when he fell over the dog.
+#그가 개에 걸려서 넘어졌을 때 그들은 얼굴을 굳히고 웃지 않는 것이 어려웠다.
+
+[204]
+#His spirits sagged when he was told he had to start the work again.
+#그는 반드시 이 일을 다시 해야 한다고 말해지자 그는 의기소침해졌다.
+
+[205]
+#His expression was grim when he told them they had lost their jobs.
+#그가 그들에게 그들은 이미 해고되었다고 말할 때 그의 표정은 아주 차가웠다.
+
+[206]
+#When he began to recite the poem,we buttoned up and listened.
+#그가 이 시를 외우기 시작할 때 우리는 조용히 들었다.
+
+[207]
+#Everyone was silent as he announced the winner of the competition.
+#그가 경기의 승리자를 발표할 때 모두들 조용히 경청했다.
+
+[208]
+#When he was in Hangzhou,he visited places where he had played as a child.
+#그가 항주에 있을 때 그는 그 어린시절 놀던 곳을 방문했다.
+
+[209]
+#Everyone roared when she acted out the episode.
+#그가 그 일을 생생하게 묘사하였을 때, 모두들 한꺼번에 크게 웃기 시작했다.
+
+[210]
+#When I undertook to repair the machine,I didn't bargain for so much trouble.
+#내가 이 기계를 수리 받았을 때 나는 이렇게 많은 어려움이 있을 줄 예상 못했다.
+
+[211]
+#When I came in,about half-past nine,I heard she had returned.
+#내가 문에 들어섰을 때가 아마 9시였는데, 나는 그녀가 이미 돌아왔다고 들었다.
+
+[212]
+#When I came in,about half past nine,I heard she had returned.
+#내가 문에 들어섰을 때가 이미 9시였는데, 나는 그녀가 이미 돌아왔다고 들었다.
+
+[213]
+#The enemy agent just shriveled up when we searched him out.
+#우리가 그 스파이를 찾았을 때 그는 놀라서 한참 움츠러들었다.
+
+[214]
+#When we arrived,the auditorium was already filled and so we were crowded out.
+#우리가 도착할 때 강당은 이미 사람들이 가득 앉아 있어서 밖에 밀려났다.
+
+[215]
+#When we're all home for Thanksgiving vacation,we'll have to hold a real celebration.
+#우리가 모두 집에 돌아가 추수감사절을 지낼 때 반드시 진실로 축하할 것이다.
+
+[216]
+#We all hung back when we saw how old the car was.
+#우리는 그 차가 너무 낡은 것을 보았을 때 모두 주저하였다.
+
+[217]
+#When we called on him,he was standing at the window,gazing at the street.
+#우리가 그를 보았을 때 그는 마침 창문 앞에 서서 도로 위를 바라보고 있었다.
+
+[218]
+#It was getting along in the afternoon as we worked our way down the ridge.
+#우리가 오는 곳에 곤란을 제거하고 신마루를 내려왔을 때, 날은 이미 저물어가고 있었다.
+
+[219]
+#When I was Mr.Jones,he was talking with John Smith.
+#내가 존스씨를 보러 갔을 때, 그는 존 스미스와 얘기를 하고 있었다.
+
+[220]
+#He bristled up when I suggested that the job wasn't suitable for him.
+#내가 그에게 별로 적합하지 않은 그 일을 언급했을 때 그는 화를 냈다.
+
+[221]
+#When I asked her advice,she pondered the matter and then told me not to go.
+#내가 그녀에게 의견을 구했을 때, 그녀는 잠시 생각한 후에 나를 가지 못하게 했다.
+
+[222]
+#When I finally remembered to look at the pot,the water had all boiled away.
+#마침내 내가 냄비를 보러 가는 것을 생각했을 때, 물은 이미 끓어 없어졌다.
+
+[223]
+#The robbers were lying in wait for me as I came out of the bank.
+#내가 은행에서 나갈 때, 그 강도들이 마침 나를 습격하려 숨어 있었다.
+
+[224]
+#The girl was writing me a letter when I entered her room.
+#내가 그녀의 방에 들어갔을 때, 그 아가씨는 내게 편지를 쓰고 있었다.
+
+[225]
+#I caught the baby in the nick of time before he fell down the stairs.
+#어린아이가 계단에서 미끄러져 내려가려 할 때 내가 급히 다가가 그를 붙잡았다.
+
+[226]
+#The little girl colored up when she realized that we were watching her drawing.
+#어린 소녀는 우리가 그녀의 그림을 보고 있다는 것을 알고, 그녀는 얼굴이 붉어지기 시작했다.
+
+[227]
+#When young John was caught stealing he vowed he'd never do it again.
+#어린 존이 도둑질을 하다가 현장에서 들켰을 때, 그는 다시는 훔치지 않겠다고 맹세하였다.
+
+[228]
+#People on shore greeted the new 10,000 toner by waving their arms as she was getting up.
+#새로 건조한 만 톤짜리 배가 가까워졌을 때 기슭 위의 사람들은 손을 흔들며 환영했다.
+
+[229]
+#Some houses in the village were carried away when the swollen river suddenly changed its course.
+#무섭게 쏟아지는 강물이 갑자기 길을 바꾸었을 때, 마을 안에 어떤 집은 떠내려갔다.
+
+[230]
+#The crowd hissed at the speaker when he said taxes should be increased.
+#강사가 당연히 세금을 더 내야 한다고 말했을 때, 군중들은 그에게 쉿 소리를 냈다.
+
+[231]
+#An ugly scene developed in the crowd when a group of boys started fighting.
+#한 무리의 남자아이가 구타하기 시작했을 때, 사람들 무리에서 밉살스런 모습을 나타냈다.
+
+[232]
+#When Johnson found that his child had gone out without waiting for him he got into a blind fury.
+#존슨은 그의 아이가 그를 기다리지 않고 나간 것을 알았을 때 바로 크게 화를 냈다.
+
+[233]
+#Everyone got up and applauded when the combat heroes entered the conference hall.
+#전투의 영웅들이 회의장에 들어올 때, 모두들 일어나 박수를 쳤다.
+
+[234]
+#The windshield wipers swished back and forth monotonously.
+#바람막이 유리 위의 와이퍼가 단조롭게 왔다갔다하며 쏴쏴 소리를 낸다.
+
+[235]
+#The missile homed in on the hot exhaust of the jet plane,and destroyed it.
+#미사일이 제트기가 내뿜는 뜨거운 폐기를 추적해 그 비행기를 파괴시켰다.
+
+[236]
+#The director decided to sex up the movie with some battle scenes.
+#감독은 약간의 전투 장면을 넣어서 영화를 더 재미있게 하기로 결정했다.
+
+[237]
+#We'll be expecting you on the sixth so don't disappoint us!.
+#6일 그날에 당신이 오기를 기다릴 테니 절대로 우리를 실망시키지 마세요.
+
+[238]
+#By the next morning our dying seedlings were standing upright.
+#다음날 아침이 되어 우리는 다 죽어가는 묘목을 또 똑바로 세웠다.
+
+[239]
+#By the end of last month our factory had successfully carried out its production plan for this year.
+#지난달 말에 우리 공장은 이미 금년의 생산계획을 성공적으로 이룩했다.
+
+[240]
+#Come into my office and you will hear something to your interest.
+#내 사무실에 한번 와라. 그러면 너는 너에게 유용한 말을 들을 수 있을 것이다.
+
+[241]
+#As soon as the road became passable,the mountain folk at once lit out for town to get fresh supplies.
+#도로를 통과할 수 있게 되자마자 산촌 사람들은 황급히 시내에 가서 생활용품을 추가 구입했다.
+
+[242]
+#I am informed that you have an order for me and I shall have the pleasure of calling of same in the morning.
+#귀사에서 저희에게 구매를 하실 것을 알게 되어 제가 오전 중에 당신이 계신 곳을 방문하겠습니다.
+
+[243]
+#We should be gratified to find that you can force a market for it.
+#귀사가 이 상품의 판로를 찾을 수 있다는 것을 알게 되어 우리는 매우 기쁩니다.
+
+[244]
+#It did my heart good to hear about your promotion to Vice President of the agency.
+#당신이 중개 판매소 부총경리로 승진했다는 것을 알고, 나는 마음속으로 매우 기뻤습니다.
+
+[245]
+#I'm so excited about your winning $50 in the photography contest.
+#당신이 촬영 대회에서50달러의 상금을 받았다는 것을 알게 되어 매우 기쁩니다.
+
+[246]
+#I'm delighted to know you are coming to New York for the wedding.
+#당신이 뉴욕에 와 우리의 결혼식에 참석한다는 거을 알고 나는 무척 기뻤다.
+

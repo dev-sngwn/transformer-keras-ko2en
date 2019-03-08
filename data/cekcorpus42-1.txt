@@ -1,0 +1,1548 @@
+[1]
+#What is needed is some kind of “electron pump”.
+#필요한 것은 "전기 펌프"이다.
+
+[2]
+#So matters went from bad to worse with him.
+#그래서 그에게 있어 사태는 갈수록 심각해졌다.
+
+[3]
+#The glasses all had wet bottoms.
+#모든 유리컵의 밑부분이 젖었다.
+
+[4]
+#The vehicles were all loaded up.
+#모든 차량은 가득 가득 실었다.
+
+[5]
+#All the blinds were down.
+#모든 블라인드가 내려졌다.
+
+[6]
+#All the speeches were taken down in shorthand.
+#모든 보고는 속기로 기록되었다.
+
+[7]
+#All the newspapers say the same.
+#모든 신문이 실은 것은 모두 같았다.
+
+[8]
+#All the shirts hang together in the same wardrobe.
+#모든 셔츠는 하나의 옷장 안에 걸었다.
+
+[9]
+#All exits are barred.
+#모든 출구가 닫혔다.
+
+[10]
+#All the ships are still afloat.
+#모든 배는 해상에서 항해 중이다.
+
+[11]
+#Of all the animals man is the cleverest.
+#모든 동물 중에서 사람이 가장 똑똑하다.
+
+[12]
+#All children like toys.
+#모든 아동들은 장난감을 좋아한다.
+
+[13]
+#All the houses perished in flames.
+#모든 집은 화염에 싸여 무너졌다.
+
+[14]
+#All state- owned corporations deal fairly with their customers.
+#모든 국영기업은 고객에게 공정하게 판매한다.
+
+[15]
+#All the flowers are languishing from lack of water.
+#모든 꽃은 물이 부족하여 시들어 마르고 있다.
+
+[16]
+#All the vases are coated with dust.
+#모든 화병에 먼지가 한 겹 덮혀있다.
+
+[17]
+#All the signs are that business will get better.
+#모든 조짐은 사업이 호전될 것을 나타낸다.
+
+[18]
+#All the teachers participate in the children's games.
+#모든 교사는 아이들의 게임에 참가한다.
+
+[19]
+#All the doors and windows have been closed.
+#모든 문과 창은 닫혔다.
+
+[20]
+#All the broken windows have been repaired.
+#모든 깨진 창문은 이미 수리가 되었다.
+
+[21]
+#death comes to all.
+#모든 사람은 죽게 마련이다.
+
+[22]
+#Everyone will rally round and help.
+#모든 사람이 와서 도움을 줄 것이다.
+
+[23]
+#The equipment had disappeared,bag and baggage.
+#모든 설비가 전부 보이지 않았다.
+
+[24]
+#All the clergy have opposed the plan.
+#모든 성직자들은 그 계획을 반대하였다.
+
+[25]
+#All the fields were drowned by the floods.
+#모든 논밭이 홍수로 잠겼다.
+
+[26]
+#All eyes were bent on the fancy car.
+#모든 눈이 그 신기한 차를 주시하였다.
+
+[27]
+#All the speakers warmed.
+#모든 연설자는 점차 흥분하기 시작하였다.
+
+[28]
+#All spoils of war should be delivered up.
+#모든 전리품은 반드시 상납해야 한다.
+
+[29]
+#All the pictures have come out very well.
+#모든 사진은 전부 잘 찍혔다.
+
+[30]
+#All the woodpeckers have scansorial feet.
+#모든 딱따구리는 기어오르기에 알맞은 다리를 갖고 있다.
+
+[31]
+#All the rooms open onto a long hall.
+#모든 방은 긴 복도와 서로 통한다.
+
+[32]
+#All valuables should be kept in the safe.
+#모든 귀중품은 금고에 넣어 두어야 한다.
+
+[33]
+#All the membership was opposed to the plan.
+#모든 회원은 그 계획을 반대하였다.
+
+[34]
+#All approaches to the town were blocked.
+#모든 시내로 들어오는 도로는 봉쇄되었다.
+
+[35]
+#All of those people are friends of mine.
+#그 사람들 모두는 나의 친구이다.
+
+[36]
+#No crops survived the drought.
+#모든 농작물은 한발을 면한 것이 하나도 없다.
+ 
+[37]
+#Miss Wang sings best of all the girls.
+#모든 아가씨 중에서 미스 왕이 노래를 제일 잘한다.
+
+[38]
+#Anyone who collaborated was shot.
+#모든 매국하여 적과 통하는 사람은 총살되었다.
+
+[39]
+#Every body is acted upon by forces.
+#모든 물체는 힘의 작용을 받는다.
+
+[40]
+#Allsubstances have some ability to conduct electricity.
+#모든 물질은 어떤 전기가 통하는 능력이 있다.
+
+[41]
+#All the actors know the play backwards.
+#모든 연기자들은 이 연극에 대하여 익숙하였다.
+
+[42]
+#All bookings must be made by post.
+#모든 예약은 반드시 서신 형식으로 해야 한다.
+
+[43]
+#All the solutions are to be put up in capsules.
+#모든 이런 약액은 캡슐 안에 담을 것이다.
+
+[44]
+#Riddle solving is beloved of all Chinese.
+#모든 중국인은 초롱에 수수께끼의 문답을 써넣는 놀이를 좋아한다.
+
+[45]
+#He was weighted down with many cares.
+#그의 마음은 너무 고통스럽다.
+
+[46]
+#He has coveted after the chairmanship for years.
+#그는 의장직을 몇 년 동안 맡았다.
+
+[47]
+#He loved his dog next to his own sons.
+#그는 그의 개를 그의 아들 다음으로 좋아한다.
+
+[48]
+#He walked away from the accident completely unscathed.
+#그는 무사히 사고 현장에서 벗어났다.
+
+[49]
+#He settled down in his armchair to read a new novel.
+#그는 팔걸이 의자에 편히 앉아서 새 소설책을 읽는다.
+
+[50]
+#He ensconced himself in the armchair.
+#그는 편히 팔걸이가 있는 의자에 앉았다.
+
+[51]
+#He rationed out the water to the sailors.
+#그는 정량대로 선원들에게 물을 주었다.
+
+[52]
+#He gave several loud rings at the door.
+#그는 소리가 큰 벨을 몇 번 눌렀다.
+
+[53]
+#He rings the bell,but no one answer.
+#그가 벨을 눌렀으나, 문을 여는 사람이 없었다.
+
+[54]
+#He touched the bell and a servant appeared.
+#그가 벨을 한 번 누르자 하인이 나왔다.
+
+[55]
+#He's eighty,and is likely to live on.
+#그는 80세로 보기에 아직 더 살 것 같다.
+
+[56]
+#He died sineprole in his 80th year.
+#그는 80세에 아들이 없이 죽었다.
+
+[57]
+#He plumped the bundle down on the sofa.
+#그는 짐을 탁하고 소파 위에 내려놓았다.
+
+[58]
+#He got down the main points of the report.
+#그는 보고의 중요한 점을 기록하였다.
+
+[59]
+#He cut the cake up and gave each of us a piece.
+#그는 떡을 썰어서 우리들 모두에게 조금씩 나누어 주었다.
+
+[60]
+#He poised the glass on the edge of the shelf.
+#그는 유리컵을 흔들리지 않게 선반 모서리에 놓았다.
+
+[61]
+#He weeded out the books he no longer needed.
+#그는 더 필요하지 않은 책을 정리해서 버렸다.
+
+[62]
+#He pulled over to the curb.
+#그는 차를 도로 옆에 정차하였다.
+
+[63]
+#He shot his car into the parking space.
+#그는 차를 빠르게 주차장으로 운전하여 들어갔다.
+
+[64]
+#He drove right up to the front door.
+#그는 차를 줄곧 정문 앞 까지 운전하였다.
+
+[65]
+#He ascribes his success to skill and hard work.
+#그는 성공을 기술과 열심히 일한 것으로 돌렸다.
+
+[66]
+#He jobbed out the contract to a number of small outfits.
+#그는 하청 공사를 많은 작은 업체에 나누어 주었다.
+
+[67]
+#He brought up all that he had eaten.
+#그는 먹은 음식을 전부 토해냈다.
+
+[68]
+#He chucked up his breakfast.
+#그는 먹었던 아침을 전부 토해냈다.
+
+[69]
+#He ran the tape over and listened carefully.
+#그는 테이프를 한 번 돌리며 주의깊게 들었다.
+
+[70]
+#He charged off the mistake to inexperience.
+#그는 잘못을 경험 부족으로 돌렸다.
+
+[71]
+#He flipped a lighter onto the desk.
+#그는 라이타를 탁자 위로 던졌다.
+
+[72]
+#He embarked lots of money in the scheme.
+#그는 거액의 돈은 이 계획에 투자하였다.
+
+[73]
+#He spent much of his spare time roaming about the streets.
+#그는 대부분의 휴가를 거리를 쏘다니는데 썼다.
+
+[74]
+#He spends most of his time travelling.
+#그는 대부분의 시간을 여행하는 데 썼다.
+
+[75]
+#He emptied his bag on the tray.
+#그는 자루의 물건을 전부 쟁반 위에 쏟았다.
+
+[76]
+#He has frittered away every chance he ever got.
+#그는 손에 넣은 매번 기회를 모두 망쳤다.
+
+[77]
+#He spread the map out flat on the floor.
+#그는 지도를 평평한 마루 위에 펴놓았다.
+
+[78]
+#He turned up the volume on the television.
+#그는 텔레비전의 소리를 크게 올렸다.
+
+[79]
+#He swung the hammock between the trees.
+#그는 해먹을 두 나무 사이에 매달았다.
+
+[80]
+#He won the fight by a knockout.
+#그는 적수를 때려 넘어뜨리고 그 권투 경기에서 이겼다.
+
+[81]
+#He established his son inbusiness.
+#그는 아들을 사업 세계에 들여보냈다.
+
+[82]
+#He prolonged his visit by two weeks.
+#그는 방문을 2주 연장하였다.
+
+[83]
+#He makes a religion of keeping faith with his friends.
+#그는 친구와의 신의를 지키는 것을 신조로 삼는다.
+
+[84]
+#Her memory is enshrined in his heart.
+#그는 그녀에 대한 기억을 마음 속 깊이 간직하였다.
+
+[85]
+#He regards women as second-class citizens.
+#그는 여자를 이등 국민으로 간주한다.
+
+[86]
+#He handed round the letter he had just received.
+#그는 방금 받은 그 편지를 모두에게 돌려 읽게 하였다.
+
+[87]
+#He drove off his attackers.
+#그는 그를 공격하는 사람을 물리쳤다.
+ 
+[88]
+#He knocked the champion flat on the canvas.
+#그는 우승자를 권투 시합장의 마루 위에 때려 눕혔다.
+
+[89]
+#He collected the children from school.
+#그는 아이들을 학교에서 데려왔다.
+
+[90]
+#He commended his children to his brother's care.
+#그는 아이를 그의 형에게 돌보게 하였다.
+
+[91]
+#He carried the child bodily to bed.
+#그는 아이를 번쩍 들어 침대로 갔다.
+
+[92]
+#He told the good news to everybody.
+#그는 좋은 소식을 모두에게 전하였다.
+
+[93]
+#He brought round the conversation to table tennis.
+#그는 화제를 탁구 얘기하는 것으로 몰고 갔다.
+
+[94]
+#He fribbled away one opportunity after another.
+#그는 기회를 하나씩 하나씩 낭비하였다.
+
+[95]
+#He slouched his hat over his eyes.
+#그는 모자를 당겨서 눈을 가렸다.
+
+[96]
+#He is keeping on the house in his hometown.
+#그는 고향의 그 집을 가지고 있다.
+
+[97]
+#He put his false teeth securely in position.
+#그는 틀니를 있어야 할 위치에 단단히 놓았다.
+
+[98]
+#He recapitulated the main points of the speech.
+#그는 얘기의 중요한 요점을 다시 한 번 말하였다.
+
+[99]
+#He packaged up the old clothes and put them in the cupboard.
+#그는 오래된 옷을 한 보따리 싸서 옷장 안에 놓았다.
+ 
+[100]
+#He jotted down instances that he came across.
+#그는 보았던 보기를 기억하였다.
+
+[101]
+#He jingled the money in his pocket.
+#그는 호주머니 안의 돈을 짤랑짤랑 소리를 냈다.
+
+[102]
+#He ironed out the wrinkles in his trousers.
+#그는 바지의 주름을 다림질로 폈다.
+
+[103]
+#He translated both books in their entirety.
+#그는 책 두 권을 전부 번역하였다.
+
+[104]
+#He hooked two oxen up to the cart.
+#그는 두 마리의 소를 달구지에 맸다.
+
+[105]
+#He draped his legs over the arm of the chair.
+#그는 두 다리를 의자의 팔걸이 위에 올려 놓았다.
+
+[106]
+#His flu infected his wife.
+#그는 유행성감기를 부인에게 옮겼다.
+
+[107]
+#He drew up his horse and went into the tent.
+#그는 말을 멈춘 후에 텐트로 들어갔다.
+
+[108]
+#He hung up his horse and walked into the house.
+#그는 말을 기둥에 매어 놓고 집안으로 들어 갔다.
+
+[109]
+#He unwound the wool from the ball.
+#그는 털실을 털실 뭉치에서 꺼냈다
+
+[110]
+#He planted rose trees in the middle of the garden.
+#그는 장미꽃을 화원의 가운데에 심었다.
+
+[111]
+#He arched his eyebrows.
+#그는 눈썹을 위로 둥글게 구부렸다.
+
+[112]
+#He articulated each word carefully.
+#그는 단어 하나 하나를 똑똑하게 말했다.
+
+[113]
+#The gate scrooped as he swung it shut.
+#그는 문을 닫을 때 문이 삐걱거리며 소리가 났다.
+
+[114]
+#He kicked the door in and rushed into the house.
+#그가 문을 차서 열고 집안으로 밀고 들어 갔다.
+
+[115]
+#He betrayed the secret to his friends.
+#그는 비밀을 친구에게 누설하였다.
+
+[116]
+#He ran through his own name on the list.
+#그는 명단 위의 자신의 이름을 지웠다.
+
+[117]
+#He whittled the wood into a spoon.
+#그는 나무를 깍아서 수저를 만들었다.
+
+[118]
+#He sent the parcel by post.
+#그는 그 소포를 우편으로 보냈다.
+
+[119]
+#He halved the pear between the two children.
+#그는 그 배를 똑같이 나누어 두 아이에게 주었다.
+
+[120]
+#He lugged the subject into his speech.
+#그는 그 화제를 억지로 강연으로 끌고 갔다.
+
+[121]
+#He rescued the boy from drowning.
+#그는 거의 익사할 뻔한 남자 아이를 구해냈다.
+
+[122]
+#He went over the important article.
+#그는 그 중요한 문장을 다시 한 번 읽었다.
+
+[123]
+#His imitation of that singer is perfect.
+#그는 그 가수를 완전하게 흉내낼 수 있다.
+
+[124]
+#He stowed those papers away in the drawer.
+#그는 그 서류를 서랍에 거두어 넣었다.
+
+[125]
+#He distributed the plants into twenty-two classes.
+#그는 그 식물을 22강으로 분류하였다.
+
+[126]
+#He spilled beer all over my dress.
+#그는 맥주를 내 옷 전체에 뿌렸다. 
+
+[127]
+#He handed up the indictment to the supreme court.
+#그는 기소장을 최고법원에 보냈다.
+
+[128]
+#He did me a good turn when he sold me his car cheaply.
+#그는 차를 나에게 싸게 팔았다.
+
+[129]
+#He held the money back from his client.
+#그는 돈을 쥐고서 당사자에게 주지 않았다.
+
+[130]
+#He glanced down the list.
+#그는 명세서를 대충 한번 훑어 보았다.
+
+[131]
+#He kicked the ball into the stand.
+#그는 공을 스탠드로 차 올렸다.
+
+[132]
+#He had all his capital locked up in the business.
+#그는 자금 전부를 그 사업에 투자하였다.
+
+[133]
+#He thrust all the responsibility on me.
+#그는 책임 전부를 나에게 억지로 밀었다.
+
+[134]
+#He wove three plots into one novel.
+#그는 세가지 구성을 조직하여 하나의 소설로 만들었다.
+
+[135]
+#He lay huddled in a corner.
+#그는 몸을 구부려 구석에 누웠다.
+
+[136]
+#He knotted together the ends of the rope.
+#그는 끈의 양쪽 끝을 하나로 이었다.
+
+[137]
+#He imputed his failure to ill health.
+#그는 실패를 건강이 좋지 않지 때문으로 핑계를 댔다.
+
+[138]
+#He moved on the hands of the clock.
+#그는 시계의 바늘을 앞으로 돌렸다.
+
+[139]
+#He shared his food with the poor man.
+#그는 음식을 그 가난한 사람에게 나누어 주었다.
+
+[140]
+#He dived into his pocket and fished out a penny.
+#그는 손을 호주머니에 넣어서 1페니를 꺼냈다.
+
+[141]
+#He reached over the fence to pat the horse.
+#그는 손을 울타리로 뻗어 말을 두드렸다.
+
+[142]
+#He dived into his pocket for his key.
+#그는 호주머니에 손을 집어 넣어 열쇠를 찾았다.
+
+[143]
+#He reached into his pocket for his wallet.
+#그는 손을 호주머니에 넣어 지갑을 꺼냈다.
+
+[144]
+#He reached up but could not get it.
+#그는 손을 위로 뻗었으나, 그것을 손에 넣지 못하였다.
+
+[145]
+#He jabbed his stick into the ground.
+#그는 지팡이를 세게 땅을 찍었다.
+
+[146]
+#He slammed down the receiver and walked out.
+#그는 수화기를 탕하고 놓고 걸어 나갔다.
+
+[147]
+#He slammed his books on the desk.
+#그는 책을 책상에 털썩 내려 놓았다.
+
+[148]
+#He sat reclining his arms on the counter.
+#그는 두 팔을 카운터에 기대고 앉았다.
+
+[149]
+#He hitched up his trousers,which were rather loose.
+#그는 흘러내리는 바지를 위로 올렸다.
+
+[150]
+#He has disposed of all his books.
+#그는 책을 모두 팔아 버렸다.
+
+[151]
+#He plucked all the weeds up.
+#그는 잡초를 전부 뽑아 버렸다.
+
+[152]
+#He attributed his success to his wife.
+#그는 그의 성공을 그의 부인 덕분이라고 하였다.
+
+[153]
+#He roped up his trunks for additional sccurity.
+#그는 그의 트렁크를 끈으로 꼭 묶었다.
+
+[154]
+#He dedicated his first book to his mother.
+#그는 그의 첫번째 책을 그의 어머니에게 드렸다.
+
+[155]
+#He rented his house out to the Hudsons.
+#그는 그의 집을 허드슨 가족에게 세를 주었다.
+
+[156]
+#He had his moustache curled up.
+#그는 그의 수염을 말아 올렸다.
+
+[157]
+#He hitched his horse to a tree.
+#그는 그의 말을 나무에 메어 놓았다.
+
+[158]
+#He ascribed his failure to bad luck.
+#그는 그의 실패를 운이 안 좋은 탓으로 돌렸다.
+
+[159]
+#He placed his chair next to mine.
+#그는 그의 의자를 내 옆에 놓았다.
+ 
+[160]
+#He gave me his photograph as a remembrance of him.
+#그는 그의 사진을 기념하기 위하여 내게 보냈다.
+
+[161]
+#He chalked up their names on a blackboard.
+#그는 그들의 이름을 칠판 위에 기록하였다.
+
+[162]
+#He made a list of their names.
+#그는 그들의 이름을 명단 한 장으로 만들었다.
+
+[163]
+#He got them together to talk the matter over.
+#그는 그들을 소집하여 그 일에 대하여 토론하기 시작하였다.
+
+[164]
+#He told me about his name.
+#그는 그 이름을 내게 말하였다.
+
+[165]
+#He burnt out the clutch on his car.
+#그는 그 차의 클러치를 태워버렸다.
+
+[166]
+#He squandered his inheritance.
+#그는 그가 받은 유산을 흥청망청 다 써버렸다.
+
+[167]
+#He crammed all his clothes into the trunk.
+#그는 그의 옷 전부를 트렁크에 짚어 넣었다.
+
+[168]
+#He shunted the conversation to more interesting subjects.
+#그는 대화를 더욱 재미있는 화제로 돌렸다.
+
+[169]
+#He left dirtywork for me.
+#그는 싫은 일을 나에게 남겨 주었다.
+
+[170]
+#He jammed the receiver down on the cradle.
+#그는 수화기를 힘껏 전화기 위에 놓았다.
+
+[171]
+#He slicked up his hair.
+#그는 머리를 반질반질하게 했다.
+
+[172]
+#He ducked his head in the stream to get cool.
+#그는 머리를 시원하게 하려고 시냇물에 집어 넣었다.
+
+[173]
+#He brushed the coat over.
+#그는 외투를 위에서 아래로 한 번 쓸어 주었다.
+
+[174]
+#He turned up the collar of his coat.
+#그는 외투의 깃을 세웠다.
+
+[175]
+#He flattened out the bent plate.
+#그는 구부러진 금속판을 평평하게 만들었다.
+
+[176]
+#He buckled the harness down.
+#그는 마구를 가축의 몸에 달았다.
+
+[177]
+#He locked the papers in the briefcase.
+#그는 서류를 서류 가방에 넣었다.
+
+[178]
+#He mistook me for my brother.
+#그는 나를 내 형으로 잘못 알았다.
+
+[179]
+#He read my silence as consent.
+#그는 나의 침묵을 동의로 간주하였다.
+
+[180]
+#He's gone off with my car!
+#그는 내 차를 몰래 몰고 갔다.
+
+[181]
+#His been sitting on my letter for months.
+#그는 나의 편지를 수 개 월 동안 놓아 두었다.
+
+[182]
+#He includes me among his supporters.
+#그는 나를 그의 지지자 중의 하나로 놓았다.
+
+[183]
+#He has botched up our plans.
+#그는 우리들의 계획을 전부 망쳐 버렸다.
+
+[184]
+#He organized us into visiting many famous places .
+#그는 우리를 조직하여 명승지를 유람하러 갔다.
+
+[185]
+#He nudged me aside.
+#그는 나를 가볍게 한 쪽으로 밀었다.
+
+[186]
+#He noted down everything I said.
+#그는 내가 한 말을 모두 기록하였다.
+
+[187]
+#He pushed me and I fell into the water.
+#그는 나를 밀어 나를 물 속으로 미끄러뜨렸다.
+
+[188]
+#He drank off all my best wine.
+#그는 내가 제일 좋아하는 술을 전부 마셨다.
+
+[189]
+#He tuned his radio to the police frequency.
+#그는 라디오로 경찰측의 주파수를 맞췄다.
+
+[190]
+#He strung out the washing to dry.
+#그는 빤 옷을 널어 말렸다.
+
+[191]
+#He piled the boxes one on top of the other.
+#그는 상자를 하나씩 하나씩 쌓아 올렸다.
+
+[192]
+#He injected new ideas into the discussion.
+#그는 새로운 개념을 토론에 집어넣었다.
+
+[193]
+#He slipped a letter into her bag.
+#그는 편지를 몰래 그녀의 가방에 넣었다.
+
+[194]
+#He crumpled the letter up into a ball and threw it away .
+#그는 편지를 구겨서 뭉치로 버렸다.
+
+[195]
+#He folded up the letter and put it in his pocket.
+#그는 편지를 잘 접어서 호주머니 안에 넣었다.
+
+[196]
+#He wadded up the letter and tossed it in the wastebasket.
+#그는 편지지를 구겨 뭉치로 쓰레기통에 던져 넣었다.
+
+[197]
+#He tapped his ash into an ashtray.
+#그는 담뱃재를 재떨이에 털었다.
+
+[198]
+#He rammed an iron rod through .
+#그는 철봉으로 구멍을 뚫었다.
+
+[199]
+#He brought the box of groceries in from the car.
+#그는 식품 한 상자를 차에서 가지고 들어왔다.
+ 
+[200]
+#He slid a coin into her hand.
+#그는 동전 하나를 몰래 그녀의 손에 넣었다.
+
+[201]
+#He girded himself with a rope.
+#그는 끈을 허리에 묶었다.
+
+[202]
+#He dashed some paint on the canvas.
+#그는 안료 약간을 캔버스 위에 뿌렸다.
+
+[203]
+#He put the newspaper over his face.
+#그는 신문지 한 장으로 자신의 얼굴을 덮었다.
+
+[204]
+#He held out the garment for us to see.
+#그는 옷을 꺼내어 우리에게 보여주었다.
+
+[205]
+#He swiveled his chair round and looked at me.
+#그는 의자를 돌려서 나를 보았다.
+
+[206]
+#He edged his chair nearer to the fire.
+#그는 의자를 화로 더 가까이로 움직였다.
+ 
+[207]
+#He moved his chair nearer the fire.
+#그는 의자를 화로 더 가까이로 움직였다.
+
+[208]
+#He hitched his chair nearer the fire .
+#그는 의자를 화로 가까이로 움직여 조금 뎄다.
+
+[209]
+#He posted up his daybook before going out.
+#그는 영업 회계를 일기 장부에 옮긴 후에 비로소 갔다.
+
+[210]
+#He pointed out the interesting parts to us.
+#그는 재미있는 곳을 우리에게 가리켜 보여주었다.
+
+[211]
+#He subordinates work to pleasure.
+#그는 오락을 일 보다 우선하였다.
+
+[212]
+#He inserted the key in the lock and opened the door.
+#그는 열쇠를 자물통에 넣고 문을 열었다.
+
+[213]
+#He gave the days over to his successor.
+#그는 열쇠를 그의 후임자에게 넘겨 주었다.
+
+[214]
+#He glued his photograph into his passport.
+#그는 사진을 여권에 붙였다,
+
+[215]
+#He treated the idea as a joke.
+#그는 이 생각을 농담으로 취급했다.
+
+[216]
+#He made the rope fast to the metal ring.
+#그는 이 끈을 금속링 위에 꼭 맸다
+
+[217]
+#He told the news to everybody in the class.
+#그는 이 소식을 반 전체에 알렸다.
+
+[218]
+#He has matched the patterns up very well.
+#그는 이런 도안을 잘 배치하였다.
+
+[219]
+#He has hashed up the whole plan.
+#그는 계획 전부를 망쳤다.
+
+[220]
+#He balled up the whole program.
+#그는 계획 전부를 망쳤다.
+
+[221]
+#He badgered the witness out of his wits.
+#그는 증인을 어찌할 줄 모르게 못살게 굴었다.
+
+[222]
+#He put the clock back an hour.
+#그는 시계를 1시간 뒤로 돌렸다.
+ 
+[223]
+#He listed all the things he had to do.
+#그는 자신이 반드시 해야 할 일을 표로 만들었다.
+
+[224]
+#He has donated his library to our school.
+#그는 자신의 장서를 우리 학교에 기증하였다.
+
+[225]
+#He owed his success to his wife's encouragement.
+#그는 자신의 성공을 부인의 격려로 돌렸다.
+
+[226]
+#He carved his name on the tree.
+#그는 자신의 이름을 나무에 새겼다.
+
+[227]
+#He shone his leather shoes up till they gleamed.
+#그는 자신의 가죽을 닦아서 반짝반짝 빛나게 만들었다.
+
+[228]
+#He fiddled away his time and strength.
+#그는 자신의 시간과 정력을 낭비해 버렸다.
+
+[229]
+#He told her all his woes.
+#그는 자신의 힘들었던 일을 그녀에게 모두 말하였다.
+
+[230]
+#He has got his meaning across to the audience.
+#그는 자신의 의사를 청중에게 분명히 말하였다.
+
+[231]
+#He reported his accident to the police.
+#그는 자신의 사고를 경찰에 알렸다.
+
+[232]
+#He shut himself in his room to think.
+#그는 방에 갇혀서 생각을 하였다.
+
+[233]
+#He's muffled up in a heavy overcoat.
+#그는 두꺼운 외투로 몸을 감쌌다.
+
+[234]
+#He makes himself out to be very important.
+#그는 자신을 아주 중요하다고 말하였다.
+
+[235]
+#He has mapped out what he will do.
+#그는 자신이 해야 할 일을 모두 계획을 세웠다.
+
+[236]
+#He propped his bicycle up against the fence.
+#그는 자전거를 울타리에 가까이 놓았다.
+
+[237]
+#He got mud all over the seat.
+#그는 시트 위를 전부 진흙으로 만들었다.
+
+[238]
+#He struck a dagger into the man's heart.
+#그는 비수로 그 사람의 마음을 찔렀다.
+
+[239]
+#He poised himself to ward off the attack.
+#그는 공격을 막으려는 자세를 취하였다.
+
+[240]
+#He gave a strong performance in the role of Hamlet.
+#그는 햄릿 역을 맡아서 아주 감동적으로 연기하였다.
+ 
+[241]
+#He impersonates all the well-known politicians.
+#그는 모든 유명한 정치가를 연기했다.
+
+[242]
+#He tripped and fell,picked himself up and ran on.
+#그는 발이 걸려 넘어지고, 또 일어나 계속하여 앞으로 달렸다.
+
+[243]
+#He keeps his office neat and tidy.
+#그는 사무실의 정리와 청결을 유지한다.
+
+[244]
+#He guarded us from all harm.
+#그는 우리가 어떤 상해를 입지 않도록 보호해주었다.
+
+[245]
+#He undertook to do it by Monday.
+#그는 1주일 이전에 그것을 할 수 있다고 장담하였다.
+
+[246]
+#He complained that he couldn't find a job anywhere.
+#그는 어느 곳에서도 일을 찾을 수 없다고 불평하였다.
+
+[247]
+#He complains that his job gives him no satisfaction.
+#그는 그의 일이 그를 만족시킬 수 없다고 불평하였다.
+
+[248]
+#He complained that he had been hard done by.
+#그는 자기가 불공평한 대우를 받았다고 불평하였다.
+
+[249]
+#He report ed having seen the man at the meeting.
+#그는 회의에서 만났던 그 사람을 보고하였다.
+
+[250]
+#Skin from his back was grafted onto his face.
+#그는 등의 피부를 얼굴로 이식하였다.
+
+[251]
+#He got a bad bruise on the back.
+#그의 등은 심각한 타박상을 당하였다.
+
+[252]
+#He recited the poem to the class.
+#그는 그 시를 외워서 반 전체에 들려주었다.
+
+[253]
+#He was mowed down by the assassin at point-blank range.
+#그는 암살자의 근거리 발사에 맞아 죽었다.
+
+[254]
+#He was booted out without any reason by the white boss.
+#그는 백인 사장에게 아무런 이유도 없이 해고되었다.
+
+[255]
+#He cut his hand on a piece of glass.
+#그는 유리 파편에 손을 다쳤다.
+
+[256]
+#He has been transferred to another branch in Boston.
+#그는 보스톤의 다른 자회사로 발령났다.
+
+[257]
+#He was found guilty and committed to prison.
+#그는 유죄로 인정되어 감옥으로 보내졌다.
+
+[258]
+#The trouble weighed him down.
+#그는 고민으로 마음이 무거웠다.
+
+[259]
+#It was given to him to achieve it.
+#그는 그 일을 완성할 힘을 부여받았다.
+
+[260]
+#He was told to report to the police.
+#그는 경찰서에 보고하도록 고지되었다.
+
+[261]
+#He is voted a nuisance.
+#그는 귀찮은 사람으로 간주되었다.
+
+[262]
+#He is acknowledged to be the highest authority on the subject.
+#그는 이 학과의 최고의 권위자로 공인받았다.
+
+[263]
+#He was buried alive.
+#그는 생매장되었다.
+
+[264]
+#His nerves were frayed by the noise of traffic.
+#그의 신경은 교통소음으로 인하여 긴장되었다.
+
+[265]
+#He was called to the bedside of his sick father.
+#그는 병으로 누워 있는 아버지의 병상 옆으로 불려갔다.
+
+[266]
+#He was drawn into the vortex of politics .
+#그는 정치의 소용돌이 속으로 말려 들어갔다.
+
+[267]
+#He was trapped in a burning house.
+#그는 불 타고 있는 집안에 묶여 있었다.
+
+[268]
+#He is numbered among the best of modern writers.
+#그는 가장 우수한 현대 작가 중의 하나에 들어간다.
+
+[269]
+#His sooty hand smudged the paper.
+#그는 매연으로 그을려 더러워진 손으로 인해 종이가 더러워졌다.
+
+[270]
+#He was smitten with the charming girl.
+#그는 그 매혹적인 소녀에게 반했다.
+
+[271]
+#He was sent there to listen for the news.
+#그는 소식을 얻기 위하여 그 곳으로 파견되었다.
+ 
+[272]
+#He was sent to spy out enemy positions.
+#그는 적군의 진지를 정탐하기 위하여 그 곳으로 파견되었다.
+
+[273]
+#He is ribbed by his friends.
+#그는 친구들에게 한 번 놀림을 당하였다.
+
+[274]
+#He was mulcted of his life savings by a swindler.
+#그는 사기꾼에게 일생 동안의 저축을 사기 당하였다.
+
+[275]
+#He had been compelled to express a nonpossumus ..
+#그는 부득이 자신이 무능력함을 나타냈다.
+
+[276]
+#He was squashed by his wife.
+#그는 그 부인에게 끽 소리 못하였다.
+
+[277]
+#He was asked to smooth things over between them.
+#그는 그들에게 분규를 해결해주도록 청해졌다.
+ 
+[278]
+#He was disqualified from taking part in the competition.
+#그는 이 경기의 참가 자격을 박탈당하였다.
+
+[279]
+#He was dug out from under the avalanche.
+#그는 무너진 눈더미에서 사람에 의해 파내졌다.
+
+[280]
+#He resents being called a fool.
+#그는 사람에게 바보로 불리는 것을 느끼고 화가 났다.
+
+[281]
+#He was sent to prison on a trumped-up charge.
+#그는 사람에 의해 날조했다는 죄명으로 감옥에 갇혔다.
+
+[282]
+#He was constituted representative of the party.
+#그는 이 당의 대표로 임명되었다.
+
+[283]
+#He was named dean of the Medical School.
+#그는 의과대학 대표로 임명되어졌다.
+
+[284]
+#He is reputed the best dentist in the town.
+#그는 시내의 가장 좋은 치과로 여겨진다.
+
+[285]
+#He is accredited with the invention of the machine.
+#그는 이 기계를 발명한 사람으로 여겨졌다.
+
+[286]
+#After his release from prison he came home.
+#그는 감옥에서 석방된 후에 집으로 돌아갔다. 
+
+[287]
+#He was set up as our example. 
+#그는 우리의 모범으로 세워졌다.
+
+[288]
+#He was obsessed by fear of death.
+#그는 죽음의 공포에 괴롭힘을 당하였다.
+
+[289]
+#He was bound out to a carpenter.
+#그는 목수의 실습생으로 보내졌다.
+
+[290]
+#He was apprenticed to a printer.
+#그는 인쇄업자의 실습생으로 보내졌다.
+
+[291]
+#He cut his fingers on the broken glass.
+#그는 깨진 유리에 손가락을 다쳤다.
+
+[292]
+#He is slated for the office.
+#그는 이 직위의 후보로 거명되었다.
+
+[293]
+#He is slated to be the next chairman.
+#그는 다음 대 의장 후보로 거명되었다.
+
+[294]
+#He was exalted to the most eminent station.
+#그는 가장 현저한 지위에 올라가게 되었다.
+
+[295]
+#He was delegated to the convention.
+#그는 대표로 그 회의에 참가하도록 임명되어 파견되었다.
+
+[296]
+#He was restricted to five cigarettes a day.
+#그는 하루에 담배 5가치로 제한을 받았다.
+
+[297]
+#He was hissed out of the place.
+#그는 야유로 그 곳에서 쫓겨났다.
+
+[298]
+#He was read out of the association.
+#그는 이 협회에서 제명하는 것이 선포되었다.
+
+[299]
+#He was singled out for special training.
+#그는 전문 훈련을 받는데 선발되었다.
+
+[300]
+#He was elected to a new leading post.
+#그는 새 지도자의 위치로 선출되었다.
+
+[301]
+#He received an invitation to the dinner party.
+#그는 이 파티에 참가하도록 초청되었다.
+
+[302]
+#He was asked to go,but he didn't want to.
+#그는 가도록 요구받았으나, 그는 가고 싶지 않았다.
+
+[303]
+#He was surrounded by crowds of journalists.
+#그는 기자들 무리에 둘러싸였다.
+
+[304]
+#He was weighed down with a pile of parcels.
+#그는 소포 더미에 눌려서 허리를 곧게 펴지 못하였다.
+
+[305]
+#He was run over by a bus.
+#그는 버스에 치었다.
+
+[306]
+#He was carried along by the enthusiasm of his supporters.
+#그는 지지자들의 열정에 고무되었다.
+
+[307]
+#He has been designated as his father's successor.
+#그는 그의 아버지의 계승자로 지정될 것이다.
+
+[308]
+#He has been named as the probable successor.
+#그는 가능한 단임자로 지명될 것이다.
+
+[309]
+#He entangled himself in the ropes he was laying.
+#그는 자신이 꼰 끈에 의해 감겼다.
+
+[310]
+#He couldn't get his wind after his run.
+#그는 달리기를 한 후에 숨을 돌릴 수 없었다.
+
+[311]
+#himself unhappy,he understood the situation.
+#그는 불행한데, 그는 그런 상태를 이해했다.
+
+[312]
+#His stupidity was such as to fill us with despair.
+#그가 너무 바보 같아 나를 절망에 빠지게 하였다.
+
+[313]
+#He shot out some angry words.
+#그는 노기 띤 말을 몇 마디 뱉었다.
+
+[314]
+#He lived in the house all through his life.
+#그는 일생을 그 집에서 살았다.
+
+[315]
+#He shielded me from hostile criticism.
+#그는 내가 나쁜 적의의 비평을 받지 않도록 비호해주었다.
+
+[316]
+#He closed his eyes,and soon dropped off.
+#그는 눈을 감자 빠르게 잠이 들었다.
+
+[317]
+#He shut his eyes and tried to sleep.
+#그는 눈을 감고 잠을 자려고 하였다.
+
+[318]
+#He must fetch up the time he has lost.
+#그는 이미 잃어버린 시간을 보충해야 했다.
+
+[319]
+#He has to be dressed by a nurse.
+#그는 반드시 간호사가 그에게 옷을 입혀주어야 했다.
+
+[320]
+#The wound in his arm has begun to close up.
+#그의 팔의 상처는 이미 아물기 시작하였다.
+
+[321]
+#He shied from speaking in public.
+#그는 대중 앞에서 말하는 것을 피했다.
+
+[322]
+#He shunned meeting any of his friends.
+#그는 그의 어떤 친구와도 우연히 만나는 것을 피했다.
+
+[323]
+#He thumped the lectern as he spoke.
+#그는 말하면서 성서 낭독대를 두드렸다.
+
+[324]
+#He got involved with a motorcycle gang.
+#그는 폭주족에 휘말리게 되었다.
+
+[325]
+#He varied the transmission frequency.
+#그는 무선 전신 전송의 주파수를 바꾸었다.
+
+[326]
+#She cannot perceive the difference between red and green.
+#그는 붉은 색과 녹색을 구분할 수 없다.
+
+[327]
+#His apparent meekness deceives everyone.
+#그가 겉으로 유순한 것이 사람들을 속인다.
+
+[328]
+#His breast-beating emotionalism won little sympathy.
+#그는 침통해 하는 방법으로는 동정을 얻을 수 없었다.
+
+[329]
+#He showed a marked lack of intetrest.
+#그는 분명한 흥미 결핍을 나타냈다.
+
+[330]
+#He expressed great readiness to adopt the reform bill.
+#그녀는 그 개혁 방안을 채용하는 것은 간절히 원함을 표시하였다.
+
+[331]
+#He offered to swap his camera for hers.
+#그는 그녀와 카메라를 교환하기를 제의하였다.
+
+[332]
+#He offered to help me find it.
+#그는 나를 도와 그것을 찾기를 원한다고 표시하였다.
+
+[333]
+#He expresses sympathy for the working people.
+#그는 노동자에 대한 동정을 나타냈다.
+
+[334]
+#She was entranced to see him perform.
+#그가 연기할 때 그녀는 넋을 놓고 봤다. 
+
+[335]
+#His weakness after the illness is to be expected.
+#그가 병후에 신체가 허약하게 된다는 것은 예상할 수 있는 것이다.
+
+[336]
+#After his illness he was only a shadow of his former self.
+#그는 병이 난 후에 점점 말라갔다.
+
+[337]
+#He became ill and began to waste away.
+#그는 병이 난 후에 말라서 사람같지 않았다.
+
+[338]
+#He is dangerously ill.
+#그는 병이 깊다.
+
+[339]
+#He is recuperating from illness.
+#그는 병이 난 후에 점차 회복되어가고 있다.
+
+[340]
+#He didn't accept it because he disliked it.
+#그는 결코 싫어해서 받아들이지 않는 것은 아니다.
+
+[341]
+#He is not so black as he is painted.
+#그는 묘사되어진 것 만큼 그렇게 나쁘지 않다.
+
+[342]
+#He is not so poor that he cannot buy it.
+#그는 그것을 살 수 없을 정도로 가난한 것은 아니다.
+
+[343]
+#He wasn't drunk ,he was goofing off.
+#그는 술에 취한 것이 아니고 망연자실하였다.
+
+[344]
+#He didn't realize he was wrong.
+#그는 자기가 잘못한 것을 알지 못하였다.
+
+[345]
+#He is none the happier for his wealth.
+#그는 결코 부유하기 때문에 더욱 행복한 것은 아니다.
+
+[346]
+#He kept the news to himself.
+#그는 이 소식을 어느 누구에게도 알리지 않았다.
+
+[347]
+#It was disagreeable of him not to help us.
+#그는 우리를 도와주지 않았는데, 정말 우의가 없다.
+
+[348]
+#He denied that he had told anybody about it.
+#그는 이 일을 다른 사람에게 알린 것을 인정하지 않았다.
+
+[349]
+#Not only is he learned but also he has a good character.
+#그는 학식이 있을 뿐 아니라 품행도 좋았다.
+
+[350]
+#He had to dig the car out of the snow.
+#그는 자동차를 눈 안에서 파낼 수 밖에 없었다.
+
+[351]
+#He had to fight his way through the crowd.
+#그는 할 수 없이 죽을 힘을 다해 사람들을 떼밀쳤다.  
+
+[352]
+#He had to cough up all he knew.
+#그는 어쩔 수 없이 그가 아는 모든 것을 이야기하였다.
+
+[353]
+#He had to repair his car at his own expense.
+#그는 어쩔 수 없이 자신이 돈을 내서 차를 수리하였다.
+
+[354]
+#He was ignorant of the world.
+#그는 세상물정을 알지 못한다.
+
+[355]
+#He doesn't know the elements of mathematics.
+#그는 수학의 기본 원리를 이해하지 못한다.
+
+[356]
+#He neither gambled,drank,nor smoked.
+#그는 도박과 술을 하지 않으며, 담배도 안 피운다.
+
+[357]
+#He was gasping away,finding it very hard to breathe properly.
+#그는 계속 숨을 가쁘게 쉬며 정상적인 호흡을 할 수 없었다.
+
+[358]
+#He did it without difficulty.
+#그는 힘들이지 않고 그 일을 했다.
+
+[359]
+#You shouldn't rush at the job.
+#너는 그 일을 부리나케 해서는 안된다.
+
+[360]
+#He made after the enemy officer regardless of the danger to himself.
+#그는 자신의 안위를 생각지 않고 적의 군관을 추적하였다.
+
+[361]
+#He was inconsiderate of the effect of his words.
+#그는 그가 말한 결과를 돌아볼 수 없었다.
+
+[362]
+#Regardless of danger,he climbed the tower.
+#그는 위험을 돌보지 않고 탑에 올라갔다.
+
+[363]
+#Method comes out in everything he does.
+#그는 무슨 일을 하든지 조리정연하다.
+
+[364]
+#He does not overpress his viewpoint.
+#그는 그의 논점을 지나치게 고집하였다.
+
+[365]
+#He won't commit himself on women's rights.
+#그는 여권문제에 대하여 의견을 발표하지 않을 것이다.
+
+[366]
+#He won't allow them to put the question by.
+#그는 그들로 하여금 이 문제를 그냥 놔두게 하지 않을 것이다. 
+
+[367]
+#He will not hear of you making a trip to that place.
+#그는 네가 그 지방으로 가서 여행하는 것을 동의하지 않을 것이다.
+
+[368]
+#He won't relish having to walk all that distance.
+#그는 그렇게 긴 거리를 걷는 것을 좋아하지 않을 것이다.
+
+[369]
+#He would frown on such a proposal.
+#그는 이런 건의를 찬성하지 않을 것이다.
+
+[370]
+#He will not accept help nor yet advice.
+#그는 도움을 받지 않을 뿐 아니라 충고 조차도 듣지 않았다.
+
+[371]
+#He unwittingly entered the ladies' toilet.
+#그는 주의하지 않고 여자 화장실로 들어갔다.
+
+[372]
+#He soon repented of having said so.
+#그는 오래지 않아 이런 말을 한 것을 후회하였다.
+
+[373]
+#He soon sickened of his new house.
+#그는 오래지 않아 그의 새집에 대해 싫증을 냈다.
+
+[374]
+#He soon settled down in his new school.
+#그는 오래지 않아 새 학교의 생활에 습관이 되었다.
+
+[375]
+#He looked off his book.
+#그는 그의 책을 보지 않고 눈을 돌려 다른 것을 보았다.
+ 
+[376]
+#It is impossible for him to get off the contract.
+#그는 자신을 속박하는 계약을 해약하는 것은 불가능하다. 
+
+[377]
+#It is not likely that he should have written it.
+#그가 그것을 쓴다는 것은 불가능하다.
+
+[378]
+#It was unlikely that he would win the race.
+#그가 그 경기를 이기는 것은 불가능하다.
+ 
+[379]
+#He can't be ill or he wouldn't have come.
+#그가 병이 났을 리 없고, 그렇지 않으면 그는 오지 않았을 것이다.
+
+[380]
+#He wouldn't say rude things about her to her face.
+#그는 그녀의 앞에서 불손하게 말하려 하지 않았다.
+
+[381]
+#He won't reduce the rent of our house.
+#그는 우리의 방세를 낮추려 하지 않았다.
+
+[382]
+#It riles me when he won't stop whistling.
+#그는 휘파람 부는 것을 멈추려 하지 않아 나를 화나게 하였다.
+
+[383]
+#He ignored his father's injunction to be silent.
+#그는 그의 부모가 조용히 하라는 명령을 무시하였다.
+
+[384]
+#He ignored the sentry's challenge to halt.
+#그는 보초병이 정지하라고 소리쳐 캐어묻는 것에 아랑곳하지 않았다.
+
+[385]
+#He continued reading,ignoring the bell.
+#그는 종이 울리는 것에 상관하지 않고 계속 읽어 내려갔다.
+
+[386]
+#His rude remarks galled her.
+#그의 무례한 말은 그녀의 감정을 상하게 하였다.
+
+[387]
+#He doesn't understand the gravity of his illness.
+#그는 자신의 병세의 심각성을 알지 못한다.
+

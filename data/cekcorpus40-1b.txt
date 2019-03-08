@@ -1,0 +1,284 @@
+[1]
+#The cutting tool must be harder than the material to be cut.
+절삭 용구는 절삭해야 하는 재료보다 단단해야 한다.
+
+[2]
+#A thief stole the money from the safe.
+절도범은 안전 금고로부터 돈을 훔쳐 갔다.
+
+[3]
+#The thieves cleaned out the store.
+절도범들은 이 상점을 깡그리 갈취했다.
+
+[4]
+#The thief heard a noise and ran off.
+절도범은 소리를 듣자마자 도망갔다.
+
+[5]
+#The aggressor troops were then being pulled out of the area.
+침략군은 당시에 그 지역을 철수하고 있었다.
+
+[6]
+#The aggressor troops still hang on there.
+침략군은 여전히 거기에 머물러 떠나려고 하지 않는다.
+
+[7]
+#Hard work is a sure avenue to success.
+근면함은 믿을만한 성공의 길이다.
+
+[8]
+#Diligence is a sure warrant of success.
+근면은 성공의 확실한 보증이다.
+
+[9]
+#Industry sometimes compensates for lack of ability.
+근면은 때때로 능력의 부족함을 보충할 수 있다.
+
+[10]
+#The young worker made up rapidly to the docks.
+청년 노동자는 아주 빠르게 부두를 향해 걸어갔다.
+
+[11]
+#Young people usually have more energy than the old.
+청년들은 통상 노인들보다 정력이 더 충만하다.
+
+[12]
+#dally with a serious proposition
+경솔하게 이 엄중한 일을 처리하다
+
+[13]
+#Break the bad news gently.
+이 나쁜 소식을 가볍게 말하다
+
+[14]
+#tread lightly,or you will wake the baby.
+살살 걸어라, 그렇지 않으면 너는 아기를 깨울 것이다.
+
+[15]
+#A light touch is needed in playing quiet music.
+가볍고 부드러운 음악은 가볍게 연주해야 한다.
+
+[16]
+#The rain fell in torrents insomuch that we were drenched.
+억수 같은 비가 우리를 물에 빠진 새앙쥐로 만들었다.
+
+[17]
+#The rain teemed down for hours.
+억수 같은 비가 몇 시간 동안이나 내렸다.
+
+[18]
+#hear! Hhear!
+잘 들어라! 들어봐! 찬성! 좋아!
+
+[19]
+#The car windows were covered with frost in the early morning.
+새벽 자동차의 유리창에 성에가 잔뜩 끼었다.
+
+[20]
+#Whose job is it to clear snow from the road?
+노면에 쌓인 눈을 치우는 것은 누구의 일입니까?
+
+[21]
+#The Pilgrim Fathers settled Plymouth.
+청교도는 Plymouth 에 정착했다..
+
+[22]
+#Will the fine weather keep up?
+청명한 날씨가 지속될까요?
+
+[23]
+#The fine day added to our pleasure.
+청명한 날씨는 우리의 즐거움을 더했다.
+
+[24]
+#The glass is falling .
+청우계의 수은주가 내려가고 있다.
+
+[25]
+#Circumstances alter cases.
+상황이 달라지면, 사태도 달라질 것이다.
+
+[26]
+#Things came out as we had expected.
+상황은 과연 우리가 예상한 대로였다.
+
+[27]
+#Things were beginning to even out a little.
+상황이 다소 좀 정상으로 변하기 시작했다.
+
+[28]
+#Circumstances warrant such conduct.
+상황은 이 행동이 정당하지 않음을 증명한다.
+
+[29]
+#The situation favored our plan.
+정세는 우리의 계획에 있어서 유리하다.
+
+[30]
+#Things are trending toward socialism.
+정세는 점차 사회주의로 쏠리고 있다.
+
+[31]
+#Such being the case,I can't go.
+상황이 기왕 이렇게 된 이상, 나는 갈 수가 없다.
+
+[32]
+#Please send the goods by express,with insurance for full value.
+전액에 맞추어 보험을 가입하신 후에 신속히 운송하십시오.
+
+[33]
+#Please fit this ring to my finger.
+내 손가락의 크기에 맞추어 반지를 좀 조절하십시오.
+
+[34]
+#Put the encyclopedia back on the shelf.
+백과전서를 서가 위에 다시 놓으십시오.
+
+[35]
+#Ladle me up,please.
+요리나 탕을 나에게 퍼 주세요.
+
+[36]
+#Please close the windows; the room is too cold.
+창문을 닫아 주세요. 방이 너무 춥기 때문입니다.
+
+[37]
+#Put the coats back into the closet.
+외투를 벽장 안에 다시 놓으세요.
+
+[38]
+#Please stamp the code numbers on.
+코드를 치십시오.
+
+[39]
+#Please telegraph me the result.
+결과를 전보로 나에게 통지해 주십시오.
+
+[40]
+#Read over that list of names for me ,please.
+그 명단을 나에게 읽어주십시오.
+
+[41]
+#Please count the chairs in that room.
+그 방의 의자를 좀 세어 보세요.
+
+[42]
+#Please pick up those cups and saucers.
+그 컵과 접시들을 잘 정리하세요.
+
+[43]
+#Please rally the men on the playing field.
+그 사람들을 운동장에 소집하십시오.
+
+[44]
+#Push the plate over to me,please.
+그 대야를 내 쪽으로 밀어 주십시오.
+
+[45]
+#Give your seat up to the old lady.
+당신의 자리를 그 노부인에게 양보해 주십시오.
+
+[46]
+#Please set forward your watches (by) an hour.
+당신들의 시계를 한 시간 빨리 감으십시오.
+
+[47]
+#Please hand your homework in at once.
+당신들의 숙제를 즉시 내십시오.
+
+[48]
+#Please elucidate the reasons for your decision.
+당신이 결정한 이유를 명확하게 설명하십시오.
+
+[49]
+#Please put the chops down to me.
+갈비를 나의 장부에 기록해 주십시오.
+
+[50]
+#Please return to me the umbrella I lent you the other day.
+일전에 내가 당신에게 빌려준 우산을 나에게 돌려주십시오.
+
+[51]
+#Please turn the radio up.It's too low.
+라디오를 좀 크게 켜십시오. 소리가 너무 작습니다.
+
+[52]
+#Shine the torch up into the rafters,please.
+손전등을 위로 해서 서까래를 비추십시오.
+
+[53]
+#Please find her what she wants.
+그녀가 원하는 물건을 찾아서 그녀에게 주십시오.
+
+[54]
+#Please clear out the things in the cupboard.
+찬장 안의 물건을 가지고 가십시오.
+
+[55]
+#Scratch my name out please,I'll stay here.
+내 이름을 그어 주십시오. 나는 여기에 머무르겠습니다.
+
+[56]
+#Please count me in on this project.
+나도 이 계획의 참가자로 넣어주십시오.
+
+[57]
+#Please do up the fasteners on the back of my dress.
+내 옷 뒤의 똑딱단추를 눌러주십시오.
+
+[58]
+#Please charge these goods up to our account.
+이 물건 대금을 우리들의 장부에 기재해 주십시오.
+
+[59]
+#Please brush this section of the wall over.
+이 벽을 좀 칠해 주십시오.
+
+[60]
+#Please have these shirts got up well.
+이 셔츠들을 풀 빨래를 해서 잘 다려 주십시오.
+
+[61]
+#Please pour this milk into that glass.
+이 우유를 그 유리컵에 쏟아 부으세요.
+
+[62]
+#Please bring up this point at the next meeting.
+이 점을 다음 회의에서 제기하십시오.
+
+[63]
+#Please send the note on to Comrade Zhang.
+이 쪽지를 장 선생에게 전해주십시오.
+
+[64]
+#Please read this notice and hand it on.
+이 통지를 한번 보시고, 회람해 주십시오.
+
+[65]
+#Keep your mind on your work.
+주의력을 당신의 일에 집중하십시오.
+
+[66]
+#Please check over your work and correct any mistakes.
+일을 한 번 검사해서 잘못을 수정해 주십시오.
+
+[67]
+#Please help me; I can't do it alone.
+도와주세요. 나 혼자서는 할 수 없습니다.
+
+[68]
+#Help me dish up the dinner.
+내가 음식을 접시에 나누어 담는 것을 도와 주세요.
+
+[69]
+#Will you please help me on with my overcoat?
+내가 외투를 잘 입도록 도와주시겠어요?
+
+[70]
+#Please help me do up the room,
+내가 방을 좀 치우는 것을 도와주세요.
+
+[71]
+#Please help me out with this problem.
+내가 이 문제를 좀 해결하는 것을 도와주세요.
+

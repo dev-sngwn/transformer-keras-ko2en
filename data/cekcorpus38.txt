@@ -1,0 +1,3993 @@
+[1]
+#The train was standing at platform 2.
+#그 기차는 두 번째 플랫폼에 멈추었다.
+
+[2]
+#The train arrived after a delay of two hours.
+#그 기차는 2시간 연착하여 도착했다.
+
+[3]
+#The train leaves at three something.
+#그 기차는 3시 정도에 떠난다.
+
+[4]
+#The paper is about human finitude.
+#그 보고는 인류의 유한성에 관한 것이다.
+
+[5]
+#The criminal was convicted of murder.
+#그 피고는 살인죄를 범했다는 판결을 받았다.
+
+[6]
+#It was set down as an impossibility.
+#그렇게 간주되는 것은 불가능한 일이다.
+
+[7]
+#The book has somehow disappeared.
+#그 책이 어째서 보이지 않는지를 모르겠다.
+
+[8]
+#The book's index card was misfiled.
+#그 책의 색인 카드가 잘못 장정되었다.
+
+[9]
+#The book is pleasant to read.
+#이 책은 읽으면 사람을 유쾌하게 한다.
+
+[10]
+#The book hit the bestseller list.
+#이 책은 베스트셀러 목록에 열거되어 있다.
+
+[11]
+#The book hit the floor with a loud smack.
+#책이 탁하는 소리를 내며 바닥에 떨어졌다.
+
+[12]
+#The book is nowhere to be had.
+#그 책은 어디에서도 살 수가 없다.
+
+[13]
+#That book is pure corn.
+#그 책은 사실 어떤 가치가 없다.
+
+[14]
+#That book deals with life in the United States.
+#그 책은 미국의 생활을 다룬 것이다.
+
+[15]
+#That book is good although faulted.
+#그 책은 비록 결점이 있긴 하지만, 좋은 책이라고 간주할 수 있다.
+
+[16]
+#The book reached a wide audience abroad.
+#그 책은 해외에서 광대한 독자를 보유하고 있다.
+
+[17]
+#The book has no rival in its field.
+#그 책은 같은 류의 책 중에서 군계일학이다.
+
+[18]
+#The novel unrolls the history of a certain woman.
+#그 소설은 어느 여인의 과거를 폭로했다.
+
+[19]
+#The novel predisposed him to become a novelist.
+#그 소설은 그로 하여금 소설가가 되도록 한 의미가 있다.
+
+[20]
+#The magazine was the marketplace of literary theory.
+#그 잡지는 문학 이론의 격전 논단이다.
+
+[21]
+#The property fell into his hands.
+#그 재산이 그의 수중에 떨어졌다.
+
+[22]
+#The sale brought us in over ↔200.
+#그 장사로 우리는 200파운드가 넘는 돈을 벌었다.
+
+[23]
+#A large part of the money was wasted.
+#그 돈의 대부분이 모두 낭비되어 버렸다.
+
+[24]
+#That's a bit too much to pay.
+#그 돈은 약간은 지불하지 못했다.
+
+[25]
+#The money passed into the hands of his wife.
+#그 돈은 그의 아내의 손에 들어왔다.
+
+[26]
+#The debt weighs heavy on his conscience.
+#그 채무가 그의 양심상의 무거운 짐이 되었다.
+
+[27]
+#That item of expenditure belongs under the head of office expenses.
+#그 지출은 마땅히 판공비 항목에 속해야 한다.
+
+[28]
+#It would involve living apart from my family.
+#그 필연은 나와 가족과의 분가를 초래할 것이다.
+
+[29]
+#The ground over there is soft and givey.
+#그쪽의 토양은 부드러워서 쉽게 함몰한다.
+
+[30]
+#Who is that over there?
+#거기의 그 사람은 누구입니까?
+
+[31]
+#The patient attempted to rise but fell back.
+#그 환자는 몸을 일으키려고 해보았으나 쓰러졌다.
+
+[32]
+#That did not detract from their reputation.
+#그것은 결코 그들의 명예를 얕잡아 보는 것이 아니다.
+
+[33]
+#It was no other than the king.
+#그것은 다른 사람이 아니라 바로 국왕 자신이다.
+
+[34]
+#It wasn't a recorded show; it was live.
+#그것은 녹화 프로그램이 아니라 생방송이다.
+
+[35]
+#That is not the point in question.
+#그것은 지금 고려해야 할 요점이 아니다.
+
+[36]
+#That wasn't much; I could eat as much again.
+#그것은 많은 셈이 아니다. 나는 아직도 이렇게 많은 것을 더 먹을 수 있다.
+
+[37]
+#It's not enough of a challenge.
+#그것은 그렇게 어렵고 방대한 일이라고 할 수 없다.
+
+[38]
+#That does not signify.
+#그것은 중요하지 않다; 그것은 아무 관계 없다.
+
+[39]
+#The movie is playing at several theaters.
+#그 영화는 몇 곳의 영화관에서 한창 상영중이다.
+
+[40]
+#The car's sturdy appearance lied.
+#그 차의 견고한 외양은 단지 빛좋은 개살구일 뿐이다.
+
+[41]
+#The car right-angled sharply south.
+#그 차는 남쪽을 향해 직각으로 돌았다.
+
+[42]
+#The car turned right over on its roof.
+#그 차는 완전히 뒤집혀서 네 바퀴가 하늘을 향했다.
+
+[43]
+#The car swept round the corner.
+#그 차는 급하게 길모퉁이를 돌았다.
+
+[44]
+#The car splashed me with mud.
+#그 차가 나의 몸에 진흙을 튀겼다.
+
+[45]
+#The start of the film was dull.
+#그 영화의 처음 부분은 아주 따분하다.
+
+[46]
+#The machine crushes the oil out of rape seeds.
+#그 기계는 유채씨로부터 기름을 짜냈다.
+
+[47]
+#The machine is driven by electricity .
+#그 기계는 전력을 이용해서 움직이는 것이다.
+
+[48]
+#The taxicab swung out into traffic.
+#그 택시는 방향을 바꾸어서 차들의 흐름 속으로 들어갔다.
+
+[49]
+#That old film evoked memories of my childhood.
+#그 옛날 영화는 나의 어린시절에 대한 추억을 불러일으켰다.
+
+[50]
+#The old film was revived.
+#그 옛날 영화는 재차 상영되었다.
+
+[51]
+#The back of the car was crumpled.
+#그 차의 뒷부분이 부딪쳐서 부서졌다.
+
+[52]
+#The car skidded over the cliff.
+#그 차는 옆으로 미끄러져서 절벽아래로 추락했다.
+
+[53]
+#The plot of the novel is quite complex.
+#그 소설의 줄거리는 상당히 복잡하다.
+
+[54]
+#That novel appeared to have been huddled together.
+#그 소설은 아주 급하게 끌어 모아 만들어진 것처럼 보인다.
+
+[55]
+#The story is written around her life.
+#그 소설은 그녀의 일생에 근거해서 쓰여진 것이다.
+
+[56]
+#I've seen that film umpteen times.
+#그 영화를 나는 이미 여러 차례 보았다.
+
+[57]
+#That film is really packing them in.
+#그 영화는 많은 관중을 끌고 있다.
+
+[58]
+#The movie caused a sensation.
+#그 영화는 일대 센세이션을 불러일으켰다.
+
+[59]
+#There's a good boy .
+#착한 아이구나.
+
+[60]
+#That was a close finish!
+#그 경기가 끝날 때는 성적이 매우 비슷했다.
+
+[61]
+#The fire went on for some time before it was brought under control.
+#그 큰불은 아주 오랫동안 타다가 비로소 진압되었다.
+
+[62]
+#The scene is laid in London in the nineteenth century.
+#그 장면은 19세기의 런던을 배경으로 한다.
+
+[63]
+#That fever nearly finished him off.
+#그 열병이 거의 그의 목숨을 끊었다.
+
+[64]
+#The vote split the Labour Party.
+#그 선거가 노동당을 분열시켰다.
+
+[65]
+#I had a hard time sitting through the concert.
+#그 음악회는 듣기에 아주 곤혹스러웠다.
+
+[66]
+#The catastrophe bulked large.
+#그 재앙은 매우 심각하게 보였다.
+
+[67]
+#How did the war start?.
+#그 전쟁은 어떻게 발생한 것입니까?
+
+[68]
+#The football game ended in a tie.
+#그 축구경기는 무승부로 끝났다.
+
+[69]
+#The castle towers over the city.
+#그 성루는 도시 위에 높게 솟아 있다.
+
+[70]
+#The play was miscast.
+#이 연극은 배역이 잘못 됐다.
+
+[71]
+#The play continued an enormous success.
+#이 연극은 매우 인기를 끌며 계속 공연되었다.
+
+[72]
+#The play climaxed gradually.
+#그 연극은 서서히 고조에 달했다.
+
+[73]
+#The play had a good press.
+#그 연극은 언론의 호평을 받았다.
+
+[74]
+#The play is touring the provinces.
+#그 연극은 각 지방에서 순회공연을 하고 있다.
+
+[75]
+#The play was only a partial success.
+#그 연극은 단지 부분적인 성공을 얻었다.
+
+[76]
+#The curtain doesn't sit well with the room.
+#그 커튼은 방과 어울리지 않는다.
+
+[77]
+#The house is hidden from sight by a row of trees.
+#그 집은 늘어선 나무에 의해 가려졌다.
+
+[78]
+#That house is too small for us.
+#그 집은 우리들이 살기에 너무 작다.
+
+[79]
+#The yellow building offends the eye.
+#그 황색 건축물이 매우 눈에 거슬린다.
+
+[80]
+#That old building is coming down next year.
+#그 오래된 빌딩은 내년에 철거할 것이다.
+
+[81]
+#The roof of the old house caved in.
+#그 오래된 집의 지붕이 무너져 내렸다.
+
+[82]
+#He went off driving altogether after his accident.
+#그 차사고가 있은 후로 그는 다시는 운전이 하고 싶지 않았다.
+
+[83]
+#The success reassured him.
+#그 성공이 그로 하여금 자신감을 회복하게 했다.
+
+[84]
+#The scandal set tongues wagging.
+#그 추문은 사람들의 의논을 분분하게 했다.
+
+[85]
+#The shock confounded her.
+#그 충격은 그녀를 놀라 허둥대게 했다.
+
+[86]
+#The panic pulled stock prices down.
+#그 대공황은 증권 가격을 떨어뜨렸다.
+
+[87]
+#The earthquake was a real surprise to me.
+#그 지진이 나를 매우 놀라게 했다.
+
+[88]
+#The visit was spoilt by an argument.
+#그 방문은 한차례의 쟁론으로 망쳐졌다.
+
+[89]
+#The meeting was presided over by a minister.
+#그 회의는 한 분의 부장에 의해 주관되었다.
+
+[90]
+#The fire devoured two hundred houses.
+#그 화재는 200가구의 집을 태워버렸다.
+
+[91]
+#Did everyone show up for the party?
+#그 모임에 모든 사람들이 다 갔습니까?
+
+[92]
+#I enjoyed the party a great deal.
+#그 파티에서 나는 아주 유쾌하게 놀았다.
+
+[93]
+#The party was given at my suggestion.
+#그 파티는 나의 제의로 열린 것이다.
+
+[94]
+#We had a good time at the party.
+#그 파티에서 우리는 아주 즐겁게 보냈다.
+
+[95]
+#The examination put a lot of stress on him .
+#그 시험은 그에게 아주 큰 압력을 주었다.
+
+[96]
+#The judgment set a new precedent.
+#그 판결로 새로운 판례가 수립되었다.
+
+[97]
+#The victory was cheaply bought.
+#그 승리는 쉽게 얻은 것이다.
+
+[98]
+#The victory was dearly bought.
+#그 승리는 아주 많은 대가와 바꿔온 것이다.
+
+[99]
+#The victory was celebrated in many poems.
+#그 승리는 많은 시 중에서 찬송을 받았다.
+
+[100]
+#The failure transformed the young man's character.
+#그 실패가 이 젊은이의 성격을 바꾸었다.
+
+[101]
+#The accident bereaved her of her son and husband.
+#그 사고가 그녀의 아들과 남편을 빼앗아갔다.
+
+[102]
+#Her hair is growing in again after the accident.
+#그 사고 후에 그녀는 머리가 다시 자랐다.
+
+[103]
+#After the accident John was dazed.
+#그 사고 후에 John은 아찔하게 느껴졌다.
+
+[104]
+#The accident has taught him to be careful.
+#그 사고는 그로 하여금 조심해야 한다는 것을 알게 했다.
+
+[105]
+#She was free from all blame for the accident.
+#그 사고는 정말 그녀를 탓할 수 없다.
+
+[106]
+#Several lives were lost in the accident.
+#그 사고중에 꽤 여러 사람이 목숨을 잃었다.
+
+[107]
+#The injury crippled him for life.
+#그때의 상처로 그는 평생 불구가 되었다.
+
+[108]
+#The plague claimed thousands of lives.
+#그 전염병은 수천 명의 생명을 빼앗아갔다.
+
+[109]
+#The party was a disaster.
+#그때의 파티는 대실패였다.
+
+[110]
+#The accident was owing to careless driving.
+#그 의외의 사고는 운전 소홀로 인한 것이다.
+
+[111]
+#The accident soured me on driving.
+#그 뜻밖의 사고는 나로 하여금 운전하는 것을 싫어하도록 변화시켰다.
+
+[112]
+#The accident wrecked our plan.
+#그 뜻밖의 사고는 우리들의 계획이 실패하게 했다.
+
+[113]
+#The war widowed many women.
+#그 전쟁은 많은 부녀자들을 과부로 만들었다.
+
+[114]
+#There was not much land to cultivate in the village.
+#그 마을은 경작할만한 토지가 얼마 없다.
+
+[115]
+#The village reposed in the dusk.
+#그 마을은 황혼중에 고요하다.
+
+[116]
+#The typist miscopied the letter.
+#그 타자수는 이 편지를 잘못 쳤다.
+
+[117]
+#The hall within was lightful and airy.
+#그 홀 내부는 광선이 충분하고 공기가 잘 통한다.
+
+[118]
+#There was a taste of almond in the cake.
+#그 케이크는 살구씨 맛이 조금 난다.
+
+[119]
+#The old wall is crumbling away at the edges.
+#그 옛 담의 모서리가 서서히 붕괴되고 있다.
+
+[120]
+#The door admitted to a bystreet.
+#그 문은 뒷골목으로 통한다.
+
+[121]
+#The walls showed white in the moonlight.
+#그 벽은 달빛 아래에서 흰색으로 보여진다.
+
+[122]
+#The place is six miles distant from the sea.
+#그곳은 바다에서 6마일 떨어진 거리이다.
+
+[123]
+#The fort commands the entrance to the harbor.
+#그 보루는 항만의 입구를 통제한다.
+
+[124]
+#That's the limit.
+#그것은 사람으로 하여금 참을 수 없게 한다.
+
+[125]
+#Is it firmly fastened on to the saddle?
+#그 물건을 말 안장에 든든하게 묶었습니까?
+
+[126]
+#The animal began to sicken and soon died.
+#그 동물은 앓기 시작하고 머지않아 곧 죽었다.
+
+[127]
+#That wall blocks out all the light.
+#그 울타리가 빛을 모두 막았다.
+
+[128]
+#It was a great hurt to his pride.
+#그것은 그의 자존심에 큰 손상이다.
+
+[129]
+#That's of no interest to me.
+#나로 말하자면 그것에 관심이 없다.
+
+[130]
+#That's a very easy matter for me.
+#그것은 나로 말하자면 아주 쉬운 일이다.
+
+[131]
+#It's O.K.with me.
+#그것은 나로 말하자면 문제될 것이 없다.
+
+[132]
+#The meal sustained us through the day.
+#그 식사는 우리들로 하여금 하루를 견디게 했다.
+
+[133]
+#They overcharged me 10 dollars for the meal.
+#그 식사로 그들은 나에게 10달러를 더 받아냈다.
+
+[134]
+#Things were beginning to hot up again there.
+#그곳의 정세는 다시 긴장되기 시작했다.
+
+[135]
+#The room is almost bare of furniture.
+#그 방에는 가구가 거의 없다.
+
+[136]
+#The room was depressing from its slatternliness.
+#그 방의 불결함이 사람을 실망시켰다.
+
+[137]
+#The room was saturated with the aroma of coffee.
+#그 방은 커피 향으로 가득 차있다.
+
+[138]
+#The room boasted only a broken chair.
+#그 방에는 단지 부서진 의자 하나가 있을 뿐이다.
+
+[139]
+#The house may be rated at..100,000.
+#그 집은 10만 달러 정도의 가격이 매겨질 수 있을 것이다.
+
+[140]
+#The house appeared deserted.
+#그 집은 사는 사람이 없는 듯하다.
+
+[141]
+#The report is about equipotential surface.
+#그 보고는 등위면에 관한 것이다.
+
+[142]
+#The report is full of glaring errors.
+#그 보고는 눈에 보이는 실수로 가득하다.
+
+[143]
+#That magazine is a worthless rag.
+#그 잡지는 가치가 없는 한 무더기의 폐지이다.
+
+[144]
+#The twins are like as two peas .
+#그 쌍둥이는 똑같이 생겼다.
+
+[145]
+#It is difficult for the uninitiated.
+#그것은 무경험자로 말하자면 매우 어려운 것이다.
+
+[146]
+#The letter determined him against seeing her again.
+#그 편지는 그로 하여금 다시는 그녀를 만나지 않겠다고 결심하게 했다.
+
+[147]
+#The letter inclined her to set off at once.
+#그 편지가 그녀로 하여금 즉시 출발하고 싶게 했다.
+
+[148]
+#The letter was sent away in the evening mail.
+#그 편지는 야간 우편으로 보내온 것이다.
+
+[149]
+#The scenery beggars description.
+#그 풍경의 아름다움은 필묵으로는 형용하기 어렵다.
+
+[150]
+#The kite circled round and round.
+#그 연이 공중에서 계속 돌고 있다.
+
+[151]
+#That picture's not hanging straight; it's cockeyed.
+#그 그림이 반듯하게 걸리지 않고, 비스듬하게 걸렸다.
+
+[152]
+#The picture has been restored to its original condition.
+#그 그림은 이미 원래 상태로 수리하여 복원되었다.
+
+[153]
+#The woman can outswear her husband.
+#그 부인은 그녀의 남편보다 더 욕을 잘한다.
+
+[154]
+#Those aren't you pens,are they?
+#그 만년필은 너의 것이 아니다, 그렇지?
+
+[155]
+#The harbor has been sanded up by the tides.
+#그 항구는 조수로 충적된 진흙과 모래로 인해 막혔다.
+
+[156]
+#The high wall mocked his hopes of escaping.
+#그 높은 담이 그로 하여금 도망가려던 희망을 좌절시켰다.
+
+[157]
+#The singer was applauded by the audience.
+#그 가수는 청중들의 박수 갈채를 받았다.
+
+[158]
+#The patient was poised between life and death.
+#그 환자는 삶과 죽음 사이를 왔다갔다하고 있다.
+
+[159]
+#The patient is in danger of death.
+#그 환자는 죽음의 위험에 처해 있다.
+
+[160]
+#The dishonest minister was publicly disgraced.
+#그 성실하지 못한 대신은 공개적으로 파면되었다.
+
+[161]
+#The city lights were winking in the distance.
+#그 도시의 불빛이 먼 곳에서 가물거리고 있다.
+
+[162]
+#The population of the city is close to a million.
+#그 도시의 인구는 백만에 가깝다.
+
+[163]
+#The depth of the pond was about five feet.
+#그 연못의 깊이는 대략 5피트이다.
+
+[164]
+#That word ends with "f".
+#그 단어는 "f"로 끝나는 것이다.
+
+[165]
+#That clever student should be moved up to a higher class.
+#그 총명한 학생은 마땅히 한 등급 올라가야 한다.
+
+[166]
+#That village is 15 miles south of London.
+#그 마을은 런던의 남쪽으로 15마일 되는 곳에 위치해 있다.
+
+[167]
+#The village is 15 miles north of the town.
+#그 마을은 진북쪽에서 15마일 되는 곳에 있다.
+
+[168]
+#That mistake was very careless.
+#그 실수는 정말 너무 부주의했다.
+
+[169]
+#The answer was at first unapparent.
+#그 답안은 처음에는 매우 명백하지 않았다.
+
+[170]
+#That golfer got out of practice.
+#그 골프를 치는 사람은 실력이 떨어졌다.
+
+[171]
+#The hall was crammed with a crowd of standing petitioners.
+#그 홀은 서있는 청원자들로 가득 찼다.
+
+[172]
+#The hall is draped with red and white curtains.
+#그 홀에는 붉고 하얀 막이 걸려져 있다.
+
+[173]
+#The party's platform is reducing taxes.
+#그 당의 정치 강령은 세를 내리는 것이다.
+
+[174]
+#That island was literally sealed off from the outside world.
+#그 섬은 바깥 세계와 완전히 단절되어 있다.
+
+[175]
+#The place was overcrowded with tourists.
+#그곳은 관광객으로 가득 붐볐다.
+
+[176]
+#The place was none too clean.
+#그곳은 조금도 깨끗하지 않다.
+
+[177]
+#There are few woods in that area.
+#그 지역은 나무가 거의 없다.
+
+[178]
+#The gesture fetched a laugh from the audience.
+#그 동작은 관중들의 웃음을 야기했다.
+
+[179]
+#The dictator squeezed money from the people.
+#그 독재자는 국민들로부터 재물을 착취했다.
+
+[180]
+#That team went out in the third round.
+#그 팀은 제3라운드 경기에서 탈락했다.
+
+[181]
+#The hooligan ended up dead in a car accident.
+#그 불량배는 결국 차사고로 죽었다.
+
+[182]
+#The room was decked with flowers.
+#그 방은 많은 꽃으로 장식되어 있다.
+
+[183]
+#The room was comfortably heated .
+#그 방은 따뜻하고 편안하게 변했다.
+
+[184]
+#Autumnal sunlight flooded the room.
+#그 방은 가을의 태양빛으로 가득했다.
+
+[185]
+#The room was encumbered with old furniture.
+#그 방은 오래된 가구가 가득 쌓여 있다.
+
+[186]
+#The room did not fill after all.
+#그 방은 아직 손님이 차지 않았다.
+
+[187]
+#The room has a homey feel about it.
+#그 방은 조용하고 편안한 분위기가 있다.
+
+[188]
+#The madman was violent and had to be locked up.
+#그 미치광이는 매우 흉폭해서 반드시 가두어야 한다.
+
+[189]
+#That cover belongs to this jar.
+#그 마개는 이 병의 것이다.
+
+[190]
+#That port is iced in during the winter.
+#그 항구는 겨울이 되자마자 곧 언다.
+
+[191]
+#The engineer tendered his resignation to the chief.
+#그 기술자는 그의 장관에게 사표를 제출했다.
+
+[192]
+#The story was handed down from father to son.
+#그 이야기는 아버지로부터 아들에게로 전해졌다.
+
+[193]
+#What is the point of the story?.
+#그 이야기의 주요 요점은 무엇입니까?
+
+[194]
+#The story would dramatize well.
+#그 이야기는 극본으로 개편하기에 아주 적합하다.
+
+[195]
+#The story came pat to the occasion.
+#그 이야기는 그 상황에 꼭 적합하다.
+
+[196]
+#The widow pinned her hopes on her only son.
+#그 과부는 외아들에게 기대를 걸었다.
+
+[197]
+#The police force in that country reeks of corruption and violence.
+#그 나라의 경찰은 부패했고 잔폭하다.
+
+[198]
+#Tremendous changes have come over the country.
+#그 나라는 크나큰 변화가 일어났다.
+
+[199]
+#That country is opposed to war.
+#그 나라는 전국적으로 전쟁에 반대했다.
+
+[200]
+#Has that country got the bomb now?
+#그 나라에는 현재 원자탄이 있습니까?
+
+[201]
+#The little girl overweary had fallen asleep.
+#지나치게 피곤한 그 여자아이는 잠이 들었다.
+
+[202]
+#That child is a trial to his parents.
+#그 아이는 부모의 골칫거리이다.
+
+[203]
+#That child needs discipline.
+#그 아이는 마땅히 벌을 받아야 한다.
+
+[204]
+#The nut cracked open.
+#그 호두는 딱하고 갈라졌다.
+
+[205]
+#The artist posed me on a sofa.
+#그 화가는 나로 하여금 소파에서 자세를 취하게 했다.
+
+[206]
+#That bad egg flew off with public money.
+#그 나쁜 놈이 공금을 가지고 도망쳤다.
+
+[207]
+#That bad man was hounded down at last.
+#그 나쁜 사람이 결국 잡혔다.
+
+[208]
+#The bad news shook her up very much.
+#그 나쁜 소식이 그녀를 매우 놀라게 했다.
+
+[209]
+#The main feature on the program is her song.
+#그 프로그램의 주요 인기물은 그녀의 노래이다.
+
+[210]
+#That importer wishes to insure against All Risks.
+#그 수입상은 모든 보험에 들기를 원한다.
+
+[211]
+#The policeman paced up and down.
+#그 경찰은 천천히 왔다갔다했다.
+
+[212]
+#The policeman directed the crowd to move back.
+#그 경찰은 군중에게 뒤로 물러나라고 명령했다.
+
+[213]
+#The club is having a membership drive.
+#그 클럽은 신회원을 모집하기 위해서 힘쓰고 있다.
+
+[214]
+#The script won't play well.
+#그 극본은 무대에서 공연하기에 부적합하다.
+
+[215]
+#The poor boy had no money for books.
+#그 불쌍한 아이는 책을 사지 못했다.
+
+[216]
+#The poor girl was in a terrible plight.
+#그 가련한 여자아이는 매우 열악한 처지에 있다.
+
+[217]
+#The poor creature had no family at all.
+#그 불쌍한 사람은 근본적으로 가족이 없다.
+
+[218]
+#The terrible news drove him mad.
+#그 끔찍한 소식은 그를 격분시켰다.
+
+[219]
+#The basketball team seemed to go off.
+#그 농구팀은 그렇게 잘하는 것 같지 않다.
+
+[220]
+#The boss intrigued with the police against the workers.
+#그 사장은 경찰당국과 결탁해서 노동자를 박해했다.
+
+[221]
+#The old woman stumbled along .
+#그 노부인은 흔들흔들거리며 걸어갔다.
+
+[222]
+#That old woman always drivels on .
+#그 노부인은 항상 끊임없이 이상한 소리를 한다.
+
+[223]
+#The old peasant went through untold hardships before liberation.
+#그 노농은 해방 전에 모진 고난을 당했다.
+
+[224]
+#The old man is better off.
+#그 노인은 좀 나은 생활을 하고 있다.
+
+[225]
+#The old man wandered in his talk.
+#그 노인이 하는 말은 주제와 동떨어진다.
+
+[226]
+#That exercise was difficult,but this is still more difficult.
+#그 연습문제는 어렵다. 그러나 이 문제는 더 어렵다.
+
+[227]
+#The hunter stalked the bear through the woods.
+#그 사냥꾼은 수목을 통과해서 살금살금 곰에게 다가갔다.
+
+[228]
+#Who's that nasty old woman?
+#그 성가신 할망구는 누구입니까?
+
+[229]
+#The tramp dropped to his knees.
+#그 떠돌이는 갑자기 양무릎을 땅에 떨어뜨렸다.
+
+[230]
+#The riddle remains inscrutable to us.
+#그 수수께끼는 우리에게는 아직도 풀 수 없는 문제이다.
+
+[231]
+#The name simply did not register with me.
+#그 이름을 나는 사실 기억하지 못한다.
+
+[232]
+#The name had been scratched off the list.
+#그 이름은 이미 명단에서 삭제되었다.
+
+[233]
+#The stranger represented himself to be a lawyer.
+#그 낯선 사람은 자신이 변호사라고 공언했다.
+
+[234]
+#The boy clasped the coin in his hand.
+#그 소년은 동전을 손에 꼭 쥐었다.
+
+[235]
+#It was cute of the boy to bring it to me.= The boy was cute to bring it to me.
+#그 소년은 그것을 나에게 가져다 주었는데, 정말 아주 총명하다.
+
+[236]
+#The boy is remarkable for his courage.
+#그 소년의 용기는 사람들의 주목을 끌었다.
+
+[237]
+#The boy replied to my question promptly.
+#그 소년은 나의 질문에 아주 빠르게 대답했다.
+
+[238]
+#The boy sat straddling the fence.
+#그 소년은 담 위에 걸터 앉았다.
+
+[239]
+#The boy banged himself against a tree.
+#그 소년은 쿵하고 나무에 부딪쳤다.
+
+[240]
+#The boy let the twig spring back.
+#그 소년은 작은 나뭇가지를 튕겨 돌아오게 했다.
+
+[241]
+#That boy is a discredit to his family.
+#그 소년은 집안의 수치이다.
+
+[242]
+#The boy gave him a kick in the shin.
+#그 소년은 그의 정강이를 한번 찼다.
+
+[243]
+#The boy smiled and nodded to her.
+#그 소년은 그녀에게 미소를 짓고 고개를 숙여 예를 표했다.
+
+[244]
+#The boy bit into the piece of cake.
+#그 소년은 그 케이크를 한입 물었다.
+
+[245]
+#The boy cried himself to sleep.
+#그 소년은 잠이 들 때까지 계속 울었다.
+
+[246]
+#Illness kept the boy behind in his school work.
+#그 소년은 병으로 인해서 수업이 뒤떨어졌다.
+
+[247]
+#The boy looked at me with eyes full of mischief.
+#그 소년은 장난스러운 눈빛으로 나를 바라보고 있다.
+
+[248]
+#The boy dangled a bone in front of the dog.
+#그 소년은 개의 앞에서 뼈다귀를 흔들었다.
+
+[249]
+#The boy slopped about in the mud.
+#그 소년은 진흙탕 속에서 왔다갔다했다.
+
+[250]
+#The boy splashed in the tub.
+#그 소년은 욕조에서 물을 뿌렸다.
+
+[251]
+#That boy is just bone idle.
+#그 소년은 정말 게으르기가 그지 없다.
+
+[252]
+#The boy peered at the notice.
+#그 소년은 게시물을 주시하고 있다.
+
+[253]
+#The boy slid out of the classroom.
+#그 소년은 살금살금 교실을 빠져 나갔다.
+
+[254]
+#The boy is always glued to the television.
+#그 소년은 항상 텔레비전에 열중하고 있다.
+
+[255]
+#The man was accused of impersonating a officer.
+#그 남자는 관원을 사칭해서 고소당했다.
+
+[256]
+#The man was screaming with pain.
+#그 남자는 날카로운 비명을 지를 만큼 아팠다.
+
+[257]
+#The man suddenly clenched my arm.
+#그 남자는 갑자기 나의 팔을 꽉 잡았다.
+
+[258]
+#The man bent down to kiss the child.
+#그 남자는 허리를 구부려서 아이에게 뽀뽀를 했다.
+
+[259]
+#The man vanished in the crowd.
+#그 남자는 군중 속으로 사라졌다.
+
+[260]
+#The man snatched up a club and struck at me.
+#그 남자는 몽둥이를 잡아 들고 나를 때렸다.
+
+[261]
+#The man stoops with age.
+#그 남자는 나이가 들어서 몸이 구부정해졌다.
+
+[262]
+#The boy was expelled from school.
+#그 소년은 학교에서 제명되었다.
+
+[263]
+#The young man's dismembered body was found by the police.
+#그 젊은 사람의 잘린 시체가 경찰에 의해 발견되었다.
+
+[264]
+#The idea urged me to the task.
+#그 생각이 내가 일을 하도록 몰아댔다.
+
+[265]
+#The child follows her mother about all day.
+#그 여자아이는 온종일 그녀의 어머니를 따라다닌다.
+
+[266]
+#The girl's hands were chapped by the cold.
+#그 소녀의 손이 추위로 얼어 갈라졌다.
+
+[267]
+#That girl almost drives me crazy.
+#그 소녀는 거의 나를 미치게 한다.
+
+[268]
+#The girl wound her arms about her mother.
+#그 소녀는 두 팔로 그녀의 어머니를 꼭 껴안았다.
+
+[269]
+#The girl wore her hair in a fringe.
+#그 소녀는 앞이마의 짧은 앞머리를 빗고 있다.
+
+[270]
+#That woman has a lot to put up with.
+#그 여자는 참아내야 할 많은 고민이 있다.
+
+[271]
+#That woman has the most viperine tongue!
+#그 여자는 가장 악독한 혀를 가지고 있구나!
+
+[272]
+#The dish passed around the table.
+#그 접시가 탁자 위에서 한바퀴 돌았다.
+
+[273]
+#That traitor must die for the crime he committed.
+#그 반역자는 반드시 죽음으로써 속죄해야 한다.
+
+[274]
+#The exhausted man slouched along .
+#그 지친 사람은 고개를 떨구고 허리를 구부리고 걷고 있다.
+
+[275]
+#The impostor has been shown up.
+#그 사기꾼은 폭로당했다.
+
+[276]
+#The apple bulged his pocket.
+#그 사과가 그의 주머니를 불룩하게 했다.
+
+[277]
+#The beggar wrung money from any of the passers-by.
+#그 거지는 길을 지나가는 모든 사람들에게 돈을 빌었다.
+
+[278]
+#The mugger threatened me,so I gave him my money.
+#그 강도가 나를 협박해서 나는 그에게 돈을 주었다.
+
+[279]
+#The youth has Adonic features.
+#그 청년은 Adonic의 면모가 있다.
+
+[280]
+#The scene is engraved on my memory .
+#그 정경은 나의 기억 속에 깊이 새겨졌다.
+
+[281]
+#The ball hit him flush on the head.
+#그 공은 정확하게 그의 머리를 맞혔다.
+
+[282]
+#The team is idle today.
+#그 팀은 오늘 시합이 없다.
+
+[283]
+#The prisoner will be set free next week.
+#그 죄수는 다음주에 풀려날 것이다.
+
+[284]
+#The tiny tropical island was girdled about with a coral reef.
+#그 열대의 작은 섬 사방은 산호초로 둘러싸여 있다.
+
+[285]
+#That man's clothes reek of tobacco.
+#그 사람의 옷은 담배 냄새가 배어 있다.
+
+[286]
+#The man told me his address.
+#그 사람이 나에게 그의 주소를 알려 주었다.
+
+[287]
+#The man struck a match and lit his cigar.
+#그 사람은 성냥을 그어 담배에 불을 붙였다.
+
+[288]
+#The man had the quality for leading the people.
+#그 사람은 민중을 영도할만한 재능을 갖추고 있다.
+
+[289]
+#The man reeled in and went home.
+#그 사람은 낚시줄을 감고 집으로 돌아왔다.
+
+[290]
+#The man bedded down his horse with straw.
+#그 사람은 말을 볏짚 위에 눕게 했다.
+
+[291]
+#That man is a teacher,isn't he?
+#그 사람은 선생님입니다, 맞습니까?
+
+[292]
+#The man has completely reformed himself.
+#그 사람은 이미 철저하게 잘못을 고쳐 새사람이 되었다.
+
+[293]
+#The man intruded himself into our conversation.
+#그 사람은 우리들이 이야기 하는 중에 제멋대로 끼어 들었다.
+
+[294]
+#The man spun away under the force of the blow.
+#그 사람은 한방에 나가 떨어졌다.
+
+[295]
+#The man beckoned her to his house.
+#그 사람은 손짓을 하여 그녀로 하여금 그의 집에 가도록 했다.
+
+[296]
+#The cave covered them from the snow.
+#그 산굴은 그들이 눈 속에 노출되는 것을 면하게 했다.
+
+[297]
+#The merchant deals in wool and cotton.
+#그 상인은 양모와 면화 장사를 경영한다.
+
+[298]
+#What percentage does the dealer expect to rake in?
+#그 상인은 얼마의 이윤을 얻기를 바라고 있습니까?
+
+[299]
+#The boy was firmly determined on becoming a painter.
+#그 소년은 화가가 되기로 결심을 굳혔다.
+
+[300]
+#The fairy tale tickled the child.
+#그 신선 이야기는 아이들을 매우 즐겁게 했다.
+
+[301]
+#At that time I knew she would succeed.
+#그때 나는 그녀가 성공하리라는 것을 알았다.
+
+[302]
+#The soldier sprang to attention.
+#그 병사는 신속하게 차려 자세를 했다.
+
+[303]
+#The faucet has developed a drip.
+#그 수도꼭지는 이미 물을 똑똑 떨어뜨리기 시작했다.
+
+[304]
+#The runaway prisoner ended up in a ditch.
+#그 탈주범은 결국 하수도에서 죽었다.
+
+[305]
+#The parking lot was chained shut.
+#그 주차장은 이미 쇠사슬을 채워 닫혔다.
+
+[306]
+#The salesman plugged the new product.
+#그 판매원은 신상품을 반복해서 선전했다.
+
+[307]
+#That salesman could really dish it out.
+#그 판매원은 확실히 말솜씨가 좋다.
+
+[308]
+#The naughty boy teased the dog.
+#그 개구쟁이 소년은 그 강아지를 놀려댔다.
+
+[309]
+#The naughty boy trampled the grass .
+#그 개구쟁이 소년이 잔디밭을 밟아서 망쳐버렸다.
+
+[310]
+#That night they talked themselves tired.
+#그날 밤에 그들은 매우 피로하도록 이야기를 했다.
+
+[311]
+#The subject is not lightly to be dismissed.
+#그 문제는 경솔하게 결말을 내서는 안 된다.
+
+[312]
+#The matter is not yet finally settled.
+#그 문제는 아직 완전히 해결되지 않았다.
+
+[313]
+#The lid of the box popped open.
+#그 상자뚜껑이 펑하고 열렸다.
+
+[314]
+#The box crushed under her weight.
+#그 상자는 그녀의 무게에 눌려 부숴졌다.
+
+[315]
+#The news sent the family into great excitement.
+#그 소식은 모든 가족을 매우 흥분하게 했다.
+
+[316]
+#He was cheered by the news.
+#그 소식은 그를 진작시켰다.
+
+[317]
+#She was heartened by the news.
+#그 소식은 그녀를 진작시켰다.
+
+[318]
+#The news hushed us.
+#그 소식은 우리들을 모두 침묵하게 했다.
+
+[319]
+#The news caused quite a stir.
+#그 소식은 일대 파문을 불러일으켰다.
+
+[320]
+#The child was posted kidnapped.
+#그 아이는 납치당했다고 선포되었다.
+
+[321]
+#The child has become skillful in reading and writing.
+#그 아이는 일고 쓰는 것을 아주 잘하게 되었다.
+
+[322]
+#The child was spirited off from the house.
+#그 아이는 집에서 몰래 납치되었다.
+
+[323]
+#The child never leaves his mother's side.
+#그 아이는 어머니 곁을 한 발짝도 떠나지 않는다.
+
+[324]
+#The child's temperature is above normal.
+#그 아이의 체온이 정상온도보다 높다.
+
+[325]
+#That child was a trial to his parents.
+#그 부모님 입장으로 말하자면 그 아이는 정말 골치다.
+
+[326]
+#That child is obedient to his parents.
+#그 아이는 부모님의 말씀을 아주 잘 듣는다.
+
+[327]
+#That child still sucks his thumb.
+#그 아이는 아직도 엄지손가락을 빤다.
+
+[328]
+#The child is the despair of his parents.
+#그 아이는 그의 부모로 하여금 정말 방법이 없다고 느끼게 한다.
+
+[329]
+#The small child nestled down in bed .
+#그 아이는 침대에 편안하게 누웠다.
+
+[330]
+#The child scalded himself in the hot bath.
+#그 아이는 뜨거운 물로 목욕할 때 데었다.
+
+[331]
+#The little boy used to push out his lower lip.
+#그 아이는 예전에 늘 입술을 뾰족이 내밀곤 하였다.
+
+[332]
+#The child is a shade sulky.
+#그 아이는 좀 언짢았다.
+
+[333]
+#The child was stirring up the mud at the bottom of the pond.
+#그 아이는 연못 바닥의 진흙을 휘젓고 있다.
+
+[334]
+#The child curled upon the sofa.
+#그 아이는 몸을 오므리고 소파에 누웠다.
+
+[335]
+#The town gave me bad vibrations.
+#그 작은 도시는 나에게 좋지 않은 인상을 주었다.
+
+[336]
+#The comedian kept us rolling with laughter .
+#그 코미디언은 우리들을 아수라장이 되도록 웃게 했다.
+
+[337]
+#The rumor floated about .
+#그 사의는 도시 곳곳에 널리 퍼지고 있다.
+
+[338]
+#That new shopping centre is a real eyesore.
+#그 새로운 쇼핑센터는 정말 눈에 거슬린다.
+
+[339]
+#The new discovery was confirmed by further experiments.
+#그 새로운 발견은 실험을 통해서 정확한 것으로 증명되었다.
+
+[340]
+#That is no different from this.
+#그것은 이것과 특별히 다를 것이 없다.
+
+[341]
+#The melody still rang in her ears.
+#그 선율이 그녀의 귓가에 아직도 울리고 있다.
+
+[342]
+#What a worry that pupil is !
+#그 학생은 사람을 얼마나 골치 아프게 하는가!
+
+[343]
+#The student kindly interpreted for me.
+#그 학생은 나를 위해서 친절하게 해석해 주었다.
+
+[344]
+#The student is preparing for the examination.
+#그 학생은 한창 시험 준비를 하고 있다.
+
+[345]
+#The speech was greeted by loud cheers.
+#그 강연은 청중의 열렬한 갈채를 받았다.
+
+[346]
+#That rock and roll band is very big in Chicago.
+#그 록그룹은 시카고에서 매우 환영을 받았다.
+
+[347]
+#The conspiracy frittered away to an ignominious conclusion.
+#그 음모는 치욕스러운 실패로 끝났다.
+
+[348]
+#It will take another month for the baby to feed itself.
+#그 아기는 한 달 정도 있어야 스스로 먹을 수 있다.
+
+[349]
+#The brave soldier was in the forefront of the fighting.
+#그 용감한 병사는 최전선에서 전투를 한다.
+
+[350]
+#The guilty man bowed his head in shame.
+#그 죄가 있는 사람은 부끄러워서 고개를 떨구었다.
+
+[351]
+#The thief was sent to prison for a year.
+#그 도둑은 일년 형을 선고 받았다.
+
+[352]
+#The government has slashed back (on) its spending.
+#그 정부는 이미 지출을 대폭 삭감하였다.
+
+[353]
+#The politician made a strong onslaught on the unions.
+#그 정객은 노동조합에 대해 명렬하게 비난했다.
+
+[354]
+#The position is not yet filled.
+#그 자리를 채울 사람이 아직 없다.
+
+[355]
+#The post was advertised in today's newspaper.
+#그 직위는 오늘 신문에 모집 광고를 냈다.
+
+[356]
+#The paper cup crumpled under his foot.
+#그 종이컵은 그의 발에 밟혀 찌그러졌다.
+
+[357]
+#The system rubbed along in the Southern States.
+#그 제도는 남방의 각주에서 여전히 유지되고 있다.
+
+[358]
+#The drunken man soon sobered up.
+#그 술 취한 남자는 곧 깨어났다.
+
+[359]
+#The drunken man lurched across the road.
+#그 술 취한 남자는 걸음을 비틀거리며 도로를 건넜다.
+
+[360]
+#The drunkard staggered along .
+#그 술 취한 남자는 비틀비틀 걸어갔다.
+
+[361]
+#The drunken man weaved his way home .
+#그 취한은 비틀거리며 집으로 돌아갔다.
+
+[362]
+#The drunken fellow was fumbling at the keyhole.
+#그 취한은 열쇠구멍을 더듬어 찾고 있다.
+
+[363]
+#The criminal was disarmed.
+#그 범죄자의 무기는 빼앗겼다.
+
+[364]
+#The criminal made a bid for freedom by trying to run away.
+#그 범인은 자유를 얻고자 도주를 기도했다.
+
+[365]
+#The criminal perverted his talents.
+#그 범인은 자신의 재간을 잘못 이용했다.
+
+[366]
+#The thirsty man craved for water.
+#그 갈증나는 사람은 물을 마시기를 간절히 원했다.
+
+[367]
+#Is that pillar square with the ground?.
+#그 원기둥과 지면이 직각을 이루었습니까?
+
+[368]
+#That does not accord with what he said yesterday.
+#그것은 어제 그가 이야기한 것과 일치하지 않는다.
+
+[369]
+#That isn't in line with my ideas at all.
+#그것은 나의 생각과 전혀 일치하지 않는다.
+
+[370]
+#The scab looked out for the workers at the demon stration.
+#그 노동계층의 배반자는 시위행진을 하는 노동자들을 감시하고 있다.
+
+[371]
+#The work was a tax on his heart.
+#그 일은 그의 심장에 심각한 부담을 주었다.
+
+[372]
+#The work will drain him dry.
+#그 일은 그의 정력을 다 소모하게 할 것이다.
+
+[373]
+#The dog jealously guarded its bone.
+#그 개는 그의 뼈다귀를 경계하며 지키고 있다.
+
+[374]
+#The girl flushed with excitement.
+#그 아가씨는 흥분해서 얼굴이 새빨개졌다.
+
+[375]
+#The young girl looked very vulnerable.
+#그 아가씨는 매우 유약해 보인다.
+
+[376]
+#The smell made my dog's nose twitch.
+#그 냄새가 내 강아지의 코를 실룩거리게 했다.
+
+[377]
+#Where did you rake that story up?
+#당신은 그 이야기를 어디에서 찾아낸 것입니까?
+
+[378]
+#The story has ceased to be novel.
+#그 이야기는 이제 더 이상 신선하지 않다.
+[379]
+#The child was frightened by the big dog.
+#그 아이는 큰 개 때문에 깜짝 놀랐다.
+[380]
+#The child was awkward with a knife and fork.
+#그 아이는 칼과 포크를 쓰는데 익숙하지 않다.
+[381]
+#That child looks completely uncared-for.
+#그 아이는 돌보아줄 사람이 아무도 없는 것 같다.
+[382]
+#The child is too young to go to school.
+#그 아이는 아직 학교에 갈 나이가 안됐다.
+[383]
+#The child froze at the sight of the snake.
+#그 아이는 뱀을 보고 놀라서 멍했다.
+[384]
+#That child gets worked up about going to school.
+#그 아이는 학교에 가는 일에 긴장하고 불안해 하고 있다.
+[385]
+#The child tugged at my arm to attract my attention.
+#그 아이는 나에게 주의하라고 나의 팔을 힘껏 당겼다.
+
+[386]
+#The child was tired and fretful.
+#그 아이는 피로하기도 하고 초조하기도 했다.
+
+[387]
+#The child took no nourishment all day.
+#그 아이는 온종일 아무것도 먹지 않았다.
+
+[388]
+#The child lisped his prayers.
+#그 아이는 뚜렷하지 않은 말투로 기도를 했다.
+
+[389]
+#The chilly wind had a taste of rain in it.
+#그 찬바람은 비의 기운을 가지고 있다.
+
+[390]
+#The active boy was extremely distractible.
+#그 움직이기 좋아하는 소년은 극도로 산만하다.
+
+[391]
+#That's very satisfactory.
+#아주 좋다. 그것은 아주 만족스럽다.
+
+[392]
+#That play is based upon an actual occurrence.
+#그 신극은 사실에 근거한 이야기편이다.
+
+[393]
+#The crown was richly bejeweled.
+#그 왕관 위에는 아주 많은 보석이 장식되어 있다.
+
+[394]
+#The rocket was fired surface-to-underwater.
+#그 로케트는 지면에서 물아래로 발사되었다.
+
+[395]
+#The machine got clogged with grease.
+#그 기계는 기름 찌꺼기가 막혀서 잘 돌아가지 않는다.
+
+[396]
+#The sums reached to a considerable total.
+#그 금액을 합쳐보면 총액은 굉장하다.
+
+[397]
+#The project was viewed favorably by the committee.
+#그 계획은 이 위원회의 호평을 받았다.
+
+[398]
+#What's showing at that theater?.
+#그 극장에서는 무슨 영화를 상영하고 있습니까?
+
+[399]
+#The store is across from the station.
+#그 상점은 정류장 맞은편에 있다.
+
+[400]
+#That store has a good selection of furniture.
+#그 상점에는 선택할 수 있는 많은 가구가 있다.
+
+[401]
+#The factory was all cock-a-hoop after the strike.
+#그 공장은 파업 이후에 혼란에 빠졌다.
+
+[402]
+#That company has phased out of the truck manufacturing business.
+#그 회사는 차츰차츰 트럭 생산을 그쳤다.
+
+[403]
+#The company went bankrupt because it couldn't sell its products.
+#그 회사는 상품이 팔리지 않아서 파산하였다.
+
+[404]
+#The shipping line lost considerably by it.
+#그 항운회사는 이 때문에 많은 돈을 배상하였다.
+
+[405]
+#That hotel won't look at foreigners.
+#그 호텔은 외국인을 받지 않는다.
+
+[406]
+#That hotel provides good meals.
+#그 호텔은 매우 좋은 식사를 제공한다.
+
+[407]
+#The museum's collection of French paintings is famous.
+#그 미술관이 소장하고 있는 프랑스 그림은 매우 유명하다.
+
+[408]
+#The family originally came from France.
+#그 가족은 본래 프랑스에서 온 사람들이다.
+
+[409]
+#That store discounts three percent for cash payment.
+#그 상점은 현금으로 지불하면 3%를 할인해준다.
+
+[410]
+#That shop keeps everything you will need.
+#그 상점은 네가 필요한 모든 용품을 위탁 판매한다.
+
+[411]
+#That shop has been boarded up.
+#그 상점은 이미 판으로 막혔다.
+
+[412]
+#The store occupies the entire building.
+#그 상점이 전체 빌딩을 차지하고 있다.
+
+[413]
+#The shop is open from ten to six.
+#그 상점은 10시에 문을 열어서 6시에 닫는다.
+
+[414]
+#The firm branched out quickly.
+#그 상점은 아주 빠르게 경영 범위를 넓혔다.
+
+[415]
+#The theater was packed with children.
+#그 극장은 아이들로 가득 차 붐볐다.
+
+[416]
+#That theatre caters chiefly to children.
+#그 극장은 주로 아이들을 위하여 봉사를 한다.
+
+[417]
+#The hospital closed down for lack of staff.
+#그 병원은 직원이 부족해서 문을 닫았다.
+
+[418]
+#The airplane was shot down in flames.
+#그 비행기는 명중되어서 불이 붙어 추락했다.
+
+[419]
+#The plane was many miles off course.
+#그 비행기는 항로를 아주 많은 마일 일탈했다.
+
+[420]
+#The plane should be landing right on schedule.
+#그 비행기는 당연히 예정된 시간에 착륙할 것이다.
+
+[421]
+#The glider was soaring above the valley.
+#그 글라이더는 계곡의 상공에서 활공하고 있다.
+
+[422]
+#The old organ wheezed out a tune.
+#그 오래된 오르간이 부우부우하며 곡을 연주했다.
+
+[423]
+#The falling plane burst into flames.
+#그 추락하고 있는 비행기가 갑자기 타오르기 시작했다.
+
+[424]
+#The office was a hive of industry.
+#그 사무실은 아주 바쁜 모습이다.
+
+[425]
+#The country house was smothered with roses.
+#그 농가는 장미꽃과 서로 어울려 돋보인다.
+
+[426]
+#The study was lined on three sides with books.
+#그 서점은 삼면에 모두 책이 진열되어 있다.
+
+[427]
+#The cottage was partly destroyed by the landslide.
+#그 작은 집의 일부분이 산사태로 부숴졌다.
+
+[428]
+#The hut provided a shelter from the storm.
+#그 작은 집은 폭풍우를 피하는 피난처가 되었다.
+
+[429]
+#The hut is suffering from neglect.
+#그 작은 집은 돌보는 사람이 없어서 점점 파손되고 있다.
+
+[430]
+#The little house nestled among the trees.
+#그 작은 집은 나무들 속에 위치해 있다.
+
+[431]
+#It simply can't be done.
+#그것은 정말 해낼 수 없는 길이다.
+
+[432]
+#The scandal was being whispered about throughout the city.
+#그 추문은 서서히 온 도시로 퍼져 나갔다.
+
+[433]
+#The jacket sits badly on your shoulders.
+#그 재킷은 그의 몸에 맞지 않는다.
+
+[434]
+#That old toy is John's most precious possession.
+#그 오래된 장난감은 John이 가장 아끼는 것이다.
+
+[435]
+#The present delighted her.
+#그 선물이 그녀를 매우 기쁘게 했다.
+
+[436]
+#The trouble nags at her.
+#그 골치 아픈 일이 그녀를 계속 괴롭게 한다.
+
+[437]
+#It's not easy but I'd like to have a shot at it.
+#그 일은 쉽지 않지만 나는 한번 해보고 싶다.
+
+[438]
+#The matter is not important; let it drop.
+#그 일은 중요하지 않으니 잠시 버려두고 얘기하지 말자.
+
+[439]
+#That triggered off -a revolution.
+#그 일이 한차례의 혁명을 유발시켰다.
+
+[440]
+#There was a flavor of romance about the affair.
+#그 일은 조금 낭만적인 색채를 띠고 있다.
+
+[441]
+#The matter caused her a great deal of trouble.= The matter caused a great deal of trouble to her.
+#그 일은 그녀에게 매우 많은 문제를 가져왔다.
+
+[442]
+#The matter will rectify itself in a few days.
+#그 일은 며칠 지나면 곧 좋아질 것이다.
+
+[443]
+#It took very little time.
+#그 일은 매우 적은 시간이 들었다.
+
+[444]
+#It is deducible from the fact.
+#그 일은 이 사실로부터 추단해낼 수 있다.
+
+[445]
+#That passes all belief.
+#그 일은 도저히 믿을 수가 없다.
+
+[446]
+#That kindled him to courage.
+#그 일은 그로 하여금 용기가 생기게 했다.
+
+[447]
+#That brought discredit on his name.
+#그 일은 그의 명예에 손상을 입혔다.
+
+[448]
+#That led him a miserable life.
+#그 일은 그로 하여금 비참한 생활을 해나가게 했다.
+
+[449]
+#That relieved him of all responsibility.
+#그 일은 그로 하여금 모든 책임을 면하게 했다.
+
+[450]
+#It was decided by plebiscite.
+#그 일은 국민투표를 통해서 결정한 것이다.
+
+[451]
+#The incident seemed to lend itself to dramatization.
+#그 일은 연극으로 짜여지기에 적합한 것 같다.
+
+[452]
+#That's news to me.
+#그 일을 나는 처음 들었다.
+
+[453]
+#I haven't an idea about it.
+#나는 그 일을 조금도 모른다.
+
+[454]
+#It takes some doing .
+#그 일은 매우 많은 노력을 필요로 한다.
+
+[455]
+#There is not a speck of doubt about it.
+#그 일은 조금의 의문도 없다.
+
+[456]
+#That matter has been chewed over again and again.
+#그 일은 이미 반복해서 토론하였다.
+
+[457]
+#That set the whole town agog with excitement.
+#그 일은 모든 도시의 주민들을 흥분하게 했다.
+
+[458]
+#That is demonstrative of our progress.
+#그 일이 우리들의 발전을 증명했다.
+
+[459]
+#Is it worth all the trouble ?.
+#그 일이 그렇게 신경 쓸 가치가 있습니까?
+
+[460]
+#The heavy baggage was a great hindrance to me.
+#그 짐이 나의 큰 장애물이 되었다.
+
+[461]
+#The dress comes to her knees.
+#그 옷은 그녀의 무릎까지 온다.
+
+[462]
+#That dress looks too severe on you.
+#그 옷은 네가 입으니 아주 소박해 보인다.
+
+[463]
+#That dress shows your slip.
+#그 옷은 너의 속옷을 드러나게 한다.
+
+[464]
+#The dress fell in pleats from the waist.
+#이 옷은 허리부분부터 주름이 잡아져 있다.
+
+[465]
+#That will save you twelve shillings a week.
+#그것은 너로 하여금 매주 12실링을 절약할 수 있게 해줄 것이다.
+
+[466]
+#That brings the total to ↔200.
+#그것은 모두 200파운드에 달하게 할 것이다.
+
+[467]
+#The classroom was always kept clean.
+#그 교실은 항상 매우 깨끗함을 유지했다.
+
+[468]
+#The policeman looked him into silence.
+#그 경찰이 그를 노려보자 그는 아무말도 하지 않았다.
+
+[469]
+#The view was pleasing to us.
+#그 경치가 우리들로 하여금 마음이 트이고 기분이 유쾌하게 하였다.
+
+[470]
+#The sight floated before my eyes.
+#그 경치가 나의 눈앞에 떠올랐다.
+
+[471]
+#The sight sent cold shivers down my back.
+#그 장면은 나의 등골이 오싹하게 하였다.
+
+[472]
+#The sight fixed their attention.
+#그 경치가 그들의 주의력을 끌었다.
+
+[473]
+#That's settled; we'll do it tomorrow!
+#그러면 결정되었다. 우리 내일부터 하자!
+
+[474]
+#That is how voltage is measured.
+#그것은 전압을 측량하는 방법이다.
+
+[475]
+#That accounts for the delay of the train.
+#그것이 기차가 연착한 원인이다.
+
+[476]
+#That's the man whose house was burned down.
+#그 사람이 바로 집이 불탄 그 사람이다.
+
+[477]
+#Is that how you treat me?.
+#그것이 당신이 나를 대하는 태도입니까?
+
+[478]
+#That is a fair sample of his manners.
+#그것이 그가 든 하나의 좋은 예이다.
+
+[479]
+#That's my ideal of what a house should be like.
+#그것이 바로 내 이상 속의 집의 모습이다.
+
+[480]
+#That was the last we saw of her.
+#그것이 우리가 마지막으로 그녀를 본 것이다.
+
+[481]
+#That explains why he's not here.
+#그것이 바로 그가 여기에 있지 않은 이유를 증명했다.
+
+[482]
+#Poison was detected in the dead man's stomach.
+#남자 시체의 위에서 독약을 발견했다.
+
+[483]
+#That remark really put him in his place.
+#그 말이 확실히 그를 삼가게 했다.
+
+[484]
+#That remark refers to someone else.
+#그 말은 다른 사람을 가리켜 한 말이다.
+
+[485]
+#That is not a grammatical sentence.
+#그 문장은 어법규칙에 맞지 않는다.
+
+[486]
+#The officer gave the soldier a very bad time.
+#그 군관은 사병에게 아주 큰 고통을 주었다.
+
+[487]
+#The roast chicken was garnished with slices of lemon.
+#그 구운 오리에 레몬조각을 곁들인다.
+
+[488]
+#The tree cast its shadow on the wall.
+#그 나무는 담 위에 그림자를 드리웠다.
+
+[489]
+#The tree had branched over the gate.
+#그 나무의 가지가 대문 위에까지 뻗었다.
+
+[490]
+#The tree fell down and crashed through the window.
+#그 나무는 창문 안으로 와르르 쓰러졌다.
+
+[491]
+#The leaves on that tree incline to dark.
+#그 나무의 잎이 검은색을 띠고 있다.
+
+[492]
+#The tree exhibited signs of decay.
+#그 나무는 썩고 좀먹은 기미가 보인다.
+
+[493]
+#The tree is dying from want of water.
+#그 나무는 물이 부족해서 서서히 말라 비틀어지고 있다.
+
+[494]
+#The tree fell in the storm.
+#그 나무는 폭풍우 속에서 넘어졌다.
+
+[495]
+#The plant's stem curled round the branches of the tree.
+#그 식물의 줄기가 나뭇가지를 칭칭 감고 있다.
+
+[496]
+#The jewel has a beautiful shimmer.
+#그 보석에는 아름다운 섬광이 난다.
+
+[497]
+#The star is indistinguishable to the naked eye.
+#그 별은 육안으로는 분별할 수 없는 것이다.
+
+[498]
+#The pearl sparkled in the moonlight.
+#그 진주는 달빛아래에서 반짝반짝 빛을 냈다.
+
+[499]
+#The poor boy sobbed himself to sleep.
+#그 가련한 소년은 잠이 들 때까지 훌쩍이며 울었다.
+
+[500]
+#The poor man was reduced to begging.
+#그 불쌍한 사람은 거지로 타락했다.
+
+[501]
+#That's a great weight off his mind.
+#그것은 그의 마음속의 무거운 부담을 덜었다고 말할 수 있다.
+
+[502]
+#The inscription seems to have been worn away.
+#그 비문은 이미 마손된 것 같이 보인다.
+
+[503]
+#The fabric is woven of cotton.
+#그 직물은 면사로 짜여진 것이다.
+
+[504]
+#This cloth is too thick to stick a pin through.
+#그 옷감은 너무 두꺼워서 바늘이 통과하지 못한다.
+
+[505]
+#The ground is shut in by a wire fence.
+#그 땅은 철사 울타리로 둘러졌다.
+
+[506]
+#The land falls gently to the beach.
+#그 땅은 해변쪽으로 평탄하게 기울어져 있다.
+
+[507]
+#That piece of land was railed out.
+#그 땅은 난간 밖으로 나갔다.
+
+[508]
+#The huge stone hit the water kerplunk.
+#그 큰 바위는 풍덩 소리를 내며 물로 떨어졌다.
+
+[509]
+#That wood is not suitable for our purposes.
+#그 나무는 우리들의 용도에 적합하지 않다.
+
+[510]
+#The farm was conveyed to his son.
+#그 농지는 그의 아들에게 양도되었다.
+
+[511]
+#The land was wasted by war.
+#그 토지는 전쟁으로 황폐되었다.
+
+[512]
+#The land was given to them in perpetuity.
+#그 토지는 영원히 그들에게 주어졌다.
+
+[513]
+#The rock was disintegrated by frost and rain.
+#그 암석은 서리와 비에 풍화되었다.
+
+[514]
+#That rock is a hazard to ships.
+#그 암석은 배에게는 위협이 된다.
+
+[515]
+#That old woman's health began to fall off.
+#그 노부인의 건강은 쇠약해지기 시작했다.
+
+[516]
+#The old man cashed in early this morning.
+#그 노인은 오늘 아침에 세상을 떠났다.
+
+[517]
+#The old man says that he intends to die in harness.
+#그 노인은 죽을 때까지 일을 할 생각이라고 말했다.
+
+[518]
+#The old man enjoyed the fruits of his life's work.
+#그 노인은 그가 일생 한 일의 성과를 누렸다.
+
+[519]
+#The old man mumbled that he was hungry.
+#그 노인은 그가 배가 고프다고 중얼거리며 말했다.
+
+[520]
+#The old lady besought him for mercy.
+#그 노부인은 그에게 자비를 베풀어 달라고 간절히 구했다.
+
+[521]
+#The situation there has never really eased off.
+#그곳의 정세는 진정으로 완화되었던 적이 절대로 없다.
+
+[522]
+#Accidents are happening there with increasing frequency.
+#그곳에서 발생하는 사고가 갈수록 빈번해지고 있다.
+
+[523]
+#I've been there already and don't want to go again.
+#그곳은 내가 이미 가보아서 다시 가고 싶지 않다.
+
+[524]
+#The forge belched redly at the sky.
+#그 제철소는 붉은 빛을 공중으로 분사해냈다.
+
+[525]
+#The two cars skidded together.
+#그 두 대의 차는 모두 한쪽으로 미끄러져서 함께 부딪쳤다.
+
+[526]
+#which of the two cars drives better ?.
+#그 두 대의 차 중에서 어느 차가 빨리 달립니까?
+
+[527]
+#The two reports are in disagreement.
+#그 두 개의 보고 내용이 일치하지 않는다.
+
+[528]
+#The two rooms connect by a corridor.
+#그 두 개의 방은 복도로 연결되어 있다.
+
+[529]
+#Those two countries have broken off relations with each other.
+#그 두 국가는 이미 서로의 관계를 끊었다.
+
+[530]
+#There was badblood between the two nations.
+#그 두 국가 사이에는 적대적인 분위기가 있다.
+
+[531]
+#Those two boys are distant relations.
+#그 두 소년은 먼 친척이다.
+
+[532]
+#There is some likeness between the brothers.
+#그 두 형제는 약간 닮았다.
+
+[533]
+#The two banks consolidated and formed a single large bank.
+#그 두 은행은 합병을 해서 하나의 큰 은행이 되었다.
+
+[534]
+#Where do those two roads join ?.
+#그 두 길은 어디에서 만납니까?
+
+[535]
+#The two roads cross there.
+#그 두 길은 그곳에서 교차한다.
+
+[536]
+#There are some similarities between the two poets.
+#그 두 시인 사이에는 조금 비슷한 점이 있다.
+
+[537]
+#The two top-seeded teams advanced to the semifinals.
+#그 두 팀이 준결승전에 진출했다.
+
+[538]
+#The two space vehicles locked on to each other.
+#그 두 우주선이 연결되었다.
+
+[539]
+#The two girls split the cost of the lunch between them.
+#그 두 여자아이는 점심값을 균등하게 부담하였다.
+
+[540]
+#That overloaded truck jibbed at the steep hill.
+#그 적재량을 초과한 트럭은 언덕을 오르지 못했다.
+
+[541]
+#The running costs of that big car must be very high.
+#그 큰 차를 정비하는 비용은 분명히 아주 높을 것이다.
+
+[542]
+#The big car purred along the road.
+#그 큰 차는 붕붕거리며 길을 지나갔다.
+
+[543]
+#The bus was loading.
+#그 버스는 승객을 가득 태웠다.
+
+[544]
+#The truck that had a breakdown was towed to the garage.
+#그 고장난 화물차는 정비공장으로 옮겨졌다.
+
+[545]
+#The truck plowed into a parked car.
+#그 트럭이 세워져 있는 차를 받았다.
+
+[546]
+#The old car is in a sad state.
+#그 오래된 차는 수습하지 못할 정도로 망가졌다.
+
+[547]
+#The truck bumped our car.
+#그 트럭이 우리의 차를 받았다.
+
+[548]
+#That car has caused me no end of worry.
+#그 차는 우리에게 끝없는 근심을 가져다 주었다.
+
+[549]
+#The car spattered us with mud.
+#그 차는 우리들 몸에 진흙을 튀겼다.
+
+[550]
+#The car negotiated the corners with ease.
+#그 차는 가볍게 모퉁이를 돌았다.
+
+[551]
+#There is a lot of chrome on that car.
+#그 차에는 아주 많은 크롬황색이 칠해져 있다.
+
+[552]
+#That car goes okay now.
+#그 차는 지금 운전하기가 아주 좋다.
+
+[553]
+#The car clashed with a truck.
+#그 차는 트럭과 서로 충돌했다.
+
+[554]
+#The car sped along the streets.
+#그 차는 길에서 급히 운전해 갔다.
+
+[555]
+#The getaway car is still untracked.
+#그 도주차량은 끝내 종적이 발견되지 않았다.
+
+[556]
+#That new car set me back quite a lot.
+#그 새 차는 나로 하여금 많은 돈을 쓰게 했다.
+
+[557]
+#The deer went off at an easy lope ..
+#그 사슴은 가볍게 껑충껑충 뛰면서 갔다.
+
+[558]
+#The horse will not bring you happiness and prosperity.
+#그 말은 너희들에게 행복과 번영을 가져다 주지 못할 것이다.
+
+[559]
+#The cat's tail lashed about angrily.
+#그 고양이의 꼬리가 세차게 흔들리고 있다.
+
+[560]
+#Who's going to wash up tonight,then?
+#그렇다면, 오늘 저녁에는 누가 그릇을 씻을 것입니까?
+
+[561]
+#What's your little game,then?
+#그렇다면, 당신의 그 계책은 또 무엇입니까?
+
+[562]
+#The new coin rounded out his collection.
+#그 새로운 동전은 그의 수집을 완전하게 했다.
+
+[563]
+#The secretary's favorite earbender is popular songs.
+#그 비서는 유행가 듣는 것을 가장 좋아한다.
+
+[564]
+#The prisoner denied the charges against him.
+#그 범인은 그에 대한 고소를 부인했다.
+
+[565]
+#The tenant was dispossessed for not paying his rent.
+#그 세입자는 방세를 지불하지 않아서 쫓겨났다.
+
+[566]
+#The official was removed for taking bribes.
+#그 관원은 뇌물을 받아서 해직되었다.
+
+[567]
+#The reporter covered the event .
+#그 기자는 이 사건을 방문 보도했다.
+
+[568]
+#The spy divulged the secret plans to the enemy.
+#그 스파이는 비밀 계획을 적에게 누설했다.
+
+[569]
+#The spy sold his associates to the police.
+#그 스파이는 그의 동료를 경찰에 팔아버렸다.
+
+[570]
+#The policeman passed from house to house.
+#그 경찰은 집집마다 순찰을 했다.
+
+[571]
+#The policeman struck the weapon from his hand.
+#그 경찰은 그의 수중의 무기를 떨어뜨렸다.
+
+[572]
+#The policeman signaled to the truck to stop.
+#그 경찰은 트럭을 향해 차를 세우라고 손짓을 했다.
+
+[573]
+#The policeman is chasing the thief.
+#그 경찰은 도둑을 쫓고 있다.
+
+[574]
+#The policeman took up his position in front of the gate.
+#그 경찰은 큰 문 앞에서 보초를 서고 있다.
+
+[575]
+#The officer was designated for the command.
+#그 군관은 지휘관으로 임명되었다.
+
+[576]
+#The officer has been restored to his command.
+#그 군관은 복직되어 다시 지휘권을 장악했다.
+
+[577]
+#That officer was raised from the ranks.
+#그 군관은 사병에서부터 올라온 것이다.
+
+[578]
+#The man had a naked lady tattooed on his back.
+#그 남자는 등에 나체의 여인을 문신으로 새겼다.
+
+[579]
+#The young soldier saluted awkwardly.
+#그 젊은 병사는 굼뜨게 경례를 했다.
+
+[580]
+#The actress was unsuitable for the role.
+#그 여자배우는 그 배역을 연기하기에 적합하지 않다.
+
+[581]
+#The thief slid behind a curtain.
+#그 도둑은 커튼 뒤로 몰레 들어갔다.
+
+[582]
+#The burglar outwitted the police and got away.
+#그 도둑은 기지로 경찰을 속이고 몰래 도망갔다.
+
+[583]
+#The prisoner has been pardoned three years of his sentence.
+#그 범인은 삼 년의 형기가 사면되었다.
+
+[584]
+#The prisoner was guarded night and day.
+#그 죄수는 밤낮으로 감시를 당하고 있다.
+
+[585]
+#The wounded soldier writhed in agony.
+#그 부상병은 고통으로 대굴대굴 구르고 있다.
+
+[586]
+#The soldier was found dead in the woods.
+#그 병사는 숲속에서 죽은 채로 발견되었다.
+
+[587]
+#That salesman is popular with the trade.
+#그 판매원은 고객의 환영을 받았다.
+
+[588]
+#The detective soon raveled out the truth.
+#그 탐정은 아주 빠르게 진상을 명백히 밝혀냈다.
+
+[589]
+#The skyscraper stood against a background of white cloud.
+#하늘을 찌를듯한 고층건물이 흰구름을 배경으로 삼아 우뚝 서 있다.
+
+[590]
+#The mother bent over the child.
+#그 어머니는 아이 위로 몸을 숙였다.
+
+[591]
+#The minister says God is ingenerate.
+#그 목사는 하나님은 원래 존재하는 분이라고 말했다.
+
+[592]
+#The boy carefully locked away his toys.
+#그 소년은 완구를 조심스럽게 자물쇠를 채워 챙겨 넣었다.
+
+[593]
+#The boy chafed his cold hands.
+#그 소년은 그의 차가운 두 손을 비비고 있다.
+
+[594]
+#One of the boy's favourite pursuits is stamp collecting.
+#그 소년의 취미중의 하나가 우표 수집이다.
+
+[595]
+#The boy was hiding behind a door.
+#그 소년은 문 뒤에 숨어 있다.
+
+[596]
+#The boy will have plenty of longgreen in a couple of years.
+#그 소년은 이 년 내에 매우 많은 돈을 가지게 될 것이다.
+
+[597]
+#The boy was committed to the care of his aunt.
+#그 소년은 그의 고모가 돌보도록 보내어졌다.
+
+[598]
+#The boy walks through the undecorated arch.
+#그 소년은 아직 장식되지 않은 아치형 문을 통과해 걸었다.
+
+[599]
+#The dog backed away as the man raised his whip.
+#그 남자가 채찍을 쳐들자, 개가 뒤로 물러났다.
+
+[600]
+#We did well for coal that winter.
+#그 해 겨울에 우리는 충분한 석탄을 손에 넣었다.
+
+[601]
+#The young girl was humming to herself.
+#그 젊은 여자는 속요를 노래하고 있다.
+
+[602]
+#The girl rattled off her lessons.
+#그 소녀는 학과 수업을 막힘없이 줄줄 암송했다.
+
+[603]
+#The girl was given a doll.
+#그 소녀는 다른 사람이 주는 장난감 인형을 받았다.
+
+[604]
+#The girl's unclipped hair looks beautiful.
+#그 소녀의 짧게 자르지 않은 머리카락이 매우 아름다웠다.
+
+[605]
+#The girl is old enough to go to school.
+#그 여자아이는 학교에 들어갈 수 있을 만큼 자랐다.
+
+[606]
+#The girl cuddled up to her mother in bed.
+#그 소녀는 침대에서 어머니에게 다정히 기댔다.
+
+[607]
+#That woman didn't have the slightest compuction about stealing.
+#그 여자는 도둑질을 하는 것에 대해 조금도 부끄럽게 여기지 않는다.
+
+[608]
+#The woman was cruelly knocked about by her husband.
+#그 여자는 그녀의 남편에게 호된 매를 맞았다.
+
+[609]
+#The traitor sold his country for money.
+#그 반역자는 돈을 위해서 그의 국가를 배반했다.
+
+[610]
+#The shelf was like to fall on me.
+#그 골조가 거의 나의 몸에 떨어질 뻔하였다.
+
+[611]
+#The horse was officially scratched.
+#그 말은 출전이 정식으로 취소되었다.
+
+[612]
+#The horse shied at the car.
+#그 말은 차를 보고 놀라서 뒤로 넘어졌다.
+
+[613]
+#The horse tossed its head back.
+#그 말은 갑자기 머리를 뒤로 젖혔다.
+
+[614]
+#The horse easily cleared every fence.
+#그 말은 가볍게 각각의 울타리를 뛰어 넘었다.
+
+[615]
+#The horse came back riderless.
+#그 말은 탄 사람이 없이 혼자 돌아왔다.
+
+[616]
+#That horse is a cinch to win the next race.
+#그 말은 다음 경기에서 분명히 이길 것이다.
+
+[617]
+#Only part of the report is true.
+#그 보고는 단지 일부분만이 진실일 뿐이다.
+
+[618]
+#The translation varies a little from the original.
+#그 번역은 원문과 조금 맞지 않는다.
+
+[619]
+#The article is very important though it is short.
+#그 문장은 비록 짧지만, 아주 중요하다.
+
+[620]
+#The newspaper report was slanted towards the unions.
+#그 뉴스 보도는 노조의 편을 드는 것이었다.
+
+[621]
+#The falling leaf was buoyed up by a rising air current.
+#그 낙엽이 상승하는 기류에 의해서 떠다닌다.
+
+[622]
+#The country went rolling by for miles and miles.
+#그 토지는 기복이 있게 몇 마일이 끊없이 이어져 있다.
+
+[623]
+#The swindler roped in many people.
+#그 사기꾼은 아주 많은 사람을 속였다.
+
+[624]
+#What can that funny noise be?
+#그 이상한 소리가 도대체 무엇입니까?
+
+[625]
+#The horseman jogged the reins.
+#그 기사는 고삐를 가볍게 흔들었다.
+
+[626]
+#Doesn't that verge rather on shop ? .
+#그것이 어찌 곧 상점으로 변하지 않겠는가?
+
+[627]
+#The shot galvanized them into action.
+#그 총성은 그들이 행동을 취하도록 북돋우었다.
+
+[628]
+#The scene has often recurred to my memory.
+#그 장면이 늘 나의 머리 속에 떠오른다.
+
+[629]
+#How did the scene hit you?.
+#그 장면이 당신에게 어떠한 인상을 주었습니까/
+
+[630]
+#The scene is still vivid in my memory.
+#그 장면은 여전히 나의 기억 속에 분명하게 남아 있다.
+
+[631]
+#The sight was burned into my mind.
+#그 정경은 나의 마음속 깊이 남아 있다.
+
+[632]
+#The scene was imprinted on my memory.
+#그 장면은 나의 기억에 매우 깊이 남아 있다.
+
+[633]
+#The scene was etched into my mind.
+#그 장면은 나의 머리에 깊이 박였다.
+
+[634]
+#The scene is stamped on my mind.
+#그 장면은 나의 마음에 깊이 새겨졌다.
+
+[635]
+#The sight appeased his anger.
+#그 정경이 그의 노기를 가라앉혔다.
+
+[636]
+#The sight rolled back the days of childhood to him.
+#그 정경은 그로 하여금 어린시절을 차츰차츰 떠올리게 했다.
+
+[637]
+#The scene delighted the cockles of my heart.
+#그 장면은 나의 마음을 기쁘게 했다.
+
+[638]
+#The sight thrilled the on lookers.
+#그 정경은 방관자들을 격동시켰다.
+
+[639]
+#The boxer knocked his opponent to the ground.
+#그 권투선수는 상대선수를 바닥에 때려 눕혔다.
+
+[640]
+#It was certainly an improvement on the previous attempt.
+#그것은 확실히 지난번 시험보다 진보하였다.
+
+[641]
+#The man came at me with a big stick.
+#그 사람은 큰 몽둥이를 들고 나에게 달려들었다.
+
+[642]
+#The man grabbed ahold of my lapel.
+#그 사람은 나의 옷깃을 한손에 휘어잡았다.
+
+[643]
+#The dawns on the top of that mountain are impressive.
+#그 산정상에서의 여명은 사람들에게 깊은 인상을 주었다.
+
+[644]
+#The large window makes the room seem airy.
+#그 큰 창문은 이 방으로 하여금 공기가 잘 통하게 해주는 것처럼 보인다.
+
+[645]
+#The store displays some knocked-down furniture.
+#그 상점은 조립식 가구를 진열해 놓았다.
+
+[646]
+#The shop sells high-powered binoculars.
+#그 상점은 고배수 망원경을 판다.
+
+[647]
+#The merchant is giving half a yard extra for lagniappe ..
+#그 상인은 공짜로 반 야드를 동봉할 계획이다.
+
+[648]
+#The statement has been officially contradicted.
+#그 성명은 이미 정식으로 부정되었다.
+
+[649]
+#The noise struck terror into their hearts.
+#그 소리는 그들의 마음에 공포를 조성하였다.
+
+[650]
+#He was then suffering from extreme poverty.
+#그때 그는 마침 매우 가난할 때였기 때문에 고통을 받았었다.
+
+[651]
+#At that time she just looked after her own interest.
+#그때 그녀는 단지 자신의 이익만을 돌보았다.
+
+[652]
+#The river was in those days choked up with silt.
+#그때 이 강은 진흙으로 막혀 있었다.
+
+[653]
+#At that time he was separated from his first wife.
+#그때 그는 첫번째 아내와 따로 살았다.
+
+[654]
+#At that time the doctor thought that she would recover.
+#그 당시 의사는 그녀의 병이 좋아질 것이라고 생각했다.
+
+[655]
+#Strange rumors were then being bandied about.
+#그때 각종 기이한 소문이 세상에 퍼지고 있었다.
+
+[656]
+#The clock strikes the quarters.
+#그 시계는 15분마다 한번식 울린다.
+
+[657]
+#That aggravated him beyond endurance.
+#그것은 그로 하여금 참을 수 없을 만큼 분노하게 했다.
+
+[658]
+#The children were not to blame for the accident.
+#그 사고는 아이들을 탓해서는 안 된다.
+
+[659]
+#The accident halted traffic on the highway.
+#그 사고가 도로의 교통을 정지시켰다.
+
+[660]
+#The event constantly recurred to me.
+#그 사건이 끊임없이 나의 머리에 떠오른다.
+
+[661]
+#The incident was stamped in my memory.
+#그 사건이 나의 기억에 새겨졌다.
+
+[662]
+#That event was inconceivable to us.
+#그 사건은 우리들이 상상할 수도 없는 것이었다.
+
+[663]
+#The very thought of it is disgusting.
+#그 일은 생각만해도 혐오스럽게 한다.
+
+[664]
+#That matter can wait until tomorrow.
+#그 일은 내일까지 미루었다가 다시 이야기 합시다.
+
+[665]
+#The fact has soaked into his head.
+#그 사실이 이미 그의 머리 속에 새겨졌다.
+
+[666]
+#The enterprise was attended with much difficulty.
+#그 사업은 하기에 매우 큰 어려움이 있다.
+
+[667]
+#It's an insult to your dignity.
+#그것은 너에게 일종의 준엄한 모욕이다.
+
+[668]
+#It's second hand,but in good nick.
+#그것은 중고품이지만, 상태는 양호하다.
+
+[669]
+#It is highly debatable whether that is true.
+#그것이 진실인지 아닌지가 여전히 문제이다.
+
+[670]
+#That was a whole worldful of light and joy.
+#그것은 보다 큰 영광과 기쁨입니다.
+
+[671]
+#That's a ferociously logical system.
+#그것은 논리에 아주 잘 맞는 시스템이다.
+
+[672]
+#That's a skillful piece of bricklaying.
+#그것은 정교한 벽돌 쌓는 일이다.
+
+[673]
+#It is difficult,nay,impossible.
+#그것은 어려운 것이다, 아니, 사실은 불가능한 것이다.
+
+[674]
+#That is where you score over others.
+#그것이 네가 다른 사람보다 뛰어난 부분이다.
+
+[675]
+#That was one of fistiana's most famous championship bouts.
+#그것은 권투계의 가장 유명한 선수권 대회의 하나이다.
+
+[676]
+#That's a typical illustration of his meanness.
+#그것은 그의 사람됨이 비굴하다는 것을 설명해 주는 전형적인 예이다.
+
+[677]
+#It's hers,not yours.
+#그것은 그녀의 것이지, 너의 것이 아니다.
+
+[678]
+#It is the very last thing I expected.
+#그것은 완전히 내가 예상했던 일이다.
+
+[679]
+#That's my overcoat; this is yours.
+#그것은 나의 코트이고, 이것은 너의 것이다.
+
+[680]
+#Those are my cigarettes; get your mitts off them.
+#그것은 나의 담배이니, 빨리 너의 손을 펴라.
+
+[681]
+#That was the smallest mouse I had ever seen.
+#그것은 내가 본 것 중에 가장 작은 쥐이다.
+
+[682]
+#That's the damnedest story I ever heard.
+#그것은 내가 들어본 중에 가장 이치에 맞지 않는 말이다.
+
+[683]
+#It was an extremely fine day in May.
+#5월의 매우 맑은 날이다.
+
+[684]
+#It's an interpretation parallel to my own.
+#그것은 나의 해석과 비슷한 해석이다.
+
+[685]
+#It's a dress affair.
+#그것은 예복을 입어야 하는 파티이다.
+
+[686]
+#That's a gem-studded comb.
+#그것은 보석이 가득 박혀 있는 빗이다.
+
+[687]
+#That was quite a party.
+#그것은 평범하지 않은 파티였다.
+
+[688]
+#That was a grand party.
+#그것은 매우 즐거운 파티였다.
+
+[689]
+#It is a much vexed problem.
+#그것은 사람을 매우 귀찮게 하는 문제이다.
+
+[690]
+#That's a rather unique dress.
+#그것은 상당히 특별한 옷이다.
+
+[691]
+#It was a revelation to me.
+#그것은 내가 시종 예상했던 일이다.
+
+[692]
+#That is a voiceful stream.
+#그것은 졸졸 흐르는 작은 계곡이다.
+
+[693]
+#It isn't a realistic plan.
+#그것은 현실에 맞지 않는 계획이다.
+
+[694]
+#It was a sad piece of information.
+#그것은 정말 비통한 소식이었다.
+
+[695]
+#That is a very likely supposition.
+#그것은 성립될 가능성이 아주 많은 가설이다.
+
+[696]
+#That was a contemptible trick to play on a friend!
+#그것은 친구를 놀리는 비열한 수단이다.
+
+[697]
+#That's a house of fieldstone ..
+#그것은 거친 돌을 쌓아 만든 집이다.
+
+[698]
+#That's a ground-launched missile.
+#그것은 지면으로부터 발사된 미사일이다.
+
+[699]
+#.It was a guided tour.
+#그것은 안내자가 동행하는 여행이다.
+
+[700]
+#That is a foiled arch .
+#그것은 잎새김장식이 있는 아치형 문이다.
+
+[701]
+#It was in the days when motorcars were rare.
+#그것은 차가 아직 드물게 보이던 시대이다.
+
+[702]
+#It was a fine day in early spring..
+#이른 봄의 맑은 날이다.
+
+[703]
+#That is a rare usage of this word.
+#그것은 이 단어의 보기 드문 용법이다.
+
+[704]
+#It is a poorrelation of real champagne.
+#그것은 정말 샴페인 중에서 가장 질이 떨어지는 것이다.
+
+[705]
+#The song dropped out of public favour.
+#그 곡은 다시는 사람들의 환영을 받지 못했다.
+
+[706]
+#I've got that song on the brain.
+#그 곡이 나의 머리 속에 계속 맴돌고 있다.
+
+[707]
+#The song clicked with the highschool students.
+#그 곡은 고등학생들의 사랑을 받았다.
+
+[708]
+#That shows how happy she is.
+#그것은 그녀가 얼마나 행복한지를 증명한다.
+
+[709]
+#The ship sank beneath the waves.
+#그 배는 파도 속으로 침몰했다.
+
+[710]
+#The side of the boat had been staved in.
+#그 배의 측면이 이미 뚫렸다.
+
+[711]
+#The ship left under orders to sail to the Pacific.
+#그 배는 명령을 받고 태평양을 향해 출발했다.
+
+[712]
+#The ship sails at eight tomorrow morning.
+#그 배는 내일 오전 8시에 출항한다.
+
+[713]
+#That ship has got ahead of the others.
+#그 배는 다른 배들의 앞에 가고 있다.
+
+[714]
+#The ship hove to next to ours.
+#그 배는 우리 배의 곁에 세워져 있다.
+
+[715]
+#She ship was posted missing.
+#그 배는 이미 실종된 것으로 발표되었다.
+
+[716]
+#The boat shipped water in a storm.
+#그 배는 폭풍우를 만나서 물이 많이 들어왔다.
+
+[717]
+#The ship was snagged near the bank.
+#그 배는 가까운 기슭에서 물 속에 잠겨 있는 나무에 걸렸다.
+
+[718]
+#The ship was equipped for a voyage.
+#그 배의 장비는 출항 준비를 다 마쳤다.
+
+[719]
+#The carrier is armed with nuclear weapons.
+#그 항공모함은 핵무기를 갖추고 있다.
+
+[720]
+#The ship replied to the flagship's signal.
+#그 함정은 기함의 신호에 대답을 했다.
+
+[721]
+#That warship (was) laid up long ago.
+#그 군함은 아주 오래 전에 퇴역하였다.
+
+[722]
+#The hydrofoil soon speeded up.
+#그 수중익선은 곧 속도를 높였다.
+
+[723]
+#The crew of that foreign freighter was fully hired on.
+#그 외국 화물선의 선원이 이미 모두 고용되었다.
+
+[724]
+#It's quiet within the precincts of the old college.
+#그 오래된 대학의 교정 안이 조용하다.
+
+[725]
+#The school is situated on the top of a hill.
+#그 학교는 작은 산정상에 자리잡고 있다.
+
+[726]
+#The milling machine was firmly chocked up.
+#그 프레이즈반은 쐐기로 견고하게 고정되어 있다.
+
+[727]
+#That's tough.
+#그것은 너무 심하다.
+
+[728]
+#That day he seemed to be badly hung up about things.
+#그날 그는 마치 만사가 다 뜻대로 되지 않는 것 같았다.
+
+[729]
+#My wife retired early that night.
+#그날 저녁에 나의 집사람은 아주 일찍 잠자리에 들었다.
+
+[730]
+#We disposed of five enemy planes that afternoon.
+#그날 오후에 우리는 적기 5대를 쳐부수었다.
+
+[731]
+#Excitement bubbled over in every one of us that morning.
+#그날 아침에 우리 모두는 대단히 흥분했다.
+
+[732]
+#The boat came close to the rocks and then sheered away.
+#그 배는 암석 가까이 갔다가 다시 피했다.
+
+[733]
+#The ship weathered the cape.
+#배는 곶의 바람길에 들어섰다.
+
+[734]
+#The ship was overbalanced by the shifting of its cargo.
+#그 배는 화물의 이동으로 인해서 평형을 잃었다.
+
+[735]
+#The ship pitched about in the storm.
+#그 배는 폭풍우 속에서 상하로 흔들렸다.
+
+[736]
+#The road is inadequate for the amount of traffic which it carries.
+#그 도로는 현재의 교통량을 감당할 방법이 없다.
+
+[737]
+#The road makes a big curve there.
+#그 도로는 그곳에서 큰 커브를 이룬다.
+
+[738]
+#The expressway was policed against speeding.
+#그 고속도로는 경찰이 속도를 단속한다.
+
+[739]
+#That ditch drains water from the swamp.
+#그 하수도는 늪의 물을 배수해낸다.
+
+[740]
+#That dog is very dangerous when provoked.
+#그 개는 격노되었을 때 아주 위험하다.
+
+[741]
+#The dog had a good scratch.
+#그 개는 가려운 데를 잘 긁었다.
+
+[742]
+#The dog sank its teeth into the meat.
+#그 개는 그 고기덩어리를 단단히 물었다.
+
+[743]
+#The dog shrank into a corner.
+#그 개는 모퉁이로 뒷걸음질쳐 갔다.
+
+[744]
+#The dog fawned on the boy.
+#그 개는 소년에게 꼬리를 흔들며 동정을 구했다.
+
+[745]
+#The dog rounded on its attackers.
+#그 개는 그것을 원하는 사람을 향해 사납게 달려들었다.
+
+[746]
+#The dog has been digging in that corner for an hour.
+#그 개는 모퉁이에서 1시간 동안 계속 땅을 파고 있다.
+
+[747]
+#The river sometimes overflows its banks.
+#그 강의 물은 때때로 양쪽 기슭으로 넘친다.
+
+[748]
+#The river springs from the side of the mountain.
+#그 강은 산허리에서 발원한다.
+
+[749]
+#The river wanders over the plain .
+#그 강은 구불구불 평원을 흘러간다.
+
+[750]
+#The river winds to the bay.
+#그 강은 구불구불 만으로 흘러들어간다.
+
+[751]
+#The river winds its way to the sea.
+#그 강은 구불구불 대해로 흘러간다.
+
+[752]
+#The river is fed by two tributaries.
+#그 강은 두 갈래의 지류에서 유입된다.
+
+[753]
+#The river fans out near the river mouth.
+#그 강은 가까운 하구에 부채꼴로 펼쳐져 있다.
+
+[754]
+#The street is clogged with cars.
+#그 길은 차에 꽉 막혀서 조금 움직이는 것도 어렵다.
+
+[755]
+#The street is overarched by ginkgoes.
+#그 길은 아치형의 은행나무로 덮혀져 있다.
+
+[756]
+#The street was crowded with shoppers.
+#그 길은 물건을 사는 사람들로 가득 차 붐볐다.
+
+[757]
+#That old boat is a real death trap.
+#그 오래된 배는 확실히 매우 불안전한 물건이다.
+
+[758]
+#The old road has now been closed up.
+#그 오래된 도로는 이미 폐쇄되었다.
+
+[759]
+#The road makes a sharp descent just past the lake.
+#그 길은 호반을 막 지나 가파른 고개로 내리 닫는다.
+
+[760]
+#The road was so crowded that the car could not pass through.
+#그 길은 매우 복잡해서 차가 통행하기에 아주 어렵다.
+
+[761]
+#The snake wreathed itself around the mouse.
+#그 뱀은 몸으로 그 쥐를 싸감았다.
+
+[762]
+#The snake coiled itself up in the cave.
+#뱀은 굴 안에서 몸을 돌돌 감고 있다.
+
+[763]
+#The rattlesnake frightened me.
+#그 방울뱀이 나를 놀라서 펄쩍 뛰게 했다.
+
+[764]
+#The boat was dashed to pieces on the rocks.
+#그 작은 배는 암석에 부딪쳐서 조각이 났다.
+
+[765]
+#The shark snapped the man's leg off.
+#상어가 그 사람의 한쪽 다리를 물어 절단했다.
+
+[766]
+#The iron gate jarred against the wall.
+#그 철문이 벽에 부딪혀 삐걱삐걱 소리를 냈다.
+
+[767]
+#The animal bared its teeth in anger.
+#그 동물은 분노해서 이를 악물었다.
+
+[768]
+#The hound scented a fox.
+#그 사냥개는 여우의 종적을 냄새 맡았다.
+
+[769]
+#The cow flicked the flies away with its tail.
+#그 소는 꼬리를 가볍게 흔들어서 파리를 쫓았다.
+
+[770]
+#The goat gave me a butt in the stomach!
+#그 산양이 뿔로 나의 배를 떠받았다.
+
+[771]
+#That's exactly like him; he would lose the key!
+#그것은 완전히 그를 닮았다. 그는 늘 열쇠를 잃어버린다!
+
+[772]
+#It all depends how you handle it.
+#그것은 전적으로 네가 그 일을 어떻게 처리하느냐에 달려 있다.
+
+[773]
+#The waiter whisked my plate off.
+#그 종업원은 나의 접시를 신속하게 가져갔다.
+
+[774]
+#The singer forced his low notes.
+#그 가수는 마지못해 저음을 불렀다.
+
+[775]
+#The girl is sought after by my friend.
+#내 친구는 그 아가씨를 사랑하게 되었다.
+
+[776]
+#Never has the girl written me letters.
+#그 아가씨는 결코 나에게 편지를 써본 적이 없다.
+
+[777]
+#The king's reign continued thirty years.
+#그 국왕의 통치는 30년 동안 계속되었다.
+
+[778]
+#The king crowned his son.
+#그 국왕은 그의 아들에게 왕관을 씌웠다.
+
+[779]
+#The king governed the country wisely.
+#그 국왕은 현명하게 국가를 통치한다.
+
+[780]
+#The candidate polled over 30,000 votes.
+#그 입후보자는 3만 표 이상의 표를 얻었다.
+
+[781]
+#The nurse treated him with the most scrupulous care.
+#그 간호사는 세심하게 최선을 다해서 그를 돌보았다.
+
+[782]
+#The priest preached that God would save us.
+#그 제사장은 신이 우리를 구할 것이라고 설교하였다.
+
+[783]
+#The priest preached to the congregation about the Sermon on the Mount.
+#그 제사장은 산상수훈에 관해 회중을 향해 설교하였다.
+
+[784]
+#The general would not accept that defeat was a possibility.
+#그 장군은 패배의 가능성이 있다는 것을 인정하지 않았다.
+
+[785]
+#The general was sure he could defeat the enemy.
+#그 장군은 그가 적을 쳐부술 수 있다고 확신했다.
+
+[786]
+#The teacher participated in the pupils' games.
+#그 선생님은 학생의 놀이에 참가했다.
+
+[787]
+#The teacher is respected by them.
+#그 선생님은 그들의 존경을 받았다.
+
+[788]
+#The teacher can't keep discipline in her classroom.
+#그 선생님은 교실의 규율을 유지할 수가 없었다.
+
+[789]
+#The manager was dexterous in handling his staff.
+#그 사장은 그에게 속해 있는 직원들을 아주 잘 다룬다.
+
+[790]
+#The policeman would not let go his grip on the thief.
+#그 경찰은 도둑을 꽉 잡고 놓아주지 않았다.
+
+[791]
+#The policeman made the suspect talk.
+#그 경찰은 혐의범에게서 자백을 받았다.
+
+[792]
+#The scientist tried to change iron into gold.
+#그 과학자는 철을 금으로 변화시키려고 시도하였다.
+
+[793]
+#The old lady slipped and fell on the ice.
+#그 노부인은 얼음 위에서 미끄러져 넘어졌다.
+
+[794]
+#The old woman shuffled across the room.
+#그 노부인은 중얼거리며 방을 지나갔다.
+
+[795]
+#That old man's memory reaches back over many years.
+#그 노인은 여러 해 동안의 일을 회고하였다.
+
+[796]
+#Will the old man live out the month?
+#그 노인이 이 달을 살아낼 수 있겠습니까?
+
+[797]
+#Who will benefit from the old man's death?
+#그 노인이 죽은 후에, 누가 수혜인이 됩니까?
+
+[798]
+#The old man seemed delighted to have company.
+#그 노인은 곁에 있을 사람이 있어서 매우 기쁜 것 같다.
+
+[799]
+#The teacher vetoed the use of a crib.
+#그 선생님은 커닝페이퍼 사용을 엄하게 금한다.
+
+[800]
+#The lawyer took his ladyfriend to dinner.
+#그 변호사는 그의 여자친구를 데리고 식사를 하러 갔다.
+
+[801]
+#The lawyer undertook the case without a fee.
+#그 변호사는 이 안건을 무료로 맡았다.
+
+[802]
+#The mother was full of thought for her injured child.
+#그 어머니는 그녀의 다친 아이를 매우 걱정하고 있다.
+
+[803]
+#The gentleman tapped his stick on the pavement.
+#그 신사는 지팡이로 인도를 가볍게 두드렸다.
+
+[804]
+#That young teacher can't keep order in his classroom.
+#그 젊은 선생님은 교실의 질서를 유지할 방법이 없다.
+
+[805]
+#That shopgirl is studious to please the customers.
+#그 여자 점원은 고객의 비위를 아주 잘 맞춘다.
+
+[806]
+#The lady swept in .
+#그 숙녀는 어깨를 으쓱거리며 걸어 들어왔다.
+
+[807]
+#The lady wore a diamond ring on her finger.
+#그 숙녀는 손가락에 다이아몬드 반지를 끼고 있다.
+
+[808]
+#The actress overacted in her role.
+#그 여배우는 그녀의 배역을 지나치게 과장하여 연기했다.
+
+[809]
+#Why is that driver flashing his lights at me?
+#저 기사가 왜 나에게 불빛을 깜박이는 것입니까?
+
+[810]
+#That new singer is a big draw.
+#그 새 가수는 청중을 아주 잘 끈다.
+
+[811]
+#The new teacher's fresh from university.
+#그 새로 온 선생님은 대학을 막 졸업하신 분이다.
+
+[812]
+#The orator's words rang hollow.
+#그 연설자의 말은 공허하게 들렸다.
+
+[813]
+#The lecturer spoke about an hour.
+#그 연사는 대략 한 시간 동안 강연을 하였다.
+
+[814]
+#The doctor comes to the hospital every other day.
+#그 의사는 하루 건너 한번씩 병원에 온다.
+
+[815]
+#The doctor cured him of rheumatism.
+#그 의사는 그의 류머티즘을 치료하였다.
+
+[816]
+#The artist pictured him as a boy.
+#그 예술가는 그를 한 소년으로 묘사했다.
+
+[817]
+#The hero died unsung.
+#그 영웅은 죽은 후에 칭송을 받지 못했다.
+
+[818]
+#The postman delivered a special delivery letter.
+#그 우체부는 한시적으로 전문 우편물을 배달하였다.
+
+[819]
+#The politician worked the crowd up.
+#그 정객은 군중의 분노를 일으켰다.
+
+[820]
+#The president has no consistent policy.
+#그 총통의 정책은 일치성이 결여되어 있다.
+
+[821]
+#Mrs.Brown,whose house we have rented for our vacation,is a rich widow.
+#그 사람은 우리에게 휴가를 보내도록 집을 빌려 주었다.
+
+[822]
+#The author is of ten negligent in his choice of words.
+#그 작가는 늘 단어를 선택하는데 주의하지 않는다.
+
+[823]
+#That writer churns out about three new books every year.
+#그 작가는 매년 약 3부의 새 책을 속속 내놓는다.
+
+[824]
+#The writer's family descended in the end to extreme poverty.
+#그 작가의 가족은 후에 빈곤하여 초라하게 되었다.
+
+[825]
+#The author enthrall,enthraled the minds of his readers.
+#그 작가는 독자들을 사로잡았다.
+
+[826]
+#The problem lay heavily upon me.
+#그 문제는 나의 마음을 무겁게 눌렀다.
+
+[827]
+#The house wears an air of sadness.
+#그 집은 음울한 분위기를 띠고 있다.
+
+[828]
+#The attempt was rather a failure.
+#그 시험은 차라리 실패했다고 말하는 것이 낫다.
+
+[829]
+#The invention was a collective effort.
+#그 발명은 공동으로 노력한 성과이다.
+
+[830]
+#He was reserved for the discovery.= The discovery was reserved for him.
+#그 발견은 반드시 그에 의해 완성하도록 해야 한다.
+
+[831]
+#The scheme was pigeonholed.
+#그 방안은 방치되었다.
+
+[832]
+#The decision fixed her fate.
+#그 선택이 그녀의 운명을 결정지었다.
+
+[833]
+#The appointment was confirmed by congress.
+#그 임명은 회의에서 확인을 얻었다.
+
+[834]
+#That statement is not very meaningful.
+#그 성명은 그다지 큰 의의가 없다.
+
+[835]
+#The sale netted me a good profit.
+#그 판매는 나로 하여금 아주 많은 이익을 얻게 했다.
+
+[836]
+#The news rejoiced my father's heart.
+#그 소식이 나의 아버지를 기쁘시게 했다.
+
+[837]
+#The new law doesn't operate in our favour.
+#그 새 법이 실시되면 우리들에게 불리하다.
+
+[838]
+#He was shattered by the news.
+#그 소식은 그에게 중대한 타격을 주었다.
+
+[839]
+#The news staggered his resolution.
+#그 소식이 그의 결심을 동요시켰다.
+
+[840]
+#He stood there,dumbfounded by the news.
+#그 소식은 그로 하여금 넋을 잃고 거기에 멍하니 서있게 했다.
+
+[841]
+#The news lightened her heart.
+#그 소식이 그녀의 기분을 가볍게 변화시켰다.
+
+[842]
+#The news relieved her parents.
+#그 소식이 그녀의 부모님을 안심하게 했다.
+
+[843]
+#She was struck dumb at the news.
+#그 소식은 그녀로 하여금 놀라서 말을 하지 못하게 했다.
+
+[844]
+#We were astounded at the news.
+#그 소식은 우리들을 매우 놀라게 했다.
+
+[845]
+#The news swept through the town.
+#그 소식이 신속하게 도시에 퍼졌다.
+
+[846]
+#The news was not made public for several days.
+#그 소식은 며칠 동안 공개되지 않았다.
+
+[847]
+#The news chilled the morale of the soldiers.
+#그 소식은 병사들의 사기를 저하시켰다.
+
+[848]
+#The child was pinned against the wall.
+#그 아이는 벽에 눌려서 움직이지 못했다.
+
+[849]
+#The child yearns much toward his friends.
+#그 아이는 그의 친구를 매우 그리워한다.
+
+[850]
+#The child was identified by the clothes he wore.
+#그 아이는 입고 있는 옷 때문에 식별되어졌다.
+
+[851]
+#That red pony is a fiddle-footed horse.
+#그 붉은 조랑말은 잘 놀라는 말이다.
+
+[852]
+#The little boy clung to his father's arm.
+#그 작은 소년은 아버지의 팔을 꽉 붙들고 있다.
+
+[853]
+#The little boy can already do simple problems in arithmetic.
+#그 작은 소년은 이미 간단한 산수 문제를 풀 수 있다.
+
+[854]
+#The little girl was tickled with the toys.
+#그 여자아이는 그러한 완구를 매우 좋아한다.
+
+[855]
+#The little girl was tugging a puppy round the lawn.
+#그 소녀는 마침 작은 개를 끌고 잔디밭을 거닐고 있다.
+
+[856]
+#The thief eased his body through the window.
+#그 도둑은 매우 조심스럽게 창문을 통해 들어갔다.
+
+[857]
+#The shack seemed almost ready to collapse.
+#그 작은 집은 마치 곧 무너질 것 같았다.
+
+[858]
+#The parcels were dispatched yesterday.
+#그 소포들은 모두 어제 발송되어 나갔다.
+
+[859]
+#The glasses were filled with water,each one at a different level.
+#그 컵들은 각각 서로 다른 높이의 물이 채워져 있다.
+
+[860]
+#The patients were immediately quarantined.
+#그러한 질병은 즉시 격리되어 검역을 받아야 한다.
+
+[861]
+#The troops were retired from the action .
+#그 부대들은 전역으로부터 철수하였다.
+
+[862]
+#The cars have been broken down for scrap.
+#그 차량들은 폐철을 얻기 위해 이미 뜯어버렸다.
+
+[863]
+#The ponds often overflow in the spring.
+#그 연못들은 봄이면 늘 범람한다.
+
+[864]
+#The crew remained free from scurvy.
+#그 선원들은 아직 괴혈병에 걸리지 않았다.
+
+[865]
+#Those blinds soften the sunlight.
+#그 블라인드들이 햇빛의 강도를 약화시켰다.
+
+[866]
+#The eggs went for 30 pence .
+#그 달걀들은 30펜스에 팔았다.
+
+[867]
+#The trouble makers were booted out.
+#그 교란자들은 쫓겨 나갔다.
+
+[868]
+#The climbers were roped together.
+#그 등산객들은 끈으로 서로 묶여 있다.
+
+[869]
+#The animals broke loose and ran away.
+#그 동물들은 필사적으로 벗어나서 도망갔다.
+
+[870]
+#The old houses had fallen into disrepair.
+#그 집들은 오랫동안 수리를 하지 않아서 심하게 부서졌다.
+
+[871]
+#The houses were iced over with multicolored stuccoes.
+#그 집들은 각양각색의 벽토로 발라져 있다.
+
+[872]
+#The houses appeared as a blur in the mist.
+#그 집들이 안개 속에서 희미하게 드러났다.
+
+[873]
+#Those gangsters used to pop off each other.
+#그러한 폭도들은 늘 서로를 잔인하게 죽인다.
+
+[874]
+#Those customs are fading away.
+#그러한 풍속 습관들은 서서히 폐기되고 있다.
+
+[875]
+#Those workers are underpaid.
+#그러한 노동자들은 충분한 액수의 보수를 받지 못한다.
+
+[876]
+#The citizens were divested of their right to vote.
+#그 시민들은 투표권을 빼앗겼다.
+
+[877]
+#The dogs cast about,seeking the scent.
+#그 개들은 이리저리 냄새를 맡으며 종적을 찾고 있다.
+
+[878]
+#The shareholders were summoned to a general meeting.
+#그 주주들은 주주총회에 참가하도록 소집되었다.
+
+[879]
+#Some of those stories are very good.
+#그러한 이야기들 중에 어떤 것은 아주 좋다.
+
+[880]
+#The children were cooped up by the storm.
+#그 아이들은 폭풍우로 인해 갇혔다.
+
+[881]
+#Those remarks are inconsistent with what you said yesterday.
+#그러한 말은 어제 네가 한 말과 일치하지 않는다.
+
+[882]
+#Justice was meted out to those bad eggs.
+#그 나쁜 놈들은 응당한 벌을 받았다.
+
+[883]
+#The rehabilitants have returned to work.
+#건강을 회복한 사람들은 이미 일을 하러 돌아갔다.
+
+[884]
+#The torches flared in the wind.
+#그 횃불의 불꽃이 바람에 흔들거렸다.
+
+[885]
+#Those goods were then looking up.
+#그러한 물건들은 당시 가격이 오르고 있었다.
+
+[886]
+#The machines will not operate properly.
+#그 가계들은 순조롭게 돌아갈 수가 없다.
+
+[887]
+#Those old railway carriages will be broken up for scrap.
+#그러한 오래된 기차의 차체는 부수어서 고철로 사용하게 될 것이다.
+
+[888]
+#Those old practies have faded out.
+#그러한 구습은 이미 사라졌다.
+
+[889]
+#Those were the promises he held out.
+#그러한 것들이 바로 그가 한 약속이다.
+
+[890]
+#Those terrible ideas are anathema to me.
+#그러한 무서운 생각들은 정말 나를 혐오스럽게 한다.
+
+[891]
+#The old men barely talked to each other.
+#그 노인들은 거의 서로 이야기를 하지 않는다.
+
+[892]
+#The hounds quested for the fox.
+#그 사냥개들이 여우의 종적을 쫓고 있다.
+
+[893]
+#Those hotels offer plain comforts.
+#그 여관들은 일반적인 설비만을 가지고 있다.
+
+[894]
+#The horses hauled the logs to the mill.
+#그 말들이 통나무를 제재공장으로 운반한다.
+
+[895]
+#The potatoes have been boiling for 20 minutes.
+#그 감자들은 이미 삶은 지 20분이 되었다.
+
+[896]
+#The skyscrapers were swathed in fog.
+#그 높은 건물들은 안개에 싸여 있다
+
+[897]
+#The cream puffs squashed on the ground.
+#그 크림 퍼프들이 바닥에 눌려 으끄러졌다.
+
+[898]
+#Those boys certainly play rough!
+#저 소년들은 확실히 아주 거칠게 노는군!
+
+[899]
+#The boys hustled against one another.
+#그 소년들이 서로 밀치락달치락 한다.
+
+[900]
+#The boys beat the old man up.
+#그 소년들이 노인을 호되게 두들겨 팼다.
+
+[901]
+#The boys are learning to sail.
+#그 소년들은 항해하는 것을 배우고 있다.
+
+[902]
+#The men were lounging over the bar .
+#그 남자들은 술집 탁자에 기대고 있다.
+
+[903]
+#The youngsters ran on at a great rate.
+#그 젊은이들은 정말 신나게 떠들었다.
+
+[904]
+#The girls clustered around him.
+#그 소녀들은 무리를 이루어 그를 둘러쌌다.
+
+[905]
+#The girls couldn't stop giggling.
+#그 소녀들은 끽끽거리는 웃음을 멈출 수가 없었다.
+
+[906]
+#The girls moidered him so with their chatter.
+#그 소녀들이 재잘재잘 쉴 새 없이 지껄여서 그의 마음을 분산시켰다.
+
+[907]
+#The women tattled about the latest fashions .
+#그 여자들은 최신 유행 스타일에 대해서 한담을 나누고 있다.
+
+[908]
+#The plates crashed onto the floor.
+#그 접시들이 와르르 땅으로 떨어졌다.
+
+[909]
+#The walls have been soiled by the children's dirty hands.
+#그 벽들이 아이들의 더러운 손에 의해 더럽혀졌다.
+
+[910]
+#The robbers stripped him to the skin.
+#그 강도들은 그의 옷을 모두 벗겼다.
+
+[911]
+#The thieves got away with the contents of the safe.
+#그 도둑들은 소형 금고 안의 물건을 훔쳐갔다.
+
+[912]
+#The prisoners were left to rot in prison.
+#그 죄수들은 여위도록 방임된 채 감옥에 남겨졌다.
+
+[913]
+#The prisoners escaped by digging an underground passage.
+#그 죄수들은 지하갱도를 파고 도망갔다.
+
+[914]
+#The people were full of life and joy.
+#그 사람들은 활력과 기쁨으로 충만했다.
+
+[915]
+#The men are still holding out for more pay.
+#그 사람들은 월급을 올려주지 않으면 안 된다는 입장을 여전히 고수하고 있다.
+
+[916]
+#The men have dug a hole in the road.
+#그 사람들은 길에 글을 하나 팠다.
+
+[917]
+#The mountaintops were bare of any vegetation.
+#그 산정상들은 민둥민둥하니 식물이라고는 아무것도 없다.
+
+[918]
+#The hills swell gradually from the plain.
+#그 산언덕들은 평원으로부터 서서히 융기되었다.
+
+[919]
+#Those facilities are intended to civilize people.
+#그 시책들의 목적은 민중을 교화하는데 있다.
+
+[920]
+#The sounds were still dinning in his ears.
+#그 소리들이 그의 귓가에 여전히 울리고 있다.
+
+[921]
+#The soldiers came swinging along .
+#그 병사들이 어깨를 으쓱거리며 걸어온다.
+
+[922]
+#The soldiers are now stationed in Berlin.
+#그 병사들은 현재 베를린에 주둔하고 있다.
+
+[923]
+#There is a profound monotonousness about those facts.
+#그 사실들은 천편일률적으로 매우 단조롭다.
+
+[924]
+#The facts finally linked up.
+#그 사실들은 결국 서로 연결되었다.
+
+[925]
+#Those are his first impressions of Tokyo.
+#그러한 것들이 그의 동경에 대한 첫인상이다.
+
+[926]
+#Those books belong to my brother.
+#그 서적들은 나의 형의 것에 속하는 것이다.
+
+[927]
+#The seedlings were equally spaced .
+#그 요목들은 일정한 간격으로 심어졌다.
+
+[928]
+#The trees burst into bloom .
+#그 나무들이 돌연 꽃을 피우기 시작했다.
+
+[929]
+#The trees reached their branches toward the sun.
+#그 나무들은 태양을 향해 가지를 뻗치고 있다.
+
+[930]
+#The trees shade the house nicely.
+#그 나무들이 집에 그늘이 지게 했다.
+
+[931]
+#The sailors hove the anchor overboard.
+#그 선원들은 닻을 내렸다.
+
+[932]
+#The explorers sojourned in the town for a while.
+#그 탐험가들은 이 도시에 잠시 머물렀다.
+
+[933]
+#The explorers encountered many hardships.
+#그 탐험가들은 많은 어려움을 만났다.
+
+[934]
+#The conditions were unfavorable,to our plan.
+#그러한 조건들은 우리의 계획에 불리하다.
+
+[935]
+#The clods were reduced to powder.
+#그 흙덩어리들은 찧어 부수어져서 가루가 되었다.
+
+[936]
+#The dumplings lay heavy on his stomach.
+#그 경단들이 그의 배를 거북할 정도로 부르게 했다.
+
+[937]
+#The salesmen canvass,canvased the whole city for subscriptions.
+#그 판매원들은 온 도시를 돌아다니며 고객을 찾는다.
+
+[938]
+#The foreigners were jabbering away.
+#그 외국인들이 웅얼웅얼 이야기를 하고 있다.
+
+[939]
+#The risks differ only in degree.
+#그 위험들은 단지 정도상의 차이가 있을 뿐이다.
+
+[940]
+#Those papers are in safekeeping with him.
+#그 문건들은 그가 안전하게 보관하고 있다.
+
+[941]
+#Those dark clouds look rather menacing.
+#그 먹구름들은 상당히 위협적으로 보인다.
+
+[942]
+#Those black clouds are a sure sign it's going to rain.
+#그 먹구름들은 비가 오려고 한다는 믿을만한 징조이다.
+
+[943]
+#Those black clouds forebode rain.
+#그 먹구름들은 비가 올 전조이다.
+
+[944]
+#Those black clouds betoken rain.
+#그 먹구름들은 곧 비가 올 것이라는 예시이다.
+
+[945]
+#Those flowers were meant for you.
+#그 꽃들은 너에게 주려고 준비한 것이다.
+
+[946]
+#The puppies wiggled with delight.
+#그 강아지들은 즐거워서 몸을 흔들었다.
+
+[947]
+#The children crunched through the snow.
+#그 아이들은 눈을 저벅저벅 밟으며 걷는다.
+
+[948]
+#The children played going to work by car.
+#그 아이들은 차를 타고 출근하는 놀이를 한다.
+
+[949]
+#The children were confided to the care of a neighbor.
+#그 아이들은 이웃 사람에게 맡겨 돌보아졌다.
+
+[950]
+#The jokes made everybody roll about.
+#그 웃기는 이야기는 사람들을 모두 박장대소하게 만들었다.
+
+[951]
+#Those recruits are scarcely drillable.
+#그 신병들은 거의 훈련을 할 수 없다.
+
+[952]
+#I know the new regs by heart.
+#그러한 새로운 규정을 나는 외워낼 수 있다.
+
+[953]
+#Those stars are hardly visible to the naked eye.
+#그러한 별들은 육안으로는 거의 보이지 않는다.
+
+[954]
+#The excited people sobered down.
+#그 흥분한 사람들은 냉정해졌다.
+
+[955]
+#The rocks have been weathered by wind and water.
+#그 암석들은 이미 바람과 물에 풍화되었다.
+
+[956]
+#The immigrants were excluded from entry to the country.
+#그 이민자들은 이 나라에 드나드는 것을 거절당했다.
+
+[957]
+#The keys are in the possession of the caretaker.
+#그 열쇠들은 관리원이 소지하고 있다.
+
+[958]
+#Those clouds have the semblance of a large head.
+#그 구름들의 모양이 마치 거대한 사람 머리 같다.
+
+[959]
+#Those sneakers are really shot.
+#그 운동화들은 정말 심하게 낡았다.
+
+[960]
+#Those monographies are on great educators.
+#그 전공 논문은 위대한 교육가에 관한 것이다.
+
+[961]
+#The brothers were tearing about in the house.
+#그 형제는 집의 여기저기를 제세상인 양 설치고 다닌다.
+
+[962]
+#The fellness of the blow staggered him.
+#그 사나운 일격이 그를 똑바로 서지 못하게 했다.
+
+[963]
+#The student paid close attention to what I told him.
+#그 학생은 내가 그에게 이야기하는 것에 매우 주의를 기울였다.
+
+[964]
+#That color will not show dirt.
+#그 색깔은 더러워졌는지를 잘 구별해내지 못할 것이다.
+
+[965]
+#The lecturer kindled my interest.
+#그 강연자가 나의 흥미를 끌었다.
+
+[966]
+#The actor suddenly dried up.
+#그 배우는 갑자기 대사를 잊어버렸다.
+
+[967]
+#That proverb is apposite to this case.
+#그 속담은 이 상황에 적합하다.
+
+[968]
+#Such cruel treatment was unlooked-for.
+#그러한 잔혹한 대우는 정말 의외였다.
+
+[969]
+#The arrangement was satisfactory to both parties.
+#그러한 안배는 쌍방이 모두 만족스럽게 여겼다.
+
+[970]
+#The production is wholly inadequate to meet the demand.
+#그러한 생산량으로는 수요에 대처하기가 전적으로 부족하다.
+
+[971]
+#It is surprising that a man like that was elected.
+#그러한 사람이 당선된 것은 정말 놀라운 일이다.
+
+[972]
+#Such incidents often presage war.
+#그러한 사건이 종종 전쟁의 전조가 된다.
+
+[973]
+#Such things exist only in fancy.
+#그러한 일은 단지 환상 속에서만 존재한다.
+
+[974]
+#Such conduct will be derogatory to his reputation.
+#그러한 행위는 장차 그의 명예를 손상시킬 것이다.
+
+[975]
+#Such conduct will derogate from your reputation.
+#그러한 행위는 너의 명예에 해가 될 것이다.
+
+[976]
+#That sort of behaviour won't go down at all well with your neighbours.
+#그러한 태도는 너의 이웃이 거들떠 보지도 않는다.
+
+[977]
+#That's right.
+#그거 좋겠다.
+
+[978]
+#That will simplify matters.
+#그러면 일은 단순하게 할 수 있을 것이다.
+
+[979]
+#That's fine.= F.
+#그렇게 하면 되겠다. 아주 좋다.
+
+[980]
+#They recoiled from such radical ideas.
+#그러한 극단적인 생각은 그들로 하여금 두려움이 생기게 했다.
+
+[981]
+#That will save me 5000 dollars.
+#그렇게 하면 나는 5000달러를 절약할 수 있다.
+
+[982]
+#That will give you a plenty of work to do .
+#그렇게 되면 너는 해야 할 일이 많아질 것이다.
+
+[983]
+#It will profit you nothing to do that.
+#그렇게 하면 너에게 아무런 좋은 점도 없을 것이다.
+
+[984]
+#The fortress defied every attack.
+#그 요새는 어떻게 해도 함락시킬 수가 없다.
+
+[985]
+#He ate less than usual at dinner that night.
+#그날 밤 저녁식사 때 그는 평소보다 적게 먹었다.
+
+[986]
+#The night club was raided by the police.
+#그 나이트클럽은 경찰의 조사를 받았다.
+
+[987]
+#The girls in the class outnumber the boys two to one.
+#그 반의 여자아이가 남자보다 배나 많다.
+
+[988]
+#The estate passed toone of his relatives.
+#그 토지는 그의 친척에게 양도되었다.
+
+[989]
+#The car overturned after skidding.
+#그 차는 한쪽으로 미끄러진 후에 전복되었다.
+
+[990]
+#The battle decided the war.
+#그 한차례의 전투가 전쟁을 결정하였다.
+
+[991]
+#The battle proved expensive.
+#그 한차례의 전쟁으로 아주 비싼 대가를 치르었다.
+
+[992]
+#The house sits back from the street.
+#그 집은 결코 길에 접해 있지 않다.
+
+[993]
+#The house sits on a hill.
+#그 집은 작은 산 위에 위치하고 있다.
+
+[994]
+#The defeat signalled the end of the war.
+#그 한차례의 실패가 전쟁의 종결을 명시하고 있다.
+
+[995]
+#The fall stunned him.
+#그는 넘어져서 정신을 잃었다.
+
+[996]
+#That must be apparent to everybody.
+#그것은 분명히 모든 사람이 다 알고 있는 일이다.
+
+[997]
+#The company immediately hived off.
+#그 한 무리의 사람들은 즉시 분산되어 흩어졌다.
+
+[998]
+#The blow knocked the wind out of me.
+#그 한방의 타격에 나는 숨을 쉬지 못할 정도였다.
+
+[999]
+#The store is open save on Sundays.
+#그 상점은 일요일을 제외하고는 계속 영업을 한다.
+
+[1000]
+#The lesson didn't soak in.
+#그 과는 머리 속에 들어오지 않았다.
+
